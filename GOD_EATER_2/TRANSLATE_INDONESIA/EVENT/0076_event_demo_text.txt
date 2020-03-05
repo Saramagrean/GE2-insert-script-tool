@@ -1,0 +1,30 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0007
+===============================================================
+[00000164:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Ciel
+---------------------------------------------------------
+aku berterima kasih padamu, aku merasa kekuatan blood ku 
+terbangun saat pertarungan tadi <@>
+---------------------------------------------------------
+I probably also was able to create a new Blood Bullet.<@>
+---------------------------------------------------------
+And just as we had theorized, it seems that the odds of a 
+mutation occuring are increased in response to your Inducive 
+Wave during battle. <@>
+---------------------------------------------------------
+percobaan nya sukses besar!
+---------------------------------------------------------
+mungkin itu karena aku bersamamu, Ciel?
+---------------------------------------------------------
+Haha, terima kasih ^-^!<@>
+---------------------------------------------------------

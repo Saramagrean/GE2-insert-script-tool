@@ -1,0 +1,62 @@
+NAMA:event_scr_text
+ENCODING:UTF-8
+CRLF:\n
+ID:
+TYPE:
+JUMLAH_STRING:0018
+===============================================================
+[00000208:00000512:00002015:00066133:00000250:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+ Aku ingin tahu apakah sekitar sebulan sejak Rachel pingsan 
+... Ketika aku bangun ... Aku benar-benar bahagia ... 
+...
+---------------------------------------------------------
+Aku mulai berbicara dengannya lebih dari sebelumnya, tetapi 
+tepat pada waktu itu ... Tidak, aku yakin sebelumnya waktu 
+itu aku
+---------------------------------------------------------
+Aku diperintah oleh gadis itu dan terus saja takut .... 
+Untuk kejahatan yang menyebabkan luka ... yg Selalu 
+terhubung, ...
+---------------------------------------------------------
+Rachel, syukurlah!
+---------------------------------------------------------
+.... Selalu kesepian, bukan?
+---------------------------------------------------------
+Tidak, kakak aku akhirnya menyadari
+---------------------------------------------------------
+Aku tidak sendirian,
+---------------------------------------------------------
+Rachel, oh .... Rachel!
+---------------------------------------------------------
+Maaf, bagaimanapun juga, cedera pada bagian tulang belakang 
+tidak akan pernah sembuh ... ...
+---------------------------------------------------------
+Tidak, itu sudah cukup ajaib hanya untuk memulihkan 
+kesadarannya saja, tetapi bahkan lebih banyak keajaiban yg 
+terjadi... ..
+---------------------------------------------------------
+Itu artinya kami berdua bisa melihat di mana mereka membuat 
+kesalahpahaman ... ..
+---------------------------------------------------------
+Rachel, itu ... ... aku ... ...
+---------------------------------------------------------
+Oke, Kakak ... ... aku akan memaafkanmu
+---------------------------------------------------------
+Rachel, Rachel .... Terima kasih Rachel ... ... aku akan 
+memberimu semua barang-barangku!
+---------------------------------------------------------
+Anting batu akik dari ibuku dan kacamata nougat favoritku 
+... ...
+---------------------------------------------------------
+Benar, boneka itu juga yg kupunya seumur hidup! .... aku 
+akan memberikan segalanya Selalu untuk Rachel!
+---------------------------------------------------------
+Terima kasih, Kakak... Janjikan?
+---------------------------------------------------------
+Tolong ... Hari ini sudah berakhir ... ...
+---------------------------------------------------------

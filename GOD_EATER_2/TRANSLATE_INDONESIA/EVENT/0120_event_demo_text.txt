@@ -1,0 +1,68 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0024
+===============================================================
+[00000232:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Gil
+---------------------------------------------------------
+sudahkah kau memutuskan senjata jarak dekat mana yang ingin. 
+kau buat?<@>
+---------------------------------------------------------
+untuk mempersiapkan personal dari iron equipment itu 
+membutuh kan sesuatu yang kusus yang disebut「Induction Wave 
+Recievers」<@>
+---------------------------------------------------------
+jinki ku juga, yampak seperti aku bisa memperkuatnya 
+lagi... jadi, jika kita bergabung dan bekerja sama, apa 
+yang kau pikirkan
+---------------------------------------------------------
+ayo kita buat jinki yang lebih kuat daripada punya kita!
+---------------------------------------------------------
+ayo kita buat jinki yang terbaik!
+---------------------------------------------------------
+kamu membutuhkan material untuk komponennya jadi kau bisa 
+meletakkan apapun, kau lihat
+---------------------------------------------------------
+Blade!
+---------------------------------------------------------
+Charge Spear!
+---------------------------------------------------------
+Boost Hammer!
+---------------------------------------------------------
+Short
+---------------------------------------------------------
+Long
+---------------------------------------------------------
+Buster
+---------------------------------------------------------
+kembali
+---------------------------------------------------------
+OK
+---------------------------------------------------------
+biar aku pikir kembali
+---------------------------------------------------------
+Short Blade huh... apa kau yakin?<@>
+---------------------------------------------------------
+Long Blade huh... apa kau yakin<@>
+---------------------------------------------------------
+Buster Blade huh... apa kau yakin?<@>
+---------------------------------------------------------
+Charge Spear huh... apa kau yakin?<@>
+---------------------------------------------------------
+Boost Hammer huh... apa kau yakin?<@>
+---------------------------------------------------------
+baiklah, ayo kita selesaikan<@>
+---------------------------------------------------------
+Hah... ok, akunjuga tidak akan kalah!<@>
+---------------------------------------------------------
+ok,aku maksud... kali ini akan menjadi jinki terbaik yang 
+pernah diciptakan oleh manusia<@>
+---------------------------------------------------------

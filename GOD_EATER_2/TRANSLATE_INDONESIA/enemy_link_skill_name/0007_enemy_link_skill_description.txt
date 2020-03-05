@@ -1,0 +1,57 @@
+NAMA:enemy_link_skill_description
+ENCODING:UTF-8
+CRLF:
+ID:
+TYPE:
+JUMLAH_STRING:0022
+===============================================================
+[00000224:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Increase Attack
+---------------------------------------------------------
+Harder to reduce the HP of parts
+---------------------------------------------------------
+Easier to gain Hate
+---------------------------------------------------------
+Easier to accumulate hate and time of enragement is extended
+---------------------------------------------------------
+Strengthens vision and hearing
+---------------------------------------------------------
+Cannot be inflicted with status effects (Accumulated amounts will not be added)
+---------------------------------------------------------
+Venom Nullification
+---------------------------------------------------------
+Cannot be inflicted with status effects (Accumulated amounts will not be added)
+---------------------------------------------------------
+Harder to accumulate status effect values
+---------------------------------------------------------
+Harder to accumulate status effect values
+---------------------------------------------------------
+Harder to accumulate status effect values
+---------------------------------------------------------
+Propagation of feelings will not be passed (even when down and enraged)
+---------------------------------------------------------
+Status effects will be applied to the enemy's attacks
+---------------------------------------------------------
+Status effects will be applied to the enemy's attacks
+---------------------------------------------------------
+Status effects will be applied to the enemy's attacks
+---------------------------------------------------------
+Status effects will be applied to the enemy's attacks
+---------------------------------------------------------
+Status effects will be applied to the enemy's attacks
+---------------------------------------------------------
+Status effects will be applied to the enemy's attacks
+---------------------------------------------------------
+Status effects will be applied to the enemy's attacks
+---------------------------------------------------------
+Stun
+---------------------------------------------------------
+Forced Rage Mode
+---------------------------------------------------------
+Player Full Burst
+---------------------------------------------------------

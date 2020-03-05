@@ -1,0 +1,32 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0007
+===============================================================
+[00000164:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Gil
+---------------------------------------------------------
+Yang satu ini... Inducive Wave Reception yang baru dibuat 
+spesial untukmu Ini dia<@>
+---------------------------------------------------------
+Luar biasa!
+---------------------------------------------------------
+Sebuah kebanggaan bagiku!
+---------------------------------------------------------
+Baiklah, Jangan cemaa Kami juga membuat penambahan pada God 
+Arc-mu, sekarang cobalah dan lihat bagaimana performanya 
+<@>
+---------------------------------------------------------
+Ini bukanlah masalah besar...<bl>Kau mau menguasainya 
+atau tidak, itu terserah dirimu<@>
+---------------------------------------------------------
+Ah, sebuah kebanggaan juga bagiku... Tetapi kau mau 
+menguasainya atau tidak itu terserah dirimu<@>
+---------------------------------------------------------

@@ -1,0 +1,79 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0026
+===============================================================
+[00000240:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Leah
+---------------------------------------------------------
+Terimakasih...untuk datang kembali lagi...<@>
+---------------------------------------------------------
+Aku hanya melamun di kamarku sendirian...Aku sangat merasa cemas...<@>
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+Professor...<@>
+---------------------------------------------------------
+Menenangkan dia
+---------------------------------------------------------
+Menghibur dia
+---------------------------------------------------------
+...Selalu terbayang di pikiranku bagaimana semuanya mulai terasa mencurigakan, semenjak percobaan  
+operasi tanpa awak<@>
+---------------------------------------------------------
+Tanya tentang percobaan "Unmanned DEMAS" 
+---------------------------------------------------------
+Tanya tentang apa yang terjadi dengan Sistem Tanpa Awak
+---------------------------------------------------------
+Lanjutkan
+---------------------------------------------------------
+Aku seharusnya sudah menyadarinya... Lebih awal...<@>
+---------------------------------------------------------
+Apa maksudmu mereka memiliki tujuan yang berbeda...?<@>
+---------------------------------------------------------
+Sebuah tujuan... Benar, tepat sekali, mereka telah mencapai tujuan mereka...<@>
+---------------------------------------------------------
+Aku sudah berada di sisi kegelapan sekian lama ini...<@>
+---------------------------------------------------------
+Setiap harinya aku hidup... dengan pekerjaanku, penelitianku, penderitaanku, 
+kebahagianku... semuanya demi Rachel<@>
+---------------------------------------------------------
+Bagaimanapun, untuk anak itu hal ini adalah sesuatu yang berharga  tapi 
+oleh ulah seseorang semuanya menjadi bukan apa-apa...<@>
+---------------------------------------------------------
+Oh ya.... anak itu, ekspresi apa yang akan ia berikan.....ah 
+kadang-kadang ia akan bertingkah seperti tidak tahu apa-apa, seperti kabut hitam
+baru saja menerpa dirinya.....<@>
+---------------------------------------------------------
+Aku baik-baik saja... Aku merasa tenang, melihat kalian 
+berada di sampingku...<@>
+---------------------------------------------------------
+Terimakasih... Aku merasa tenang, melihat kalian 
+berada di sampingku...<@>
+---------------------------------------------------------
+Rachel tidak memiliku dukungan dari organisasi malah sebaliknya...<@>
+---------------------------------------------------------
+Untuk beberapa alasan sistem tanpa awak mengontrol propulsi 
+sebelumnya..... Dr.Kushou menggunakan 
+control unit yang belum rampung<@>
+---------------------------------------------------------
+Dan, semua pengmbang DEMAS selain Raquel, termasuk 
+Dr.Kujo dan diriku, disingkirkan.
+---------------------------------------------------------
+.....Projek Sistem Tanpa Awak sudah sepenuhnya 
+diberhentikan.<@>
+---------------------------------------------------------
+Tidak apa-apa...tinggal masalah waktu hingga Julius menjadi 
+komandan Demas Demas akan menjadi dikendalikan secara terpadu, aku 
+juga mengganti pengembangannya....<@>
+---------------------------------------------------------
+DEMAS berpikir dengann akalnya sendiri, ... Julius membuat mereka bertarung 
+dengan diri mereka sendiri, sehingga Julius bisa menguasai mereka <@>
+---------------------------------------------------------

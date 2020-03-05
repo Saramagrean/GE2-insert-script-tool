@@ -1,0 +1,64 @@
+NAMA:event_scr_text
+ENCODING:UTF-8
+CRLF:\n
+ID:
+TYPE:
+JUMLAH_STRING:0021
+===============================================================
+[00000220:00000512:00002015:00066133:00000250:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+ Blood, yang sudah menghancurkan God Militer segera kembali 
+ke kamp
+---------------------------------------------------------
+Apakah semua orang telah kembali? Yah, akhirnya aku akan 
+kembali! Yuno aku akan kembali!
+---------------------------------------------------------
+Tunggu, Satsuki! Masih ada satu orang lagi!
+---------------------------------------------------------
+...Asuna ?
+---------------------------------------------------------
+Yuno! Di belakangmu! !
+---------------------------------------------------------
+huh...!
+---------------------------------------------------------
+God machine soldier ... ...
+---------------------------------------------------------
+Nona Yuno? Apakah ada God machine soldier di sana! 
+katakanlah? Nona Yuno!
+---------------------------------------------------------
+Aku ... aku baik-baik saja, aku akan melindungi gadis ini 
+....!
+---------------------------------------------------------
+Oooh!
+---------------------------------------------------------
+Yuno, apakah kau baik-baik saja?
+---------------------------------------------------------
+Aku baik-baik saja ... ... aku harus segera membawa Asuna 
+pergi dari sini...
+---------------------------------------------------------
+Aku mengerti, aku akan segera menghubungi seseorang!
+---------------------------------------------------------
+Tidak!
+---------------------------------------------------------
+Yuno?
+---------------------------------------------------------
+Aku... ... Aku mungkin telah terinfeksi black plague jadi 
+...
+---------------------------------------------------------
+Yuno ...! Ada apa?
+---------------------------------------------------------
+.... Konfirmasi, apakah kau terinfeksi memerlukan 
+pemeriksaan Sekarang juga .... Mari kita kembali
+---------------------------------------------------------
+Yah, semuanya Blood unit... ... Terima kasih banyak
+---------------------------------------------------------
+Terima kasih kepada semua orang, yang telah membantuku... 
+...
+---------------------------------------------------------
+Yuno? ... ... Yuno? Semuanya, tolong bawa Yuno segera 
+mungkin!
+---------------------------------------------------------

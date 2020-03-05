@@ -1,0 +1,51 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0018
+===============================================================
+[00000208:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Haruomi
+---------------------------------------------------------
+Yo, aku membuat mu menunggukamu masih ingat kan janjinya?
+---------------------------------------------------------
+Aki bisa menyiapkan yang satu ini.Apa hatimu sudah siap untuk ini?
+---------------------------------------------------------
+Hey, ekspresi macam apa itu, aku tidak akan mengatakan hal penting dalam lelucon
+---------------------------------------------------------
+Tentu saja aku tidak akan mengatakan hal penting dalam lelucon
+---------------------------------------------------------
+Eee, tidak mungkin......
+---------------------------------------------------------
+Cerita itu, beneran terjadi
+---------------------------------------------------------
+......Apa kamu salah paham? taktik Nihai senjutsu biasa digunakan oleh cabang dari Singapura
+(napa nggk indo njay :v)
+---------------------------------------------------------
+Akan ku ulangi lagiApa hatimu sudah siap untuk itu?
+---------------------------------------------------------
+Oke, kita pergi
+---------------------------------------------------------
+yah, tidak apa-apa lah ...... Jika hatimu sudah siap, katakan padakuAku akan menunggu.
+---------------------------------------------------------
+Salin itu!
+---------------------------------------------------------
+Sekarang sedikit ......
+---------------------------------------------------------
+Sangat buruk membuat carry menunggu terlalu lama, Kalau saja kamu sudah mempersiapkan ini, bisakah kamu 
+datang ke sini?
+---------------------------------------------------------
+Carriy sedang menunggu ... Ayo kita pergi
+---------------------------------------------------------
+Jika kamu punya waktu luang, maukah kamu memberi tahuku?Aku punya sedikit cerita denganmu
+---------------------------------------------------------
+Baiklah, ayo pergi!
+---------------------------------------------------------
+Ups, silakan jika kamu sudah siap atau belum siap, silakan hubungi aku
+---------------------------------------------------------

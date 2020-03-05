@@ -1,0 +1,105 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0036
+===============================================================
+[00000280:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Julius
+---------------------------------------------------------
+Blood Captain, Julius Visconti dan semua member blood,
+present<@>
+---------------------------------------------------------
+Sakaki
+---------------------------------------------------------
+selamat datang di Far East Branch!<@>
+---------------------------------------------------------
+aku adalah Branch Director disini namaku Paylor Sakaki<@>
+---------------------------------------------------------
+aku dengar kau sudah banyak membantu Emil aku ingin kalian melihat semua orang disini jika itu mungkin<@>
+---------------------------------------------------------
+Romeo
+---------------------------------------------------------
+yang anda maksud waktu itu bukan, saat melawan marduk!
+yang dibuat takluk oleh marduk waktu itu adalah orang ini bukan!<@>
+---------------------------------------------------------
+jadi itu kau ,! terimakasih, aku sangat menghargai kerja kerasmu waktu itu<@>
+---------------------------------------------------------
+biar aku liat, sebenarnya kami ingin sekali memberi kalianmisi sekarang juga ,
+tapi... pertama, apa kami boleh memberitahu situasi yang dialami Far East Branch sekarang?<@>
+---------------------------------------------------------
+saat ini, Far East Branch sedang mengalami masalah serius
+<@>
+---------------------------------------------------------
+salah satunya adalah [Black Plague]... Ini adalah penyakit yang masih tidak diketahui tapi penyebannya
+utamanya sudah diketahui yaitu berkontak langsuung dengan "Red Rain"<@>
+---------------------------------------------------------
+dan yang kedua adalah...<@>
+---------------------------------------------------------
+[psion type]<@>
+---------------------------------------------------------
+benar, itu adalah spesies aragami terbaru, yang bisa disebut spesies yang bisa menggunakan kekuatan
+tertentu ... kalian para [Blood]susah pernah melawan mereka bukan?<@>
+---------------------------------------------------------
+seperti yang kita ketahui, psion species mempunyai kemampuan yang unik untuk menggunakan [Bias Sphere]
+yang bisa memanggil aragami lain disekitarnya<@>
+---------------------------------------------------------
+jinki juga terbuat dari oracle cell pada dasarnya mereka juga aragami dan mereka akan berhenti bekerja
+saat dibawah pengaruh dari psion spesies ...<@>
+---------------------------------------------------------
+kalian para pasukan[Blood] bisa menahan pengaruh dari efek para psion itu<@>
+---------------------------------------------------------
+...itu sangat luar biasa, dan meyakinkan sekali<@>
+---------------------------------------------------------
+nah sekaeang...sekarang aku ingin meminta bantuan kalian
+untuk membantu mencari tau cara mengakhiri"Red Rain" dan
+"black plague", itu ...apa yang kamu pikirkan?<@>
+---------------------------------------------------------
+Ah, dimengerti kami akan melakukan yang terbaik<@>
+---------------------------------------------------------
+terima kasih, kami akan membantumu dengan kemampuan terbaik
+kami.senang bisa membantu kalian. dan anggaplah tempat ini
+seperti rumah kalian sendiri<@>
+---------------------------------------------------------
+...baik sekarang, sepertinya pembicaraan panjang kita sudah
+selesai<@>
+---------------------------------------------------------
+Kouta
+---------------------------------------------------------
+Doc!aku baru saja bilang kepada mereka tentang jadwal pesta
+penyambutan ...<@>
+---------------------------------------------------------
+Oh, mungkinkah para, mereka para blood?<@>
+---------------------------------------------------------
+terima kasih, Kota itu benar, merkalah para Blood<@>
+---------------------------------------------------------
+aku Fujiki Kota, Far East Branch 1st Unit Captain senang
+bisa berkerja sama dengan kalian ,mulai sekarag<@>
+---------------------------------------------------------
+Aku Blood Captain, Julius Visconti itu akan menjadi sebuah
+kehormatan bagikami bisa bekerja sama dengan mu<@>
+---------------------------------------------------------
+Ah, kami masih sibuk menyiapkan pesta kedatangan sekarang
+jadi jangan diganggu ,untuk sekarang cobalah untuk melihat
+lihat srkitar Far East Branch!<@>
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Hey hey, Kota!apakah pesta penyambutan itu dibuat untuk
+kami? akankah ada beberapa acara makan makan?!<@>
+---------------------------------------------------------
+Nana, jangan tiba tiba seperti itu! itu kasar kau tau!<@>
+---------------------------------------------------------
+Oh, tidah apa apa terus lah berharap,apa kau tau makanan
+dari Far East Branch itu semuanya sangatlah lezatEh, benarkah?!<@>
+---------------------------------------------------------
+Eh, benarkah?!<@>
+---------------------------------------------------------
+tentu saja!<@>
+---------------------------------------------------------

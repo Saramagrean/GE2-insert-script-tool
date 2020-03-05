@@ -1,0 +1,102 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0034
+===============================================================
+[00000272:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Ciel
+---------------------------------------------------------
+...Wakil Kapten Maafkan saya karena memanggil Anda keluar
+selama waktu yang sangat sibuk<@>
+---------------------------------------------------------
+Namun, ada sesuatu yang benar-benar ingin saya katakan
+---------------------------------------------------------
+Sebenarnya, Blood sebagai unit memiliki fleksibilitas dan
+pertempuran yang tinggi kecakapan yang melampaui harapan
+saya<@>
+---------------------------------------------------------
+Yang lebih mengejutkan adalah bagaimana Anda pasti berhutang
+padanya baik penilaian taktis maupun jaringan yang
+sistematis<@>
+---------------------------------------------------------
+Blood sebagai tim telah melampaui pemahaman saya dan
+berfungsi dengan cara yang sangat terkoordinasi, yang saya
+berani katakan...<@>
+---------------------------------------------------------
+Wakil Kapten ... Saya yakin Anda yang membawa semua orang
+bersama<@>
+---------------------------------------------------------
+Itu membuatku bingung ... Sejujurnya, rasanya seperti itu
+semua yang dibangun sejauh ini telah ditolak<@>
+---------------------------------------------------------
+Ah, tolong jangan salah paham! Saya tidak bermaksud itu
+sesuatu yang buruk ... Sebaliknya ... Bagaimana
+seharusnya saya menempatkan itu...<@>
+---------------------------------------------------------
+Uuh, bagaimana aku harus menjelaskannya ... Mmm ...
+Tolong tunggu sebentar...<@>
+---------------------------------------------------------
+Ini permintaan ... dari lubuk hatiku<@>
+---------------------------------------------------------
+Tolong jadi teman saya!<@>
+---------------------------------------------------------
+... Um, jawaban anda?<@>
+---------------------------------------------------------
+Umm...
+---------------------------------------------------------
+Mari berteman!
+---------------------------------------------------------
+Terima kasih banyak...<@>
+---------------------------------------------------------
+Itu selalu menjadi inspirasiku ... Untuk memiliki rekan
+... Dan tahu cara percaya...<@>
+---------------------------------------------------------
+Bukan hanya pesanan ... Hubungan di mana Anda mengambil
+semua orang mempertimbangkan...<@>
+---------------------------------------------------------
+Ah...<@>
+---------------------------------------------------------
+Saya punya satu lagi ... permintaan tidak adil
+sekalipun...<@>
+---------------------------------------------------------
+Ketika saya berbicara dengan Anda ... apakah Anda
+keberatan jika saya menjatuhkan formalitas?<@>
+---------------------------------------------------------
+...Hm?
+---------------------------------------------------------
+...Tidak masalah!
+---------------------------------------------------------
+Terimakasih...<@>
+---------------------------------------------------------
+Anda adalah ... teman saya yang pertama ...<@>
+---------------------------------------------------------
+Terima kasih banyak...<@>
+---------------------------------------------------------
+Saya merasa sedikit lebih percaya diri ... bahwa saya
+akan akur dengan semua orang<@>
+---------------------------------------------------------
+Anda Benar...<@>
+---------------------------------------------------------
+Saya minta maaf, karena saya tidak pernah tahu apa-apa
+selain pelatihan jadi saya hampir tidak terbiasa dengan hal
+semacam ini...<@>
+---------------------------------------------------------
+...Mari menjadi teman
+---------------------------------------------------------
+Oke, mari kita berteman!
+---------------------------------------------------------
+Apakah, maksud Anda itu...?<@>
+---------------------------------------------------------
+Ah, permintaan maaf saya ... Menjatuhkan formalitas semua
+tiba-tiba ... harus terlalu cepat, tidak peduli bagaimana
+kamu melihat dalam hal itu...<@>
+---------------------------------------------------------
+Cukup, jatuhkan saja!
+---------------------------------------------------------

@@ -1,0 +1,51 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0016
+===============================================================
+[00000200:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Soma
+---------------------------------------------------------
+Kau... Apa kau mempunyai rencana untuk Aegis?<@>
+---------------------------------------------------------
+Aku tidak tahu
+---------------------------------------------------------
+Sudah kuduga
+---------------------------------------------------------
+...Untuk ayahku yang mengorbankan orang lain demi proyek itu  agar dapat diselesaikan dalam waktu lama... 
+Aku tidak setuju dengannya<@>
+---------------------------------------------------------
+Tapi kemudian ... semakin aku mempelajari karya ayahku, semakin banyak
+aku mulai mengerti ... Aku menyadari betapa hebatnya
+ayah saya...<@>
+---------------------------------------------------------
+Selama aku meneliti, Aku hampir selalu melihat nama ayahku terutama ketika itu menyangkut teknik
+konstruksi bahan baku, hampir semuanya ... memiliki jejak dari ayahku<@>
+---------------------------------------------------------
+Tapi ... saat itu, aku ... <@>
+---------------------------------------------------------
+Ah, maaf ... Aku lupa Lindow memanggilku<@>
+---------------------------------------------------------
+Aku akan datang lagi
+---------------------------------------------------------
+Aku tidak keberatan
+---------------------------------------------------------
+Selamat Tinggal <@>
+---------------------------------------------------------
+Ayahku.....
+Mantan direktur cabang Dr. Johannes von Schicksals telah memajukan proyek itu di masa lalu<@>
+---------------------------------------------------------
+kau telah melakukan risetmu dengan baik...orang yang telah memajukan Proyek itu sebagai mantan direktur
+Far East branch director dan juga sebagai ilmuwan, adalah Ayahku...<@>
+---------------------------------------------------------
+Ah, mari tinggalkan sisanya untuk di lain waktu<@>
+---------------------------------------------------------
+Ah, datang lagi nanti Kami akan melanjutkan pembicaraan ini<@>
+---------------------------------------------------------

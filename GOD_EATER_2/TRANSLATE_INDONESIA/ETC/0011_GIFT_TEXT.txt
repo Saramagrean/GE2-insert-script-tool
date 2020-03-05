@@ -1,0 +1,120 @@
+NAMA:GIFT_TEXT
+ENCODING:UTF-16LE
+CRLF:\n
+ID:jajp
+TYPE:yobi
+JUMLAH_STRING:0033
+===============================================================
+[00000524:00000056:00001999:00065910:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+[0010]
+Card Exchange
+---------------------------------------------------------
+[0020]
+Avatar material collection
+---------------------------------------------------------
+[0100]
+New God Arc registered.
+---------------------------------------------------------
+[0110]
+God Arc information was updated.
+---------------------------------------------------------
+[0200]
+ｱ ｲ
+---------------------------------------------------------
+[0300]
+POWER/HOLD switch has been set to HOLD.
+---------------------------------------------------------
+[0400]
+Next it will go to the sleep mode
+---------------------------------------------------------
+[0410]
+Next it will be sent to storage
+---------------------------------------------------------
+[0500]
+Searching for connection partner
+---------------------------------------------------------
+[0501]
+Suspending connection.
+---------------------------------------------------------
+[0502]
+The connection was suspended.
+---------------------------------------------------------
+[0503]
+Failed to establish a network connection.
+---------------------------------------------------------
+[0504]
+Search has been In
+---------------------------------------------------------
+[0505]
+An error has occurred(ｱ)
+---------------------------------------------------------
+[0506]
+The WLAN/WIRELESS switch has bee set to OFF
+---------------------------------------------------------
+[0511]
+Suspending connection
+---------------------------------------------------------
+[0512]
+Communication has been discontinued.
+---------------------------------------------------------
+[0600]
+Waiting for a connection with a partner (a person)
+---------------------------------------------------------
+[0601]
+Connection with partner has been made
+---------------------------------------------------------
+[0602]
+Exchanging Cards
+---------------------------------------------------------
+[0603]
+Cards have been exchanged.
+---------------------------------------------------------
+[0604]
+Exchange of cards failed.
+---------------------------------------------------------
+[0605]
+Card exchange has failed
+---------------------------------------------------------
+[0606]
+Unable to connect with partner
+---------------------------------------------------------
+[0607]
+Effective communications partner does not exist.
+---------------------------------------------------------
+[0608]
+It was received a same card
+---------------------------------------------------------
+[0609]
+The card cannot be registered.
+---------------------------------------------------------
+[0610]
+Damaged card cannot be registered.
+---------------------------------------------------------
+[0611]
+Network error has occurred(ｱ)
+---------------------------------------------------------
+[1000]
+Sleep Card Exchange
+(Channel Setting: ｱ)
+
+Start Ad-Hoc Mode with ○ button
+Screen will black out to begin
+Please set the POWER/HOLD switch to HOLD
+---------------------------------------------------------
+[10000]
+Card obtained frame is not enough
+To the ongoing card exchange, the cards list needs three free slots
+---------------------------------------------------------
+[10100]
+Network Error
+WLAN/WIRELESS Switch is turned OFF
+---------------------------------------------------------
+[20000]
+Sell item.
+The total will become ｱ. Are you sure?"
+---------------------------------------------------------

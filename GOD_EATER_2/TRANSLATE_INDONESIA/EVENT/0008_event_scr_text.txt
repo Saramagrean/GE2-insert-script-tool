@@ -1,0 +1,104 @@
+NAMA:event_scr_text
+ENCODING:UTF-8
+CRLF:\n
+ID:
+TYPE:
+JUMLAH_STRING:0035
+===============================================================
+[00000276:00000512:00002015:00066133:00000250:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Kedua orang ini tidak mirip apa
+benar mereka itu saudara.....?
+---------------------------------------------------------
+Apakah Kamu bisa mendapatkan Toshiya hanya karena
+Kamu bisa melakukan secara bersama-sama!
+Apa yang harus dilakukan dengan pesaing abadi itu!
+---------------------------------------------------------
+..... Oops, Aku harus mencoba cerita ini nanti
+---------------------------------------------------------
+Eho, Eho .....
+---------------------------------------------------------
+Kami menghargai usahamu, Direktur Grem
+---------------------------------------------------------
+Maaf aku membuatmu sibuk akhir akhir ini
+---------------------------------------------------------
+Salam yang bagus, Lalu jelaskan alasan mengapa Anda harus
+mengarahkan penerbangan itu ke wilayah terdepan di garis depan?
+---------------------------------------------------------
+Ini adalah nasihat khusus untuk Fenrir dan Direktur Grem,
+yang mengawasi Friar ini
+---------------------------------------------------------
+Seperti biasa aku tidak mendengar pembicaraan ini....
+untuk menghormati kakakmu
+---------------------------------------------------------
+Fuh, Maaf tapi rachel tidak suka kasar 
+---------------------------------------------------------
+Aku ingin mendapatkan hasil aktual dari Blood
+dan God Machine di cabang Far East
+---------------------------------------------------------
+Jika terbukti, Aragami di sekitar sini akan cukup Bahkan
+Kamu tidak perlu pergi ke tempat seperti
+Kebun Binatang Aragami
+---------------------------------------------------------
+Jika tujuan kita untuk menstabilkan operasi khusus tentara
+God Machine, markas tidak akan setuju tanpa
+data Aragami yang lebih banyak
+---------------------------------------------------------
+Hmm ..... Tapi....
+---------------------------------------------------------
+Di cabang Far East ada Yuno Asihara,
+Bantuannya untuk bernyanyi tidak akan menjadi
+investasi yang sia sia
+---------------------------------------------------------
+Tentu saja ... Rachel, Baik antara tentara
+God Machine maupun Blood apakah akan menyakitimu?
+---------------------------------------------------------
+Yah.... Aku tidak akan menghianati suatu kepercayaan....
+---------------------------------------------------------
+Hmmm
+---------------------------------------------------------
+Baiklah, Aku mengerti!
+Tolong kirim surat persetujuan nanti dan
+tinggalkan untuk Leah lalu kamu dapat turun
+---------------------------------------------------------
+Baik ... ...
+---------------------------------------------------------
+Hey, kamu juga bisa turun
+---------------------------------------------------------
+Oh, Soal operasi God machine tanpa pilot....
+---------------------------------------------------------
+Kita lanjutkan setelah itu! Oke!
+---------------------------------------------------------
+Terima kasih, tapi .....
+Tolong jangan kasar terhadap adik perempuanku....
+---------------------------------------------------------
+Hmm.... Itu hanya keegoisan kekasihku,
+meskipun Aku juga frustasi
+---------------------------------------------------------
+Aku tidak keberatan, tapi ......
+---------------------------------------------------------
+Dan juga, apakah ada sesuatu yang tidak nyaman ...?
+---------------------------------------------------------
+Oh, ah
+---------------------------------------------------------
+
+---------------------------------------------------------
+Tentang otot-otot buatan tentara God Machine,
+Ujung tombak mulai memasuki markas
+---------------------------------------------------------
+Apakah kau masih terjebak dengan pesanan?
+---------------------------------------------------------
+... ... Bagaimana dengan menghasilkan uang banyak?
+---------------------------------------------------------
+Hu ... ... apa yang harus kukatan,
+Jika kau berinvestasi besar, maka pastikan kau mengambilnya....
+---------------------------------------------------------
+Rupanya, aku butuh sedikit lagi.....
+pertemuan yang akan mendatang ...
+---------------------------------------------------------
+Aku setuju ... ...
+---------------------------------------------------------

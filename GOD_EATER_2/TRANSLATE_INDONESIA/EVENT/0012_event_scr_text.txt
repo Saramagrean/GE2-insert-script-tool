@@ -1,0 +1,85 @@
+NAMA:event_scr_text
+ENCODING:UTF-8
+CRLF:\n
+ID:
+TYPE:
+JUMLAH_STRING:0029
+===============================================================
+[00000252:00000512:00002015:00066133:00000250:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Nah, ada banyak hal yang indah di Far Eastern Branches!
+Aku akan bahagia 
+---------------------------------------------------------
+Tapi, bagaimana dengan fasilitasnya?
+aku merasa seperti didepan dalam segala hal. 
+---------------------------------------------------------
+Aki ingin tahu apa aku akan tinggal di kasur
+bagian bawah Friar
+---------------------------------------------------------
+Frei mempunyai hobi yang mulia yang juga
+dikatakan Huu seperti ini 
+---------------------------------------------------------
+Huh? itu sedikit mengecewakan, benarkan? 
+---------------------------------------------------------
+Jika kondisi disini normal, seperti apa dunia di luar?
+Apakah normal untuk orang-orang yang takut akan Aragami? 
+---------------------------------------------------------
+Siapa kamu, 
+---------------------------------------------------------
+Takamine Satsuki adalah seorang jurnalis 
+---------------------------------------------------------
+Hmmm..... apa kamu dibantu dari markas besar? 
+---------------------------------------------------------
+Jika kamu merasa tidak enak, minta maaflah,
+tetapi jurnalis buruk dalam berloma 
+---------------------------------------------------------
+Romeo, sisanya aku bertanya kepadamu 
+---------------------------------------------------------
+Er... hei,hei! 
+---------------------------------------------------------
+..... Maaf 
+---------------------------------------------------------
+Oh, jujur juga kamu 
+---------------------------------------------------------
+Wow! Ahhh....
+---------------------------------------------------------
+Oh, Satsuki? Apa kamu tidak akan maju? 
+---------------------------------------------------------
+Oh, kamu yakin.....
+walaupun kamu terganggu oleh Frei..... 
+---------------------------------------------------------
+Halo senang bertemu denganmu! o aku, aku katakan Romeo!
+itu Yuno! yah saya penggemar berat..... 
+---------------------------------------------------------
+Ok, tolong adakan negosiasi dengan benar setelah
+melewati manager 
+---------------------------------------------------------
+Yuno, apa kamu saling kenal? 
+---------------------------------------------------------
+Tidal, ketika aku berpapasan dengan frei,
+aku ingin tahu apakah usia kita sama.... 
+---------------------------------------------------------
+Ah, senang bertemu denganmu, Reimu Yuno 
+---------------------------------------------------------
+Ya, saya percaya! aku suka lagu lagumu itu.... 
+---------------------------------------------------------
+Ya benar! ini segera hadir 
+---------------------------------------------------------
+ini adalah cara bagaimana aku berbicara dengan orang dengan
+usia yang sama... sudah lama sejak terakhir kali 
+---------------------------------------------------------
+Yah, sejak aku sudah berbincang dengan wanita
+yang satu dengan wanita lain 
+---------------------------------------------------------
+Oh, Juno sedang menunggu Kouta, lagipula aku
+akan menghubungimu nanti 
+---------------------------------------------------------
+Jika kamu tidak keberatan, silahkan berbincang dengan Yuno,
+karena ada beberapa teman yang seumuran..... 
+---------------------------------------------------------
+Selain itu, tolong jauhkan anak itu dari Romeo 
+---------------------------------------------------------

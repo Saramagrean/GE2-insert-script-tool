@@ -1,0 +1,150 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0046
+===============================================================
+[00000320:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Soma
+---------------------------------------------------------
+Apa? Graem?<@>
+---------------------------------------------------------
+Aku tidak tau siapa dirimu, tapi tunggulah hingga waktu 
+tidur tiba untukmu mengigau dengan baik hal ini dimaksudkan 
+oleh Fenrir HQ...<@>
+---------------------------------------------------------
+Kita tidak memiliki kemewahan seperti itu di lapangan jika 
+kau ingin tau lakukan penelitian sendiri<@>
+---------------------------------------------------------
+Oh... disini kau<@>
+---------------------------------------------------------
+Maaf aku membuatmu mendengarkan suatu hal yang memalukan ini 
+bentuk permintaan maafku<@>
+---------------------------------------------------------
+Ini adalah prototype lanjutan yang terbuat dari sel kyuubi 
+Pergilah dan gunakan itu<@>
+---------------------------------------------------------
+Penelitian apa yang sedang kau lakukan? 
+---------------------------------------------------------
+Ada kemajuan tentang penelitiannya?
+---------------------------------------------------------
+Di Far East Branch, Kami memiliki banyak peneltian untuk 
+menghadapi ancaman Aragami<@>
+---------------------------------------------------------
+Saat yang tepat sekali... Jika kau ingin tahu sesuatu, aku 
+akan memberitahukanmu<@>
+---------------------------------------------------------
+Tentang penelitian Dr. Sakaki
+---------------------------------------------------------
+Tentang penelitian Soma
+---------------------------------------------------------
+Tidak ada yang khusus
+---------------------------------------------------------
+Ok aku mengerti... yah, Serahkan saja padaku <@>
+---------------------------------------------------------
+Sudah saatnya untuk memberikan kepala cabang untuk Sakaki 
+agar menjaganya
+---------------------------------------------------------
+...Sekarang kau telah menyebutkannya, Aku belum mengisimu 
+sama sekali<@>
+---------------------------------------------------------
+...Sekarang kau telah menyebutkannya, Aku belum mengisimu 
+sama sekali<@>
+---------------------------------------------------------
+Misi : Aragami yang rakus
+---------------------------------------------------------
+Domestikasi Aragami
+---------------------------------------------------------
+Pendekatan diplomatik dengan Aragami
+---------------------------------------------------------
+Pertanyaan untuk hal yang lain
+---------------------------------------------------------
+Penelitian ini dilakukan untuk memuaskan hasrat lapar 
+aragami dengan menggunakan Oracle Cells<@>
+---------------------------------------------------------
+Manusia juga membutuhkan makanan saat mereka lapar... 
+Begitu juga dengan aragami dengan insting memakan 
+semuanya<@>
+---------------------------------------------------------
+Singkatnya, jika ada sesuatu yang dapat mengisi perut 
+mereka, maka mereka akan kehilangan nafsu untuk memakan 
+kita... Sederhana, tapi layak untuk dicoba <@>
+---------------------------------------------------------
+Ada hal lain yang ingin kau tanyakan?<@>
+---------------------------------------------------------
+Ini adalah pendekatan yang mengatur makanan aragami 
+disamping memanfaatkannya sebagai dinding beerlapis baja dan 
+mengaturnya di satu tempat<@>
+---------------------------------------------------------
+Jika ini berhasil, Kita akan mendapatkan bahan yang 
+dibutuhkan untuk penelitian dan pengembangan God Arc<@>
+---------------------------------------------------------
+Hanya untuk menangkap Aragami ... dengan penciptaan 
+aragami serta pengembang biakan aragami menjadi 
+mungkin<@>
+---------------------------------------------------------
+God Arc users possess the 'Divine Response Phenomenon' and 
+by using this against the Aragami, we can actively research 
+to plan for encounters with them.<@>
+---------------------------------------------------------
+Oh, ini adalah cerita dari grup blood, dengan paduan suaramu 
+<@>
+---------------------------------------------------------
+Yah, masa depan dimana Manusia dan Aragami dapat berbicara 
+dan berinteraksi bersama... Dunia seperti itulah, yang 
+akan datang secara tiba tiba<@>
+---------------------------------------------------------
+Seseorang dari Project Aegis
+---------------------------------------------------------
+Dinding berlapis baja yang terbuat dari Aragami
+---------------------------------------------------------
+Sel Oracle yang bertanggung jawab untuk Aksi diluar
+---------------------------------------------------------
+Untuk darah murni Aragami... Kita sedang berbicara tentang 
+Kyuubi yang saat itu ditunjukan padamu secara simpel, Tapi 
+bagaimanapun juga...<@>
+---------------------------------------------------------
+Aku memakai Sel Oracle Kyuubi itu... Itu memiliki potensi 
+penyebaran langsung, aku membuat tempat berlindung yang 
+membawa kekuatan seperti itu<@>
+---------------------------------------------------------
+Meskipun manusia tidak mempunyai kekuatan untuk melawan 
+Aragami, dapat belajar setidaknya dapat melindungi diri 
+mereka dari Aragami...<@>
+---------------------------------------------------------
+Seperti lokasi Satelit, Kemenangan yang besar itu akan sulit 
+kita akan membutuhkan banyak kekuatan, Tembok baja itu akan 
+memakan waktu 3 hari untuk selesai dengan otomatis<@>
+---------------------------------------------------------
+itu... Jika dapat tumbuh seperti tanaman 「Tembok Aragami 
+yang Tumbuh」 maka penelitian dapat dilanjutkan...<@>
+---------------------------------------------------------
+Konstruksi base satelit, meski dalam skala kecil, masih akan 
+membutuhkan waktu sekitar 6 bulan... Jika terdapat jalan 
+lain...<@>
+---------------------------------------------------------
+Kita akan dapat mengendalikan kematian manusia jika dapat 
+menggunakannya dengan cara apapun<@>
+---------------------------------------------------------
+Sel Oracle... menggunakan sel oracle Retro Lebih tepatnya, 
+"Mutasi" adalah salah satu bahan yang dapat digunakan dalam 
+penelitian<@>
+---------------------------------------------------------
+Sebagai contoh, dengan menggunakan tameng jinki kau dapat 
+menahan semua serangan dari musuh yang sedang kau pelajari 
+menjadi tidak berguna.<@>
+---------------------------------------------------------
+Jika digunakan sebagai bahan baku untuk struktur, bahkan di 
+lingkungan keras seperti ruang hampa, itu dapat menjadi 
+bahan pertahanan yang dapat beradaptasi sesuai 
+keadaan.<@>
+---------------------------------------------------------
+Akan menjadi jalan yang panjang sampai mereka bisa 
+digunakan... Tapi aku akan berusaha mewujudkannya<@>
+---------------------------------------------------------

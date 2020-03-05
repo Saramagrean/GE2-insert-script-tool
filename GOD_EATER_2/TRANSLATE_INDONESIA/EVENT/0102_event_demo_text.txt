@@ -1,0 +1,75 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0024
+===============================================================
+[00000232:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Emil
+---------------------------------------------------------
+Ada satu hal yang terlintas di pikiranku<@>
+---------------------------------------------------------
+Sejauh ini Aku mendedikasikan jiwa dan ragaku sebagai 
+rivalmu<@>
+---------------------------------------------------------
+Tetapi kemudian apa yang harus kulakukan Kita adalah rival, 
+Tetapi aku terlalu bergantung padamu<@>
+---------------------------------------------------------
+Kali ini kau membiarkanku mengambil misi seperti itu Tidak 
+salah lagi aku berhutang padamu!<@>
+---------------------------------------------------------
+Sama-sama
+---------------------------------------------------------
+Sebenarnya, kau sangat membantuku
+---------------------------------------------------------
+Oh tidak, Aku hampir kehilangan jejak dari masalah yang 
+nyata<@>
+---------------------------------------------------------
+Alias Itulah kenapa, Aku seharusnya tidak mengambil 
+kata-katamu!<@>
+---------------------------------------------------------
+Ugh... Sangat menyakitkan berbicara padamu seperti ini 
+Sakit hati ini, tapi kau harus melanjutkannya, Emil!<@>
+---------------------------------------------------------
+Tetapi, Masih saja... Kau adalah temanku...<@>
+---------------------------------------------------------
+Hibari
+---------------------------------------------------------
+Emil Aragami raksasa muncul<@>
+---------------------------------------------------------
+Ayo selesaikan dengan segera
+---------------------------------------------------------
+Bukankah kita harus menjalankan misi?
+---------------------------------------------------------
+Oh, benar kita harus buru-buru<@>
+---------------------------------------------------------
+Temanku, Aku berterimakasih! Namun, Aku tidak bisa 
+bergantung padamu terus!<@>
+---------------------------------------------------------
+Bahkan Jika Aku terjatuh, Aku akan mengejarmu suatu 
+hari... Tidak, Aku akan melampauimu! Dengan ini telah ku 
+deklarasikan!<@>
+---------------------------------------------------------
+Ini adalah proklamasi perang antara Aku denganmu,Itulah yang 
+kubicarakan!<@>
+---------------------------------------------------------
+Dan sekarang, pada saat yang tepat ini, biarkan tirai dari 
+pertarungan, dirimu dan diriku, terbika!<@>
+---------------------------------------------------------
+Sekarang, untuk mengejarmu, untuk permulaan aku akan memburu 
+Aragami<@>
+---------------------------------------------------------
+Ayo, temanku! Dan senjata kesayanganku, Polarstern!<@>
+---------------------------------------------------------
+Aah, tidak ada rasa syukur yang cukup Lain kali Aku akan 
+memberimu teh hitam atau sesuatu...<@>
+---------------------------------------------------------
+Oh tidak, Masih terasa jauh Dengan apa yang kulakukan, 
+itu...<@>
+---------------------------------------------------------

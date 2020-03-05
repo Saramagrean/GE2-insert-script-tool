@@ -1,0 +1,87 @@
+NAMA:event_scr_text
+ENCODING:UTF-8
+CRLF:\n
+ID:
+TYPE:
+JUMLAH_STRING:0029
+===============================================================
+[00000252:00000512:00002015:00066133:00000250:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Kakek .... Kakek.....untuk orang dari penampungan 
+utama, segeralah ke cabang Far East, hujan merah mulai 
+turun, ... diizinkan untuk berlindung...Julius, maaf! …… 
+Aku akan pergi sebentar!
+---------------------------------------------------------
+untuk orang dari penampungan 
+utama, segeralah ke cabang Far East, hujan merah mulai 
+turun, ... diizinkan untuk berlindung...Julius, maaf! …… 
+Aku akan pergi sebentar!
+---------------------------------------------------------
+Julius, maaf! …… 
+Aku akan pergi sebentar!
+---------------------------------------------------------
+Romeo sialan! Mau kemana kau idiot!
+---------------------------------------------------------
+Tunggu, wakil kapten dan Gil aku akan membawanya kembali, 
+aku di sini untuk menghentikan kemunculan Aragami
+---------------------------------------------------------
+Romeo ...., .... berkatmu yang keras kepala itu akan 
+membawa pemerintahan yang baru dalam dunia ini
+---------------------------------------------------------
+Roda Gear lain akan segera berputar... ...
+---------------------------------------------------------
+Oh, Romeo ... ...
+---------------------------------------------------------
+Pengorbananmu itu
+---------------------------------------------------------
+Di bawah nama raja yang akan memerintah dunia ...
+---------------------------------------------------------
+Tentunya, masa depan yang kekal nan abadi
+---------------------------------------------------------
+Ini akan diwariskan
+---------------------------------------------------------
+Selamat malam, Romeo ... ...
+---------------------------------------------------------
+Suatu saat mari kita bertemu lagi di "Dunia Yang Baru" 
+...sambil ngopi.
+---------------------------------------------------------
+Romeo ... ... dengan tegas ....
+---------------------------------------------------------
+Julius ... Maafkan aku ... Hei, aku tidak bisa 
+mengalahkannya yg satu ini ... ...
+---------------------------------------------------------
+Oh, kakek ... ...?
+---------------------------------------------------------
+Oh, aku tidak apa-apa ...aku berterima kasih kepadamu... 
+nak
+---------------------------------------------------------
+benarkah.... Untunglah .... Julius ... Maafkan aku 
+...ya
+---------------------------------------------------------
+Romeo ... jangan bicara ...
+---------------------------------------------------------
+Melompat secara sewenang-wenang ... ... itu mengganggu semua 
+orang ... ...
+---------------------------------------------------------
+Tidak heran ... janganlah bicara lebih banyak lagi ... 
+...
+---------------------------------------------------------
+Aku memang lemah yaa ... untuk tadi aku minta maaf ...
+---------------------------------------------------------
+Romeo ...?
+---------------------------------------------------------
+Jawab aku ... ... Jangan pergi ....
+---------------------------------------------------------
+Bukalah matamu ....
+---------------------------------------------------------
+Jika aku kehilanganmu itu sama saja... ... tidak ada artinya 
+....
+---------------------------------------------------------
+Jadi ... ... tolong jawab aku ... ...
+---------------------------------------------------------
+JANGAN PERGI!!!
+---------------------------------------------------------

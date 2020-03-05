@@ -1,0 +1,265 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0113
+===============================================================
+[00000588:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+Dengan otoritas saat ini, aku tidak bisa masuk ruangan ini
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas saat ini, aku tidak bisa masuk ruangan ini
+---------------------------------------------------------
+Alisa
+---------------------------------------------------------
+Aku melihat awan merah di langit beberapa waktu yang lalu
+Romeo san ... Kuharap kembali sebelum hujan merah ......
+---------------------------------------------------------
+Asuna
+---------------------------------------------------------
+Uhuk uhuk......
+un, baik baik saja
+---------------------------------------------------------
+Mungkin, awan merah akan menjadi hujan merah...... aduh gawat iki
+---------------------------------------------------------
+Kalbi
+---------------------------------------------------------
+Kyurururu～
+---------------------------------------------------------
+Ciel00Romeo...... selalu sendirian
+bersembunyi......Smoga dia disana bahagia
+---------------------------------------------------------
+Romeo...... selalu sendirian
+bersembunyi......Smoga dia disana bahagia
+---------------------------------------------------------
+Ayo cepat lacak keberadaannya
+Mungkin, dia tidak akan sampai sejauh itu
+---------------------------------------------------------
+Erina
+---------------------------------------------------------
+Aku sedikit merasakan apa yang dirasakan Romeo ......
+Jika aku berada di posisi yang sama, aku yakin aku akan kabur ......
+---------------------------------------------------------
+Gil
+---------------------------------------------------------
+Goblok......
+Dasar Romeo...... pergi tanpa God Arc
+---------------------------------------------------------
+...... Cepat, jangan sampai ketahuan
+---------------------------------------------------------
+Haruomi
+---------------------------------------------------------
+Aku berpikir untuk mengundang Alisa makan malam ......
+Ternyata, tidak seperti itu
+---------------------------------------------------------
+Tidak ada pilihan lain, apa aku bisa bekerja dengan keras?
+---------------------------------------------------------
+Hibari
+---------------------------------------------------------
+Kami meminta tim survei untuk mencaru Romeo
+aki harap mereka menemukan nya.....
+---------------------------------------------------------
+Kouta
+---------------------------------------------------------
+Sama Seperti Romeo, aku punya sesuatu yang perlu dikhawatirkan
+Lihat, God Arc ku sudah burik
+---------------------------------------------------------
+Untuk penggunaan God Arc, teknologi dan kekuatan baru juga penting, tetapi tetap kualitas yang paling penting ...... aku mengakuinya
+---------------------------------------------------------
+Yah, ...... untuk menemukan Romeo oleh tim survei, ayo lakukan pekerjaan kita dengan keras
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Dengan Romeo-senpai ...
+aku berharap aku bisa berbicara lebih baik ......
+---------------------------------------------------------
+Nurse
+---------------------------------------------------------
+Di ruangan ini, orang orang yang terkena penyakit black plague sedang dirawat
+---------------------------------------------------------
+Jika kamu sedang di dekat orang yang terkena penyakit black plague, hati hatilah......
+karena penyakit itu bisa menular
+---------------------------------------------------------
+Licca
+---------------------------------------------------------
+dilaporkan God Arc Romeo tetap dalam kabinet God Arc
+---------------------------------------------------------
+...... Cepat, kuharap kamu menemukannya.
+---------------------------------------------------------
+Mutsumi
+---------------------------------------------------------
+Romeo-san......
+apa dia baik baik saja?
+---------------------------------------------------------
+Sakaki
+---------------------------------------------------------
+Aku meminta tim survei untuk mencari Romeo
+---------------------------------------------------------
+Sepertinya awan merah mulai mendekat
+apa dia tahu dampaknya ketika terkena hujan merah?
+---------------------------------------------------------
+Bagaimanapun juga, ayo kita panggil tim survei
+---------------------------------------------------------
+Satsuki
+---------------------------------------------------------
+Awan hujan merah ...... Ini agak berbahaya,
+aku ingin tahu apa itu dekat dengan pangkalan satelit ......
+---------------------------------------------------------
+
+---------------------------------------------------------
+What do you see?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Look another file
+---------------------------------------------------------
+Semua ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini seperti majalah mode atau katalog
+aku tidak tahu juga, karena semuanya ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini seperti file teks
+Aku tidak bisa memeriksanya karena terkunci<@>
+---------------------------------------------------------
+Модный　журнал
+---------------------------------------------------------
+Дневник
+---------------------------------------------------------
+Berhenti mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+What do you see?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Do nothing
+---------------------------------------------------------
+
+---------------------------------------------------------
+What do you see?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Look a Archive
+---------------------------------------------------------
+Do nothing
+---------------------------------------------------------
+
+---------------------------------------------------------
+What do you see?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Look another file
+---------------------------------------------------------
+Ada banyak taktik terkait dengan file<@>
+---------------------------------------------------------
+"Signal Bullet" mengacu pada item yang digunakan untuk memberikan instruksi kepada kawan dalam misi<@>
+---------------------------------------------------------
+Kisaran pengaruh "Bullet signal" ada dua jenis "Wide area signals" dan "Narrow Range signal"<@>
+---------------------------------------------------------
+"Wide area signal" untuk semua anggota yang berpartisipasi dalam misi
+"Narrow area signal" hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+Ada 4 jenis "signal bullet" yang bisa digunakan<@>
+---------------------------------------------------------
+"Wide-area Signal: all hands set", "Narrow-Band Signal: Menunggu penyebaran,"
+"narrow-band signal: Mencari serangan musuh," "narrow-band signal: Set"<@>
+---------------------------------------------------------
+Lebih detail, tentang signal bullet lihat " database"<@>
+---------------------------------------------------------
+"Control Unit" diaktifkan dengan "Burst Skill"<@>
+---------------------------------------------------------
+" Burst skill" adalah skill special yang hanya aktif ketika dalam burst mode<@>
+---------------------------------------------------------
+Juga tergantung pada "control unit" dan skill yang terpasang didalamnya maka Title akan berubah<@>
+---------------------------------------------------------
+Aku tidak bisa membukanya karena aku tidak punya izin<@>
+---------------------------------------------------------
+Advanced tactics teaching: signal bullets
+---------------------------------------------------------
+Advanced tactics teaching: control unit
+---------------------------------------------------------
+ＮＯ　ＮＡＭＥ
+---------------------------------------------------------
+Stop searching
+---------------------------------------------------------
+
+---------------------------------------------------------
+What do you see?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Look another file
+---------------------------------------------------------
+File sudah diatur sehingga mudah dicari<@>
+---------------------------------------------------------
+"Avatar" adalah teman yang dapat berpartisipasi dalam misi setiap saat melalui pertukaran "Avatar Card"<@>
+---------------------------------------------------------
+Ada dua cara untuk mengganti "Avatar Card" Salah satunya adalah dengan mengubahnya secara manual 
+di "Multiplayer"<@>
+---------------------------------------------------------
+Dan jumlah maksimum kartu yang dapat ditukar sekaligus dengan "passing card exchange" hingga 3 kartu<@>
+---------------------------------------------------------
+"Avatar card" dapat diperbarui dengan bertukar dengan lawan yang sama dan "Multiplayer" 
+atau "passing card exchange"<@>
+---------------------------------------------------------
+Sebagai imbalan karena menyelesaikan tugas<dengan anggota lain
+"Material avatar" bisa diambil<@>
+---------------------------------------------------------
+Blood memo<@>
+---------------------------------------------------------
+"Rebounding bullet" adalah bullet dengan efek untuk memulihkan kekuatan teman.
+Namun, tidak memiliki efek bagi orang yang menembak<@>
+---------------------------------------------------------
+Untuk Bullet dengan sifat yang sangat istimewa
+penggunaan God arc terbatas<@>
+---------------------------------------------------------
+Hanya ada satu bagian, ada gambar-gambar camelia kecil, gentian dan Sakuya bersama<@>
+---------------------------------------------------------
+Dan yang lainnya adalah foto baru<@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Bullet
+---------------------------------------------------------
+Photo
+---------------------------------------------------------
+Stop searching
+---------------------------------------------------------
+
+---------------------------------------------------------
+Sudah mulai tapi susah untuk dilihat karena layarnya rusak<@>
+---------------------------------------------------------
+What do you see?<@>
+---------------------------------------------------------
+File terkunci dan tidak bisa dilihat<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain 
+---------------------------------------------------------
+Damien 
+---------------------------------------------------------
+Menghadapi diri yang lemah, sebanyak ... ... penggunaan mesin Tuhan
+Itu semakin kuat, bahkan sekarang dan waktu yang lalu 
+---------------------------------------------------------
+Yorozuya
+---------------------------------------------------------
+Apa anda ingin membeli sesuatu?
+---------------------------------------------------------
+Yuno
+---------------------------------------------------------
+Entah bagaimana, sepertinya aku sangat lelah, tapi ... akurakpopo
+Jika ada yang bisa aku lakukan untuk membantumu, jangan ragu untuk memberi tahuku
+---------------------------------------------------------

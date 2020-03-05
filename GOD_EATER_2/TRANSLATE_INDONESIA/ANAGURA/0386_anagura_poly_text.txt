@@ -1,0 +1,47 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0016
+===============================================================
+[00000200:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Soma
+---------------------------------------------------------
+Aku akan mengumpulkan materialnya sekarang ....maukah kamu pergi denganku?
+---------------------------------------------------------
+Untuk mengumpulkan materialnya?
+---------------------------------------------------------
+Soma-san disengaja?
+---------------------------------------------------------
+Seperti yang kukatakan sebelumnya ...... untuk meneliti teknologi baruBanyak bahan yang dibutuhkan dalam 
+jumlah besar
+---------------------------------------------------------
+Mungkin aku harus bertanya pada seseorang ......Yah ... ada berbagai alasan.
+---------------------------------------------------------
+Kalau begitu, giliranmu
+---------------------------------------------------------
+Aku akan membantumu kapan saja
+---------------------------------------------------------
+...... kamu orang yang tampan juga ya...... itu benar, kamu
+---------------------------------------------------------
+Sementara itu ... aku dapat berkonsultasi dengannya Saat ini, aku membutuhkan bahan yang paling dibutuhkan 
+... bisakah aku minta tolong?
+---------------------------------------------------------
+Ooh ... aku mengandalkanmu
+---------------------------------------------------------
+Benarkah?jika kamu punya waktu luang, datanglah ......
+---------------------------------------------------------
+Tentu saja!
+---------------------------------------------------------
+Persiapannya masih......
+---------------------------------------------------------
+Hmm ...?Apa kamu ingin memeriksa isi dari misi ini?
+---------------------------------------------------------
+Misi sudah dimulai...... pergilah dan hati-hati
+---------------------------------------------------------

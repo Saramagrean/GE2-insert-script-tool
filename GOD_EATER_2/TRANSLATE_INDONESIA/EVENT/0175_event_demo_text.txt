@@ -1,0 +1,61 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0019
+===============================================================
+[00000212:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Gil
+---------------------------------------------------------
+Ah, itu kamu...<@>
+---------------------------------------------------------
+Jadi apakah kau telah memutuskan bagaimana dengan
+hukumanku?<@>
+---------------------------------------------------------
+Tidak, aku ingin memperbaiki hubunganmu
+---------------------------------------------------------
+Hukuman untukmu adalah untuk memperbaiki hubunganmu dengan
+Romeo
+---------------------------------------------------------
+Apakah kapten, Julius, memintamu untuk melakukan ini? Ia
+sangat usil melebihi perkiraanku...<@>
+---------------------------------------------------------
+...Aku hanya melakukan apa yang harus kulakukan, tidak
+ada cara lain lagi<@>
+---------------------------------------------------------
+Yah, maaf membuatmu menyaksikan sesuatu yang konyol
+sementara aku hanya pendatang baru nanti aku juga akan minta
+maaf ke Romeo<@>
+---------------------------------------------------------
+Apa ada yang salah dengan misinya?
+---------------------------------------------------------
+Jika ada masalah, beritahu aku
+---------------------------------------------------------
+Selama aku menyelesaikan tugasku tanpa masalah, semuanya
+akan menjadi mudah<@>
+---------------------------------------------------------
+...Dan ya, ada yang aneh pada saat itu jadi biarkan aku
+memperkenalkan diriku lagi<@>
+---------------------------------------------------------
+Aku Gilbert McLaine, pindahan dari cabang Glasgow<@>
+---------------------------------------------------------
+Aku menjadi anggota Blood beberapa hari yang lalu, Tapi aku
+bekerja selama 5 tahun sebagai God Eater, dan aku pengguna
+Tombak...<@>
+---------------------------------------------------------
+mari kita berteman<@>
+---------------------------------------------------------
+Huh, Apakah begitu...<@>
+---------------------------------------------------------
+Hah! jika seperti itu tidak apa apa...<@>
+---------------------------------------------------------
+Ah, bukan masalah<@>
+---------------------------------------------------------
+Haha! Jahil sekali dirimu, sama seperti kapten!<@>
+---------------------------------------------------------

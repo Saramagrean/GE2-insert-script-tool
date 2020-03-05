@@ -1,0 +1,607 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0237
+===============================================================
+[00001084:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+Dengan otoritas saat ini
+Saya tidak bisa masuk ke ruangan ini
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas saat ini
+Saya tidak bisa masuk ke ruangan ini
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+Terima kasih atas Kerja kerasnya, hei ... ...
+Apakah Anda memiliki pertanyaan?
+---------------------------------------------------------
+Apakah sedang istirahat? Oh, aku lupa menulisnya
+Sekitar 10 menit, apa gak apa-apa?
+---------------------------------------------------------
+Karena istirahat sangat diperlukan untuk pelatihan yang efektif
+Terima kasih atas pendapatmu yang berharga
+---------------------------------------------------------
+kapten Julius yang dulu?
+Itu benar ……
+---------------------------------------------------------
+……
+---------------------------------------------------------
+Karena saya belum melakukan percakapan apa pun, terutama saat di luar misi
+Saya tidak terlalu mengingatnya.……
+---------------------------------------------------------
+saya minta maaf, karna tidak terlalu dapat membantu Anda
+---------------------------------------------------------
+Tadi saat latihan, waktunya istirahat……
+---------------------------------------------------------
+Dulu Julius seperti apa? 
+---------------------------------------------------------
+Kalau begitu, saya izin pergi
+---------------------------------------------------------
+Wakil Kapten, Kerja bagus
+---------------------------------------------------------
+Dr Rachel tampaknya meminjamkan saya laboratoriumnya
+Mari bertemu di sana..... Terima kasih
+---------------------------------------------------------
+Fran
+---------------------------------------------------------
+Saya mendengar bahwa ada jadwal untuk bertemu dengan Ciel……
+Sebelum itu, maukah Anda menuju misi?
+---------------------------------------------------------
+Blood memiliki misi pemburuan baru
+Ini adalah strategi membagi dua tim untuk menghancurkan "Yakusha"
+---------------------------------------------------------
+"Yakusha" sangat mudah, tetap serangannya sangat kuat dan berat
+Sebisa mungkin, kami sarankan untuk menghindari gangguan
+---------------------------------------------------------
+Bagilah menjadi dua tim dan hancurkan "Yakusha"
+Jika Anda memberikan arahan melalui intruksi untuk menghindari gangguan,
+Anda akan dapat bertarung dengan aman
+---------------------------------------------------------
+Gill
+---------------------------------------------------------
+Ciel berbeda dari saya
+Saya merasa bahwa saya mendapat pelatihan militer reguler
+---------------------------------------------------------
+Saya tidak pandai dalam strategy
+Mari mengandalkan teknik pertempuran……
+---------------------------------------------------------
+Apakah Anda seorang wakil kapten?
+Tentunya baik Skill dan kepribadian masuk akal
+---------------------------------------------------------
+Romeo
+---------------------------------------------------------
+Oh, seseorang punya kemampuan
+Tapi memiliki masalah dengan kepribadianya.
+---------------------------------------------------------
+Oh, kamu juga
+---------------------------------------------------------
+Kalau begitu
+Nah, wakil kapten...... Lakukan yang terbaik.
+---------------------------------------------------------
+Julius
+---------------------------------------------------------
+Pertemuan dengan Ciel sepertinya telah berakhir
+Saya berharap Anda bisa bergaul dengannya, tolong bantuanya.
+---------------------------------------------------------
+Tugas berikutnya adalah mengalahkan setiap kelompok "Yakusha" oleh dua tim
+Tentu saja untuk memerintahkan satu tim...... wakil kapten, tentunya Anda
+---------------------------------------------------------
+Itu sebabnya hari ini Anda adalah seorang wakil kapten
+Tolong bantuanya
+---------------------------------------------------------
+Untuk sementara waktu, berceritalah dengan Neng Ciel untuk kedepannya
+Saya memiliki sedikit pekerjaan lain yang tersisa
+---------------------------------------------------------
+Saya punya sesuatu untuk ditanyakan.
+---------------------------------------------------------
+Saya mengerti
+---------------------------------------------------------
+Tentang blast dan shotgan
+---------------------------------------------------------
+Tentang Assault and Sniper
+---------------------------------------------------------
+Saya ingin mendengar cara dasar bertarung
+---------------------------------------------------------
+Terima kasih banyak
+---------------------------------------------------------
+Oh,
+Mari kita bersiap untuk tugas selanjutnya
+---------------------------------------------------------
+Ini adalah type gun yang menggunakan sedikit OP  
+
+---------------------------------------------------------
+Jika menggunakan Peluru Assault dapat menakuti menakuti musuh
+Sangat cocok untuk menghentikan musuh.
+---------------------------------------------------------
+Disarankan untuk "orang yang memiliki kekuatan lebih"
+
+---------------------------------------------------------
+Jika menyerang dengan peluru Assault dapat mengembalikan OP……
+Tidak ada yang tidak berguna
+---------------------------------------------------------
+"Drawback shot" bisa dilakukan dengan jalan mundur ckSteping
+Ini bisa menentukan Hiduo/Mati
+---------------------------------------------------------
+Apa itu "Assault"?
+---------------------------------------------------------
+Untuk siapa itu direkomendasikan?
+---------------------------------------------------------
+Katakan padaku rahasianya
+---------------------------------------------------------
+Saya ingin mendengar hal-hal lain
+---------------------------------------------------------
+"Sniper" adalah tipe "Barrel" untuk serangan jarak jauh
+waktu yang lebih singkat untuk mengenainya
+---------------------------------------------------------
+Ruang lingkup mode tujuan adalah perbesaran variabel
+Ini persis apa yang ada untuk "penembak jitu"
+---------------------------------------------------------
+Disarankan untuk "seseorang yang bertujuan menyerang dari jarak jauh"
+
+---------------------------------------------------------
+Tidak cocok untuk orang yang mudah marah
+---------------------------------------------------------
+"Stealth Field" bersembunyi dari Aragami selama jangka waktu tertentu
+Gunakan teknik ini dengan sukses
+---------------------------------------------------------
+Itu tidak bisa digunakan jika sudah ditemukan di musuh
+……Untuk berhati-hati
+---------------------------------------------------------
+Apa itu "Sniper"?
+---------------------------------------------------------
+Barrel menawarkan berbagai jangkauan serangan dan kekuatan, itu adalah "Blast"
+---------------------------------------------------------
+Karena kekuatan Barrett tinggi, konsumsi OP juga tinggi……
+Saat saya menembak pikirku, tidak pernah mengenainya
+---------------------------------------------------------
+Disarankan untuk "orang-orang yang ingin memberikan kerusakan besar pada satu tembakan"
+---------------------------------------------------------
+Itu tidak cocok untuk orang yang tidak bisa menilai musuh dan sekutu
+Untuk orang-orang yang tidak bisa mempercayai punggung mereka, khususnya……
+---------------------------------------------------------
+"Oracle Reserve" sekarang dapat menyimpan OP di God Arc
+untuk memanfaatkan Skill khusus ini
+---------------------------------------------------------
+Hingga OP 1000 dapat disimpan
+Ini sepuluh kali lebih besar
+---------------------------------------------------------
+Apa itu "Blast"?
+---------------------------------------------------------
+"Shotgun" adalah senjata jarak jauh, tetapi Barrel untuk pertempuran jarak pendek
+
+---------------------------------------------------------
+Misalnya, "shot" lebih kuat karena lebih dekat ke target……
+Filosofi desain mudah dipahami?
+---------------------------------------------------------
+Disarankan untuk "orang yang menghadapi musuh di garis depan"
+
+---------------------------------------------------------
+Sebaliknya, saya tidak merekomendasikannya kepada orang-orang yang selalu menyerang dari jarak jauh
+---------------------------------------------------------
+"Rush Fire"..... Ini akan menyerang musuh sekaligus
+Karena shoot saat tergesa-gesa akan berhenti di sana, jadi baik untuk menyesuaikan waktu
+---------------------------------------------------------
+Bergabung dengan senjata jarak dekat, gunakan di garis depan
+---------------------------------------------------------
+Apa itu "Shotgun"?
+---------------------------------------------------------
+Untuk melawan Aragami, tidak hanya God Arc tapi juga menggunakan "Taktik Perang"
+"Taktik" yang menyari posisi musuh dan mengarahkan pasukan menjadi poin yang penting
+---------------------------------------------------------
+Itu benar..... Dasarnya masih "kekalahan individu"
+Sangat berbahaya bertarung dengan banyak musuh dari depan
+---------------------------------------------------------
+Sebelum bertarung dengan musuh di lapangan , bergabung dengan kelompok,
+Itu pasti akan menghancurkannya satu demi satu ... ...
+---------------------------------------------------------
+"Setiap individu" membutuhkan kecerdikan agar tidak dapat ditemukan musuh.
+Misalnya,"Zygote", jika dia menemukan kita, dia akan memanggil temanya
+---------------------------------------------------------
+Lalu, apakah Anda bertarung di tempat-tempat yang tidak dapat di temukan oleh Zygote?
+Memilih untuk menghancurkan Zygote lebih dulu adalah kuncinya
+---------------------------------------------------------
+Untuk menghancurkan musuh yang terisolasi "di mana-mana"
+Untuk alasan itu, pertimbangkan tempat untuk bertarung dan perintah untuk mengalahkanya..... OK?
+---------------------------------------------------------
+Dasar-dasar Taktik Perang adalah "pertemuam" dan "melihat dari dekat gerakan musuh"
+Ini melibatkan segalanya, seperti pemotongan, penembakan, penghindaran
+---------------------------------------------------------
+Di saat santai, periksa musuh dalam database
+Anda dapat memilih peralatan, Berdasarkan kompatibilitas antara musuh dan senjata 
+---------------------------------------------------------
+Apa yang penting dalam perang yang sebenarnya?
+---------------------------------------------------------
+Katakan padaku lebih jelas tentang taktik
+---------------------------------------------------------
+Katakan padaku tentang berputar saat bertarung
+---------------------------------------------------------
+Pertama-tama, adalah menguasai "cara dasar pertempuran" dengan kuat
+Lihatlah pergerakan musuh, gunakan pertempuran jarak dekat, tembak,
+dan lakukan pertahanan pada waktu yang tepat
+---------------------------------------------------------
+Sebelum bertempur, Anda harus berpikir tentang "atribut" dari musuh dan memilih bagian dari God Arc
+Cukup dengan memilih bagian "atribut" yang menyerang kelemahan musuh,
+akan menguntungkan dalam pertarungan 
+---------------------------------------------------------
+Juga penting untuk memilih "Atribut" Barrett yang sesuai.
+"Barrett" dapat disesuaikan, tapi... mari kita jelaskan
+---------------------------------------------------------
+God Arc, God Arc, didasarkan pada material "Inti komposit"
+Ini dapat berevolusi menjadi satu dengan karakteristik yang berbeda.....Itu "memperkuat Dewa Arc"
+---------------------------------------------------------
+"Inti komposit" dapat dibuat dari "Bahan" terminal
+Anda harus mencobanya.
+---------------------------------------------------------
+Bagaimana menjadi lebih kuat?
+---------------------------------------------------------
+Saya ingin God Arc yang lebih kuat
+---------------------------------------------------------
+Tentang "Assault"
+---------------------------------------------------------
+Tentang "Sniper"
+---------------------------------------------------------
+Tentang "Blast"
+---------------------------------------------------------
+Tentang "Shotgun" 
+---------------------------------------------------------
+Tentang "Taktik"
+---------------------------------------------------------
+Saya ingin menanyakan penjelasan pertama 
+---------------------------------------------------------
+Nana 
+---------------------------------------------------------
+Capek
+Bagaimana pertemuannya?
+---------------------------------------------------------
+Wow!
+Sesuatu seperti ucapan wakil kapten! 
+---------------------------------------------------------
+Ya, Ciel adalah anak yang aneh
+Dia sedikit pendiam
+---------------------------------------------------------
+Sepertinya mulai sekarang akan sulit 
+---------------------------------------------------------
+Sangat menarik 
+---------------------------------------------------------
+Nanti juga bisa sendiri? 
+Santai saja! 
+---------------------------------------------------------
+Wakil kapten! Selamat!
+---------------------------------------------------------
+Mulai sekarang, ini pertemuan dengan Ciel, kan?
+Lakukan yang terbaik！
+---------------------------------------------------------
+Romeo
+---------------------------------------------------------
+Apakah tugas selanjutnya dibagi menjadi dua tim?
+---------------------------------------------------------
+Brad secara bertahap menjadi semakin kuat
+Baiklah, mari lakukan yang terbaik ! 
+---------------------------------------------------------
+Ciel ......
+Apalagi, anak itu memiliki hawa yang misterius
+---------------------------------------------------------
+Oh, saya lupa menyebutkan! Selamat, selamat atas promosimu!
+Mulai sekarang tolong bantuanya! 
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat File lain
+---------------------------------------------------------
+Semua ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti majalah mode atau katalog
+Saya tidak tahu karena Semua ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti file teks
+Saya tidak bisa melihatnya karena terkunci<@>
+---------------------------------------------------------
+Модный　журнал
+---------------------------------------------------------
+Дневник
+---------------------------------------------------------
+Berhentilah mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Saya tidak melakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat Arsip
+---------------------------------------------------------
+Saya tidak melakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat File lain
+---------------------------------------------------------
+Ada banyak file tentang Taktik<@>
+---------------------------------------------------------
+"Signal Bullet" mengacu pada item yang digunakan untuk memberikan instruksi kepada kawan dalam misi<@>
+---------------------------------------------------------
+Kisaran pengaruh "Bullet signal" ada dua jenis "Wide area signals" dan "Narrow Range signal"<@>
+---------------------------------------------------------
+"Wide area signal" untuk semua anggota yang berpartisipasi dalam misi
+"Narrow area signal" hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+Ada 4 macam "Bullet Signal" yang bisa digunakan<@>
+---------------------------------------------------------
+"Wide area signal：Semua anggota" "Narrow range signal：Menyebar"
+"Narrow range signal：menyerang musuh" "Narrow range signal：Set"<@>
+---------------------------------------------------------
+Untuk informasi rinci tentang setiap Bullet Signal, lihat "Database"<@>
+---------------------------------------------------------
+"Control Unit" diaktifkan dengan "Burst Skill"<@>
+---------------------------------------------------------
+"Skill Burst" hanya akan menunjukkan efeknya selama ledakan
+Ini adalah Skill khusus<@>
+---------------------------------------------------------
+Juga tergantung pada "control unit" dan skill yang terpasang didalamnya maka Title akan berubah<@>
+---------------------------------------------------------
+Saya tidak bisa membukanya karena saya tidak punya izin<@>
+---------------------------------------------------------
+Taktik Lanjutan：Bullet Signal
+---------------------------------------------------------
+Taktik Lanjutan：Unit kontrol
+---------------------------------------------------------
+Ｎ00Ｏ　ＮＡＭＥ
+---------------------------------------------------------
+Berhentilah mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat File lain
+---------------------------------------------------------
+File-file tersebut diatur
+Sangat mudah untuk dilihat<@>
+---------------------------------------------------------
+Dengan "kartu avatar" bertukar dengan "avatar"
+Itu adalah teman yang dapat berpartisipasi dalam misi kapan saja<@>
+---------------------------------------------------------
+Ada dua cara untuk bertukar "AvatarCard"
+Salah satu caranya adalah secara manual bertukar di "Multiplayer"<@>
+---------------------------------------------------------
+Lainnya adalah "bertukar kartu"
+Hingga 3 kartu dapat ditukar sekaligus<@>
+---------------------------------------------------------
+"AvatarCard" dapat diperbarui dengan melawan musuh yang sama
+Dengan melakukan "Multiplayer" atau "pertukaran kartu"<@>
+---------------------------------------------------------
+Sebagai imbalan karena menyelesaikan tugas<dengan anggota lain
+"Material avatar" bisa diambil<@>
+---------------------------------------------------------
+BulletMemo<@>
+---------------------------------------------------------
+"Recovery bullet" adalah peluru yang memiliki efek mengembalikan kekuatan fisik Anda
+Namun, itu tidak berhasil untuk orang yang menembak untuk sendiri<@>
+---------------------------------------------------------
+Untuk Bullet dengan sifat yang sangat istimewa
+penggunaan God arc terbatas<@>
+---------------------------------------------------------
+Hanya ada satu bagian, Foto tentang Tsubaki saat muda , lindow
+Dan Sakuya bersama@>
+---------------------------------------------------------
+Yang lainnya adalah foto yang relatif baru<@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Bullet
+---------------------------------------------------------
+Sebuah Foto
+---------------------------------------------------------
+Berhentilah mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+Saya mulai, tapi
+Layar rusak dan sulit dilihat<@>
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Setiap file terkunci
+Saya tidak bisa melihatnya<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat File lain
+---------------------------------------------------------
+Damian
+---------------------------------------------------------
+Sudahkah Anda menemukan senjata jarak dekat yang tepat untuk Anda?
+Tiba-tiba buruk, tetapi saya harus kembali ke markas utama
+---------------------------------------------------------
+Ini terakhir kali kamu mengajari saya
+Saya akan memberi tahu Anda apa pun yang ingin saya dengar!
+---------------------------------------------------------
+Tekad yang bagus! Namun, ada juga batasan untuk menjelaskan dengan mulut
+Namun, ini adalah "Database" yang berguna pada saat seperti itu!
+---------------------------------------------------------
+Jika Anda ingin tahu detail seperti cara menggunakan teknik
+Anda harus memeriksa "database", itu pasti berguna
+---------------------------------------------------------
+Ha ha ha! Senang bertemu dengan Anda
+Jika Anda lupa mendengarkannya, periksalah sekarang!
+---------------------------------------------------------
+Saya ingin balas dendam
+---------------------------------------------------------
+Katakan padaku bagaimana cara menggunakannya secara detail
+---------------------------------------------------------
+Terimakasih untuk semuanya
+---------------------------------------------------------
+God Arc dapat mengubah gaya pertempuran pada jarak pendek dan jarak jauh……
+Yah, seharusnya diajarkan dalam pelatihan dasar
+---------------------------------------------------------
+Meski begitu, tergantung apakah Anda dapat berhasil menggunakan senjata jarak dekat
+Probabilitas keberhasilan misi dapat berubah
+---------------------------------------------------------
+Pertama-tama, cobalah berbagai hal
+Jika Anda menemukan senjata jarak dekat yang cocok dengan Anda,
+efisiensi pertempuran harus jauh lebih baik
+---------------------------------------------------------
+Senjata jarak dekat adalah tipe "Blade" dan tipe "Long Blade"
+Ini dibagi menjadi dua jenis
+---------------------------------------------------------
+Tiga jenis senjata kedekatan diklasifikasikan sebagai tipe "Blade"
+Ada dua jenis senjata kedekatan diklasifikasikan sebagai "Long Blade" tipe……
+---------------------------------------------------------
+Yah, saya rasa itu tidak perlu dijelaskan lagi
+
+---------------------------------------------------------
+Kiat bertarung?
+---------------------------------------------------------
+Apa itu senjata jarak dekat?
+---------------------------------------------------------
+Saya ingin mendengar hal-hal lain
+---------------------------------------------------------
+Senjata yang dapat menyerang dengan kecepatan tangan dan gerak kaki, bukan kekuatan atau jangkauan
+Itu adalah Blade "Short"!
+---------------------------------------------------------
+Tampaknya itu senjata sederhana, tapi itulah sebabnya itu sangat dalam
+Mungkin ada metode menyerang yang belum Anda ketahui
+---------------------------------------------------------
+Disarankan untuk orang yang suka "Hit & Away Taktik" di garis depan
+Potong, tikam, kabur! Apa itu?
+---------------------------------------------------------
+"Lompat di langit" juga dapat dilakukan
+Menari dalam acrobat juga merupakan kesenangan nyata!
+---------------------------------------------------------
+Saya pandai menusuk bukan hanya memotong, "melalui" Atribut
+"Burst" dan juga "untuk memberikan kemudahan"!
+---------------------------------------------------------
+Tapi hati-hati dengan "stamina"! Akan Segera Sesak napas 
+Sementara itu,...... Anda dapat melakukan apa saja!
+---------------------------------------------------------
+Apa itu Blade "Pendek" ?
+---------------------------------------------------------
+Untuk siapa itu direkomendasikan?
+---------------------------------------------------------
+Katakan padaku rahasianya
+---------------------------------------------------------
+Kekuasaan, jangkauan, mobilitas dengan tiga kelebihan......
+Itu "Long" Blade!
+---------------------------------------------------------
+Interval lebih panjang dari "Pendek" Anda bisa bergerak masuk dan menyerang
+Itu adalah pisau yang seimbang.
+---------------------------------------------------------
+Saya akan merekomendasikan "Saya ingin memutuskan serangan terus menerus dengan cemerlang"
+seperti seorang pria
+---------------------------------------------------------
+"Zero stance" dan mengembalikan pisau sebagai shakien dan menyerang terus menerus!
+Satu "Impulse Edge" serangan terakhir!
+---------------------------------------------------------
+Bagaimana menggabungkan "impuls edge" ke dalam serangan
+Itu akan menjadi penting
+---------------------------------------------------------
+Dari Bullet yang tersimpan, Anda dapat menembakkan bidikan kuat dengan sangat kuat
+Ini adalah fitur "Long" yang bisa Anda bidik tanpa beralih ke Barrel!
+---------------------------------------------------------
+Apa itu"Long" Blade?
+---------------------------------------------------------
+Dibandingkan dengan Blade lain yang "berat", tetapi dengan panjang daya dan kelebihanya
+Pisau yang bagus..... itu adalah Blade "buster"！
+---------------------------------------------------------
+Bukan hanya berat, Atribut juga memiliki fitur "Menghancurkan" 
+---------------------------------------------------------
+Dianjurkan bagi seorang pria untuk "melihat dengan hati-hati pada gerakan musuh dan menerapkannya
+dengan kuat" Saya bisa bergerak dengan tenang dan berani
+---------------------------------------------------------
+"Mengisi crash" yang dapat memberikan kerusakan besar
+Jika ada kemungkinan itu tidak bisa dilakukan dengan benar
+---------------------------------------------------------
+Dengan "Pearling Upper" Anda memberi Aragami sebuah counter
+Anda dapat dengan cepat menjaga dengan "shields tingkat lanjut"……
+---------------------------------------------------------
+Meskipun gerakannya lambat, sebagai gantinya Pertahanan dan menyerang balik juga bagus
+Ini adalah fitur "Buster"!
+---------------------------------------------------------
+Apa itu"Buster" Blade?
+---------------------------------------------------------
+Jika berpikir itu senjata berat dan lambat .... Sungguh kesalahan besar!
+Mungkin memang berat, tapi itu adalah penampilan pertama pria itu!
+---------------------------------------------------------
+Jika Anda melakukan "boost start", Anda akan menghajarnya dengan kecepatan ultra tinggi!
+Ah, Cukup menyamai Kecepatan Short blade 
+---------------------------------------------------------
+Saya akan merekomendasikan "pengguna serangan berat, dan yang ingin mengalahkannya juga"
+Kekuatan pukulan sangat besar, Saya akan menghajar dengan "Aktivasi Boost".
+---------------------------------------------------------
+Namun, "Aktivasi Boost" adalah konsumsi stamina yang intens
+Apakah itu bisa digunakan dengan baik atau tidak akan menjadi kuncinya
+---------------------------------------------------------
+Serangkaian serangan dari "Aktivasi Boost" "Boost rush"
+Pukulan terus menerus dari "Aktivasi Boost" "Boost drive"
+---------------------------------------------------------
+Selain itu, jika teknik digabungkan dari keduanya akan menjadi teknik "Impact Boost"
+Musuh akan dapat kerusakan besar jika Anda menggunakannya dengan baik！
+---------------------------------------------------------
+Apa itu "Boost Hammer"?
+---------------------------------------------------------
+Pedang yang bisa menyerang dengan mobilitas dan daya tembus, itu adalah "Charge Lance"!
+Seperti namanya dia memiliki Atribut, "Menembus" 
+---------------------------------------------------------
+Disarankan untuk orang yang suka "Hit & Away Taktik" di garis depan
+Sama dengan Pendek? Ha ha ha, jangan goblok YOGA!
+---------------------------------------------------------
+"Charge Glide" yang dapat dilepas dari tanah atau udara, nyaman untuk dihindari
+"BackFlip" ...... Ini adalah pisau khusus untuk penyerangan dan penarikan!
+---------------------------------------------------------
+Serangan kombinasi terus-menerus setelah "Charge Glide" bahkan jauh lebih kuat!
+Kekuatan serangan akan meningkat setelah tombak terbuka.
+---------------------------------------------------------
+Bersama dengan hit and away, dengan kombo pasti mempertajam kekuatan fisik
+Jika Anda bisa menggunakannya dengan baik, pertempuran pasti berjalan dengan baik.
+---------------------------------------------------------
+Apa itu "Charge Lance"?
+---------------------------------------------------------
+Tentang "Pendek" Blade 
+---------------------------------------------------------
+Tentang "Long" Blade 
+---------------------------------------------------------
+Tentang "Buster" Blade 
+---------------------------------------------------------
+Tentang "Boost Hammer"
+---------------------------------------------------------
+Tentang "Charge Lance"
+---------------------------------------------------------
+Tipe "Blade"
+---------------------------------------------------------
+Tipe "Long Blade"
+---------------------------------------------------------
+Saya ingin mendengar penjelasan pertama
+---------------------------------------------------------
+Yoshiya
+---------------------------------------------------------
+Hei, selamat datang
+---------------------------------------------------------

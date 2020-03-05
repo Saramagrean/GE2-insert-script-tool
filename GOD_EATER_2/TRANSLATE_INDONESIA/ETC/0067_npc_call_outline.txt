@@ -1,0 +1,964 @@
+NAMA:npc_call_outline
+ENCODING:UTF-8
+CRLF:\n
+ID:
+TYPE:yobi
+JUMLAH_STRING:0260
+===============================================================
+[00003248:00000056:00001999:01311061:00000255:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+[0000]
+Accompany Alisa in Free Missions 
+and strengthen your bonds.
+---------------------------------------------------------
+[0000]
+Alisa has been spotted heading towards 
+the Satellite Point to clear the Aragami.
+Get ready, and move to where Alisa has headed.
+---------------------------------------------------------
+[0000]
+Accompany Alisa in Free Missions 
+and strengthen your bonds.
+---------------------------------------------------------
+[0000]
+It seems that Alisa has accepted a mission to 
+suppress the Aragami at the old dam site. But it appears
+something went wrong. Go and ask Alisa about it.
+---------------------------------------------------------
+[0000]
+It seems that help is wanted in securing 
+construction resources for potential Satellite sites.
+Ask Alisa for more details about it.
+---------------------------------------------------------
+[0000]
+An Inducive Type was spotted around the Satellite.
+Alisa is concerned about the extent of the danger.
+Get ready, and head out to where Alisa is.
+---------------------------------------------------------
+[0000]
+From all the interactions up to now, you feel that
+your ties with Alisa have been strengthened.
+From now on, you will help each other overcome
+difficulties for the sake of mankind's new future.
+---------------------------------------------------------
+[0000]
+
+---------------------------------------------------------
+[0000]
+
+---------------------------------------------------------
+[0000]
+
+---------------------------------------------------------
+[0000]
+
+---------------------------------------------------------
+[0000]
+
+---------------------------------------------------------
+[0000]
+
+---------------------------------------------------------
+[0000]
+
+---------------------------------------------------------
+[0000]
+
+---------------------------------------------------------
+[0000]
+
+---------------------------------------------------------
+[0000]
+
+---------------------------------------------------------
+[0000]
+
+---------------------------------------------------------
+[0000]
+
+---------------------------------------------------------
+[0000]
+
+---------------------------------------------------------
+[0001]
+Ciel wants to report to you the results from the development
+team about the previously discovered \"Blood Bullet\".
+---------------------------------------------------------
+[0001]
+In order to understand more, it seems that Ciel 
+has tested Bullet Editing with every Gun Barrel.
+She now appears wanting to progress onto
+inspecting the variations of the Blood Bullet.
+---------------------------------------------------------
+[0001]
+Ciel has been making progress in analyzing the 
+Blood Bullet but she appears to be stuck on something.
+Confirm it with Ciel.
+---------------------------------------------------------
+[0001]
+Accompany Ciel in Free Missions and
+strengthen your bonds.
+---------------------------------------------------------
+[0001]
+Ciel seems to be looking for references
+to improve her tactics and combat style.
+But she doesn't seem to be having any luck.
+Go and talk to Ciel about it.
+---------------------------------------------------------
+[0001]
+From all the interactions up to now, you feel that
+your ties with Ciel have been strengthened.
+From now on, you would help each other overcome
+difficulties for the sake of mankind's new future.
+---------------------------------------------------------
+[0001]
+
+---------------------------------------------------------
+[0001]
+
+---------------------------------------------------------
+[0001]
+
+---------------------------------------------------------
+[0001]
+
+---------------------------------------------------------
+[0001]
+
+---------------------------------------------------------
+[0001]
+
+---------------------------------------------------------
+[0001]
+
+---------------------------------------------------------
+[0001]
+
+---------------------------------------------------------
+[0001]
+
+---------------------------------------------------------
+[0001]
+
+---------------------------------------------------------
+[0001]
+
+---------------------------------------------------------
+[0001]
+
+---------------------------------------------------------
+[0001]
+
+---------------------------------------------------------
+[0001]
+
+---------------------------------------------------------
+[0002]
+Accompany Kigurimi in Free Missions
+and further strengthen your bonds.
+---------------------------------------------------------
+[0002]
+Accompany Kigurimi in Free Missions
+and further strengthen your bonds.
+---------------------------------------------------------
+[0002]
+Accompany Kigurimi in Free Missions
+and further strengthen your bonds.
+---------------------------------------------------------
+[0002]
+Accompany Kigurimi in Free Missions
+and further strengthen your bonds.
+---------------------------------------------------------
+[0002]
+Accompany Kigurimi in Free Missions
+and further strengthen your bonds.
+---------------------------------------------------------
+[0002]
+Accompany Kigurimi in Free Missions
+and further strengthen your bonds.
+---------------------------------------------------------
+[0002]
+Accompany Kigurimi in Free Missions
+and further strengthen your bonds.
+---------------------------------------------------------
+[0002]
+Accompany Kigurimi in Free Missions
+and further strengthen your bonds.
+---------------------------------------------------------
+[0002]
+Accompany Kigurimi in Free Missions
+and further strengthen your bonds.
+---------------------------------------------------------
+[0002]
+From all the interactions up to now, you feel that
+your ties with Kigurumi have been strengthened.
+From now on, you would help each other overcome
+difficulties for the sake of mankind's new future.
+---------------------------------------------------------
+[0002]
+
+---------------------------------------------------------
+[0002]
+
+---------------------------------------------------------
+[0002]
+
+---------------------------------------------------------
+[0002]
+
+---------------------------------------------------------
+[0002]
+
+---------------------------------------------------------
+[0002]
+
+---------------------------------------------------------
+[0002]
+
+---------------------------------------------------------
+[0002]
+
+---------------------------------------------------------
+[0002]
+
+---------------------------------------------------------
+[0002]
+
+---------------------------------------------------------
+[0003]
+Emil is wounded from an Aragami raid.
+He appears to have been collecting
+repair materials for the outer settlements' walls.
+Confirm over the details with Emil.
+---------------------------------------------------------
+[0003]
+Accompany Emil in Free Missions
+and strengthen your bonds.
+---------------------------------------------------------
+[0003]
+Emil appears to be keen on testing the outcome
+of his studies on how to use traps.
+Get ready, and head out to where Emil is.
+---------------------------------------------------------
+[0003]
+Accompany Emil in Free Missions
+and strengthen your bonds.
+---------------------------------------------------------
+[0003]
+Accompany Emil in Free Missions
+and strengthen your bonds.
+---------------------------------------------------------
+[0003]
+Emil left during an escort mission with the Satellite colonies.
+You begin to worry and wonder if he's alright...
+---------------------------------------------------------
+[0003]
+From all the interactions up to now, you feel that
+your ties with Emil have been strengthened.
+From now on, you would help each other overcome
+difficulties for the sake of mankind's new future.
+---------------------------------------------------------
+[0003]
+
+---------------------------------------------------------
+[0003]
+
+---------------------------------------------------------
+[0003]
+
+---------------------------------------------------------
+[0003]
+
+---------------------------------------------------------
+[0003]
+
+---------------------------------------------------------
+[0003]
+
+---------------------------------------------------------
+[0003]
+
+---------------------------------------------------------
+[0003]
+
+---------------------------------------------------------
+[0003]
+
+---------------------------------------------------------
+[0003]
+
+---------------------------------------------------------
+[0003]
+
+---------------------------------------------------------
+[0003]
+
+---------------------------------------------------------
+[0003]
+
+---------------------------------------------------------
+[0004]
+Accompany Erina in Free Missions
+and strengthen your bonds.
+---------------------------------------------------------
+[0004]
+Erina looks she wants to ask about something.
+Talk to her for more details about it.
+---------------------------------------------------------
+[0004]
+Erina seems to want help with a mission urgently.
+Get ready, and head out to where Erina is.
+---------------------------------------------------------
+[0004]
+It appears Soma is coming along for the mission.
+Honoring your promise from the conversation early
+to accompany, get ready and head to where Erina is.
+---------------------------------------------------------
+[0004]
+Accompany Erina in Free Missions
+and strengthen your bonds.
+---------------------------------------------------------
+[0004]
+Accompany Erina in Free Missions
+and strengthen your bonds.
+---------------------------------------------------------
+[0004]
+Accompany Erina in Free Missions
+and strengthen your bonds.
+---------------------------------------------------------
+[0004]
+Erina is looking for someone to accompany
+her in confirming the signal of what might be
+an Inducive Type near the Satellite.
+Get ready, and head to where Erina is.
+---------------------------------------------------------
+[0004]
+From all the interactions up to now, you feel that
+your ties with Erina have been strengthened.
+From now on, you would help each other overcome
+difficulties for the sake of mankind's new future.
+---------------------------------------------------------
+[0004]
+
+---------------------------------------------------------
+[0004]
+
+---------------------------------------------------------
+[0004]
+
+---------------------------------------------------------
+[0004]
+
+---------------------------------------------------------
+[0004]
+
+---------------------------------------------------------
+[0004]
+
+---------------------------------------------------------
+[0004]
+
+---------------------------------------------------------
+[0004]
+
+---------------------------------------------------------
+[0004]
+
+---------------------------------------------------------
+[0004]
+
+---------------------------------------------------------
+[0004]
+
+---------------------------------------------------------
+[0005]
+Lately, you sense that Gil is uncomfortable
+about the condition of his God Arc.
+---------------------------------------------------------
+[0005]
+The list of required materials to adjust
+the God Arc appears to be done.
+Confirm it with Gil.
+---------------------------------------------------------
+[0005]
+Help out Gil, who has decided to tune his
+close-range weapon.
+---------------------------------------------------------
+[0005]
+The list of required materials to create a 
+\"Inducive Wave Receptor\" appears to be
+done. Confirm with Gil.
+---------------------------------------------------------
+[0005]
+Tuning with the \"Low Density Inducive Wave Receptor\"
+is completed. Wanting to do an on-site inspection of
+the Kurogane equipment, you should equip the tuned
+God Arc and meet up with Gil.
+---------------------------------------------------------
+[0005]
+The list of required materials to tune
+the God Arc appears to be done.
+Confirm it with Gil.
+---------------------------------------------------------
+[0005]
+Tuning with the \"High Density Inducive Wave Receptor\"
+is completed. Wanting to do an on-site inspection of
+the Kurogane equipment, you should equip the tuned
+God Arc and meet up with Gil.
+---------------------------------------------------------
+[0005]
+The list of required materials to tune
+the God Arc appears to be done.
+Confirm it with Gil.
+---------------------------------------------------------
+[0005]
+Gil appears wanting to go do a mission together.
+Ask him about it.
+---------------------------------------------------------
+[0005]
+From all the interactions up to now, you feel that
+your ties with Gil have been strengthened.
+From now on, you would help each other overcome
+difficulties for the sake of mankind's new future.
+---------------------------------------------------------
+[0005]
+
+---------------------------------------------------------
+[0005]
+
+---------------------------------------------------------
+[0005]
+
+---------------------------------------------------------
+[0005]
+
+---------------------------------------------------------
+[0005]
+
+---------------------------------------------------------
+[0005]
+
+---------------------------------------------------------
+[0005]
+
+---------------------------------------------------------
+[0005]
+
+---------------------------------------------------------
+[0005]
+
+---------------------------------------------------------
+[0005]
+
+---------------------------------------------------------
+[0006]
+You hear a rumor about Canon looking for
+an instructor or something.
+Talk to Canon about it.
+---------------------------------------------------------
+[0006]
+Accompany Canon in Free Missions
+and strengthen your bonds.
+---------------------------------------------------------
+[0006]
+Discuss about whether Canon's ban from using
+the Oracle Reserve should be lifted or not.
+---------------------------------------------------------
+[0006]
+Accompany Canon in Free Missions
+and strengthen your bonds.
+---------------------------------------------------------
+[0006]
+Accompany Canon in Free Missions
+and strengthen your bonds.
+---------------------------------------------------------
+[0006]
+Accompany Canon in Free Missions
+and strengthen your bonds.
+---------------------------------------------------------
+[0006]
+From all the interactions up to now, you feel that
+your ties with Canon have been strengthened.
+From now on, you would help each other overcome
+difficulties for the sake of mankind's new future.
+---------------------------------------------------------
+[0006]
+
+---------------------------------------------------------
+[0006]
+
+---------------------------------------------------------
+[0006]
+
+---------------------------------------------------------
+[0006]
+
+---------------------------------------------------------
+[0006]
+
+---------------------------------------------------------
+[0006]
+
+---------------------------------------------------------
+[0006]
+
+---------------------------------------------------------
+[0006]
+
+---------------------------------------------------------
+[0006]
+
+---------------------------------------------------------
+[0006]
+
+---------------------------------------------------------
+[0006]
+
+---------------------------------------------------------
+[0006]
+
+---------------------------------------------------------
+[0006]
+
+---------------------------------------------------------
+[0007]
+Accompany Kota in Free Missions
+and strengthen your bonds.
+---------------------------------------------------------
+[0007]
+Accompany Kota in Free Missions
+and strengthen your bonds.
+---------------------------------------------------------
+[0007]
+Upon confirming Aragami signals in the
+vicinity of the Far East Branch, Kota is
+looking for help with the suppression mission.
+Get ready, and head out with Kota.
+---------------------------------------------------------
+[0007]
+Accompany Kota in Free Missions
+and strengthen your bonds.
+---------------------------------------------------------
+[0007]
+An accident seems to have occured with 
+Kota's bullet. The person himself is asking for help.
+Ask Kota about the details.
+---------------------------------------------------------
+[0007]
+Accompany Kota in Free Missions
+and strengthen your bonds.
+---------------------------------------------------------
+[0007]
+From all the interactions up to now, you feel that
+your ties with Kota have been strengthened.
+From now on, you would help each other overcome
+difficulties for the sake of mankind's new future.
+---------------------------------------------------------
+[0007]
+
+---------------------------------------------------------
+[0007]
+
+---------------------------------------------------------
+[0007]
+
+---------------------------------------------------------
+[0007]
+
+---------------------------------------------------------
+[0007]
+
+---------------------------------------------------------
+[0007]
+
+---------------------------------------------------------
+[0007]
+
+---------------------------------------------------------
+[0007]
+
+---------------------------------------------------------
+[0007]
+
+---------------------------------------------------------
+[0007]
+
+---------------------------------------------------------
+[0007]
+
+---------------------------------------------------------
+[0007]
+
+---------------------------------------------------------
+[0007]
+
+---------------------------------------------------------
+[0008]
+Nana wants to progress on her cooking research.
+Previous Wild Berry tablets have resulted in the
+creation of new recovery tablets. You check up on Nana.
+---------------------------------------------------------
+[0008]
+It looks like Nana is creating something new again.
+It seems like she wants it done immediately.
+Go check with Nana if there's anything you can do.
+---------------------------------------------------------
+[0008]
+Accompany Nana in Free Missions
+and deepen your bonds.
+---------------------------------------------------------
+[0008]
+It looks like Nana is creating something new again.
+It seems like she wants it done immediately.
+Go check with Nana if there's anything you can do.
+---------------------------------------------------------
+[0008]
+Accompany Nana in Free Missions
+and deepen your bonds.
+---------------------------------------------------------
+[0008]
+It looks like Nana is creating something new again.
+Go check with Nana if there's anything you can do.
+---------------------------------------------------------
+[0008]
+From all the interactions up to now, you feel that
+your ties with Nana have been strengthened.
+From now on, you would help each other overcome
+difficulties for the sake of mankind's new future.
+---------------------------------------------------------
+[0008]
+
+---------------------------------------------------------
+[0008]
+
+---------------------------------------------------------
+[0008]
+
+---------------------------------------------------------
+[0008]
+
+---------------------------------------------------------
+[0008]
+
+---------------------------------------------------------
+[0008]
+
+---------------------------------------------------------
+[0008]
+
+---------------------------------------------------------
+[0008]
+
+---------------------------------------------------------
+[0008]
+
+---------------------------------------------------------
+[0008]
+
+---------------------------------------------------------
+[0008]
+
+---------------------------------------------------------
+[0008]
+
+---------------------------------------------------------
+[0008]
+
+---------------------------------------------------------
+[0009]
+From the result of the conducted test, 
+it seems that the prototype of
+link support device has a problem. 
+Go and listen to Licca for the details.
+---------------------------------------------------------
+[0009]
+The improvement of the prototype is finished, 
+apperently Licca want to proceed with the testing process. 
+Prepare to go where Licca is.
+---------------------------------------------------------
+[0009]
+Licca made an adjustments to the prototype as a feedback to the last result.
+and has been seeking help for the testing process.
+---------------------------------------------------------
+[0009]
+Licca made further adjustments to the prototype 
+as a feedback to the last result
+and has been seeking help for the testing process.
+---------------------------------------------------------
+[0009]
+Since the last test, Licca have been researching,
+on the link support device, overnight. 
+Go and talk to Licca
+---------------------------------------------------------
+[0009]
+Before submitting the documents to the Technological Development Division.
+It seems Licca want your help.
+---------------------------------------------------------
+[0009]
+From all the interactions up to now, you feel that
+your ties with Licca have been strengthened.
+From now on, you would help each other overcome
+difficulties for the sake of mankind's new future.
+---------------------------------------------------------
+[0009]
+
+---------------------------------------------------------
+[0009]
+
+---------------------------------------------------------
+[0009]
+
+---------------------------------------------------------
+[0009]
+
+---------------------------------------------------------
+[0009]
+
+---------------------------------------------------------
+[0009]
+
+---------------------------------------------------------
+[0009]
+
+---------------------------------------------------------
+[0009]
+
+---------------------------------------------------------
+[0009]
+
+---------------------------------------------------------
+[0009]
+
+---------------------------------------------------------
+[0009]
+
+---------------------------------------------------------
+[0009]
+
+---------------------------------------------------------
+[0009]
+
+---------------------------------------------------------
+[0010]
+Accompany Lindow in Free Missions
+and deepen your bonds.
+---------------------------------------------------------
+[0010]
+Lindow wants to immediately undergo a lesson on blood arts.
+Prepare and go tell him the start of the lesson.
+---------------------------------------------------------
+[0010]
+Accompany Lindow in Free Missions
+and deepen your bonds.
+---------------------------------------------------------
+[0010]
+Accompany Lindow in Free Missions
+and deepen your bonds.
+---------------------------------------------------------
+[0010]
+From all the interactions up to now, you feel that
+your ties with Lindow have been strengthened.
+From now on, you would help each other overcome
+difficulties for the sake of mankind's new future.
+---------------------------------------------------------
+[0010]
+Synopsis 06
+---------------------------------------------------------
+[0010]
+Synopsis 07
+---------------------------------------------------------
+[0010]
+
+---------------------------------------------------------
+[0010]
+
+---------------------------------------------------------
+[0010]
+
+---------------------------------------------------------
+[0010]
+
+---------------------------------------------------------
+[0010]
+
+---------------------------------------------------------
+[0010]
+
+---------------------------------------------------------
+[0010]
+
+---------------------------------------------------------
+[0010]
+
+---------------------------------------------------------
+[0010]
+
+---------------------------------------------------------
+[0010]
+
+---------------------------------------------------------
+[0010]
+
+---------------------------------------------------------
+[0010]
+
+---------------------------------------------------------
+[0010]
+
+---------------------------------------------------------
+[0011]
+Soma is doing a sample recovery mission 
+for a research and is looking for help. 
+Prepare and go to Soma.
+---------------------------------------------------------
+[0011]
+Accompany Soma in Free Missions
+and deepen your bonds.
+---------------------------------------------------------
+[0011]
+I'm looking for help on the effect 
+of aggregation pheromone I introduced earlier. 
+Prepare and go to Soma.
+---------------------------------------------------------
+[0011]
+Accompany Soma in Free Missions
+and deepen your bonds.
+---------------------------------------------------------
+[0011]
+Soma is looking for help 
+on the recovery mission of aragami material.
+Prepare and go to Soma.
+---------------------------------------------------------
+[0011]
+Soma is looking for help on the recovery mission of 
+many aragami materials that will be used for a research. 
+Prepare and go to Soma.
+---------------------------------------------------------
+[0011]
+From all the interactions up to now, you feel that
+your ties with Soma have been strengthened.
+From now on, you would help each other overcome
+difficulties for the sake of mankind's new future.
+---------------------------------------------------------
+[0011]
+
+---------------------------------------------------------
+[0011]
+
+---------------------------------------------------------
+[0011]
+
+---------------------------------------------------------
+[0011]
+
+---------------------------------------------------------
+[0011]
+
+---------------------------------------------------------
+[0011]
+
+---------------------------------------------------------
+[0011]
+
+---------------------------------------------------------
+[0011]
+
+---------------------------------------------------------
+[0011]
+
+---------------------------------------------------------
+[0011]
+
+---------------------------------------------------------
+[0011]
+
+---------------------------------------------------------
+[0011]
+
+---------------------------------------------------------
+[0011]
+
+---------------------------------------------------------
+[0012]
+Haruomi seems to be looking for someone
+to join him for a breather
+Let's listen to what Haruomi has to say
+---------------------------------------------------------
+[0012]
+You learned a rumor about Haruomi
+bringing an unfamiliar God Arc user with him
+Let's listen to what Haruomi has to say
+---------------------------------------------------------
+[0012]
+Haruomi seems to be looking for someone
+to talk to about him being thankful for something
+Let's listen to what Haruomi has to say
+---------------------------------------------------------
+[0012]
+You learned a rumor about Haruomi
+bringing an unfamiliar God Arc user with him
+Let's listen to what Haruomi has to say
+---------------------------------------------------------
+[0012]
+Apparently Haruomi is searching for someone
+who can give him some advice
+Let's hear him out
+---------------------------------------------------------
+[0012]
+You learned a rumor about Haruomi
+bringing an unfamiliar God Arc user with him
+Let's listen to what Haruomi has to say
+---------------------------------------------------------
+[0012]
+After all that's happened, I noticed that
+Haruomi had a very calm look on his face
+Let's ask him directly to find out why
+---------------------------------------------------------
+[0012]
+Haruomi seems to be preparing for a mission
+Is it about the new model that's been found?
+Let's listen to what Haruomi has to say
+---------------------------------------------------------
+[0012]
+From all the interactions up to now, you feel that
+your ties with Haruomi have been strengthened.
+From now on, you would help each other overcome
+difficulties for the sake of mankind's new future
+---------------------------------------------------------
+[0012]
+
+---------------------------------------------------------
+[0012]
+
+---------------------------------------------------------
+[0012]
+
+---------------------------------------------------------
+[0012]
+
+---------------------------------------------------------
+[0012]
+
+---------------------------------------------------------
+[0012]
+
+---------------------------------------------------------
+[0012]
+
+---------------------------------------------------------
+[0012]
+
+---------------------------------------------------------
+[0012]
+
+---------------------------------------------------------
+[0012]
+
+---------------------------------------------------------
+[0012]
+
+---------------------------------------------------------

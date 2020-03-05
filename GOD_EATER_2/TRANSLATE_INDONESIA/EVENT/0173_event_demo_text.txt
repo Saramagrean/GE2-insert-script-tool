@@ -1,0 +1,75 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0023
+===============================================================
+[00000228:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Rachel
+---------------------------------------------------------
+Senang melihat kalian semua telah berkumpul, Siswa Blood.
+Tentunya, aku ingin mengadakan pesta untuk kalian, Lalu...<@>
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Huh?
+Romeo "peserta" juga?<@>
+---------------------------------------------------------
+Romeo
+---------------------------------------------------------
+Diamlah,
+Nana...!<@>
+---------------------------------------------------------
+Ha ha...
+Senang melihatmu bergaul dengan baik<@>
+---------------------------------------------------------
+Dan yah, hari ini aku akan memberitahukanmu tentang menjadi
+seorang anggota Blood<@>
+---------------------------------------------------------
+La, Lakukan, Lakukanlah!<@>
+---------------------------------------------------------
+Seperti yang kau tau, Dunia akan segera hancur karena
+Aragami dan yang akan menghentikan mereka adalah
+"God Eaters", satu satunya yang dapat memakan Aragami<@>
+---------------------------------------------------------
+Dan sekarang, "Blood" akan melampaui para God Eaters dan
+membuka era baru<@>
+---------------------------------------------------------
+Ya, Tentu saja! Dengan "Kekuatan Blood", Julius dan Kita
+akan melakukannya...!<@>
+---------------------------------------------------------
+Tentang "Kekuatan Blood" yang sedang tertidur dalam orang
+yang terpilih untuk Menjadi bagian dari "Kekuatan Blood"
+adalah kekuatan yang datang dari keinginanmu...<@>
+---------------------------------------------------------
+Anggota Blood yang memasuki tahap "Kebangkitan Blood" Akan
+meningkatkan kekuatan untuk memasuki level baru dan
+menunjukannya dengan kekuatannya yang besar...<@>
+---------------------------------------------------------
+Romeo...<@>
+---------------------------------------------------------
+Nana...<@>
+---------------------------------------------------------
+Lalu kau dan Julius...<@>
+---------------------------------------------------------
+Kalian semua, sebagai anggota Blood, ditakdirkan untuk
+mendidik para God eater sebagai pelopor mereka<@>
+---------------------------------------------------------
+Bibitnya masih tertidur sekarang... Tapi keinginan yang
+kuat melahirkan keinginan yang kuat juga lalu
+"Kekuatan Blood" akan bangkit<@>
+---------------------------------------------------------
+Aku akan menunggu hingga hari itu tiba...!<@>
+---------------------------------------------------------
+Dr. Rachel...! akan kulakukan sebaik mungkin!<@>
+---------------------------------------------------------
+Aku mendukungmu, Romeo!<@>
+---------------------------------------------------------
+Kau, Bodoh! Ini Melibatkanmu juga<@>
+---------------------------------------------------------

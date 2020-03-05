@@ -1,0 +1,69 @@
+NAMA:event_scr_text
+ENCODING:UTF-8
+CRLF:\n
+ID:
+TYPE:
+JUMLAH_STRING:0023
+===============================================================
+[00000228:00000512:00002015:00066133:00000250:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Apa kau datang dengan itu?
+---------------------------------------------------------
+Apa itu ...?
+---------------------------------------------------------
+Kategori gelap!
+---------------------------------------------------------
+Ini.... Semangat Ksatriaku!!!
+---------------------------------------------------------
+Aku akan mengembalikanmu ke tanah!
+---------------------------------------------------------
+Ia cukup yakin untuk melakukannya ...!
+Tapi, kini gilirannya
+---------------------------------------------------------
+ULTIMATE! SPECIAL EMILE ULTRA!
+---------------------------------------------------------
+Kekuatan yang sangat tidak biasa ...!
+---------------------------------------------------------
+Cih, Pergilah sendiri...
+Aku akan mengalahkannya dengan cepat!
+---------------------------------------------------------
+Serahkan ini padaku!
+Aku akan menunjukan semangat Ksatriaku!
+Akan kutunjukan!!!!!!
+---------------------------------------------------------
+Akan menyenangkan
+---------------------------------------------------------
+Dengan Musuh kematian
+---------------------------------------------------------
+Aku tidak punya waktu untuk mendengarkan kisahmu,
+atau kaulah yang akan berakhir cepat
+---------------------------------------------------------
+Apa?
+---------------------------------------------------------
+.... Lakukan Sendiri
+---------------------------------------------------------
+Pergilah.... Pertarungan God Eater...
+Bukan pertarungan biasa....
+---------------------------------------------------------
+Dalam dunia ini! Pengguna God Arc!
+Penting untuk mengabulkan harapan orang lain!
+---------------------------------------------------------
+Keadilan akan menang!,
+Orang orang percaya akan esok hari!
+---------------------------------------------------------
+Karena Keadilan tidak akan kalah, Semuanya,
+Bertarunglah hingga titik darah penghabisan!!!
+---------------------------------------------------------
+Karena itu Aku... Sebagai Ksatria....
+Tidak boleh menyerah.... uhh!
+---------------------------------------------------------
+Bodohnya diriku, Tampaknya seseorrang telah lewat
+---------------------------------------------------------
+Ya... Akhirnya! Ksatria! Kemenangan Semangat Ksatria!
+---------------------------------------------------------
+Woooooooooooooooooooooooo!
+---------------------------------------------------------

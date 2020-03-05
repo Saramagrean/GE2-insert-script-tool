@@ -1,0 +1,75 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0025
+===============================================================
+[00000236:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Romeo
+---------------------------------------------------------
+Haha. ♪
+---------------------------------------------------------
+...Oh Aku belum pernah melihat kalian sebelumya<@>
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Hello<@>
+---------------------------------------------------------
+Ah, mungkin kau rekrutan baru yang dirumorkan!?<@>
+---------------------------------------------------------
+Yups, terima kasih telah menjagaku senpai!<@>
+---------------------------------------------------------
+Senpai.....itu bagus! Terdengar bagus juga....!
+---------------------------------------------------------
+Baiklah, Namaku Romeo! Saya dapat mengajari kalian apapun, 
+jadi tanyakan apapun yang kau mau!<@>
+---------------------------------------------------------
+Oh, Saya ingin memeringatkanmu sebelumya! Blood tidak akan 
+mudah, jadi persiapkan dirimu!<@>
+---------------------------------------------------------
+Apa itu Blood?
+---------------------------------------------------------
+Apa kekuatan Blood?
+---------------------------------------------------------
+Hebat! Lalu, Ini pukulan mematikan Romeo Apa kau 
+merasakannya?
+---------------------------------------------------------
+Goblok, kau...teknik spesial bukanlah sesuatu yang bisa 
+kau dapatkan dengan benar...<@>
+---------------------------------------------------------
+Oh, bener cuk! Kupikir kau harus tanya 'Dr.Raquel', orang 
+yang menemukan 'BLOOD' jika kau punya pertanyaan seperti 
+itu.
+---------------------------------------------------------
+Ok, sampai jumpa!<@>
+---------------------------------------------------------
+Ada .... pertanyaan, dan ada sisi yang lain?
+---------------------------------------------------------
+Entah bagaimana, Kurasa aku sudah mendengar hal buruk? 
+<@>
+---------------------------------------------------------
+Oh, ooh.... Itu, pertanyaan yang bagus!<@>
+---------------------------------------------------------
+Kau benar.... <@>
+---------------------------------------------------------
+"Blood" adalah.... Kuy liat penjaga "Power of 
+Blood".... Itu dia! Ketika membangunkan "Power of 
+Blood".... Mereka bisa membuat gerakan spesial!<@>
+---------------------------------------------------------
+Kapten kita luar biasa kan?<@>
+---------------------------------------------------------
+Tak peduli apa Aragaminya, Akan kubunuh mereka dengan 'Hyaa' 
+dan 'Kyaa'!!
+---------------------------------------------------------
+Eh!? Power of Blood.... huh baiklah.... Uhm....<@>
+---------------------------------------------------------
+Sederhana saja...ini akan menjadi sesuatu yang bisa 
+digunakan sebagai teknik spesial! Meski Kapten kita, punya 
+teknik yang luar biasa.<@>
+---------------------------------------------------------

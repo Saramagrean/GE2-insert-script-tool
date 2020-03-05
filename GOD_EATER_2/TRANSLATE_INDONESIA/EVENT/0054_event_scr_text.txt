@@ -1,0 +1,31 @@
+NAMA:event_scr_text
+ENCODING:UTF-8
+CRLF:\n
+ID:
+TYPE:
+JUMLAH_STRING:0007
+===============================================================
+[00000164:00000512:00002015:00066133:00000250:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Soma, Alisa... Sesuatu,
+Sudah lama sekali aku tidak bertengkar dengan
+kalian seperti ini
+---------------------------------------------------------
+Nah, Apa yang terjadi? Lindow
+---------------------------------------------------------
+Yah, Aku pikir sudah bertahun tahun
+---------------------------------------------------------
+Seorang Junior muda yang dapat diandalkan tiba tiba
+menyadari bahwa mereka telah tumbuh dewasa
+---------------------------------------------------------
+Kapten Blood, Kekuatanmu, benar benar membantu
+---------------------------------------------------------
+Itu adalah hal yang menarik,
+semuanya... Sudah waktunya
+---------------------------------------------------------
+Sudah waktunya, Aku akan pergi.
+---------------------------------------------------------

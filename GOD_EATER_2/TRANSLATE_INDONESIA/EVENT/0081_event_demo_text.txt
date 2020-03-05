@@ -1,0 +1,57 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0018
+===============================================================
+[00000208:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Ciel
+---------------------------------------------------------
+terima kasih kapten <@>.
+---------------------------------------------------------
+tidak masalah.
+---------------------------------------------------------
+soa aku melakukan sesuatu?
+---------------------------------------------------------
+...,, sebenarnya itu rahasia<@>
+---------------------------------------------------------
+sekarang blood power ku sudah meningkat dan blood bullet ku 
+sudah berhasil aku selesaikan dan semuanya sudah aku beri 
+tahu kamu semua ^=^<@>
+---------------------------------------------------------
+aku bertanya-tanya dari mana kekuatan itu berasal ... 
+Semakin aku bertanya-tanya, semakin aku menjadi 
+bingung....<@>
+---------------------------------------------------------
+...<@>
+---------------------------------------------------------
+...mungkin jika aku bisa membedah otak mu mungkin aku bisa 
+lebih memahaminya lagi...?<@>
+---------------------------------------------------------
+...Huh?
+---------------------------------------------------------
+tunggu, Ciel...?
+---------------------------------------------------------
+...Haha<@>
+---------------------------------------------------------
+...Ahahah! aku hanya bercanda! tolong jangan jangan terkejud 
+begitu :v<@>
+---------------------------------------------------------
+Oh tidak, hanya saja kamu begitu terkejud. kamu 
+menanggapinya lebih serius dari yang kukira...<@>
+---------------------------------------------------------
+kau terlihat serius tadi >:(!
+---------------------------------------------------------
+coba lihat lihat dulu keadaan nya !
+---------------------------------------------------------
+Ha ha kamu benar. maafkan aku<@>
+---------------------------------------------------------
+Tapi enggak usah ragu, aku akan tetap di sampingmu sampai 
+aku menemukan rahasiamu. Hehe.<@>
+---------------------------------------------------------

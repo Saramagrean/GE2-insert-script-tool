@@ -1,0 +1,40 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0012
+===============================================================
+[00000184:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Lindow
+---------------------------------------------------------
+Yo, sensei!
+Siswa yang bersemangat datang untuk belajar :v
+---------------------------------------------------------
+Nah, di sini, aku mencoba menarikmu keluar sekaligus.
+Aku tidak bisa membiarkanmu diluar, kan?
+---------------------------------------------------------
+Aku akan maju, Sensei!...... Jadi mengapa kamu tidak memberitahuku?
+---------------------------------------------------------
+Oh, itulah yang aku inginkan!
+Sebelum itu, ada sesuatu yang aku minta dari Soma
+---------------------------------------------------------
+Aku ingin kamu mengumpulkan bahan untuk penelitian tentang sel oracle retroBisakah aku pergi denganmu?
+---------------------------------------------------------
+Oh, maaf, waktunya udah mepet ganBaiklah, aku akan bertanya lain kali.
+---------------------------------------------------------
+Aku tidak akan menahannya ya?
+---------------------------------------------------------
+Sekarang sedikit ......
+---------------------------------------------------------
+Ada apa, apa kamu melupakan sesuatu?
+---------------------------------------------------------
+pengajaran Blood Arts, aku akan menunggunya, Sensei!Nah, katakan padaku ketika itu sudah dimulai
+---------------------------------------------------------
+Mohon kerjasama nya, sensei!
+---------------------------------------------------------

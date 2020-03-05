@@ -1,0 +1,110 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0032
+===============================================================
+[00000264:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Ciel
+---------------------------------------------------------
+Dr. Leah, how are you feeling?<@>
+---------------------------------------------------------
+Leah
+---------------------------------------------------------
+I'm fine... I remembered various things after that time It 
+all became clear to me while we were talking about it.<@>
+---------------------------------------------------------
+Last time you mentioned that, your father was so worried 
+that he had Dr. Rachel undergo a dangerous operation or 
+something......<@>
+---------------------------------------------------------
+If you can save someone, you can't just leave them alone 
+It's natural that Father didn't have that much of a 
+choice<@>
+---------------------------------------------------------
+He wasn't hesitant at all to help Rachel with founding 
+\"Magnolia Compass\" Orphanage, because that's how he 
+was......<@>
+---------------------------------------------------------
+Ask Dr. Leah about her father
+---------------------------------------------------------
+Ask her about \"Magnolia Compass\"
+---------------------------------------------------------
+Continue
+---------------------------------------------------------
+It sure is strange... whenever I talk to you guys I get this 
+seemingly unbearable feeling in my chest...<@>
+---------------------------------------------------------
+The things I tried not to think of, maybe now...<@>
+---------------------------------------------------------
+Ask her about her memories with Dr. Rachel
+---------------------------------------------------------
+Ask her about her family
+---------------------------------------------------------
+The memories are still vivid in my mind……<@>
+---------------------------------------------------------
+That day, after pushing Rachel down the staircase I kept 
+condemning myself……in darkness……<@>
+---------------------------------------------------------
+But the sun will rise again, regardless of anyone's 
+will……<@>
+---------------------------------------------------------
+\"The wealthy are obliged to serve humankind's 
+future\"…… That was my father's motto……as a 
+scientist and a Fenrir executive<@>
+---------------------------------------------------------
+……Even the God Arc soldiers are my father and us 
+siblings' invention as the sword of humankind to bring down 
+Aragami without relying on God Eaters……<@>
+---------------------------------------------------------
+Us sisters inherited our father's will God Arc soldiers are 
+no mere weapon, but what represents our family 
+bond……<@>
+---------------------------------------------------------
+I didn't know that your father was an investor…… of 
+\"Magnolia Compass\"<@>
+---------------------------------------------------------
+My bad, we don't mean to demand gratitude from 
+you……<@>
+---------------------------------------------------------
+On the contrary, it has been on my mind that I ought to beg 
+for your forgiveness Those days in the orphanage must've 
+been difficult for you, Ciel……<@>
+---------------------------------------------------------
+Dr. Leah……<@>
+---------------------------------------------------------
+Though, you grew up excellently……Other kids as 
+well…… That is my only solace……<@>
+---------------------------------------------------------
+……Now that we mention it, back when I was a child<@>
+---------------------------------------------------------
+There was one time I remodelled Rachel's wheelchair engines 
+they got fast, awfully fast that I ended up getting scolded 
+by Father<@>
+---------------------------------------------------------
+But it was so fun...... Together with Rachel, I drove it 
+against the wind and I realized machines can be something 
+that makes people happy<@>
+---------------------------------------------------------
+Me aiming to be a mechanical engineer must be due to that as 
+well…… it's already too late, but if I can go 
+back……<@>
+---------------------------------------------------------
+My mother was taken by death when we were young, my father 
+and my little sister were my whole world But I didn't 
+consider myself unfortunate……<@>
+---------------------------------------------------------
+I remember it clearly……When we went on a picnic at 
+midnight bringing along sandwiches, in a blooming 
+field……<@>
+---------------------------------------------------------
+At that time I told my father……that I'd become a 
+scientist Back then, ignorant of everything……I was truly 
+happy……<@>
+---------------------------------------------------------

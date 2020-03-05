@@ -1,0 +1,264 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0108
+===============================================================
+[00000568:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+Dengan otoritas saat ini, aku tidak bisa masuk keruangan ini
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas saat ini, aku tidak bisa masuk keruangan ini
+---------------------------------------------------------
+Alisa
+---------------------------------------------------------
+Romeo-san..... Pasti kali ini, apa yang akan kamu ambil
+aku pikir aku menantikannya
+---------------------------------------------------------
+Asuna
+---------------------------------------------------------
+Tidak apa-apa sekarang!
+Saya akan baik-baik saja setelah beberapa saat!
+---------------------------------------------------------
+Calbi
+---------------------------------------------------------
+kyuru?
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+Wakil Kapten! Sepertinya tadi ada kontak dari Romeo
+Aragami telah muncul di sekitarnya dan permintaan untuk sortie datang ke Blood
+---------------------------------------------------------
+Batas administrasi faktor ketidakseimbangan Romeo mendekati ...
+Ayo cepat... aku akan memajukan pengaturan setelah kembali
+---------------------------------------------------------
+Sikap positifnya sangat penting bagi Blood
+Romeo juga, terima kasih..... semoga baik-baik saja
+---------------------------------------------------------
+Emile
+---------------------------------------------------------
+Kamu harus pergi, Blood
+.....Ini, adalah misi yang hanya bisa kalian lakukan!
+---------------------------------------------------------
+Erina
+---------------------------------------------------------
+cepat, aku akan menjemputnya
+misi lainnya, kali ini aku akan melakukan yang terbaik!
+---------------------------------------------------------
+Gil
+---------------------------------------------------------
+Ketika berpikir hujan merah berhenti, lain kali Aragami.....
+Silakan lanjutkan dengan persiapan... Aku akan pergi sebentar setelah selesai mencari uang
+---------------------------------------------------------
+Hibari
+---------------------------------------------------------
+sebelumnya aku menerima pesan dari Romeo!
+karena kemunculan Aragami, dia tidak bisa bergerak
+---------------------------------------------------------
+Anggota Blood, cepat bergabung dengan Romeo sesegera mungkin
+Aragami berada di dekatnya, Tolong basmi semuanya!
+---------------------------------------------------------
+Segera setelah persiapan selesai, silakan cepat dan mendaftar ulang
+---------------------------------------------------------
+Kouta
+---------------------------------------------------------
+mulai sekarang, kami akan mengkonfirmasi kerusakan yang disebabkan oleh hujan merah
+Maaf aku tidak bisa menjemputmu,Bawa mereka bersama dan pulang!
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+aku sangat khawatir, Bahkan jika aku menemukan Romeo-senpai
+Aku ingin tahu apakah itu akan menjadi desertir jika tetap seperti ini....?
+---------------------------------------------------------
+Ketika diperlakukan sebagai desertir, Di konferensi militer
+Jika kamu tidak baik, kemungkinan Ciel merampas Divine deprivation
+---------------------------------------------------------
+Lagi pula... mari kita cari segera
+Pikirkan itu setelah aku kembali dengan selamat...
+---------------------------------------------------------
+Perawat
+---------------------------------------------------------
+Di kamar rumah sakit ini, Orang-orang yang terkena dampak penyakit sedang direhabilitasi
+---------------------------------------------------------
+Kamu mungkin akan terinfeksi blackplague jika kamu berhubungan dengan orang yang terkena dampaknya
+Harap berhati-hatilah
+---------------------------------------------------------
+Rikka
+---------------------------------------------------------
+Jika itu god machine Romeo, aku sudah siap
+Bawalah bersama mu ketika pergi misi
+---------------------------------------------------------
+Mutsumi
+---------------------------------------------------------
+Ketika kamu kembali, tolong hubungi aku sesegera mungkin.
+Siapkan party yang baru disiapkan, aku menunggu!
+---------------------------------------------------------
+Sakaki
+---------------------------------------------------------
+Sampai Romeo kembali, mari kita mengatur fakto-faktor bias
+aku akan menunggu
+---------------------------------------------------------
+Satsuki
+---------------------------------------------------------
+Baru-baru ini, kondisi mobilnya aneh
+Selain itu, aku ingin tahu apakah Rikka akan melihatnya
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Semua ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti majalah mode atau katalog
+aku tidak mengerti karena semuanya ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti teks file
+aku tidak bisa melihatnya karena terkunci<@>
+---------------------------------------------------------
+　
+---------------------------------------------------------
+
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka terminal
+---------------------------------------------------------
+tidak melakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka terminal
+---------------------------------------------------------
+lihat arsip
+---------------------------------------------------------
+tidak melakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Ada banyak file terkait taktik<@>
+---------------------------------------------------------
+"Signal bullet" adalah misi, melawan sekutu
+Ucapkan item yang kamu gunakan saat memberikan instruksi<@>
+---------------------------------------------------------
+Kisaran pengaruh "Signal Bullet" ada dua jenis "Wide area signal" dan "Narrow range signal"<@>
+---------------------------------------------------------
+"Wide-area signals" diperuntukan bagi semua anggota yang berpartisipasi dalam misi
+"Narrow-area signal" hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+Ada 4 macam "signal bullet" yang bisa digunakan<@>
+---------------------------------------------------------
+"Wide-area signal: general meeting" "Shrinking field signal: spread standby"
+"Narrow range signal: search enemy assault" "Shrinking Domain Signal: Collection"<@>
+---------------------------------------------------------
+Lihat "Database" untuk informasi rinci tentang setiap signal<@>
+---------------------------------------------------------
+"Control unit" dilengkapi dengan "Burst skill"<@>
+---------------------------------------------------------
+"Burst skill" yaitu keterampilan khusus, menunjukkan efeknya hanya selama burst aktif<@>
+---------------------------------------------------------
+Juga, keterampilan yang terpasang pada "Control unit" berubah sesuai dengan title<@>
+---------------------------------------------------------
+Aku tidak bisa membukanya karena tidak memiliki izin<@>
+---------------------------------------------------------
+Panduan taktis senior: Signal Bullet
+---------------------------------------------------------
+Panduan taktis lanjutan: Control Unit
+---------------------------------------------------------
+ＮＯ　ＮＡＭＥ
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+File-file tersebut diatur
+agar mudah untuk dilihat<@>
+---------------------------------------------------------
+Dengan "Avatar card" bertukar dengan "Avatar"
+teman yang dapat berpartisipasi dalam misi kapan saja<@>
+---------------------------------------------------------
+Ada dua cara untuk bertukar "Avatar Card"
+Salah satu caranya adalah secara manual bertukar di "Multiplayer"<@>
+---------------------------------------------------------
+Satunya lagi adalah "Exchange of passing cards"
+Hingga 3 kartu dapat ditukar sekaligus<@>
+---------------------------------------------------------
+"Avatar card" dapat diperbarui dengan bertukar dengan sesama teman
+Dengan melakukan "Multiplayer" atau "Redemption card exchange"<@>
+---------------------------------------------------------
+Sebagai imbalan atas tugas yang dilakukan dengan pihak lain
+[Avatar collection material] dapat diperoleh<@>
+---------------------------------------------------------
+Bullet Memo<@>
+---------------------------------------------------------
+"Rebounding bullet" adalah peluru yang memiliki efek mengembalikan kekuatan fisik Anda
+Namun, itu tidak akan bekerja untuk orang yang menembak sendiri<@>
+---------------------------------------------------------
+Untuk Bullet dengan sifat yang sangat istimewa
+God machine dapat digunakan terbatas<@>
+---------------------------------------------------------
+Hanya satu bagian, disatu sisi ada gambar Tsubaki dan Lindow bersama Sakuya<@>
+---------------------------------------------------------
+Yang lainnya adalah foto yang relatif baru<@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Bullet
+---------------------------------------------------------
+foto
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+aku mulai, tapi
+Layar rusak dan sulit dilihat<@>
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Setiap file terkunci
+aku tidak bisa melihatnya<@>
+---------------------------------------------------------
+Buka terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Yoshiya
+---------------------------------------------------------
+Apakah kamu akan membeli sesuatu?
+---------------------------------------------------------
+Yuno
+---------------------------------------------------------
+Tidak akan lama lagi, hujan merah akan berhenti
+aku harus menuju kepangkalan satelit ......
+---------------------------------------------------------

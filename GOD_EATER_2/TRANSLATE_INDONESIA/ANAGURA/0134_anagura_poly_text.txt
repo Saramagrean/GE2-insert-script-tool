@@ -1,0 +1,230 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0102
+===============================================================
+[00000544:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+Dengan otoritas saat ini, anda tidak boleh masuk ke ruangan ini
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas saat ini, anda tidak boleh masuk ke ruangan ini
+---------------------------------------------------------
+Fran
+---------------------------------------------------------
+Sepertinya, Pada saat itu Romeo datang untuk menjemputmu
+---------------------------------------------------------
+Sekarang, anda akan kembali ke Far East.. hati2 dijalan
+---------------------------------------------------------
+Kujeo
+---------------------------------------------------------
+Ini.. Ini sesuatu yang belum pernah terjadi pada kehidupan saya ! terimakasih kalian semua !
+---------------------------------------------------------
+Rachel
+---------------------------------------------------------
+Sepertinya Romeo datang untuk menjemputmu tuh, tolong sampaikan salamku untuk semua tim Blood
+---------------------------------------------------------
+Kalo begitu, skrg saatnya untuk memutuskan persiapan kedepannya…
+---------------------------------------------------------
+Petugas Friar
+---------------------------------------------------------
+jadi, apakah anda akan kembali ke Far East ? saya kesepian loh
+---------------------------------------------------------
+Tapi, disana ada orang2 yg menunggumu, saya akan menunggu anda kembali
+---------------------------------------------------------
+Petugas Friar
+---------------------------------------------------------
+Akhir2 ini anda hebat sekali Dr.Kujeo ! anda sedang melakukan sesuatu yang terbaik untuk mewujudkan 
+operasi skala penuh
+---------------------------------------------------------
+Romeo
+---------------------------------------------------------
+Untk skrg, mari kita laksanakan misi ! dan kita cari Secara detail !
+---------------------------------------------------------
+nah, apa anda kaget !? saya ingin tau apakah saya akan merasa gugup 
+---------------------------------------------------------
+oh, kurasa tidak ! lagi pula aku bisa berbicara dengan benar bersama Julius
+---------------------------------------------------------
+Jadi, kau ikut bantu.. apakah sudah beres ? tampaknya DR.Rachel sdrg mlakukan prosedur untk 
+mengmblikannya ke Far East
+---------------------------------------------------------
+nganu nih, sbelum kmbali ke Far East.. bisa keluar dulu sbntar ga ?
+---------------------------------------------------------
+hei hei, itu tidak buruk kan ?
+---------------------------------------------------------
+Iyadeh
+---------------------------------------------------------
+ngga ah
+---------------------------------------------------------
+oke kalo begitu ! untuk Smntara ini kita jalani misi dulu, dan saya akan memberitau ceritanya secara 
+detail
+---------------------------------------------------------
+kalo begitu, mohon kerjasamanya !
+---------------------------------------------------------
+hei hei ! sdh kuduga kau brhnti karena ada Apel, kalo udh siap beritau aku !
+---------------------------------------------------------
+bagaimana ? apa sudah siap ? kalo udah ayo laksanakan misi !
+---------------------------------------------------------
+
+---------------------------------------------------------
+sedang apa kau ?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+melihat file2 lain
+---------------------------------------------------------
+smuanya trtulis mnggunakan Bhasa Rusia<@>
+---------------------------------------------------------
+ini semua tertulis mnggunakan B.Rusia jadi aku tidak faham isinya, tpi ini sprti sbuah katalog atau 
+majalah<@>
+---------------------------------------------------------
+sprtinya ini sebuah TeksFile, tpi ini terkunci jdi tidak bisa dibaca<@>
+---------------------------------------------------------
+Модный　журнал
+---------------------------------------------------------
+Дневник
+---------------------------------------------------------
+berhentilah mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+sedang apa kamu ?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+aku tdk mlakukan apapun
+---------------------------------------------------------
+
+---------------------------------------------------------
+sedang apa kamu ?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+melihat Archive
+---------------------------------------------------------
+aku tdk mlakukan apapun
+---------------------------------------------------------
+
+---------------------------------------------------------
+sedang apa kamu?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+melihat file lainnya
+---------------------------------------------------------
+ada banyak cara terkait filenya<@>
+---------------------------------------------------------
+"Signal Bullet" mengacu pada item yang digunakan untuk memberikan instruksi kepada kawan dalam misi<@>
+---------------------------------------------------------
+Kisaran pengaruh "Bullet signal" ada dua jenis "Wide area signals" dan "Narrow Range signal"<@>
+---------------------------------------------------------
+"Wide area signal" untuk semua anggota yang berpartisipasi dalam misi
+"Narrow area signal" hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+ada 4 jenis "SignalBullet"yg bisa dgunakan<@>
+---------------------------------------------------------
+"Wide-area Signal: all hands set", "Narrow-Band Signal: Menunggu penyebaran,"
+"narrow-band signal: Mencari serangan musuh," "narrow-band signal: Set"<@>
+---------------------------------------------------------
+untuk info lebih jelasnya silahkan cek DataBase<@>
+---------------------------------------------------------
+"Control Unit" diaktifkan dengan "Burst Skill"<@>
+---------------------------------------------------------
+"BurstSkill" itu skill yg aktif ketika dalam Mode Burst saja<@>
+---------------------------------------------------------
+Juga tergantung pada "control unit" dan skill yang terpasang didalamnya maka Title akan berubah<@>
+---------------------------------------------------------
+krna blum ada izin, jdi aku tdk dpat membukanya<@>
+---------------------------------------------------------
+Panduan Bullet 
+---------------------------------------------------------
+Panduan ControlUnite
+---------------------------------------------------------
+ＮＯ　ＮＡＭＥ
+---------------------------------------------------------
+berhentilah mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+sedang apa kamu？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+melihat file2 lain
+---------------------------------------------------------
+File2nya diatur supaya mudah untuk dibaca<@>
+---------------------------------------------------------
+"avatar" adlh Character teman yg bisa di ajak misi setiap saat dngan cara saling mnukarkan "Avatar 
+Card"<@>
+---------------------------------------------------------
+Ada dua cara untuk mengganti "Avatar Card" Salah satunya adalah dengan mengubahnya secara manual di 
+"Multiplayer" <@>
+---------------------------------------------------------
+batas maksimum untuk melakukan "Trade Avatar Card" yaitu hanya bisa 3 kartu saja<@>
+---------------------------------------------------------
+AvatarCard dapat diperbarui dngan cara multyplayer dngan teman yg sama dan "passing card 
+exchange"<@>
+---------------------------------------------------------
+Sebagai imbalan karena menyelesaikan tugas<dengan anggota lain
+"Material avatar" bisa diambil<@>
+---------------------------------------------------------
+BulletMemo<@>
+---------------------------------------------------------
+"RecoveryBullet" adlh peluru yg bisa menambah HP teman, namun si Penembak tdk brtambah HPnya<@>
+---------------------------------------------------------
+Untuk Bullet dengan sifat yang sangat istimewa
+penggunaan God arc terbatas<@>
+---------------------------------------------------------
+ada gambar yg diperlihatkan Anak Kecil bersama Sakuya, Lindow dan Tsubaki<@>
+---------------------------------------------------------
+dan yg lainnya itu foto2 terbaru<@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Peluru
+---------------------------------------------------------
+Sebuah Poto
+---------------------------------------------------------
+berhentilah mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+saat dimulai Displaynya malah rusak dan tdk bisa dilihat<@>
+---------------------------------------------------------
+kamu sedang apa?<@>
+---------------------------------------------------------
+setiap file terkunci dan tdk bisa dilihat<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+melihat file2 lain
+---------------------------------------------------------
+Damian
+---------------------------------------------------------
+Kupikir kau akan kmbali ke Far East segera?
+---------------------------------------------------------
+oh, kau sedang sibuk
+---------------------------------------------------------
+begitu, baiklah aku mmberimu ptnjuk 
+---------------------------------------------------------
+apa kau prnah melawan Gboro-Gboro? menyerangnya dngan jarak jauh itu mrepotkan,tpi srngan jarak 
+dekat akan lbih gampang mlawannya
+---------------------------------------------------------
+dan Ukonvasara gampang dilawan dngan jarak apapun, berbeda dngan Gboro-Gboro
+---------------------------------------------------------
+titik D, merupakan Area perpustakaan yg sempit sehingga aragami sulit dan tidak ingin memasuki area 
+tsb
+---------------------------------------------------------
+om Damian juga ?
+---------------------------------------------------------
+aku akn brjuang dngn strategi misi brikutnya
+---------------------------------------------------------

@@ -1,0 +1,67 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0021
+===============================================================
+[00000220:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Licca
+---------------------------------------------------------
+Aku akan mengambil data tubuhmu, dari sini 
+datanya akan terlindungi, aku harus 
+menganalisa cuci otakmu juga...<@>
+---------------------------------------------------------
+Kau akan tidur disini dan aku akan mengambil datanya.
+aku akan memberimu obat tidur juga<@>
+---------------------------------------------------------
+Yahh, selamat tidur, mimpi
+ indah.... cuma dua jam sih..<@>
+---------------------------------------------------------
+4
+---------------------------------------------------------
+...<@>
+---------------------------------------------------------
+Gapap...?<@>
+---------------------------------------------------------
+Selamat pagi di tengah malam <@>
+---------------------------------------------------------
+Aku mimpi aneh... tapi aku tak ingat
+---------------------------------------------------------
+Apa kau melakukan sesuatu ketika aku tidur? 
+---------------------------------------------------------
+Btw, hasilnya gimana?
+---------------------------------------------------------
+Tesnya berhasil kan? aman kan? 
+---------------------------------------------------------
+Yaiyalah yang ngetes gua...!<@>
+---------------------------------------------------------
+Dan ketika penelitiannya makin maju, aku berencana untuk
+menyetorkannya pada Departeme Teknologi di Fenrir HQ<@>
+---------------------------------------------------------
+Dan jika mereka memberikan kita dana kita bisa
+ melaksanakan penelitian besar! butuh waktu lama sejak
+ proposal ayahku dulu<@>
+---------------------------------------------------------
+Ini masih jauh dari popular sih, pertama aku harus 
+membuat sebuah prototype yang 
+sesuai dengan datamu<@>
+---------------------------------------------------------
+Mulai sekarang aku akan punya banyak permintaan
+ untukmu, kau tetap bersamaku kan?<@>
+---------------------------------------------------------
+Makasih...!<@>
+---------------------------------------------------------
+Ah, akan kuambilkan dompetmu sebelum kau pergi<@>
+---------------------------------------------------------
+sepertinya ada banyak  mimpi buruk muncul dalam scan, maaf...<@>
+---------------------------------------------------------
+Aku sudah memeriksamu, scan ini scan itu sebisaku
+pinginnya sih jelasin ampe detil tapi kau pasti 
+akan ketiduran lagi<@>
+---------------------------------------------------------

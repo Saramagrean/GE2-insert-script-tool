@@ -1,0 +1,47 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0016
+===============================================================
+[00000200:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Nana
+---------------------------------------------------------
+selamat！
+---------------------------------------------------------
+knapa jebakan milik kapten jarang kena tatget？
+---------------------------------------------------------
+benar kan !jadi aku akan membuatnya yg baru lagi..
+---------------------------------------------------------
+hey ! kalo gitu brarti bukan pembicaran terakhir !
+---------------------------------------------------------
+mngesalkan ! bukan karena aku udh datang kesini dngn itu, aku pasti bisa melakukannya !
+---------------------------------------------------------
+sulit！
+---------------------------------------------------------
+mudah sangat
+---------------------------------------------------------
+kamu datang kesini membawa sesuatu ?
+---------------------------------------------------------
+sebab itulah mulai skrg aku mulai berfikir untuk pergi ke Verisifikasi Keefektifan, stelah itu baru deh 
+santai2 !
+---------------------------------------------------------
+baiklah ! ayo kita pergi！
+---------------------------------------------------------
+ah, tempat ini dipersiapkan untuk melakukan Verifikasi jadi kita nunggunya disini aja
+---------------------------------------------------------
+iya
+---------------------------------------------------------
+sbntar lagi......
+---------------------------------------------------------
+eh, knapa ga pergi?
+---------------------------------------------------------
+sprtinya aku mulai sibuk, skrg aku sudah mencoba merubah seleraku sedikit jadi panggil aku kalo aku udh 
+santai
+---------------------------------------------------------

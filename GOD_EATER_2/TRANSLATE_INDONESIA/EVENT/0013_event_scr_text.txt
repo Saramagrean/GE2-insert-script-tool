@@ -1,0 +1,67 @@
+NAMA:event_scr_text
+ENCODING:UTF-8
+CRLF:\n
+ID:
+TYPE:
+JUMLAH_STRING:0022
+===============================================================
+[00000224:00000512:00002015:00066133:00000250:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Aku tidak pandai tentang mesin menghitung cinta wanita 
+---------------------------------------------------------
+Sebentar lagi 
+---------------------------------------------------------
+Silahkan ke sini 
+---------------------------------------------------------
+Terlalu panas untuk mata 
+---------------------------------------------------------
+Aku tahu bahwa cinta sudah dimulai 
+---------------------------------------------------------
+Pukulan kejutan 
+---------------------------------------------------------
+Tentara Shinkansen! Silbupure? 
+---------------------------------------------------------
+
+---------------------------------------------------------
+Aku akan menangani diriku sendiri, agar tidak malu dengan
+para senior yang telah mengamankan Far East Branch 
+---------------------------------------------------------
+Terima kasih... atas bimbingan dan dorongan Anda 
+---------------------------------------------------------
+Mantab, kapten.....
+aku harap senior Kouta belajar dari kapten 
+---------------------------------------------------------
+Erina, berisik !...
+Terima kasih banyak , Julius! 
+---------------------------------------------------------
+Baiklah, lanjutkan! tuan Yuno, pulanglah!
+Tolong, Tuan Yuno mengatakan sesuatu! 
+---------------------------------------------------------
+Hah? 
+---------------------------------------------------------
+Oh itu .....  Terima kasih telah menyambut
+kedatangan kami dengan senang..... 
+---------------------------------------------------------
+Er..... 
+---------------------------------------------------------
+Um ..... maafkan aku, aku belum terbiasa dengan ucapan
+seperti ini jadi jika kamu tidak keberatan .....
+Datanglah ke pesta penyambutan 
+---------------------------------------------------------
+Huh! Aku minta maaf! aku sudah menunggu ~!
+Sebenarnya, Mike sudah siap 
+---------------------------------------------------------
+Baiklah semuanya, tunggu Diva dari Far East!
+konser solo oleh Reihara Yuno! Crochet, tolong! 
+---------------------------------------------------------
+..... Terima kasih banyak 
+---------------------------------------------------------
+Terima kasih Yuno dan semuanya, sekarang,
+mari kita berkumpul bersama 
+---------------------------------------------------------
+Terima kasih, kita akan menyelesaikan pesta penyambutannya 
+---------------------------------------------------------

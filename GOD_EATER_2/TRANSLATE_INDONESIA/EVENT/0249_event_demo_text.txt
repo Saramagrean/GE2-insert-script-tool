@@ -1,0 +1,64 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0019
+===============================================================
+[00000212:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Lindow
+---------------------------------------------------------
+Aku punya sesuatu yang sangat spesial untuk kuberitahukan
+ padamu<@>
+---------------------------------------------------------
+About Blood Arts or whatever it is, how to use it..... I'd 
+love to get better, even for just a little
+Tentang Blood Arts atau apapun itu, bagaimana cara
+ memakainya?.... 
+aku ingin jadi lebih baik walau hanya sedikit<@>
+---------------------------------------------------------
+Ketika ujung pedang berbunyi, aku menfokuskan
+ kekuatanku dan bam, itu akan terlepas
+ atau ya gitu deh..<@>
+---------------------------------------------------------
+kayaknya ga gitu deh...
+---------------------------------------------------------
+Beneran kok!
+---------------------------------------------------------
+Whenever you got the time you should teach me more like 
+this
+Kalo ada waktu senggang tolong ajari aku ya~<@>
+---------------------------------------------------------
+Eh?
+---------------------------------------------------------
+Bentar bentar.....
+---------------------------------------------------------
+Sudah lama sejak aku diajari orang lain...<@>
+---------------------------------------------------------
+Kinda, Like this.....there we go! Ahh, it's sooo 
+exciting!
+Yahh, seperti ini.... nah gini!
+ keren anjir!<@>
+---------------------------------------------------------
+kan...?
+---------------------------------------------------------
+hei dengarkan aku....
+---------------------------------------------------------
+Ah, iya, aku akan mentraktirmu oke? <@>
+---------------------------------------------------------
+Oke deh, Sensei! Aku berharap padamu jadi ajari aku oke?<@>
+---------------------------------------------------------
+Yahh.....<@>
+---------------------------------------------------------
+Yeah, aku ga terlalu banyak tahu sih 
+---------------------------------------------------------
+Tuhkan! Benar dugaanku!
+---------------------------------------------------------
+Ya, seperti yang kuduga, aku sebaiknya mengikuti perintah
+ Master<@>
+---------------------------------------------------------

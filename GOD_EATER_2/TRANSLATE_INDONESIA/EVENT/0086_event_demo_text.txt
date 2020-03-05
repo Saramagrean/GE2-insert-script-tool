@@ -1,0 +1,55 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0016
+===============================================================
+[00000200:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Kota
+---------------------------------------------------------
+aku akan melihat arsip itu, mungkin bisa menjadi referensi 
+yang bagus kupikir <@>
+---------------------------------------------------------
+ini sebuah drama, 「detektif kerja dengan jalan kaki」, itulah
+yg mereka katakan, pada dasarnya mengumpulkan informasi
+seperti itu ,membutuhkan investigasi, bukankah itu benar?
+---------------------------------------------------------
+Erina
+---------------------------------------------------------
+Oh,aku juga, tapi mungkin itu akan menjadi sedikit sulit 
+<@>
+---------------------------------------------------------
+di ruangan mana si kelinci itu tinggal? apakah menurutmu ada 
+cukup ruangan untuk tidur? <@>
+---------------------------------------------------------
+keberadaan ruangannya pun masih misterius, 
+---------------------------------------------------------
+bagaimana kalo kita ikuti saja dia?
+---------------------------------------------------------
+ayo kita kumpulkan saksi dan kita rekam semua 
+percakapannya
+---------------------------------------------------------
+sekarang ada sesuatu yang mucul ke permukaan ...!<@>
+---------------------------------------------------------
+kapten, kamu te lihat seperti detektif sungguhan...
+---------------------------------------------------------
+Ok, kamu berhenti mengikuti misinya , mengalihkan bahaya 
+dari kelompok kami dan pada saat yang sama, beri kami waktu 
+untuk mencari tau<@>
+---------------------------------------------------------
+erina dan aku akan mengumpulkan semua bukti dari saksi. 
+---------------------------------------------------------
+ok!aku akan memberikan kebenarannya pada orang 
+orang...!<@>
+---------------------------------------------------------
+tidak, aku sudah gagal beberapa kali
+---------------------------------------------------------
+dia selalu menghilang 
+di elevator. aku tidak mengerti apa yang terjadi ...
+---------------------------------------------------------

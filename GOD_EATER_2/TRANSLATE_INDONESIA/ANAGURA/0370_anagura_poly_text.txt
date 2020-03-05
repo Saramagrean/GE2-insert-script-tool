@@ -1,0 +1,43 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0012
+===============================================================
+[00000184:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Licca
+---------------------------------------------------------
+Dengan materi yang dikumpulkan sebelumnya, akhirnya verifikasi operasi sudah benar
+Aku harus bisa melakukannya, terima kasih!
+---------------------------------------------------------
+Bahkan jika aku mengakatakan, angka yang sebenarnya sekarang, apa itu?
+Aku ingin engkau bekerja sama dalam pengumpulan data dengan versi perbaikan yang engkau buat sekaligus.
+---------------------------------------------------------
+Aku pikir,mungkin itu akan memakan waktu sampai jam yang sangat terlambat ....
+Apakah tidak masalah?
+---------------------------------------------------------
+Benar! Apa? Fuh, Aku sangat senang Aku suka sesuatu dengan orang-orang yang bekerja
+dengan kami dengan cara ini bisa dekat dengan satu sama lain!
+---------------------------------------------------------
+Kalau begitu, itu buruk cepat, tapi ....
+---------------------------------------------------------
+Yah ... Benar juga, ya
+Tidak apa-apa bila kau punya banyak waktu, jadi pada saat itu harap bekerja sama!
+---------------------------------------------------------
+Bahkan jika sedikit pun bisa digunakan
+---------------------------------------------------------
+Sekarang sedikit ... ...
+---------------------------------------------------------
+Yah, Aku kira situasinya tidak cukup baik
+---------------------------------------------------------
+Dapatkah aku meminta seseorang untuk menelepon ketika misiku berakhir?
+Aku punya sesuatu yang ingin aku tanyakan lagi dari dirimu
+---------------------------------------------------------
+Ya terima kasih!
+---------------------------------------------------------

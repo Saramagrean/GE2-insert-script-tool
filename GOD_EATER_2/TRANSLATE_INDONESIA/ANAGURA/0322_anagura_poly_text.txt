@@ -1,0 +1,54 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0016
+===============================================================
+[00000200:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Erina
+---------------------------------------------------------
+Apa kamu punya waktu sekarang？
+Aku ingin memulai misi segera
+---------------------------------------------------------
+… janji sebelumnya
+jangan mengatakan padaku bahwa kamu lupa?
+---------------------------------------------------------
+Aku ingin melihat bagaimana kamu bertarung!
+Jangan biarkan aku mengatakannya lagi ...
+---------------------------------------------------------
+Apa itu benar... baiklah
+---------------------------------------------------------
+...Maaf,apa itu？
+---------------------------------------------------------
+Tentu saja,aku ingat！
+---------------------------------------------------------
+Aku pikir itu hal yang baik,bukan？
+Sekarang aku punya banyak misi dan aku ingin
+tahu apakah bisa memintanya?
+---------------------------------------------------------
+Tentu sajaAku tidak bermain terpisah setiap hari！
+---------------------------------------------------------
+Yah...yah,itu tidak bisa ditolong
+Kamu terlihat selalu sibuk
+---------------------------------------------------------
+Tolong beri tahu aku etika kamu punya waktu
+Aku akan menunggumu
+---------------------------------------------------------
+Apa kamu sudah siap untuk itu？
+---------------------------------------------------------
+Sedikit……
+---------------------------------------------------------
+Tentu saja！
+Aku tidak bermain terpisah setiap hari
+---------------------------------------------------------
+Ada apa？
+Gerbang sortie bukan yang ini？
+---------------------------------------------------------
+Jika kamu kembali , Apa kamu punya sedikit waktu ？
+---------------------------------------------------------

@@ -1,0 +1,70 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0022
+===============================================================
+[00000224:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Romeo
+---------------------------------------------------------
+H-huh? Dimana Yuno!?<@>
+---------------------------------------------------------
+Leah
+---------------------------------------------------------
+Mungkin sekarang ia ada di helikopter, Dan sedang menuju Far
+East Branch.<@>
+---------------------------------------------------------
+Eek! Sudah terlambat!
+---------------------------------------------------------
+Grem
+---------------------------------------------------------
+Huh? Itu bukan wajah yang pernah kulihat sebelumnya --
+tunggu, Aku ingat. Kau adalah seseorang dari kandidat Blood
+Generasi ke dua -- dan Kau persis seperti di Fotomu. <@>
+---------------------------------------------------------
+Lalu ada apa? Tugas dari Dr. Rachel? 
+---------------------------------------------------------
+Hanya perkenalan dari seorang kandidat Blood...
+---------------------------------------------------------
+Ah, Baiklah, DEMAS memang fantastis...
+---------------------------------------------------------
+Ketua Grem, Baik juga dirimu...
+---------------------------------------------------------
+yah, betul sekali! bersama dengan Juno, Sangat
+mengesankan!
+---------------------------------------------------------
+Idiot -- Ini adalah pekerjaanku! Apakah aku terlihat seperti
+pria yang akan mencampur bisnis dan hiburan? Hah? <@>
+---------------------------------------------------------
+Kamu t-tidak!
+---------------------------------------------------------
+Cukup bicaranya! kalian semua Kembali bekerja!<@>
+---------------------------------------------------------
+Siap pak!<@>
+---------------------------------------------------------
+Ah, sungguh bijak jika kau menyesuaikan dirimu dengan
+perintahmu, memilih pengawalku tidak akan sulit<@>
+---------------------------------------------------------
+Fenrir adalah organisasi yang sulit untuk dihadapi --
+meskipun itu akan baik-baik saja jika itu hanya grup biasa
+sepertiku...
+---------------------------------------------------------
+kadang orang radikal dan anak muda, dan semua Cabang lain
+yang sombong tidak akan berhenti membuat kebisingan.<@>
+---------------------------------------------------------
+Yah ... akhirnya kau mendengar cerita itu, kau berasumsi
+bekerja seperti biasa.<@>
+---------------------------------------------------------
+Tidak berawak atau berawak, terlepas dari mana, DEMAS akan
+menyelamatkan umat manusia -- Itulah masa depan yang kami
+inginkan.<@>
+---------------------------------------------------------
+Aku akan menyiapkan pabrik untuk memproduksinya -- dan
+uangnya untukku juga, kan? <@>
+---------------------------------------------------------

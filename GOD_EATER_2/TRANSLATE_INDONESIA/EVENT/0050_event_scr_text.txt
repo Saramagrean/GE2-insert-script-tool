@@ -1,0 +1,71 @@
+NAMA:event_scr_text
+ENCODING:UTF-8
+CRLF:\n
+ID:
+TYPE:
+JUMLAH_STRING:0023
+===============================================================
+[00000228:00000512:00002015:00066133:00000250:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Bersama...
+Ayo pergi bersama, Julius!
+---------------------------------------------------------
+Terima kasih, Nana...
+Tapi kamu tidak boleh mengganggu pertemuan terakhir ....
+---------------------------------------------------------
+Penting untuk singularity untuk tetap di tempat ini...kan?
+Julius
+---------------------------------------------------------
+Oh, itu saja, jadi, aku,...
+aku tidak bisa kembali pulang.
+---------------------------------------------------------
+Kalau begitu, kami juga... !
+---------------------------------------------------------
+Tidak... Kalian harus kembali untuk menyimpan
+nyanyian-nyanyian itu mulai sekarang
+---------------------------------------------------------
+Ini bukan perintah
+---------------------------------------------------------
+Ini adalah... Keinginanku
+---------------------------------------------------------
+Inilah tempatmu untuk bertarung,
+Tempatmu diluar sana... lebih besar dari itu
+---------------------------------------------------------
+Jika kamu memaafkan diriku...
+---------------------------------------------------------
+Kami ingin terus berjiang bersama selamanya,
+itulah... Harapanku
+---------------------------------------------------------
+Julius...
+---------------------------------------------------------
+...Tolong Tanyakan
+---------------------------------------------------------
+Terima Kasih...
+---------------------------------------------------------
+Ini akan segera dimulai...
+---------------------------------------------------------
+Semuanya...
+Bisakah kamu kembali ketempatmu sendiri?
+---------------------------------------------------------
+Oke, tinggalkan Julius disana...
+---------------------------------------------------------
+Gil...
+---------------------------------------------------------
+Ciel-Chan... Julius benar mari kita pergi...
+---------------------------------------------------------
+Bersama selamanya...
+karena kita sesama pejuang... Aku,
+akan berhenti disini... Kupikir aku... 
+---------------------------------------------------------
+Julius...
+Semoga beruntung... 
+---------------------------------------------------------
+Oh... Semuanya,
+Percayalah padaku... 
+---------------------------------------------------------
+Serahkan saja padaku... Terima kasih... 
+---------------------------------------------------------

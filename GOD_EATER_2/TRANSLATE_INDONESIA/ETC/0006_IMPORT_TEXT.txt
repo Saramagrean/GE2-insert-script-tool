@@ -1,0 +1,149 @@
+NAMA:IMPORT_TEXT
+ENCODING:UTF-16LE
+CRLF:\n
+ID:
+TYPE:yobi
+JUMLAH_STRING:0039
+===============================================================
+[00000596:00000056:00001999:00065910:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+[0100]
+Save data transfer
+---------------------------------------------------------
+[1000]
+Select data to transfer
+---------------------------------------------------------
+[1100]
+Transfer "GOD EATER" data
+---------------------------------------------------------
+[1110]
+Transfer "GOD EATER BURST" data
+---------------------------------------------------------
+[1120]
+Transfer "GOD EATER BURST Trial Edition" data
+---------------------------------------------------------
+[2000]
+Load Save Data
+---------------------------------------------------------
+[3000]
+Select transfer destination
+---------------------------------------------------------
+[3010]
+Start from the Beginning
+---------------------------------------------------------
+[3011]
+Start from the Beginning [Equip Only]
+---------------------------------------------------------
+[3012]
+Continue
+---------------------------------------------------------
+[3013]
+Continue [Equip Only]
+---------------------------------------------------------
+[3014]
+Start from the beginning [Transfer All]
+---------------------------------------------------------
+[3100]
+Code Name cannot be changed.
+---------------------------------------------------------
+[3105]
+Difficulty 7 (After the Ending)
+---------------------------------------------------------
+[3110]
+There are progress restrictions after transferring
+---------------------------------------------------------
+[3120]
+Some Upgrade Parts will be converted to money
+---------------------------------------------------------
+[3130]
+Fast Align/Precise Fire/Boost Assault
+---------------------------------------------------------
+[3140]
+Up to 100,000 G.
+---------------------------------------------------------
+[3141]
+Transfer All
+---------------------------------------------------------
+[3150]
+Some items will be replaced with other items
+---------------------------------------------------------
+[3160]
+Detox Tablet+ / Anti-Leak Tablet+
+---------------------------------------------------------
+[3170]
+Anti-Jamming Tablet+
+---------------------------------------------------------
+[3190]
+Do not transfer
+---------------------------------------------------------
+[3200]
+ 
+---------------------------------------------------------
+[3500]
+ｱ cannot be transferred.
+---------------------------------------------------------
+[3510]
+ｱ replaced with ｲ.
+---------------------------------------------------------
+[3600]
+OK
+---------------------------------------------------------
+[4000]
+Character Entry
+---------------------------------------------------------
+[5000]
+Save (Data Transfer Complete)
+---------------------------------------------------------
+[9000]
+First-time players of "GOD EATER BURST" who have
+already played "GOD EATER" or "GOD EATER BURST Trial edition"
+can transfer their save data.
+Save slot positions cannot be changed when transferring.
+---------------------------------------------------------
+[9300]
+Although there are some restrictions, you can transfer
+everything from "GOD EATER" and up to 100,000fc to
+"GOD EATER BURST".
+---------------------------------------------------------
+[9310]
+You can transfer equipped items from "GOD EATER"
+to "GOD EATER BURST".
+---------------------------------------------------------
+[9320]
+Although there are some restrictions, you can transfer
+everything from "GOD EATER" and up to 100,000fc to
+"GOD EATER BURST".
+---------------------------------------------------------
+[9330]
+You can transfer equipped items from "GOD EATER"
+to "GOD EATER BURST".
+---------------------------------------------------------
+[9340]
+<c(8)>Start the game from the beginning<c(0)>
+with items, money up to 100,000fc and Avatar Card Data from
+"GOD EATER BURST"
+---------------------------------------------------------
+[9350]
+<c(8)>Start the game from the beginning<c(0)>
+with equipment and Avatar Card Data from
+"GOD EATER BURST"
+---------------------------------------------------------
+[9360]
+<c(8)>Start the game from the beginning<c(0)>
+with items, money and Avatar Card Data from
+"GOD EATER BURST"
+---------------------------------------------------------
+[9370]
+<c(8)>Start the game from the beginning<c(0)>
+with items, money and Avatar Card Data from
+"GOD EATER BURST Trial Edition"
+---------------------------------------------------------
+[9380]
+Continue from "GOD EATER BURST Trial Edition"
+with items, money and Avatar Card Data from
+"GOD EATER BURST Trial Edition"
+---------------------------------------------------------

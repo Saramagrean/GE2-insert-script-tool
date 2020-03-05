@@ -1,0 +1,274 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0111
+===============================================================
+[00000580:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+"Tidak ada entri untuk masuk karena sudah keluar"
+Itu ditulis seperti itu...
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas saat ini di ruangan ini,
+Aku tidak dizinkan masuk ke ruangan ini
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas saat ini di ruangan ini,
+Aku tidak diizinkan masuk ke ruangan ini
+---------------------------------------------------------
+
+---------------------------------------------------------
+Ia mengatakan "ketidaksetujuan pertemuan" ...
+---------------------------------------------------------
+Alisa
+---------------------------------------------------------
+Dr.leah adalah seorang pengembang dari seorang prajurit terkontrol yang diawaki
+...... Sekarang, organisasi macam apa itu Friar
+---------------------------------------------------------
+Kalbi
+---------------------------------------------------------
+Kurururu ~
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+Dr.leah tampaknya sedang memeriksa di kamar rumah sakit ......
+Aku diberitahu untuk tidak mengunjungi sampai aku sembuh
+---------------------------------------------------------
+Apa yang terjadi dengan Friar ......
+---------------------------------------------------------
+Emil
+---------------------------------------------------------
+Apa! Dr.leah dari Friar telah diasingkan ke Far East! Apa?
+Dengan kata lain, itu ...
+---------------------------------------------------------
+...... Apa artinya itu?
+---------------------------------------------------------
+Erina
+---------------------------------------------------------
+Dr.leah ...... Tentu saja ini adalah pengembang dari tentara God Arc, bukan?
+Aku tidak tahu tentang itu, tapi ...
+---------------------------------------------------------
+Fran
+---------------------------------------------------------
+Tidak heran Dr.leah ...... Memang, bahkan di Friar
+Untuk sementara, aku tidak melihatmu
+---------------------------------------------------------
+Gilbert
+---------------------------------------------------------
+Dr.leah tampaknya masih dalam keadaan penolakan kunjungan
+Aku tidak dapat mendengar cerita untuk sementara waktu
+---------------------------------------------------------
+Meski begitu ... ... keadaan Friar
+Sepertinya aku akan menjadi lebih dari yang aku bayangkan ... ...
+---------------------------------------------------------
+Haruomi
+---------------------------------------------------------
+Sekali lagi, seorang kakak perempuan yang cantik datang
+Memang ... ... Mulai sekarang, sepertinya aku akan sibuk
+---------------------------------------------------------
+Hibari
+---------------------------------------------------------
+Terima kasih atas tanggapanmu yang cepat
+Dr.leah sekarang dalam perawatan medis di kamar rumah sakit
+---------------------------------------------------------
+Jika kau dapat menghubungi kami terlebih dahulu, dari sini
+Aku akan menjemputmu ... ...
+---------------------------------------------------------
+Sampai Dr.leah pulih ini berlanjut
+Tolong bunuh Aragami
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Dr.leah ...... Kenapa sendirian saja ......
+Aku bertanya-tanya mengapa dia melakukan ketidaksesuaian seperti itu?<@>
+---------------------------------------------------------
+Seorang perawat
+---------------------------------------------------------
+Maaf, tapi sekarang adalah kunjungan ke Dr.rachel
+Saya akan menolaknya
+---------------------------------------------------------
+Mutsumi
+---------------------------------------------------------
+Apakah kau memiliki seorang pasien, bukan?
+Akan lebih baik jika kau segera sembuh.
+---------------------------------------------------------
+Dr.Sakaki
+---------------------------------------------------------
+Tampaknya itu akan membutuhkan sedikit lebih banyak untuk pemulihan Dr.leah
+Sepertinya itu cedera, tapi jauh lebih terganggu dari itu ... ...
+---------------------------------------------------------
+Apa yang terjadi dengan Friar ......
+Sepertinya beberapa saat kemudian aku akan bisa mendengarnya<@>
+---------------------------------------------------------
+Untuk saat ini, serahkan pada kami
+Kalian kembali ke misi<@>
+---------------------------------------------------------
+Satsuki
+---------------------------------------------------------
+Itu membuatku melarikan diri dari Friar sendiri ......
+Dr.rachel rupanya memiliki banyak hal<@>
+---------------------------------------------------------
+Friar ... ... Ratu yang cukup bau<@>
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Semua ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti majalah mode atau katalog
+Aku tidak tahu karena semuanya ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti file teks
+Aku tidak bisa melihatnya karena terkunci<@>
+---------------------------------------------------------
+Модный　журнал
+---------------------------------------------------------
+Дневник
+---------------------------------------------------------
+Berhentilah mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Aku tidak melakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Tonton arsipnya
+---------------------------------------------------------
+Aku tidak melakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Ada banyak taktik terkait file<@>
+---------------------------------------------------------
+"Signal Bullet" mengacu pada item yang digunakan untuk memberikan instruksi kepada kawan dalam misi<@>
+---------------------------------------------------------
+Kisaran pengaruh "Bullet signal" ada dua jenis "Wide area signals" dan "Narrow Range signal"<@>
+---------------------------------------------------------
+"Wide area signal" untuk semua anggota yang berpartisipasi dalam misi
+"Narrow area signal" hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+Ada 4 jenis "sinyal peluru" yang bisa digunakan<@>
+---------------------------------------------------------
+"Wide-area Signal: all hands set", "Narrow-Band Signal: Menunggu penyebaran,"
+"narrow-band signal: Mencari serangan musuh," "narrow-band signal: Set"<@>
+---------------------------------------------------------
+Untuk informasi rinci tentang masing-masing sinyal, lihat "Database"<@>
+---------------------------------------------------------
+"Control Unit" diaktifkan dengan "Burst Skill"<@>
+---------------------------------------------------------
+"Keterampilan meledak" menunjukkan efeknya hanya selama ledakan
+Ini adalah keterampilan khusus<@>
+---------------------------------------------------------
+Juga, "unit kontrol" dan keterampilan yang terpasang di dalamnya
+Judul berubah sesuai dengan<@>
+---------------------------------------------------------
+Aku tidak bisa membukanya karena aku tidak punya izin<@>
+---------------------------------------------------------
+Panduan taktis senior: sinyal peluru
+---------------------------------------------------------
+Panduan taktis lanjutan: Unit kontrol
+---------------------------------------------------------
+NO NAME
+---------------------------------------------------------
+Berhentilah mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+File-file tersebut diatur
+Sangat mudah untuk dilihat<@>
+---------------------------------------------------------
+Dengan "kartu avatar" bertukar dengan "avatar"
+Itu adalah teman yang dapat berpartisipasi dalam misi kapan saja<@>
+---------------------------------------------------------
+Ada dua cara untuk bertukar "Avatar Card"
+Salah satu caranya adalah secara manual bertukar di "Multiplayer"<@>
+---------------------------------------------------------
+Lainnya adalah "pertukaran kartu yang lewat"
+Hingga 3 kartu dapat ditukar sekaligus<@>
+---------------------------------------------------------
+"Avatar card" dapat diperbarui dengan bertukar dengan lawan yang sama
+Dengan melakukan "Multipemain" atau "Penukaran kartu penukaran"<@>
+---------------------------------------------------------
+Sebagai imbalan atas tugas yang dilakukan dengan pihak lain
+"Bahan koleksi Avatar" dapat diperoleh<@>
+---------------------------------------------------------
+Memo jepit<@>
+---------------------------------------------------------
+"Rebounding bullet" adalah peluru yang memiliki efek mengembalikan kekuatan fisikmu
+Namun, itu tidak berhasil untuk orang yang menembak sendiri<@>
+---------------------------------------------------------
+Untuk Bullet dengan sifat yang sangat istimewa
+penggunaan God arc terbatas<@>
+---------------------------------------------------------
+Hanya satu bagian, dengan sedikit Tsubaki dan Lindow
+Ada gambar Sakuya bersama<@>
+---------------------------------------------------------
+Yang lainnya adalah foto yang relatif baru<@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Bullet
+---------------------------------------------------------
+Sebuah foto
+---------------------------------------------------------
+Berhentilah mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+Aku mulai, tapi
+Layar rusak dan sulit dilihat<@>
+---------------------------------------------------------
+Apa yang kau lihat?<@>
+---------------------------------------------------------
+Setiap file terkunci
+Aku tidak bisa melihatnya<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Pedagang
+---------------------------------------------------------
+Apakah Anda akan membeli sesuatu?
+---------------------------------------------------------
+Yuno
+---------------------------------------------------------
+Setelah semua, tampaknya sesuatu yang aneh terjadi di Friar ...
+Asuna-chan ......
+---------------------------------------------------------

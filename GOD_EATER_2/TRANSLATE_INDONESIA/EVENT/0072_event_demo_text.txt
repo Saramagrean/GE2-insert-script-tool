@@ -1,0 +1,36 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0009
+===============================================================
+[00000172:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Alisa
+---------------------------------------------------------
+misi ini sangat mencurigakan...<@>
+---------------------------------------------------------
+spesies invasif selalu punya pancaran yang kuat pada 
+intinya dan seharusnya punya umpan balik yg jelas<@>
+---------------------------------------------------------
+tapi kenapa, hanya kemunculannya saja yang 
+dilaporkan...<@>
+---------------------------------------------------------
+kau tak sendirian
+---------------------------------------------------------
+aku akan terus mendukungmu meskipun dalam keadaan paling 
+buruk
+---------------------------------------------------------
+...terima kasih untuk meyakinkan kita akan berkeliling 
+melihat sekeliling<@>
+---------------------------------------------------------
+baiklah!, pertama kami akan urus Aragami disini dan 
+selanjutnya kami akan memastikan keadaan satelit<@>
+---------------------------------------------------------
+...ayo kita mulai kawan! <@>
+---------------------------------------------------------

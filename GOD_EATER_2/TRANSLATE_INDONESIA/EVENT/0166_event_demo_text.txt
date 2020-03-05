@@ -1,0 +1,66 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0020
+===============================================================
+[00000216:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Hibari
+---------------------------------------------------------
+...Terima kasih untuk kerja kerasmu Jadi, hanya kau yang
+kembali?<@>
+---------------------------------------------------------
+Kota benar benar dapat diandalkan<@>
+---------------------------------------------------------
+Ia sangat membantu menyelesaikan masalah di bagian luar<@>
+---------------------------------------------------------
+Dia menawarkan diri untuk itu, dia akan berakhir sebagai
+"Wakil" dari lingkungan sebelum kami mengetahuinya...<@>
+---------------------------------------------------------
+Kota
+---------------------------------------------------------
+Oh tidak, Aku menyerah, Aku menyerah!<@>
+---------------------------------------------------------
+Panggilan yang kudapatkan sebelumnya berasal dari pria tua
+yang menakutkan yang tinggal dua pintu dari kami<@>
+---------------------------------------------------------
+Aku akan pergi ke sana untuk memeriksa semua spanduk dan
+meminta untuk meningkatkan Ration yang terasa cukup
+menyentuh lalu pergi!<@>
+---------------------------------------------------------
+Apakah masalah telah diselesaikan?
+---------------------------------------------------------
+Apa semuanya baik baik saja sekarang?
+---------------------------------------------------------
+Yah, itu hanya salahpaham antara satu sama lain tapi begitu
+mereka membicarakannya secara pribadi, mereka menemukan
+kesamaan<@>
+---------------------------------------------------------
+Hidup mereka di bagian luar menjadi lebih baik dari
+sebelumnya, tapi tidak cukup sampai disana, semuanya
+bergantung pada blood untuk bertahan hidup disana<@>
+---------------------------------------------------------
+Mereka merasa cemas dengan kondisi hidup seperti itu jadi
+kata-kata mereka agak kasar, Kadang sangat menakutkan, Tapi
+Kemudian...<@>
+---------------------------------------------------------
+Aku suka setiap orang dari mereka ...!<@>
+---------------------------------------------------------
+Oh ya! Kenapa kamu tidak berkunjung ke rumahku? Aku ingin
+mengenalkanmu ke semuanya<@>
+---------------------------------------------------------
+Ketika aku pergi ke rumahku sekarang, Ibuku akan membuat
+makanan, jadi...<@>
+---------------------------------------------------------
+Oh halo, Hibari<@>
+---------------------------------------------------------
+Baiklah aku akan meminta cuti untuk kalian berdua<@>
+---------------------------------------------------------
+Baiklah, Kita sudah siap kan? Masakan ibuku sangat Enak!<@>
+---------------------------------------------------------

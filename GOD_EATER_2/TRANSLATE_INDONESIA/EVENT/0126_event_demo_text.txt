@@ -1,0 +1,56 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0017
+===============================================================
+[00000204:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Gil
+---------------------------------------------------------
+Tidakkah kau ingin diselesaikan sekaligus? Atau hanya untuk 
+kepuasanmu saja?
+---------------------------------------------------------
+Thankfully I'm pleased as I can be
+---------------------------------------------------------
+Ayo incar yang lebih tinggi
+---------------------------------------------------------
+Oh, benar... Ingat apa yang kukatakan pada misi 
+sebelumnya tentang "latest technology"...<@>
+---------------------------------------------------------
+Kelihatannya akan jadi aplikasi untuk Power of Blood, Blood 
+adalah pengembangan untuk God Arc generasi baru. Sedang 
+dalam pengerjaan sekarang <@>
+---------------------------------------------------------
+Contohnya , the owner of behavior and tactics type God Arc, 
+memory Arc, specializes in sophisticated learning
+---------------------------------------------------------
+Mengontrol mesin Gid Arc dengan remot, tanpa merusaknya dari 
+arah manapun. Akan mencapai titik dimana bisa melanjutkan 
+serangan ...
+---------------------------------------------------------
+Yaa, tampaknya bisa dibilang seperti itu<@>
+---------------------------------------------------------
+Apa sungguh mungkin melakukan hal seperti itu?
+---------------------------------------------------------
+Bagaimanapun juga kelihatannya buruk!
+---------------------------------------------------------
+Semoga, Aku ingin keluar dari kelompok mereka...<@>
+---------------------------------------------------------
+Aku mencoba berfikir sebisa mungkin
+---------------------------------------------------------
+Begitu kah... Aku senang<@>
+---------------------------------------------------------
+Haha... Seperti yang diharapkan<@>
+---------------------------------------------------------
+Aah, dengan staf Cabang Far East, Aku dapat 
+mewujudkannya... Hanya firasatku saja<@>
+---------------------------------------------------------
+Aah, memang Aku merasa bangga kepada antusiasme orang-orang 
+Cabang Far East...<@>
+---------------------------------------------------------

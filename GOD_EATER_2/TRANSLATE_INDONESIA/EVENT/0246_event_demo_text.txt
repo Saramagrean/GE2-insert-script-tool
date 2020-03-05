@@ -1,0 +1,38 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0009
+===============================================================
+[00000172:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Hibari
+---------------------------------------------------------
+Kau mendengarnya kan? <@>
+---------------------------------------------------------
+Sepertinya Licca baru saja menerima surat panggilan
+ dari HQ Oracle Cell Research Lab <@>
+---------------------------------------------------------
+Temanku dari Far East dapat pengakuan dari seorang
+ pejabat dunia yang terkenal! walaupun aku
+ merasa kesepian ketika dia tak ada disini...<@>
+---------------------------------------------------------
+Jadi Licca pindah ke HQ...?
+---------------------------------------------------------
+Jadi itu keputusan akhirnya?
+---------------------------------------------------------
+
+Aku belum mendengar apapun jika itu keputusan akhir atau
+ bukan, tapi untuk karir Licca, tak ada pilihan yang lebih baik
+ dari ini<@>
+---------------------------------------------------------
+Yahh.. ketika kau pulang dari misi, bagaimana jika kau tanya
+ langsunh pada Licca?<@>
+---------------------------------------------------------
+Sebenarnya aku penasaran saat ini..... <@>
+---------------------------------------------------------

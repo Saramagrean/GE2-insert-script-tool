@@ -1,0 +1,60 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0021
+===============================================================
+[00000220:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Erina
+---------------------------------------------------------
+......kamu,sekarang ada waktu luang ?
+---------------------------------------------------------
+Sebenarnya aku ada misi untuk mengisi waktu luang
+---------------------------------------------------------
+Jika kamu mau pergi,mungkin kamu bisa pergi bersama ku......
+---------------------------------------------------------
+Wow......
+---------------------------------------------------------
+Tu-tunggu sebentar,kalau begitu aku akan dalam masalah !
+---------------------------------------------------------
+Jika kamu ingin pergi,katakan saja
+---------------------------------------------------------
+Jangan menahan diri begitu
+---------------------------------------------------------
+......um baiklah,maksudnya itukan
+---------------------------------------------------------
+Di misi selanjutnya aku akan melawan yaksha
+---------------------------------------------------------
+Kapten Kouta dan emil memiliki permasalahan yang berbeda,aku terlalu lemah
+---------------------------------------------------------
+Karena kapten memiliki kesempatan bagus untuk bekerja sama dengan tim Blood,kamu harus pergi sekarang
+---------------------------------------------------------
+Jadi......
+Aku ingin tahu,apakah aku dan kalian berdua bisa pergi......
+---------------------------------------------------------
+Syukurlah!
+jadi,ayo!
+---------------------------------------------------------
+Emmm,nanti aku beri tahu ya !
+......aku akan menunggu,jadi lakukan pekerjaan mu secepatnya ya
+---------------------------------------------------------
+Kalau begitu
+---------------------------------------------------------
+Sekarang agak sedikit......
+---------------------------------------------------------
+Emmm,nanti kasih tahu ya !
+......aku akan menunggu,aku akan melakukan tugas ku segera
+---------------------------------------------------------
+Ada apa ?
+Gerbang Shutsugeki tidak ada disini ?
+---------------------------------------------------------
+Anu......tidak,ternyata tidak,Kayaknya ada yang sibuk
+---------------------------------------------------------
+......Aku akan menunggu,jadi aku menyelesaikan tugasku lebih cepat
+---------------------------------------------------------

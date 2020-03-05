@@ -1,0 +1,119 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0038
+===============================================================
+[00000288:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Leah
+---------------------------------------------------------
+Ciel...
+---------------------------------------------------------
+Dan kapten Blood juga... Kupikir aku akan berakhir
+kembali kepada kalian semua... <@>
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+Tidak, itu hanya sebuah berkah yang datang secara
+tiba tiba, Dr. Leah ... <@>
+---------------------------------------------------------
+Hentikan itu, Ciel.<@>
+---------------------------------------------------------
+Aku sudah tidak berhak disebut "Professor" karena ini adalah salahku
+kita berakhir seperti ini... <@>
+---------------------------------------------------------
+Professor...Leah...<@>
+---------------------------------------------------------
+Maksudku.....Bagaimana keadaan semuanya di Friar? ... Professor 
+Rachel, dan Julius juga...<@>
+---------------------------------------------------------
+...kau tahu kan bahwa Julius dan DEMAS selalu aktif?
+Rachel membuat itu menjadi kenyataan... Friar sudah dibawah kontrol 
+mereka<@>
+---------------------------------------------------------
+Aku.....Saat aku melarikan diri, Tidak ada seorang pun yang 
+mengejarku.....satu satunya yang menemukanku adalah
+Aragami.....<@>
+---------------------------------------------------------
+Tanyakan tentang Karyawan Friar
+---------------------------------------------------------
+Tanyakan tentang Direktur jenderal
+---------------------------------------------------------
+Lanjut
+---------------------------------------------------------
+Dari apa yang kita dengar profesor, sepertinya Julius dan 
+Professor Rachel sedang mengambil alih Friar...<@>
+---------------------------------------------------------
+Itu bukan hal yang buruk Karena DEMAS memang selalu 
+mengalahkan Aragami...<@>
+---------------------------------------------------------
+Mereka hanya melakukan itu untuk dunia dimasa depan, 
+Aku...<@>
+---------------------------------------------------------
+Aksesku menuju DEMAS telah ditolak, Aku juga tidak dapat
+masuk ke Departemen Penelitian... Aku sudah berakhir... 
+Meskipun aku adalah seorang ilmuwan, dan seorang
+saudara...!<@>
+---------------------------------------------------------
+Tanyakan tentang Julius secara detail
+---------------------------------------------------------
+Tanyakan tentang Dr. Rachel secara detail
+---------------------------------------------------------
+Um, Professor Leah... Apa ada yang dapat kami lakukan 
+untukmu...?<@>
+---------------------------------------------------------
+.....<@>
+---------------------------------------------------------
+Kau masih memanggilku "Professor"... setelah semua yang 
+terjadi padaku...<@>
+---------------------------------------------------------
+Bagiku, Kau adalah guruku apapun yang terjadi.....<@>
+---------------------------------------------------------
+Ini adalah sebuah kisah lama.....<@>
+---------------------------------------------------------
+.....Saat aku berumur 11 tahun, Aku aktif dan banyak bicara 
+disisi lain, Saudaraku Rachel adalah orang yang 
+pendiam.....<@>
+---------------------------------------------------------
+Aku tidak mengerti apa yang sedang dipikirkannya lalu aku
+menjadi kesal karenanya... Aku berakhir dengan
+membencinya...<@>
+---------------------------------------------------------
+Aku akan melarikan diri... Dan saat aku bekerja
+di lapangan, Anggota staff itu...<@>
+---------------------------------------------------------
+Dia tidak menahanku, Tapi ia malah memberiku sebuah granat... 
+mungkin, Ia mengerti bahwa aku berencana melarikan 
+diri...<@>
+---------------------------------------------------------
+Ia disibukan dengan negosiasi... Kita bahkan belum bertemu 
+sama sekali... Katakan saja bahwa itu hanya 
+salah paham, kemudian orang itu...<@>
+---------------------------------------------------------
+Untuk direktur jenderal... Dengan kepentingannya sendiri, dia 
+membantu kami memenuhi kebutuhan<@>
+---------------------------------------------------------
+meskipun jika Direktur Jenderal memanfaatkan kami, itu 
+masih bermanfaat bagi manusia...<@>
+---------------------------------------------------------
+Slogan palsu rachel, bahwa Blood akan "memandu
+manusia"... Julius menanggapinya dengan
+serius...<@>
+---------------------------------------------------------
+salah satu yang ia pilih bukanlah blood, tapi DEMAS... Saatnya telah
+tiba... Ia akan... menjadi "Raja"<@>
+---------------------------------------------------------
+Rachel... semuanya...<@>
+---------------------------------------------------------
+Tidak! ini tidak seperti itu...!
+---------------------------------------------------------
+Rachel adalah anak yang baik! Kami juga berhubungan dengan baik.....!<@>
+---------------------------------------------------------
+Itu adalah salahku..... Ia tidak bersalah.....<@>
+---------------------------------------------------------

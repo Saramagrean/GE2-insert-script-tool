@@ -1,0 +1,283 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0120
+===============================================================
+[00000616:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Ciel
+---------------------------------------------------------
+Selamat datang kembali
+Sekali lagi, tolong ... izinkan aku mengucapkan terima kasih 
+---------------------------------------------------------
+Pada saat itu,kamu datang untuk membantuku.sungguh, terima kasih banyak 
+---------------------------------------------------------
+Benarkah
+---------------------------------------------------------
+Ah ,aku minta maaf, aku akan kembali ke pekerjaanku.Sementara Wakil Kapten tidak ada,
+Aku yg  memperhatikan.Aku ingin berkonsultasi denganmu
+---------------------------------------------------------
+Kalau kamu tidak keberatan.Apakah kamu punya waktu?
+---------------------------------------------------------
+Oh terima kasih……!Kalau begitu, bisakah kamu datang kesini?
+---------------------------------------------------------
+Ok, tapi aku ingin membicarakan ini sesegera mungkin.Jika kau punya waktu,
+Aku senang jika kamu dapat mendengarkan aku
+---------------------------------------------------------
+baiklah
+---------------------------------------------------------
+Aku akan segera menemuimu
+---------------------------------------------------------
+Um,Jika kamu tidak keberatan, apakah kamu mempunyai waktu sekarang?
+---------------------------------------------------------
+Aku ingin pergi ke eksperimen verifikasi Bullet yang aku buat.
+Apakah tidak apa-apa jika kamu pergi denganku?
+---------------------------------------------------------
+Aku ingin melakukan verifikasi sebelum aku melupakannya.
+Terima kasih atas perhatiannya
+---------------------------------------------------------
+Kapanpun boleh！
+---------------------------------------------------------
+Tunggu sebentar
+---------------------------------------------------------
+Terima kasih!
+---------------------------------------------------------
+Tolong katakan padaku kapan misinya selesai
+---------------------------------------------------------
+Untuk percobaan verifikasi Bullet yang aku buat,aku ingin pergi denganmu.
+---------------------------------------------------------
+Fran
+---------------------------------------------------------
+Apa kau sudah memberi tahu Ciel sebuah pesan waktu dia kembali?
+Tolong Beritahu aku ......
+---------------------------------------------------------
+Oh, ini tentang ciel.Itulah yang ingin aku bicarakan dengan Wakil Kapten 
+---------------------------------------------------------
+Gill
+---------------------------------------------------------
+Hmm?Oh, buruk .aku berpikir sedikit ... ...
+---------------------------------------------------------
+Jika itu cerita, lakukanlah kali ini ......
+---------------------------------------------------------
+ketika kamu dihukum,Ciel selalu mengkhawatirkanmu
+---------------------------------------------------------
+Bahkan jika salah satu suara kamu, bagaimana melakukannya ?
+---------------------------------------------------------
+Julius
+---------------------------------------------------------
+Yomoya, aku tidak akan bertindak  lancang di sana ... ...
+---------------------------------------------------------
+... Yah, tidak apa-apa
+.Ini dapat diandalkan sebagai 
+---------------------------------------------------------
+Kau harus menyapa ciel juga, dia nampak lelah karena selalu mengkhawatirkanmu
+---------------------------------------------------------
+Dr.leah
+---------------------------------------------------------
+Aku telah mengkonfirmasi data eksperimen kali ini,
+tapi prinsip perilaku Aragami,Apakah karena analisis yang tidak mencukupi?
+---------------------------------------------------------
+prof.kujo
+---------------------------------------------------------
+Ku ...... Dalam hal itu, itu adalah masalah ...
+Aragami yang di periksa saat ini hampir selesai dianalisis ... ...
+---------------------------------------------------------
+Alasannya cukup baik .dan lagipula akan lebih baik jika kau berkonsultasi dengan penyedia data cabang Far Eastern
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Wakil Kapten, Aku belum melihatnya dalam jangka yg lama ini!
+ini adalah kisah yang sangat mengerikan yg menerobos langgaran hukum dengan keselamatan hidup bukan
+---------------------------------------------------------
+Tetapi hukuman karena pelanggaran instruksi cukup mudah.Haruskah aku juga melakukannya sesekali?
+---------------------------------------------------------
+prof.kujo
+---------------------------------------------------------
+Dan dengan cara Dr. Leah , itu,Dr Rachel, dengan cara apa.
+---------------------------------------------------------
+Dr.Leah
+---------------------------------------------------------
+Dengan Dr. Raquel, Aku memeriksa kebijakan operasi masa depan di kamarku.
+Apakah lebih baik kau mendengarnya?
+---------------------------------------------------------
+Tidak, bukan itu.selama kau bisa tahu sekarang.
+---------------------------------------------------------
+Dr.Rachel
+---------------------------------------------------------
+Aku bangga orang seperti kau ada di Blood.
+Terima kasih banyak karena telah melindungi keluargaku tercinta ......
+---------------------------------------------------------
+Hanya , Kedatangan God machine soldier tidak dipuji.
+Itu bisa berdampak besar pada semangat pengguna ... ...
+---------------------------------------------------------
+Hanya untuk memastikan, segera sesudah kau melakukan pemeriksaan medis aku akan menerimanya...
+Jadi,tolong lakukanlah itu.
+---------------------------------------------------------
+Staf FRIAR
+---------------------------------------------------------
+Tidak mungkin, Aku belum mempersiapkan diri untuk mengambil alih God machine soldier.Sejujurnya,
+Aku takut!
+---------------------------------------------------------
+ Wajah bodoh Direktur Grem pada waktu itu ,Aku ingin menunjukkannya kepadamu
+---------------------------------------------------------
+Staf FRIAR
+---------------------------------------------------------
+Ciel juga tampaknya telah membangunkan kekuatan Blood.Meskipun aku belum sampai ke FRIAR ...
+---------------------------------------------------------
+Aku juga ingin menghindari kehilangan semua orang.
+Aku akan terus mendukungmu dengan segenap kekuatanku!
+---------------------------------------------------------
+Romeo
+---------------------------------------------------------
+kau masih hidup!Meskipun kau tidak ada di sana, Ciel cukup hebat!
+---------------------------------------------------------
+Sejak kapan kau mempelajari Blood arts! Sial iri sekali, sialan kau!
+---------------------------------------------------------
+Oh, aku bangun terlalu cepat! Doburn! Aku ingin pergi, Aku ingin bangun,
+kekuatan Blood,huh!
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Semuanya ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti majalah model atau katalog,
+Aku tidak bisa membacanya karena semuanya ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti file teks.
+Aku tidak bisa melihatnya karena terkunci<@>
+---------------------------------------------------------
+Модный　журнал
+---------------------------------------------------------
+Дневник
+---------------------------------------------------------
+Berhentilah mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Aku tidak melakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat? <@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Tonton arsipnya 
+---------------------------------------------------------
+Aku tidak melakukan apa-apa 
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat? <@> 
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain 
+---------------------------------------------------------
+Ada banyak taktik terkait filenya <@> 
+---------------------------------------------------------
+"Signal Bullet" mengacu pada item yang digunakan untuk memberikan instruksi kepada kawan dalam misi<@>
+---------------------------------------------------------
+Kisaran pengaruh "Bullet signal" ada dua jenis "Wide area signals" dan "Narrow Range signal"<@>
+---------------------------------------------------------
+"Wide area signal" untuk semua anggota yang berpartisipasi dalam misi
+"Narrow area signal" hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+Ada 4 jenis "signal Bullet" yang bisa digunakan <@> 
+---------------------------------------------------------
+"Wide-area Signal: all hands set", "Narrow-Band Signal: Menunggu penyebaran,"
+"narrow-band signal: Mencari serangan musuh," "narrow-band signal: Set"<@>
+---------------------------------------------------------
+Untuk informasi lebih lanjut tentang setiap sinyal, silahkan lihat "Database"<@>
+---------------------------------------------------------
+"Control Unit" diaktifkan dengan "Burst Skill"<@>
+---------------------------------------------------------
+"Burst skill" menunjukkan efeknya hanya selama Burst
+.Ini adalah keahlian khusus <@> 
+---------------------------------------------------------
+Juga, "Control unit" .Judul berubah sesuai dengan keterampilan yang terpasang di dalamnya <@> 
+---------------------------------------------------------
+Aku tidak bisa membukanya karena Aku tidak punya izin <@> 
+---------------------------------------------------------
+Panduan taktis lanjutan: signal Bullet 
+---------------------------------------------------------
+Panduan taktis lanjutan: Control unit 
+---------------------------------------------------------
+ＮＯ　ＮＡＭＥ
+---------------------------------------------------------
+Berhenti melihat 
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat? <@> 
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain 
+---------------------------------------------------------
+File-file yg diatur tersebut,Sangat mudah untuk melihatnya <@> 
+---------------------------------------------------------
+Dengan "avatar card"kau bisa bertukar dengan "avatar"
+Siapa pun yang  berpartisipasi dalam misi kapan saja <@> 
+---------------------------------------------------------
+Ada dua cara untuk bertukar "Avatar Card"
+Salah satunya adalah secara manual bertukar di "Multiplayer" <@> 
+---------------------------------------------------------
+Lainnya adalah "exchange of passing cards".Hingga 3 kartu dapat ditukar sekaligus <@> 
+---------------------------------------------------------
+"Avatar card" dapat diperbarui dengan bertukar dengan pihak lain
+dengan melakukan "Multiplayer" atau "exchange of passing card" <@>
+---------------------------------------------------------
+Sebagai imbalan atas tugas yang dilakukan dengan pihak lain
+"Avatar collection material" akan didapatkan <@> 
+---------------------------------------------------------
+Bullet memo <@> 
+---------------------------------------------------------
+"Recovery bullet" adalah peluru yang memiliki efek mengembalikan kekuatan fisik kamu.
+Namun, itu tidak berfungsi pada orang yang menembak <@> 
+---------------------------------------------------------
+Untuk Bullet dengan sifat yang sangat istimewa
+God machine dapat digunakan terbatas <@> 
+---------------------------------------------------------
+Hanya ada satu gambar,dimana digambar tersebut terdapat Tsubaki yang masih muda bersama
+lindow,dan juga sakuya <@>
+---------------------------------------------------------
+Yang lainnya adalah foto yang relatif baru <@> 
+---------------------------------------------------------
+Avatar 
+---------------------------------------------------------
+Bullet
+---------------------------------------------------------
+写真
+---------------------------------------------------------
+見るのをやめる
+---------------------------------------------------------
+
+---------------------------------------------------------
+Aku mulai, tapi
+Layarnya rusak dan  sulit dilihat <@> 
+---------------------------------------------------------
+Apa yang kamu lihat? <@> 
+---------------------------------------------------------
+Setiap file terkunci.Aku tidak dapat melihatnya <@> 
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain 
+---------------------------------------------------------

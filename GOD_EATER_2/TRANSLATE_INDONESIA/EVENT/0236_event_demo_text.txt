@@ -1,0 +1,85 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0029
+===============================================================
+[00000252:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Nana
+---------------------------------------------------------
+Kita bisa mencobanya disini tanpa membuat masalah pada
+ yang lain, oke<@>
+---------------------------------------------------------
+Jadi..... cobalah sekuatmu,ayo!<@>
+---------------------------------------------------------
+Eh...?
+---------------------------------------------------------
+Tydac tydac, kau duluan
+---------------------------------------------------------
+Aku bercanda anjir, candaan
+ doang, kalahkan dengan Bang....!<@>
+---------------------------------------------------------
+Eh? Apa aku barusan  mencampur semuanya dan
+ malah mengambil prototype...<@>
+---------------------------------------------------------
+Ah, kau datang juga! maafkan aku oke?<@>
+---------------------------------------------------------
+Sepertinya aku tak sengaja memberimu sebuah stun
+ grenade yang ada efek hold-nya<@>
+---------------------------------------------------------
+Yang ini yang benar.... ayo! <@>
+---------------------------------------------------------
+ga deh makasih
+---------------------------------------------------------
+...yaudah
+---------------------------------------------------------
+Sekarang, aku bergantung padamu!<@>
+---------------------------------------------------------
+Akhirnya! "Mercon Grenade", tes, berhasil!
+<@>
+---------------------------------------------------------
+Ehehehe, Captainlah yang kuinginkan untuk
+ menunjukkanmya pertama dan sebagian besarnya<@>
+---------------------------------------------------------
+...Aku bersyukur aku bisa jadi seorang God Eater<@>
+---------------------------------------------------------
+Sehingga aku bisa bertemu semuanya....sungguh.....
+sungguh... aku bersyukur<@>
+---------------------------------------------------------
+...<@>
+---------------------------------------------------------
+Oh, udah berhenti<@>
+---------------------------------------------------------
+Captain, terima kasih telah membantuku.... ini akan menjadi
+ token terima kasihku mulai sekarang... mari kita lanjutkan
+ hal ini lebih baik!
+<@>
+---------------------------------------------------------
+Ehehe... Itu sedikit memalukan<@>
+---------------------------------------------------------
+Ayo pulang, aku akan membuat lebih banyak jadi lain kali kita
+ bisa membuat pesta kembang api!<@>
+---------------------------------------------------------
+Aku yakin, semuanya di Blood dan Far East akan memeriahkan
+ suasananya!<@>
+---------------------------------------------------------
+Baiklah, aku akan lebih produktif di masa yang akan datang!<@>
+---------------------------------------------------------
+Bantu aku mulai sekarang, oke?<@>
+---------------------------------------------------------
+Ga deh, agak berisiko, jadi aku
+ ingin kau mencoba ini sedikit...<@>
+---------------------------------------------------------
+Eeeeh, gamau ah, terlalu berbahaya.....<@>
+---------------------------------------------------------
+Uh..... aku yakin lain waktu itu akan aman, percayalah
+ padaku oke?<@>
+---------------------------------------------------------
+Seperti yang kuduga! aku bisa merasakan kepercayaanmu yang kuat padaku, makasih!<@>
+---------------------------------------------------------

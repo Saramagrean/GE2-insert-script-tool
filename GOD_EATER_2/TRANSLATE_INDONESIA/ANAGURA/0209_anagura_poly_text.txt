@@ -1,0 +1,313 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0121
+===============================================================
+[00000620:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+"Kau tidak diperbolehkan masuk karena telah dinyatakan keluar" 
+……Tertulis seperti itu 
+---------------------------------------------------------
+
+---------------------------------------------------------
+Tidak bisa masuk karena tidak memiliki wewenang 
+---------------------------------------------------------
+
+---------------------------------------------------------
+Tidak bisa masuk karena tidak memiliki wewenang 
+---------------------------------------------------------
+Asuna
+---------------------------------------------------------
+Sudah lama sekali aku melihat kalian……
+---------------------------------------------------------
+Kalubi
+---------------------------------------------------------
+Kalubi
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+Menurut penjelasan dari Dr.Sakaki..berasal dari 
+god machine soldier merah
+Sepertinya itu "gelombang rempang" yang sama dengan
+aragami
+---------------------------------------------------------
+Sepertinya sacred squad telah dihancurkan oleh aragami
+Aku sudah bilang bahwa itu adalah hasil dari menjaga
+hujan merah
+---------------------------------------------------------
+Ayo bergegas
+Tak peduli apapun yang akan terjadi,harus tetap
+seperti ini
+---------------------------------------------------------
+Daishi
+---------------------------------------------------------
+Ini yang dirumorkan cabang far east……
+Hebat..besar...keren……
+---------------------------------------------------------
+Emile
+---------------------------------------------------------
+Woah!menyakiti orang tanpa pedang!
+Tak bisa dimaafkan!aku tidak akan memaafkan god machine
+---------------------------------------------------------
+Erina
+---------------------------------------------------------
+Tampaknya para pengungsi mulai menerima far east
+Aku pikir kalau lebih baik aku pergi ketempat pengungsian……
+---------------------------------------------------------
+Fran
+---------------------------------------------------------
+Pelarian dari god machine sepertinya hampir diseluruh area
+Tidak ada pernyataan dari fran……
+---------------------------------------------------------
+Gill
+---------------------------------------------------------
+Kapten,sepertinya……
+Para god machine mulai melarikan diri……
+---------------------------------------------------------
+Strategi harus dimulai untuk melacak 
+Bersiaplah……
+---------------------------------------------------------
+Julius……
+Apa yang terjadi……
+---------------------------------------------------------
+Haruomi
+---------------------------------------------------------
+Terima kasih,ini adalah atmosfer dari medan besi
+Aku pikir dia takkan melarikan diri
+---------------------------------------------------------
+Hibari
+---------------------------------------------------------
+Kehancuran jinja soldier menjadi aragami mempengaruhi hujan merah
+dan melarikan diri!
+...bagian dari perkembang melaju ke cabang far east！
+---------------------------------------------------------
+Friar,aku tidak bisa merespon kontak radio darurat……
+Tolong hentikan perkembangan god machine sesegera mungkin！
+---------------------------------------------------------
+Martial arts
+---------------------------------------------------------
+Iku
+---------------------------------------------------------
+Semuanya,mungkin aku sibuk,tapi terima kasih telah menerimanya
+Tetap saja,god machine soldier tampaknya tiba-tiba kabur……
+---------------------------------------------------------
+Sampai sekarang,semuanya tidak seperti itu
+Aku pikir lebih aman jika god machine berada disana……
+---------------------------------------------------------
+Kota
+---------------------------------------------------------
+Jadi,evakuasi disekitar penduduk sudah ditemani 1 paragraf……
+Arahan evakuasi selanjutnya harus kupersiapkan secepatnya……
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Aku melihatnya pertama kali,bahwa god machine berubah
+menjadi semacam warna merah……
+Itu seperti sesuatu...sesuatu yang sedang marah……
+---------------------------------------------------------
+God machine sekaligus
+Tak ada pilihan lain selain bertarung
+---------------------------------------------------------
+Perawat
+---------------------------------------------------------
+Walaupun serankaian kondisi,ternyata anak ini
+baik-baik saja……
+---------------------------------------------------------
+Mutsumi
+---------------------------------------------------------
+Beberapa orang sudah datang dari area pendunduk
+Pakai itu dengan tanganmu disini！
+---------------------------------------------------------
+Sakaki
+---------------------------------------------------------
+God machine merah itu yang telah melarikan diri,tapi...
+hasil investigasi
+Telah menemukan bahwa "Hampir setara dengan aragami"
+---------------------------------------------------------
+Agar lebih tepat,"medan gelombang eksentrik" dikonfirmasi
+sama dengan aragami
+……Itu berarti
+---------------------------------------------------------
+Mungkin saja god soldier yang hancur dan terbanting ke 
+medan pertempuran
+Diperkiran bahwa ia terus terkena pengaruh hujan merah dan kabur
+---------------------------------------------------------
+Situasi inu akan berasaing beberapa saat……
+Kalian harus bergegas dan kalahkan god soldier yang kabur itu
+---------------------------------------------------------
+Satsuki
+---------------------------------------------------------
+Walaupun dengan kondisi ini,friar takkan bergerak
+
+---------------------------------------------------------
+...Kapten,aku meminta perlindungan untul warga sipil
+Aku mengandakanmu
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Semuanya tertulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Itu terlihat seperti majalah model atau katalog
+Aku tidak tau karena tertulis dalam bahasa rusia<@>
+---------------------------------------------------------
+Terlihat seperti file berteks
+Aku tidak bisa melihatnya karena tersembunyi<@>
+---------------------------------------------------------
+Модный　журнал
+---------------------------------------------------------
+Дневник
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Jangan lakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Liat berkasnya
+---------------------------------------------------------
+Jangan lakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Terdapat banyak taktik dalam file terkait<@>
+---------------------------------------------------------
+"Signal Bullet" mengacu pada item yang digunakan untuk memberikan instruksi kepada kawan dalam misi<@>
+---------------------------------------------------------
+Kisaran pengaruh "Bullet signal" ada dua jenis "Wide area signals" dan "Narrow Range signal"<@>
+---------------------------------------------------------
+"Wide area signal" untuk semua anggota yang berpartisipasi dalam misi
+"Narrow area signal" hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+Terdapat 4 jenis "peluru signal" yang dapat digunakan<@>
+---------------------------------------------------------
+Signal ber-area lebar : Set aggregate  Signal ber-area sempit : set
+Signal berjarak lebar : Set                      Signal berjarak pendek : Mencari serangan musuh<@>
+---------------------------------------------------------
+Untuk informasi lebih detail silahkan liat database<@>
+---------------------------------------------------------
+"Control Unit" diaktifkan dengan "Burst Skill"<@>
+---------------------------------------------------------
+"Burst skill" menunjukan efel saat dalam burst
+Adalah sebuah skill special<@>
+---------------------------------------------------------
+Juga tergantung pada "control unit" dan skill yang terpasang didalamnya maka Title akan berubah<@>
+---------------------------------------------------------
+Aku tidak bisa membukanya karena tidak
+memiliki izin<@>
+---------------------------------------------------------
+Petunjuk taktis senior : peluru signal
+---------------------------------------------------------
+Petunjuk taktis lebih lanjut : Kontrol unit
+---------------------------------------------------------
+ＮＯ　ＮＡＭＥ
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Filenya tersusun rapi 
+Mudah untuk melihatnya<@>
+---------------------------------------------------------
+Dengan "kartu avatar" tukar dengan "avatar"
+teman yang akan bisa berpartisipasi 
+dalam misi kapan saja
+<@>
+---------------------------------------------------------
+Terdapat 2 cata dalam bertukar "kartu avatar"
+Cara pertama secara manual bertukar
+saat "Multiplayer"<@>
+---------------------------------------------------------
+Cara yang lain adalah dengan "Perukaran kartu langsung"
+Batas 3 kartu yang dapat ditukar secara bersamaan<@>
+---------------------------------------------------------
+"Kartu avatar" dapat diupdate dengan teman yang sama
+Dengan "Multiplayer" atau "Redemption card exchange"<@>
+---------------------------------------------------------
+Sebagai imbalan karena menyelesaikan tugas<dengan anggota lain
+"Material avatar" bisa diambil<@>
+---------------------------------------------------------
+Memo bullet<@>
+---------------------------------------------------------
+Rebounding bullet adalah bullet dengan efek untuk memulihkan kekuatan teman.
+Namun, tidak memiliki efek bagi orang yang menembak<@>
+---------------------------------------------------------
+Untuk Bullet dengan sifat yang sangat istimewa
+penggunaan God arc terbatas<@>
+---------------------------------------------------------
+Hanya ada satu potongan,dengan Tsubaki dan Lindow waktu kecil
+Ada juga foto bersama sakuya<@>
+---------------------------------------------------------
+Foto yang lain relatif baru<@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Bullet
+---------------------------------------------------------
+Foto
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Aku telah memulainya
+Tapi tampilannya rusak dan sulit dilihat<@>
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Semua file terkunci
+Aku tidak bisa melihatnya<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Yorozuya
+---------------------------------------------------------
+Apakah kau ingin membeli sesuatu？
+---------------------------------------------------------
+Yosuke
+---------------------------------------------------------
+AAAA!YUNA MENJADI ASUNA!
+Bang blood,lama tak jumpa！
+---------------------------------------------------------
+Yuno
+---------------------------------------------------------
+Tiba-tiba,ia terlihat hidup
+Fiuh...aku baik-baik saja
+---------------------------------------------------------

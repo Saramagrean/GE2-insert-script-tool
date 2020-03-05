@@ -1,0 +1,248 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0109
+===============================================================
+[00000572:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+Dengan ototritas saat ini, kamu tidak diperbolehkan memasuki ruangan ini
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+Romeo sangat berani ......
+Tindakannya ...... dia menjaga kehidupan orang-orang di pemukiman Utara
+---------------------------------------------------------
+Pada saat Romeo berhasil mengusir Aragami ......
+Aku merasakannya ...
+---------------------------------------------------------
+Bukan hanya spesies sensitif itu, tetapi juga Aragami yang berjarak 10 km
+seperti ada sesuatu, itulah yang kurasakan
+---------------------------------------------------------
+Itu pasti....... "Power of Blood" milik Romeo
+---------------------------------------------------------
+Franz
+---------------------------------------------------------
+Untuk hari ini, Blood sedang mengadakan hari gencatan senjata
+aku juga hari ini...tidak bisa berkerja
+---------------------------------------------------------
+Gill
+---------------------------------------------------------
+......Ini buruk
+maaf kalau boleh tinggalkan aku sendirian untuk sementara waktu
+---------------------------------------------------------
+Jangan khawatir ... Aku tidak bermaksud untuk diam.
+ini untuk Romeo ...
+---------------------------------------------------------
+Grem
+---------------------------------------------------------
+Kujo bangsat, mengotori reputasi ku seperti ini, ternyata salah memerintahkan hal ini kepadanya, bajingan kentod
+---------------------------------------------------------
+Ketika kamu keluar dari penjara militer, bersiaplah ......
+Sampai cucuku, aku akan mengambil hutangmu secara paksa!
+---------------------------------------------------------
+Julius
+---------------------------------------------------------
+Disaat seperti ini...... ketika aku harus berbicara dengan rekanku.... aku kehabisan kata-kata
+---------------------------------------------------------
+Sebagai gantiku.... apa kamu ingin menggantikanku?
+jika kamu.... aku yakin semua orang akan tenang
+---------------------------------------------------------
+Kelihatanya buruk
+---------------------------------------------------------
+Apa kapten juga ok?
+---------------------------------------------------------
+Aa... kalau tentang aku, jangan khawatir
+...... saat kamu selesai berpikir, beri tahu aku
+---------------------------------------------------------
+...Sudahkah kamu berpikir?
+---------------------------------------------------------
+Pertama, kita pergi ke misi dan selesaikan misi itu
+---------------------------------------------------------
+Ketika misi selesai ... ... beri aku waktu untuk bicara
+---------------------------------------------------------
+Tidak perlu terburu-buru...... setelah dipikirkan, beri tahu aku
+---------------------------------------------------------
+Zeeb lah
+---------------------------------------------------------
+Belum om
+---------------------------------------------------------
+..... kuylah
+---------------------------------------------------------
+...... Tolong katakan padaku ketika kamu siap
+---------------------------------------------------------
+Leah
+---------------------------------------------------------
+Bahkan dari sudut pandang mataku, yang bertentangan dengan Dr. Kujo
+Persiapannya tampak sempurna ......
+---------------------------------------------------------
+Jika kamu mengembangkan God Machibe Soldier tanpa pilot ......
+Mungkin kamu bisa menghindari tragedi mengerikan...
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Romeo-senpai……
+---------------------------------------------------------
+Aku tidak percaya itu……
+---------------------------------------------------------
+Friar Staf
+---------------------------------------------------------
+Romeo-san ......
+Kenapa ...... kenapa hal seperti itu terjadi……
+---------------------------------------------------------
+Friar Staf
+---------------------------------------------------------
+Ini adalah masalah tanggung jawab dari operasi God Machine Soldier yang rusak
+Dr. Kujo pergi ke markas sebelumnya……
+---------------------------------------------------------
+Mungkin, dia juga dapat kembali sebagai peneliti
+tapi itu akan sulit.……
+---------------------------------------------------------
+Satsuki
+---------------------------------------------------------
+"Akan kuberikan nyawaku kepada God Machine Soldier yang menyelamatkan warga sipil dengan mempertaruhkan nyawa"
+...... Di sumber manapun pernyataan seperti itu cukup mengecewakan juga
+---------------------------------------------------------
+Meskipun itu disebabkan oleh kerusakan God Machine Soldier, wajah markas besar terlihat
+Tidak ada yang mau menyebutkannya
+---------------------------------------------------------
+Orang yang sperti itu kerad juga mereka……
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang ingin kamu lihat ?
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Semua ditulis dalam bahasa Rusia
+---------------------------------------------------------
+Ini seperti majalah atau katalog, saya tidam tahu karena semuanya ditulis dalam bahasa Rusia
+---------------------------------------------------------
+Ini seperti file teks, saya tidak bisa melihatnya karena terkunci
+---------------------------------------------------------
+Majalah Mode
+---------------------------------------------------------
+Diary
+---------------------------------------------------------
+Berhenti mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang ingin kamu lihat ?
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+何もしない
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang ingin kamu lihat ?
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat arsip
+---------------------------------------------------------
+Do nothing
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang ingin kamu lihat ?
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Ada banyak taktik terkait dengan file
+---------------------------------------------------------
+"Signal bullet" mengacu pada item yang digunakan untuk memberikan instruksi kepada kawan dalam misi<@>
+---------------------------------------------------------
+pengaruh "signal bullet"dan 2 jenis lainnya "wide area signal," "narrow-band signal."
+---------------------------------------------------------
+"Wide are signal" mengacu pada penugasan anggota, dan "narrow-area signal" mengacu pada status dalam anggota
+---------------------------------------------------------
+Ada 4 jenis "signal bullet" yang bisa digunakan
+---------------------------------------------------------
+"Wide-area signal: all hands set", "narrow-band signal: spread out the waiting," "narrow-band signal: searching for the enemy assault," "narrow-band signal: set"
+---------------------------------------------------------
+Lebih detail, tentang signal bullet lihat " database"
+---------------------------------------------------------
+"control unit" dilengkapi dengan "burst skill"
+---------------------------------------------------------
+" Burst skill" adalah skill special yang hanya aktif ketika dalam burst mode
+---------------------------------------------------------
+Juga tergantung pada "control unit" dan skill yang terpasang didalamnya maka tile akan berubah
+---------------------------------------------------------
+Aku tidak bisa membukanya karena aku tidak punya izin
+---------------------------------------------------------
+Advanced tactics teaching: signal bullets
+---------------------------------------------------------
+Advanced tactics teaching: control unit
+---------------------------------------------------------
+ＮＯ　ＮＡＭＥ
+---------------------------------------------------------
+Berhenti mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang ingin kamu lihat ?
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+File sudah diatur sehingga mudah dicari
+---------------------------------------------------------
+"Avatar" adalah teman yang dapat berpartisipasi dalam misi setiap saat melalui pertukaran "Avatar Card"
+---------------------------------------------------------
+Ada dua cara untuk mengganti "Avatar Card" Salah satunya adalah dengan mengubahnya secara manual di "Multiplayer"
+---------------------------------------------------------
+Dan jumlah maksimum kartu yang dapat ditukar sekaligus dengan "passing card exchange" hingga 3 kartu
+---------------------------------------------------------
+"Avatar card" dapat diperbarui dengan bertukar dengan lawan yang sama dan "Multiplayer" atau "passing card exchange"
+---------------------------------------------------------
+Dan mungkin akan mendapatkan " Avatar recovered material" sebagai hadiah dari misi
+---------------------------------------------------------
+Blood memo
+---------------------------------------------------------
+"Rebounding bullet" adalah bullet dengan efek untuk memulihkan kekuatan teman. Namun, tidak memiliki efek bagi orang yang menembak
+---------------------------------------------------------
+Penggunaan God Machine dapat di handle dengan bullet dengan sifat istimewa
+---------------------------------------------------------
+Hanya ada satu bagian, ada gambar-gambar camelia kecil, gentian dan Sakuya bersama
+---------------------------------------------------------
+Dan yang lainnya adalah foto baru
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Bullet
+---------------------------------------------------------
+Photo
+---------------------------------------------------------
+Berhenti mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+Sudah mulai tapi susah untuk dilihat karena layarnya rusak
+---------------------------------------------------------
+Apa yang ingin kamu lihat?
+---------------------------------------------------------
+File terkunci dan tidak bisa dilihat
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Yuno
+---------------------------------------------------------
+Janji dengan Romeo ......
+Dalam bentuk seperti itu ...... aku akan memenuhi ......
+---------------------------------------------------------

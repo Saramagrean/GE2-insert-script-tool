@@ -1,0 +1,40 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0010
+===============================================================
+[00000176:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Erina
+---------------------------------------------------------
+Ini, ini Luar Biasa! Aku mendapatkannya! Itu datang 
+padaku!<@>
+---------------------------------------------------------
+Aku mendapatkan Blood Art! Ketika ku menusukkan tombakku, 
+Sel Oracle mengalir!!<@>
+---------------------------------------------------------
+Yakin kau gak salah...?
+---------------------------------------------------------
+Pasti jackpot...
+---------------------------------------------------------
+Wha, ada apa dengan tanggapan itu... I was membayangkan soal 
+itu, tapi tidakkah kau melihatnya...?<@>
+---------------------------------------------------------
+Itu berarti!<@>
+---------------------------------------------------------
+Oh, tapi tunggu! Itu bisa jadi kebetulan aja... lagipula, ayo 
+lihat jika Aku bisa mengarahkan dan memunculkannya...Aku 
+seharusnya?<@>
+---------------------------------------------------------
+...Yeah, Aku lebih baik menguasai dengan benar daripada 
+gembira duluan<@>
+---------------------------------------------------------
+Oh baik, aku perlu kau untuk berlatih bersamaku! Jadi, ayo 
+berlatih bareng!<@>
+---------------------------------------------------------

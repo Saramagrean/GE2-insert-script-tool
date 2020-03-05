@@ -1,0 +1,142 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0051
+===============================================================
+[00000340:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Ciel
+---------------------------------------------------------
+Hmm... sepertinya semua blood bullet itu tidak mempunyai 
+atribut yang sama.<@>
+---------------------------------------------------------
+sekarang aku mengerti itu adalah tipe yang sangat berbeda 
+atributnya disebut dengan "pierce", itu adalah contoh 
+analisis blood bullet yang kedua<@>
+---------------------------------------------------------
+apa itu "pierce"?
+---------------------------------------------------------
+apa yang bisa dilakukannya?
+---------------------------------------------------------
+jika kamu ambil sniper bullet sebagai contoh setelah
+menembakkanya setelah peluru itu menghantam dan itu akan
+langsung menghilang... tidak ada effek menembus didalamnya.<@>
+---------------------------------------------------------
+disitulah mungkin kau ingin tambahkan efek penembus laser
+tapi tidak bisa mengkaitkan laser dengan bullet biasa dan
+jika kau tetap menggabungkannya effectnya tidak akan muncul.<@>
+---------------------------------------------------------
+tapi, Blood Bullet "peluru yang mempunyai pirce " bisa 
+memuat atribut pirce, tapi entah bagaimana caranya reaksi 
+alami tersebut terjadi ...<@>
+---------------------------------------------------------
+itu agak rumit...
+---------------------------------------------------------
+... satu kali lagi
+---------------------------------------------------------
+Oh...maafkan aku...<@>
+---------------------------------------------------------
+normalnya...bullet ini akan menembus beberapa target dengan 
+dengan kekuatan yang besar"<@>
+---------------------------------------------------------
+kita mungkin bisa membuat banyak peluru seperti itu,dan 
+effeknya mungkin tidak bisa terbayangkan oleh kita<@>
+---------------------------------------------------------
+aku sangat ingin membuatnya coeg :v
+---------------------------------------------------------
+bisakah nanti di modifikasi?
+---------------------------------------------------------
+itu adalah pertanyaan yang sulit sih meskipun aku sudah 
+banyak membuatnya, tapi aku belum bisa mengeditya 
+sekalipun...<@>
+---------------------------------------------------------
+jika pondasi dari modul tidak di aman kan mungkin masih bisa 
+diedit<@>
+---------------------------------------------------------
+namun, pondasinya itu sangat kuat , tidak ada tehnik yang 
+Cocok untung menghancurkanya<@>
+---------------------------------------------------------
+katanya si licca, "ini seperti tower Shield yang sangat 
+kuat" or so...<@>
+---------------------------------------------------------
+kita lawan api dengan api
+---------------------------------------------------------
+coba dengan peluru lain
+---------------------------------------------------------
+Ah... mungkin jika aku membenturkan dengan peluru lain 
+mungkin akan berhasil ...<@>
+---------------------------------------------------------
+permisi sebentar, kamu mau menungguku sebentar<@>
+---------------------------------------------------------
+aku ingin menjadi coba apa yang kita bicarakan tadi... 
+aku akan kembali lagi! <@>
+---------------------------------------------------------
+Haa...Haa...<@>
+---------------------------------------------------------
+ternyata bisa...<@>
+---------------------------------------------------------
+aku menembak blood bullet dengan bullet lainnya memang 
+sedikit menghancurkan pondasinya tapi s lanjutnya...<@>
+---------------------------------------------------------
+aku bisa mengekstrak "modul utamanya" yang menyusun blood 
+bullet...！<@>
+---------------------------------------------------------
+sekarang kita bisa memodifikasi blood bulet...！<@>
+---------------------------------------------------------
+selamat, itu sangat hebat
+---------------------------------------------------------
+kerja bagus
+---------------------------------------------------------
+kamu...sungguh luar biasa...<@>
+---------------------------------------------------------
+32
+---------------------------------------------------------
+...<@>
+---------------------------------------------------------
+ui...
+---------------------------------------------------------
+ini sudah waktunya...
+---------------------------------------------------------
+[peluk terus neng \(~^.^)/}.
+---------------------------------------------------------
+Ah...<@>
+---------------------------------------------------------
+maaf kan aku! aku tidak bisa mengendalikan diriku...<@>
+---------------------------------------------------------
+terima kasih...banyak...<@>
+---------------------------------------------------------
+Um...aku sangat ingin mengetes bullet ini sekarang 
+juga... karena aku sudah tidak sabarlagi...<@>
+---------------------------------------------------------
+baiklah ayo kuy
+---------------------------------------------------------
+tunggu sebentar mau ke wc
+---------------------------------------------------------
+"pierce", seperti laser, tidak bisa menghilang meskipun 
+sudah terkena Aragami...itu adalah atribut unik yang aku 
+bicarakan <@>
+---------------------------------------------------------
+jadi, jika aku sederhanakan...<@>
+---------------------------------------------------------
+Ah...aku mengetahuijya... <@>
+---------------------------------------------------------
+maksudmu cerita tentang "buckler yang bisa melindungi dari 
+serangan tombak manapun" dan "fan tombak yang bisa 
+menembus buckler apapun"...<@>
+---------------------------------------------------------
+Huh...?<@>
+---------------------------------------------------------
+aku berterima kasih sekali atas semuanya... dan aku tidak 
+masalah jika aku harus mengatakannya berkali kali sekalipun, 
+tolong izinkan aku untuk megatakanya...terima hasih...！<@>
+---------------------------------------------------------
+...aku akan selalu disini<@>
+---------------------------------------------------------
+ok...aku akan disini terus<@>
+---------------------------------------------------------

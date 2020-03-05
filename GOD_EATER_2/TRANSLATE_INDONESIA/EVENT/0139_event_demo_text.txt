@@ -1,0 +1,60 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0019
+===============================================================
+[00000212:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Haruomi
+---------------------------------------------------------
+...kau harus melupakan itu<@>
+---------------------------------------------------------
+Inez
+---------------------------------------------------------
+aku katakan yang sama padamu...<@>
+---------------------------------------------------------
+Oops...<@>
+---------------------------------------------------------
+aku aku...<@>
+---------------------------------------------------------
+Hey, kau terlambat<@>
+---------------------------------------------------------
+model kita hari ini adalah inez... dia datang dari brazil
+untuk melihat kita<@>
+---------------------------------------------------------
+jadi kamu dari Blood...<@>
+---------------------------------------------------------
+aku mendengar itu dari aku Inez Almeida, aku merasa
+terhormat bisa bertemu dengan mu disini<@>
+---------------------------------------------------------
+apa haru memukulmu?
+---------------------------------------------------------
+Haru, kau memukul seseorang lagi...
+---------------------------------------------------------
+aku harus bilang ya,dia sudah tidak... dia memukulku 2
+tahun yang lalu, ketika kami berada di Russia branch<@>
+---------------------------------------------------------
+ini benar benar kebetulan, tapi kami bertu setelah begitu
+lama aku hany bertanya kepadanya apakamu mau
+merayakannya<@>
+---------------------------------------------------------
+baik selanjutnya,kenapa kita tidak pergi aku ingin melihat
+cara blood bertarung dengan mataku sendiri<@>
+---------------------------------------------------------
+Ah, kita akan melihat hal terbaik yang pernah
+ada...!<@>
+---------------------------------------------------------
+sekarang aku sedang bersemangat...! waktunya pergi
+mrnjalankan misi!<@>
+---------------------------------------------------------
+Oh, apa kamu bersiap untuk bertarung?<@>
+---------------------------------------------------------
+dalam kasus ini aku akan mengunjungi ruangan nya. katakan
+padaku kalau kau sudah siap.<@>
+---------------------------------------------------------

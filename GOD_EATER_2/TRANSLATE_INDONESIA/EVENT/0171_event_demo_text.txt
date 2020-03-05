@@ -1,0 +1,64 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0023
+===============================================================
+[00000228:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Nana
+---------------------------------------------------------
+Hey, kerja bagus<@>
+---------------------------------------------------------
+Apa Kau adalah kadet blood... bukan, maksudku, anggota 
+baru?<@>
+---------------------------------------------------------
+Aku Nana, seorang anggota baru Blood!<@>
+---------------------------------------------------------
+Senang bertemu denganmu<@>
+---------------------------------------------------------
+Bagaimana latihanmu?
+---------------------------------------------------------
+Sepertinya kamu sedikit rakus
+---------------------------------------------------------
+Oh! Itu dia! Sebagai bukti persahabatan kita...<@>
+---------------------------------------------------------
+Ini, makanlah<@>
+---------------------------------------------------------
+Dibuat langsung oleh ibu! Roti Oden Spesial Nana! Ini sangat 
+lezat jadi, makanlah yang banyak<@>
+---------------------------------------------------------
+Oops, sekarang giliranku untuk berlatih<@>
+---------------------------------------------------------
+Aku pergi dulu<@>
+---------------------------------------------------------
+Aku akan marah jika masih tersisa<@>
+---------------------------------------------------------
+Yah.... baiklah, apa itu? Kupikir
+---------------------------------------------------------
+bagaimana denganmu?<@>
+---------------------------------------------------------
+Sempurna!
+---------------------------------------------------------
+Sepertinya,...Aku harus bergegas
+---------------------------------------------------------
+Aaah, Apa apa? Sepertinya seorang pemula yang 
+menjanjikan?<@>
+---------------------------------------------------------
+Aku juga tidak boleh kalah<@>
+---------------------------------------------------------
+Hey, Aku juga! Syukurlah, Bukan hanya aku<@>
+---------------------------------------------------------
+Kita burung dari bulu yang sama! Mari tetap bersama mulai 
+dari sekarang!<@>
+---------------------------------------------------------
+Benarkah? Ini baik-baik saja, kan? <@>
+---------------------------------------------------------
+Selain itu, Makan adalah bagian dari pekerjaan God Eater 
+jadi ini adalah tugas penting kita!.... Kurasa?!<@>
+---------------------------------------------------------

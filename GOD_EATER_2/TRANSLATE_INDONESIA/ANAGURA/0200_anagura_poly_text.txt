@@ -1,0 +1,304 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0122
+===============================================================
+[00000624:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+"Tidak ada entri untuk masuk karena sudah keluar"
+……tertulis seperti itu
+---------------------------------------------------------
+
+---------------------------------------------------------
+tanpa izin saat ini, aku
+tidak bisa masuk
+---------------------------------------------------------
+
+---------------------------------------------------------
+
+"Bagi yang membutuhkannya, silakan pergi ke laboratorium"
+……tertulis
+---------------------------------------------------------
+Alisa
+---------------------------------------------------------
+Untuk Aragami,Untuk Friar, Cradle dan hal masa depan ......
+Tenang,Ayo bersihkan satu demi satu
+---------------------------------------------------------
+Asuna
+---------------------------------------------------------
+sembuhkan penyakitnya, kamu menjadi orang yang diberkati
+lalu,Semua orang akan senang!
+---------------------------------------------------------
+KALBI
+---------------------------------------------------------
+KALBI ~
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+Waktu kunjungan setiap hari, akan menjadi lebih buruk untuk pasien blackpague...
+---------------------------------------------------------
+semuanya,apakah tidak masalah……
+---------------------------------------------------------
+Eml
+---------------------------------------------------------
+Ia tidak mampu berada di belakang sebagai GOD Machine Soldier!
+Erina, aku akan pergi ke pelatihan khusus lagi!
+---------------------------------------------------------
+Erina
+---------------------------------------------------------
+Aku tau!
+Emil jangantinggalkan aku Di sini!
+---------------------------------------------------------
+Erina
+---------------------------------------------------------
+aku harus mencoba untuk tidak dikalahkan oleh God Arc Soldier!
+Bahkan jika kau penyok, itu tidak akan menjadi lebih kuat!
+---------------------------------------------------------
+Fran
+---------------------------------------------------------
+Sejak hari itu、
+Tidak ada pernyataan dari Friar
+itu adalah kesunyian yang menakutkan……
+---------------------------------------------------------
+Gillbert
+---------------------------------------------------------
+dengan dukungan Friar,、
+Itu bukan pertarungan ku
+Sepertinya aku masih terjaga di sini
+---------------------------------------------------------
+Julius、Aku ingin tau apa yang kau pikirkan Di situasi seperti ini……
+---------------------------------------------------------
+Haru
+---------------------------------------------------------
+Ketika Asuna menjadi dewasa、
+Tidak peduli betapa menariknya itu
+aku menjelaskannya dengan sempurna kepada kepala sekolah
+---------------------------------------------------------
+Jadi,Merawat diri sendiri, bukan begitu?
+Bagaimana dengan ini, bukankah itu sempurna?
+---------------------------------------------------------
+Satsuki
+---------------------------------------------------------
+Ini sudah menjadi bakat luar biasa, saat Aku pergi ke sana……
+---------------------------------------------------------
+Hibari
+---------------------------------------------------------
+Sudah hampir waktunya untuk laporan penelitian Dr. Sakaki yang akan datang
+... ... mari kita selesaikan tugasnya sekarang
+---------------------------------------------------------
+Kta
+---------------------------------------------------------
+Akhirnya, respon Izakoza berhasil entah bagaimana
+Saat ini kami mencari-cari dengan setiap pasukan di sekitar ... ...
+---------------------------------------------------------
+Cepatlah,  ......
+Karena aku mohon, aku bertanya-tanya apakah semua orang akan berteman ......
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+... ... Kapten, apakah kamu sudah beristirahat dengan benar?
+mungkin sulit, apakah tubuh God Arc Soldier abadi?
+---------------------------------------------------------
+perawat
+---------------------------------------------------------
+Jika kamu berkunjung, silakan pergi ke kamar rumah sakit di sebelah kiri mu
+---------------------------------------------------------
+Mutsumi
+---------------------------------------------------------
+Emil dan Erina
+Selagi kalian makan, aku akan keluar ...
+---------------------------------------------------------
+Sedikit lagi, bahkan setelah makan rasanya ......
+---------------------------------------------------------
+Sakaki
+---------------------------------------------------------
+Gejala Yuno ......
+Faktor tidak seimbang ini, seperti kasus Shio..
+---------------------------------------------------------
+Tidak mungkin, hujan merah ......
+Sungguh ... apa itu ...?
+---------------------------------------------------------
+...... Oh, kamu!
+Maaf, tolong bawa sekarang ...
+---------------------------------------------------------
+Sedikit lagi ... ....
+Baiklah ... tunggu dulu ......
+---------------------------------------------------------
+Satsuki
+---------------------------------------------------------
+Mulai berita itu, material yang diimpor ke Friar
+Tampaknya itu dihentikan ... ...
+---------------------------------------------------------
+Untuk melihat keadaan God Arc Soldier, aku merasa seperti aku mampu membelinya
+Seberapa jauh kau telah mengumpulkannya..
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Semua ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+aku tidak tahu karena semuanya ditulis dalam bahasa Rusi,
+yang terlihat seperti majalah mode atau katalog<@>
+---------------------------------------------------------
+Ini terlihat seperti file teks
+aku tidak bisa melihatnya karena terkunci<@>
+---------------------------------------------------------
+Модный　журнал
+---------------------------------------------------------
+Дневник
+---------------------------------------------------------
+Berhentilah mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+aku tidak melakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Tonton arsipnya
+---------------------------------------------------------
+aku tidak melakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Ada banyak taktik terkait file<@>
+---------------------------------------------------------
+"Signal Bullet" mengacu pada item yang digunakan untuk memberikan instruksi kepada kawan dalam misi<@>
+---------------------------------------------------------
+Kisaran pengaruh "Bullet signal" ada dua jenis "Wide area signals" dan "Narrow Range signal"<@>
+---------------------------------------------------------
+"Wide area signal" untuk semua anggota yang berpartisipasi dalam misi
+"Narrow area signal" hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+Ada 4 jenis "sinyal peluru" yang bisa digunakan<@>
+---------------------------------------------------------
+"Wide-area Signal: all hands set", "Narrow-Band Signal: Menunggu penyebaran,"
+"narrow-band signal: Mencari serangan musuh," "narrow-band signal: Set"<@>
+---------------------------------------------------------
+Untuk informasi rinci tentang masing-masing sinyal, lihat "Database"<@>
+---------------------------------------------------------
+"Control Unit" diaktifkan dengan "Burst Skill"<@>
+---------------------------------------------------------
+"Burst skill" menunjukkan efeknya hanya selama BURST
+Ini adalah keterampilan khusus<@>
+---------------------------------------------------------
+Juga, "unit kontrol" dan keterampilan yang terpasang di dalamnya
+Judul berubah sesuai dengan<@>
+---------------------------------------------------------
+aku tidak bisa membukanya karena aku tidak punya izin<@>
+---------------------------------------------------------
+Panduan taktis senior: signal bullet
+---------------------------------------------------------
+Panduan taktis lanjutan: Control unit
+---------------------------------------------------------
+ＮＯ　ＮＡＭＥ
+---------------------------------------------------------
+Berhentilah mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+File-file tersebut diatur
+Sangat mudah untuk dilihat<@>
+---------------------------------------------------------
+Dengan "avatar card" bertukar dengan "avatar"
+Itu adalah teman yang dapat berpartisipasi dalam misi kapan saja<@>
+---------------------------------------------------------
+Ada dua cara untuk bertukar "Avatar Card"
+Salah satu caranya adalah secara manual bertukar di "Multiplayer"<@>
+---------------------------------------------------------
+Lainnya adalah "pertukaran kartu yang lewat"
+Hingga 3 kartu dapat ditukar sekaligus<@>
+---------------------------------------------------------
+"Avatar card" dapat diperbarui dengan bertukar dengan lawan yang sama
+Dengan melakukan "Multiplayer" atau "Penukaran kartu penukaran"<@>
+---------------------------------------------------------
+Sebagai imbalan karena menyelesaikan tugas<dengan anggota lain
+"Material avatar" bisa diambil<@>
+---------------------------------------------------------
+
+bullet memo<@>
+---------------------------------------------------------
+"Rebounding bullet" adalah peluru yang memiliki efek mengembalikan kekuatan fisik kamu
+Namun, itu tidak berhasil untuk orang yang menembak sendiri<@>
+---------------------------------------------------------
+Untuk Bullet dengan sifat yang sangat istimewa
+penggunaan God arc terbatas<@>
+---------------------------------------------------------
+Hanya satu bagian, dengan Tsubaki dan lindow dan
+Ada gambar Sakuya bersama<@>
+---------------------------------------------------------
+Yang lainnya adalah foto yang relatif baru<@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Bullet
+---------------------------------------------------------
+Sebuah foto
+---------------------------------------------------------
+Berhentilah mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+aku mulai, tapi
+Layar rusak dan sulit dilihat<@>
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Setiap file terkunci
+aku tidak bisa melihatnya<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+damain
+---------------------------------------------------------
+Sebagai seorang god machine soldier, apa pelatihan khusus agar tidak kehilangan ... ...
+... ... Oh, ini tentang Erina dan Emil
+---------------------------------------------------------
+Dua dari mereka, belum lama tumbuh ...
+Jika kamu tidak berhati-hati, kamu akan segera dijerat!
+---------------------------------------------------------
+Penjual
+---------------------------------------------------------
+Apakah kamu akan membeli sesuatu?
+---------------------------------------------------------
+Yuno
+---------------------------------------------------------
+Bhuh ... ... Haruomi-san seperti biasa ...... Gohogo-ho ......
+---------------------------------------------------------
+...... Maafkan aku, aku minta maaf
+---------------------------------------------------------

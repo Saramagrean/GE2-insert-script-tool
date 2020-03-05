@@ -1,0 +1,55 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0013
+===============================================================
+[00000188:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Kouta
+---------------------------------------------------------
+seperti biasanya, Kau selalu mem"Back-Up". aku ingin tau,
+apa sejauh ini aku bisa menjadi lebih baik<@>
+---------------------------------------------------------
+Pada saat dulu, Sistem Teknologi Komunikasi kami belum
+dikembangkan jadi dulu mah pada saat misi kami tidak bisa
+memberitahu dimana lokasi Aragami datang dan Menyerang<@>
+---------------------------------------------------------
+dan teknologi kami akhirnya berkembang pesat sejak 3 tahun
+yang lalu dan membuat suatu perubahan yang asalnya tidak
+nyaman menjadi nyaman seperti yang kita lakukan sekarang<@>
+---------------------------------------------------------
+Aku pikir itu sangat Luar Biasa sekali
+---------------------------------------------------------
+Itu pasti sangat membuatmu sulit pada saat itu
+---------------------------------------------------------
+Terimakasih untuk itu, kemudian kebertahanan kehidupan para
+God Eater pun sangat meningkat sekarang dan bisa merekrut
+beberapa orang-orang baru<@>
+---------------------------------------------------------
+Akhir-Akhir ini kami telah memantau beberapa Aragami, dan
+bisa kusimpulkan bahwa tingkah mereka selalu seperti
+biasanya<@>
+---------------------------------------------------------
+Singkatnya, Daerah yang relatif aman memiliki Kemampuan
+untuk menjauhkan serangan dari Aragami <@>
+---------------------------------------------------------
+jika kita terus seperti ini, harapan kita untuk hidup nyaman
+didunia ini tanpa adanya Aragami akan terwujud.
+---------------------------------------------------------
+Oleh karena itu, kita harus menggunakan God Arc dengan baik
+dan benar demi kelangsungan kehidupan manusia dimasa depan,
+jadi semangatlah !
+---------------------------------------------------------
+Ini semua berkat kerja keras kalian dan semua orang,
+meskipun hasilnya sedikit itu bisa membuat kejayaan manusia
+maju dan lebih maju, terimakasih banyak !<@>
+---------------------------------------------------------
+Bener banget, ga bisa dipikirin sekarang. meskipun hasilnya
+kecil tapi ini merasa kalo kejayaan manusia lebih maju<@>
+---------------------------------------------------------

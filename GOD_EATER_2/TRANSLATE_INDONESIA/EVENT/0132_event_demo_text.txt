@@ -1,0 +1,27 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0005
+===============================================================
+[00000156:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Haruomi
+---------------------------------------------------------
+Jika kau bertanya tentang Carie, ia tlah pergi mengunjungi
+cabang Far East dengannya<@>
+---------------------------------------------------------
+Anak muda terbang seperti panah.
+Seakan tidak akan prnah menunggu kita.<@>
+---------------------------------------------------------
+Aah, justru karena tdak akan ada lagi kesempatan kedua yg 
+kita temukan dngan cahaya yang tak trgntikan di dalamnya<@>
+---------------------------------------------------------
+Memang.
+paha atas sangat menakjubkan<@>
+---------------------------------------------------------

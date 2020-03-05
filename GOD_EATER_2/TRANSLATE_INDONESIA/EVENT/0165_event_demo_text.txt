@@ -1,0 +1,48 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0012
+===============================================================
+[00000184:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Kouta
+---------------------------------------------------------
+Terima kasih, karena dirimu, aku pikir entah bagaimana bisa
+melakukannya pada diriku sendiri.<@>
+---------------------------------------------------------
+Dengan ini, orang orang tidak akan menilai tentang menjadi
+tipe lama yang tertinggal lagi! akan kutunjukan pada mereka
+karena jenis lama masih mencoba untuk menyesuaikan diri<@>
+---------------------------------------------------------
+Semangatmu adalah contoh yang baik untukku
+---------------------------------------------------------
+Aku pikir kau melakukan yang terbaik
+---------------------------------------------------------
+Jika kita berhenti berpikir, Akan banyak orang yang akan
+kesulitan dan membutuhkan bantuan kita<@>
+---------------------------------------------------------
+Mengapa kita memilih untuk menjadi God Eater! Tidak ada
+gunanya melupakan itu, kukira<@>
+---------------------------------------------------------
+Itulah mengapa, aku akan melakukan semua yang kubisa untuk
+mendukungmu sehingga aku dapat membantu orang sebanyak
+mungkin!<@>
+---------------------------------------------------------
+Aku bergantung padamu juga!<@>
+---------------------------------------------------------
+Hehe... Terima kasih Kami Jenis Lama dengan ini dapat
+terus melakukannya<@>
+---------------------------------------------------------
+Jika tim lain termotivasi dan melakukan yang terbaik untuk
+itu maka mimpi akan menjadi kenyataan<@>
+---------------------------------------------------------
+Jika kita berhenti belajar, kita tidak bisa melampaui diri
+kita saat ini kita juga harus berevolusi, sama seperti
+Aragami<@>
+---------------------------------------------------------

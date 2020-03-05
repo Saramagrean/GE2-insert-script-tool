@@ -1,0 +1,49 @@
+NAMA:event_scr_text
+ENCODING:UTF-8
+CRLF:\n
+ID:
+TYPE:
+JUMLAH_STRING:0016
+===============================================================
+[00000200:00000512:00002015:00066133:00000250:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Apa kau melihatku? Bisakah kau mendengarku? Lama tak berjumpa ya!
+---------------------------------------------------------
+aku masih sibuk.... Tolong dipercepat,
+---------------------------------------------------------
+Ada satu hal yang ingin aku tanyakan... Mengapa Kau menjauh dari Blood?
+---------------------------------------------------------
+Orang yang dapat menjadi bagian produksi secara massal terlalu sulit...,
+lebih baik untuk mengoperasikan God Machine scara rasional
+---------------------------------------------------------
+King of Tin Troops, kan...?
+---------------------------------------------------------
+Jika kau keberatan, membual Shimese dalam kinerja, tapi itu 
+juga baik untuk di medan perang
+---------------------------------------------------------
+Buang-buang waktu saja, aku Matikan...
+---------------------------------------------------------
+Julius, apa kau baik-baik saja?
+---------------------------------------------------------
+Jangan khawatir, Kau sudah terputus dari ikatan blood
+---------------------------------------------------------
+Tidak,apa rasa sakit Black plague itu sangatlah menyakitkan
+---------------------------------------------------------
+Tidak masalah, aku ingin segera memimpin dan membimbing God Machine Soldiers Nanti
+---------------------------------------------------------
+Demas equipment Godzilla teruslah belajar dalam keterampilan bertempurmu
+---------------------------------------------------------
+Dalam kondisi ini, kau akan segera melampaui kemampuan 
+bertarung dari para pengguna God Machine pada umumnya... 
+...
+---------------------------------------------------------
+Aku akan merasa terganggu jika aku harus melupakan Blood secepat itu
+---------------------------------------------------------
+Nah itu... adalah agar tidak membiarkan mereka berdiri dan mati sia-sia di medan perang nanti
+---------------------------------------------------------
+Sebelum kau mendapat kematian...
+---------------------------------------------------------

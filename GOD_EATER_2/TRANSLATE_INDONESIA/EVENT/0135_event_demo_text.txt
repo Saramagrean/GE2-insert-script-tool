@@ -1,0 +1,28 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0005
+===============================================================
+[00000156:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Haruomi
+---------------------------------------------------------
+Jika kamu menanyakan tentang Camille, Dia sudah pergi. 
+Sebagai wantia yg tangguh, tidak heran jika dia selalu 
+mampu berdiri.<@>
+---------------------------------------------------------
+tapi kemudian, itu bener gapapa...? untuk menjalani 
+hidup yg hanya brputar di sekitar pekrjaan...<@>
+---------------------------------------------------------
+Oh, Camille dibwh semua kompositor itu, bagaimana dngan 
+perasaanmu.<@>
+---------------------------------------------------------
+Haha~ kukira itu baik, dengan menjaga
+pikirannya yg tertutup~<@>
+---------------------------------------------------------

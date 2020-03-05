@@ -1,0 +1,314 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0142
+===============================================================
+[00000704:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+"Tidak ada entri untuk masuk karena sudah out"
+---------------------------------------------------------
+
+---------------------------------------------------------
+"Bagi yang membutuhkannya, silakan pergi ke laboratorium"
+---------------------------------------------------------
+Alisa
+---------------------------------------------------------
+Yuno-sama ...
+---------------------------------------------------------
+Tentara God machine tidak menunjukkan gerakan apa adanya Seakan ingin melindungi Friar ...
+---------------------------------------------------------
+Asuna
+---------------------------------------------------------
+Tidak Yuno, hei, darimana saja kamu...
+---------------------------------------------------------
+Kalbi
+---------------------------------------------------------
+keluarin ane dari kurungan
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+Rupanya menuju Friar ...... Sekelompok besar Aragami tampaknya sedang berkumpul
+---------------------------------------------------------
+Jika kita tidak menghilangkan Aragami itu, ada banyak kerusakan di fasilitas/ 00Mengenai masalah kuil Shinto Aragami, Bahkan dari Julius, sepertinya belum ada apa-apa
+---------------------------------------------------------
+Mengenai masalah kuil Shinto Aragami, Bahkan dari Julius, sepertinya belum ada apa-apa
+---------------------------------------------------------
+... ... Aku punya firasat sangat buruk, aku ingin bergegas ke Friar ...
+---------------------------------------------------------
+Daishi
+---------------------------------------------------------
+Itu begitu cepat, Ibu dimarahi aku ingin tahu apakah aku juga akan berbicara dengan Mutsumi di ruang tunggu
+---------------------------------------------------------
+Emil
+---------------------------------------------------------
+Apapun yang terjadi, kita adalah perisai untuk orang yang tidak bersalah! Ayo, Erina! Untuk memulai misi
+---------------------------------------------------------
+Erina
+---------------------------------------------------------
+Bahkan jika aku mengatakan Aragami berkumpul di Friar Cukup, hanya ada banyak ikan kecil ...!
+---------------------------------------------------------
+Gil
+---------------------------------------------------------
+Mari kita bersihkan ikan kecil dengan cepat dan pergi menemui Julius ......
+---------------------------------------------------------
+Untuk saat ini, Sacred Squad yang ada di laporan Tampaknya kami mampu mengalahkan semua jalan ...
+---------------------------------------------------------
+...... Itu saja, aku tidak memikirkan itu semua. Segera setelah ditemukan, aku harus membersihkan dan membersihkan
+---------------------------------------------------------
+Haroumi
+---------------------------------------------------------
+...... Ini akan sedikit sibuk Canon-chan, aku akan memakai energiku kadang-kadang!
+---------------------------------------------------------
+Canon
+---------------------------------------------------------
+Ya
+---------------------------------------------------------
+Hibari
+---------------------------------------------------------
+Dr Sakaki memanggil di laboratorium 
+Sepertinya ada cerita tentang Yuno-san
+---------------------------------------------------------
+Dengan serangan Aragami yang berkumpul di Friar Tampaknya kerusakan telah terjadi pada area sekitar Friar
+---------------------------------------------------------
+Semua unit yang dapat dikompromikan, penaklukan Aragami, dan Menuju bantuan di daerah sekitarnya
+---------------------------------------------------------
+aku berharap kami beruntung
+---------------------------------------------------------
+Mohon tunggu, Segera setelah persiapan selesai
+---------------------------------------------------------
+Untuk menekan perluasan kerusakan di daerah sekitarnya Tolong segera musnahkan Aragami dan menuju bantuan
+---------------------------------------------------------
+Iku
+---------------------------------------------------------
+Yuno sepertinya telah dipindahkan ke ruangan lain Sepertinya situasi Asuna tidak terlalu bagus ...
+---------------------------------------------------------
+Aku khawatir...
+---------------------------------------------------------
+Canon
+---------------------------------------------------------
+Ngomong-ngomong, kamu hanya perlu meledakkan Aragami yang berkumpul, kan? serahkan saja padaku!
+---------------------------------------------------------
+Kouta
+---------------------------------------------------------
+Orang-orang yang mendukung Friar juga Sepertinya dia akhirnya membangunkanku
+---------------------------------------------------------
+Tapi ... keadaannya belum membaik 
+Pertama-tama, aku harus mengelola beberapa pertemuan Aragami ...
+---------------------------------------------------------
+...... Itu, mereka berasal dari Gutsfield
+---------------------------------------------------------
+Di sekitar distrik perumahan luar dan di pangkalan satelit terdekat Aragami berkeliaran di sekitar
+---------------------------------------------------------
+Oh, aku akan bertanya! Benar, aku ingin meminjam bahkan dengan tangan kucing
+---------------------------------------------------------
+Bagaimana situasinya?
+---------------------------------------------------------
+Beri energi segera
+---------------------------------------------------------
+aku harus melakukan sesuatu sebelum kerusakan terjadi ... aku tidak punya waktu untuk beristirahat! 
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Julius ...... Apa yang kamu lakukan sekarang ...
+---------------------------------------------------------
+Nurse
+---------------------------------------------------------
+Pasien yang baru datang Semua orang sepertinya tidak memiliki gejala Black Plague
+---------------------------------------------------------
+Seperti itu, kuharap tidak ada yang terjadi, tapi
+---------------------------------------------------------
+Mutsumi
+---------------------------------------------------------
+Sandwich, bola nasi ...... aku akan menyiapkan banyak untuk makan dengan cepat!
+---------------------------------------------------------
+Sakaki
+---------------------------------------------------------
+Yuno sering menahan rasa sakit dari Black Plague ...
+---------------------------------------------------------
+Aragami yang berkumpul di Friar juga dikhawatirkan Kalian memintaku untuk hal itu
+---------------------------------------------------------
+...... Kondisi Yuno semakin memburuk
+---------------------------------------------------------
+Seakan merespon, reaksi dari titik singular maju dengan cepat ...
+Untuk saat ini, aku membiarkan kamu melihat situasi di ruang observasi intensif
+---------------------------------------------------------
+Apakah Yuno baik-baik saja?
+---------------------------------------------------------
+Tidak mungkin ...
+---------------------------------------------------------
+..., tidak, aku stabil untuk saat ini Masih tidak mungkin berada dalam situasi
+yang tidak dapat diprediksi, tetapi
+---------------------------------------------------------
+...... Aragami yang berkumpul di Friar juga merupakan masalah besar Kalian memintaku untuk hal itu
+---------------------------------------------------------
+Serahkan Yuno padaku Kalian ... ... kalian menuju penangkapan Aragami
+---------------------------------------------------------
+Sakaki
+---------------------------------------------------------
+Merawat Yuno, aku ... ... kalian semua Terima kasih Aragami ...
+---------------------------------------------------------
+Satsuki
+---------------------------------------------------------
+...... Dr Sakaki sedang menunggu di laboratorium lab 
+Karena kubilang ...
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Semua tertulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti majalah mode atau katalog aku tidak mengerti karena
+semuanya tertulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti file teks tapi aku tidak bisa melihatnya karena terkunci<@>
+---------------------------------------------------------
+Модный　журнал
+---------------------------------------------------------
+Дневник
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka terminal
+---------------------------------------------------------
+Tidak melakukan apa - apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka terminal
+---------------------------------------------------------
+Lihat arsipnya
+---------------------------------------------------------
+Tidak melakukan apapun
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+ada banyak taktik terkait file<@>
+---------------------------------------------------------
+"Signal bullet" adalah misi, melawan sekutu 
+Item yang akan digunakan saat memberikan instruksi<@>
+---------------------------------------------------------
+Rentang pengaruh "Signal Bullet" ada dua "sinyal area luas" dan "sinyal jangkauan sempit"<@>
+---------------------------------------------------------
+"Sinyal area luas" adalah semua anggota yang berpartisipasi dalam misi "Sinyal jangakauan sempit"
+hanya mengacu pada anggota dalam status tindak lanjut <@>
+---------------------------------------------------------
+Ada 4 jenis "Signal Bullet" yang bisa digunakan<@>
+---------------------------------------------------------
+"Sinyal area luas : agregat set" "sinyal area sempit: menunggu penyebaran"
+"Sinyal jangkauan Luas: cari serangan musuh" "sinyal jangkauan sempit: set" <@>
+---------------------------------------------------------
+Untuk informasi rinci dari setiap Signal Bullet, lihat "Database"<@>
+---------------------------------------------------------
+"Control unit" adalah peralatan yang dilengkapi dengan "Burst Skill"<@>
+---------------------------------------------------------
+"Burst Skill" menunjukkan efeknya hanya selama ledakan 
+Ini adalah skill khusus<@>
+---------------------------------------------------------
+Juga, "Control Unit" dan Skill yang terpasang di dalamnya berubah sesuai dengan judul<@>
+---------------------------------------------------------
+aku tidak bisa membukanya karena aku tidak punya izin <@>
+---------------------------------------------------------
+Panduan taktis lanjutan: signal bullet
+---------------------------------------------------------
+Panduan taktis lanjutan: Control Unit
+---------------------------------------------------------
+ＮＯ　ＮＡＭＥ
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat? <@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+
+Lihat file lain
+---------------------------------------------------------
+File-file tersebut diatur Sangat mudah untuk dilihat <@>
+---------------------------------------------------------
+Dengan "avatar card" bertukar dengan "avatar" Ini tentang teman yang dapat
+berpartisipasi dalam misi kapan saja <@>
+---------------------------------------------------------
+Ada dua cara untuk bertukar "Avatar Card" Salah satunya adalah bertukar secara manual di "Multiplayer" <@>
+---------------------------------------------------------
+caraa lainnya adalah "exchange of passing card" Hingga 3 kartu dapat ditukar sekaligus <@>
+---------------------------------------------------------
+"Avatar card" dapat diperbarui dengan bertukar dengan lawan yang sama dengan melakukan
+"Multiplayer" atau "melewati pertukaran kartu"<@>
+---------------------------------------------------------
+Sebagai imbalan atas tugas yang dilakukan dengan pihak lain "Avatar Collection Material"
+dapat diperoleh <@>
+---------------------------------------------------------
+Memo bullet<@>
+---------------------------------------------------------
+"Rebounding bullet" adalah peluru yang memiliki efek mengembalikan kekuatan fisik Kamu
+Namun, itu tidak berfungsi untuk orang yang menembak <@>
+---------------------------------------------------------
+Untuk Bullet dengan sifat yang sangat istimewa God machine dapat digunakan terbatas<@>
+---------------------------------------------------------
+Hanya satu bagian, dengan sedikit Tsubakk dan Lindow Ada foto-foto Sakuya bersama<@>
+---------------------------------------------------------
+Yang lainnya adalah foto yang relatif baru<@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Bullet
+---------------------------------------------------------
+Foto
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+
+aku mulai, tapi Layar rusak dan sulit dilihat <@>
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Setiap file terkunci kamu tidak dapat melihatnya<@>
+---------------------------------------------------------
+Buka terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Damian
+---------------------------------------------------------
+Aragami yang terbang ke Friar, .... Sepertinya ini agak sulit ...
+---------------------------------------------------------
+Yoruzuya
+---------------------------------------------------------
+Apakah kami ingin membeli sesuatu? 
+---------------------------------------------------------
+Yosuke
+---------------------------------------------------------
+Jika kamu seorang adik perempuan,
+dengan seorang gadis berambut abu-abu Sepertinya aku pergi ke suatu tempat
+---------------------------------------------------------
+Itu terlihat sangat sakit tapi ... oke? 
+---------------------------------------------------------

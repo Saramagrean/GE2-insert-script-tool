@@ -1,0 +1,319 @@
+NAMA:COMMON_MESSAGE
+ENCODING:UTF-8
+CRLF:\n
+ID:jajp
+TYPE:yobi
+JUMLAH_STRING:0081
+===============================================================
+[00001100:00000056:00001999:00065877:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+[0000]
+Undecided Text
+---------------------------------------------------------
+[0001]
+Cancel
+---------------------------------------------------------
+[0002]
+Yes
+---------------------------------------------------------
+[0003]
+No
+---------------------------------------------------------
+[0004]
+Return
+---------------------------------------------------------
+[0005]
+OK
+---------------------------------------------------------
+[0006]
+New Data
+---------------------------------------------------------
+[0007]
+Corrupt Data
+---------------------------------------------------------
+[0008]
+
+---------------------------------------------------------
+[0009]
+
+---------------------------------------------------------
+[0010]
+Overwrite previous save data?
+---------------------------------------------------------
+[0011]
+Save complete.
+---------------------------------------------------------
+[0012]
+Load Complete.
+---------------------------------------------------------
+[0013]
+Currently saving.
+Please do not remove storage device.
+---------------------------------------------------------
+[0014]
+Save data does not match information from PSP.
+Please confirm whether or not you have "GOD EATER".
+---------------------------------------------------------
+[0015]
+"GOD EATER BURST Append Version"
+will need to confirm whether or not you own "GOD EATER".
+---------------------------------------------------------
+[0016]
+Please replace the current UMD®with "GOD EATER".
+---------------------------------------------------------
+[0017]
+"GOD EATER" UMD®confirmed. 
+Please insert the "GOD EATER BURST Append Version" UMD® and press ○.
+---------------------------------------------------------
+[0018]
+"GOD EATER" confirmation complete.
+If you have changed PSP units,
+another confirmation will be necessary.
+---------------------------------------------------------
+[0019]
+Incorrect disc.
+Please insert the UMD®for "GOD EATER".
+---------------------------------------------------------
+[0020]
+Please insert the "GOD EATER BURST Append Version" UMD®.
+---------------------------------------------------------
+[0021]
+Incorrect disc.
+Please insert UMD®the "GOD EATER BURST" Append Version and press ○.
+---------------------------------------------------------
+[0022]
+Confirming "GOD EATER" UMD®.
+---------------------------------------------------------
+[0023]
+Confirming "GOD EATER BURST Append Version" UMD®.
+---------------------------------------------------------
+[0024]
+Loading.
+Please do not remove storage media device.
+---------------------------------------------------------
+[0025]
+Confirming storage media device.
+---------------------------------------------------------
+[0026]
+Avatar Card data is corrupt.
+Data will be repaired.
+---------------------------------------------------------
+[0027]
+Repairing Avatar Card data.(ｱ/ｲ)
+Please do not remove the storage device.
+---------------------------------------------------------
+[0028]
+Avatar Card data repair complete.
+This data will be stored on the next save.
+---------------------------------------------------------
+[0029]
+Please select a save slot.
+---------------------------------------------------------
+[0030]
+Confirming save data.
+Please do not remove storage media device.
+---------------------------------------------------------
+[0031]
+Overwrite previous save data?
+All currently saved data will be lost.
+---------------------------------------------------------
+[0032]
+Saving Avatar Card.
+Please do not remove storage media device.
+---------------------------------------------------------
+[0033]
+Load failed.
+Save data does not exist.
+---------------------------------------------------------
+[0034]
+Please insert storage media device.
+---------------------------------------------------------
+[0035]
+Deleting Avatar Card.(ｱ/ｲ)
+Please do not remove storage media device.
+---------------------------------------------------------
+[0036]
+There is already an exchanged Avatar Card.
+Overwrite saved data?
+---------------------------------------------------------
+[0037]
+Exchanged Avatar Cards will be deleted.
+Is it alright to quit without saving?
+---------------------------------------------------------
+[0038]
+All data before the previous save will be lost.
+Is it alright to quit without saving?
+---------------------------------------------------------
+[0039]
+Will you suspend the verification of "GOD EATER"?
+---------------------------------------------------------
+[0040]
+There is not enough free space on the storage device.
+There needs to be at least ｱ free in order to save data.
+Would you like to start the saved data deletion tool?
+---------------------------------------------------------
+[0041]
+Data loading cancelled because
+the storage device was removed.
+---------------------------------------------------------
+[0042]
+Data loading was cancelled
+because sleep mode was activated.
+---------------------------------------------------------
+[0043]
+There was no saved data.
+Will you begin a new save?
+The current Avatar Card will be lost.
+---------------------------------------------------------
+[0044]
+Save data is corrupt.
+Overwrite saved data?
+All currently saved data will be lost.
+---------------------------------------------------------
+[0045]
+Load failed.
+Saved data is corrupt.
+---------------------------------------------------------
+[0046]
+Save has been cancelled because
+the storage device has been removed.
+---------------------------------------------------------
+[0047]
+Save has been cancelled because
+because sleep mode was activated.
+---------------------------------------------------------
+[0048]
+The save slot cannot be changed.
+---------------------------------------------------------
+[0049]
+Avatar Card data load failed.
+The data is corrupt.
+---------------------------------------------------------
+[0050]
+Avatar Card data load failed.
+There is no storage device inserted.
+---------------------------------------------------------
+[0051]
+Avatar Card data load failed.
+The storage device has been removed.
+---------------------------------------------------------
+[0052]
+Avatar Card data load failed.
+There is no saved data.
+---------------------------------------------------------
+[0053]
+Avatar Card load failed.
+because sleep mode was activated.
+---------------------------------------------------------
+[0054]
+Avatar Card load failed.
+---------------------------------------------------------
+[0055]
+Avatar Card load failed.
+Avatar Card list and storage device data is not identical.
+---------------------------------------------------------
+[0056]
+Confirmed that the "GOD EATER BURST Append Version"
+UMD®has been reinserted.
+---------------------------------------------------------
+[0057]
+Additional Data Pack confirmation has been cancelled
+because the storage device has been removed.
+---------------------------------------------------------
+[0058]
+Additional Data Pack confirmation has been cancelled
+because sleep mode was activated.
+---------------------------------------------------------
+[0059]
+
+---------------------------------------------------------
+[0060]
+
+---------------------------------------------------------
+[0061]
+
+---------------------------------------------------------
+[0062]
+
+---------------------------------------------------------
+[0063]
+
+---------------------------------------------------------
+[0064]
+
+---------------------------------------------------------
+[0065]
+
+---------------------------------------------------------
+[0066]
+
+---------------------------------------------------------
+[0100]
+For DLC missions,
+Additional Data Packs are necessary.
+---------------------------------------------------------
+[0101]
+Confirming Additional Data Packs.
+Please do not remove storage device
+or turn off the PSP unit.
+---------------------------------------------------------
+[0102]
+★This message shouldn't be being used.
+If it shows up, there's a bug.★
+---------------------------------------------------------
+[0103]
+Because Additional Data Packs could not be loaded,
+the game cannot be continued.
+Returning to Title Screen.
+---------------------------------------------------------
+[0104]
+Because Additional Data Packs are corrupt,
+the game cannot be continued.
+Returning to Title Screen.
+---------------------------------------------------------
+[0105]
+★This message shouldn't be being used.
+If it shows up, there's a bug.★
+---------------------------------------------------------
+[0106]
+★This message shouldn't be being used.
+If it shows up, there's a bug.★
+---------------------------------------------------------
+[0107]
+★This message shouldn't be being used.
+If it shows up, there's a bug.★
+---------------------------------------------------------
+[0110]
+Additional Data Packs loaded.
+Please do not change the storage media while playing.
+You will not be able to
+use the DLC.
+---------------------------------------------------------
+[0111]
+Premium character unlock key loaded.
+---------------------------------------------------------
+[0112]
+Additional Data Pack confirmation failed.
+Please download again from the PlayStation®Store.
+---------------------------------------------------------
+[0113]
+Premium character unlock key confirmation failed.
+Character's whose data has failed to load will be unavailable.
+Please download again from the PlayStation®Store.
+---------------------------------------------------------
+[0114]
+Additional Data Pack confirmation failed.
+Premium character unlock key confirmation failed.
+Character's whose data has failed to load will be unavailable.
+Please download again from the PlayStation®Store.
+---------------------------------------------------------
+[0150]
+Because the Additional Data Packs were not read correctly,
+alternate equipment, hairstyles and BGM have been loaded.
+If this message continues to be displayed,
+please download again from the PlayStation®Store.
+---------------------------------------------------------

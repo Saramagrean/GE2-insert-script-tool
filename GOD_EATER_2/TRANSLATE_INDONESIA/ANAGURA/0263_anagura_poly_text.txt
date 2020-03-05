@@ -1,0 +1,292 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0123
+===============================================================
+[00000628:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+"Tidak ada entri untuk masuk karena sudah keluar"
+Itulah yang tertulis ......
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas saat ini, aku tidak bisa masuk ruangan ini
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas saat ini, aku tidak bisa masuk ruangan ini
+---------------------------------------------------------
+
+---------------------------------------------------------
+"Bagi yang butuh bantuan, ke laboratorium"
+Itulah yang tertulis ......
+---------------------------------------------------------
+Alisa
+---------------------------------------------------------
+Masih banyak masalah yang harus dipecahkan ....
+Tapi, hanya sedikit lagi...... aku takut harapan itu terbentuk
+---------------------------------------------------------
+Tak perlu takut oleh Aragami ...
+dunia yang seperti itu tidak akan datang selama ini ......
+---------------------------------------------------------
+Karena kami berusaha mewujudkannya dengan usaha sendiri......
+Entah bagaimana, aku semakin bersemangat!
+---------------------------------------------------------
+Kalbi
+---------------------------------------------------------
+Kyurukyuru
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+Apakah tempat ini, kamu mengalahkan Kyuubi
+namun, tetap saja banyak yang harus dilakukan
+---------------------------------------------------------
+Entah kenapa, ketika bersamamu dan semua orang......Tak satupun dari mereka yang tak bahagia
+---------------------------------------------------------
+...... maaf sudah mengatakan hal yang aneh
+---------------------------------------------------------
+Sekali lagi, mohon kerjasama nya
+---------------------------------------------------------
+Erina
+---------------------------------------------------------
+Dalam misi sebelumnya, aku berhasil mengalahkan Vajra hanya satu orang!
+Tapi, karena Kapten Kouta "bereaksi berlebihan" dia pun marah....
+---------------------------------------------------------
+Suatu hari aku harus meminjam kekuatan Blood
+aku bisa mempertahankan anaguta ini!
+---------------------------------------------------------
+......Tapi, semua orang suka disini
+karena kamu juga tinggal disini, itu bagus bukan?
+---------------------------------------------------------
+Franz
+---------------------------------------------------------
+Belakangan, dengan bantuan pekerja restorasi......mereka bolak balik dari Far east ke Friar
+---------------------------------------------------------
+Sejak saat itu, tidak ada insiden yang terjadi...... Sekarang waktunya untuk maju ke depan
+---------------------------------------------------------
+Kita tidak tahu apa yang akan terjadi di masa depan...... tetapi itu tidak akan sia sia
+---------------------------------------------------------
+Tentang itu......ya, itu benar semua orang tinggal disini
+---------------------------------------------------------
+A...... karena di Far east banyak orang, aku akan membantu
+---------------------------------------------------------
+Bagaimana dengan Friar?
+---------------------------------------------------------
+Apakah lebih mudah untuk tinggal di Friar selamanya?
+---------------------------------------------------------
+Gill
+---------------------------------------------------------
+Untuk warga sipil, akan diadakan seminar bela diri......
+Aku bertanya pada instruktur, apa itu?
+---------------------------------------------------------
+Stun granade, camouflage pheromone, lecture dan......
+Yah...... lihat apa yang akan terjadi
+---------------------------------------------------------
+Haruomi
+---------------------------------------------------------
+Hei, Kanon ...... apa kau tidak tertarik pada kapten?
+---------------------------------------------------------
+Kanon
+---------------------------------------------------------
+Oh, kapten ......?
+Itu benar ......Eh, kapten!?
+---------------------------------------------------------
+Tidak, aku harus menemukan penerus kapten unit keempat ......
+Aku ingin tahu apakah bebannya masih sedikit berat untukmu
+---------------------------------------------------------
+Itu saja, aku merasa terhormat!
+aku akan melakukan yang terbaik!......
+---------------------------------------------------------
+Eh, itu...... agak sulit dikatakan kalaiu itu hanya lelucon
+---------------------------------------------------------
+Kanon
+---------------------------------------------------------
+Akhirnya ...... hari di mana upayaku disetujui...!
+---------------------------------------------------------
+Oh, tapi ...... Haruomi-san, aku akan memberitahumu ......
+Kamu tidak harus mempercayainya ......
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Sel oracle retro diambil dari Kyuubi......
+Dr Soma mengatakan bahwa penelitian ini cenderung berkembang cepat
+---------------------------------------------------------
+Tapi, aku masih belum ......
+Baiklah! Segera ke misi selanjutnya ......
+---------------------------------------------------------
+...... itulah yang kupikirkan, tapi aku lapar lah......
+Hanya sedikit lagi, aku makan roti oden!
+---------------------------------------------------------
+Mutsumi
+---------------------------------------------------------
+Orang yang bisa bermain piano sangat luar biasa
+Jari-jarinya bergerak dengan sangat hati-hati dan halus ......
+---------------------------------------------------------
+...... Lain kali, jika kamu bertemu Yuno, aku ingin memberitahumu sedikit
+---------------------------------------------------------
+Dr. sakaki
+---------------------------------------------------------
+Terima kasih atas kerja samanya, penelitian tentang teknologi oracle retro juga akan mengambil langkah baru
+---------------------------------------------------------
+Mengenai spesies sensitif baru, analisis berjalan sedikit demi sedikit ....
+kamj mungkin dapat membangun lingkungan di mana manusia dapat hidup dengan damai dalam waktu dekat
+---------------------------------------------------------
+sekarang akan sulit, tapi ... ayo bertarung bersama
+Aku mengandalkanmu
+---------------------------------------------------------
+Soma
+---------------------------------------------------------
+Dengan menggunakan sel oracle retro yang didapat dari Kyuubi......
+Aku sedang mengerjakan pembuatan sampel dasar
+---------------------------------------------------------
+sekarang adalah tugas kita ... Yah, serahkan padaku.
+aku akan membuktikan bahwa teori yang aku cetuskan bukanlah omong kosong......
+---------------------------------------------------------
+
+---------------------------------------------------------
+What do you see?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Look another file
+---------------------------------------------------------
+Semua ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini seperti majalah mode atau katalog
+aku tidak tahu juga, karena semuanya ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini seperti file teks
+Aku tidak bisa memeriksanya karena terkunci<@>
+---------------------------------------------------------
+Модный　журнал
+---------------------------------------------------------
+Дневник
+---------------------------------------------------------
+Berhenti mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+What do you see?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Do nothing
+---------------------------------------------------------
+
+---------------------------------------------------------
+What do you see?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Look a Archive
+---------------------------------------------------------
+Do nothing
+---------------------------------------------------------
+
+---------------------------------------------------------
+What do you see?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Look another file
+---------------------------------------------------------
+Ada banyak taktik terkait dengan file<@>
+---------------------------------------------------------
+"Signal Bullet" mengacu pada item yang digunakan untuk memberikan instruksi kepada kawan dalam misi<@>
+---------------------------------------------------------
+Kisaran pengaruh "Bullet signal" ada dua jenis "Wide area signals" dan "Narrow Range signal"<@>
+---------------------------------------------------------
+"Wide area signal" untuk semua anggota yang berpartisipasi dalam misi
+"Narrow area signal" hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+Ada 4 jenis "signal bullet" yang bisa digunakan<@>
+---------------------------------------------------------
+"Wide-area Signal: all hands set", "Narrow-Band Signal: Menunggu penyebaran,"
+"narrow-band signal: Mencari serangan musuh," "narrow-band signal: Set"<@>
+---------------------------------------------------------
+Lebih detail, tentang signal bullet lihat " database"<@>
+---------------------------------------------------------
+"Control Unit" diaktifkan dengan "Burst Skill"<@>
+---------------------------------------------------------
+" Burst skill" adalah skill special yang hanya aktif ketika dalam burst mode<@>
+---------------------------------------------------------
+Juga tergantung pada "control unit" dan skill yang terpasang didalamnya maka Title akan berubah<@>
+---------------------------------------------------------
+Aku tidak bisa membukanya karena aku tidak punya izin<@>
+---------------------------------------------------------
+Advanced tactics teaching: signal bullets
+---------------------------------------------------------
+Advanced tactics teaching: control unit
+---------------------------------------------------------
+ＮＯ　ＮＡＭＥ
+---------------------------------------------------------
+Stop searching
+---------------------------------------------------------
+
+---------------------------------------------------------
+What do you see?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Look another file
+---------------------------------------------------------
+File sudah diatur sehingga mudah dicari<@>
+---------------------------------------------------------
+"Avatar" adalah teman yang dapat berpartisipasi dalam misi setiap saat melalui pertukaran "Avatar Card"<@>
+---------------------------------------------------------
+Ada dua cara untuk mengganti "Avatar Card" Salah satunya adalah dengan mengubahnya secara
+manual di "Multiplayer"<@>
+---------------------------------------------------------
+Dan jumlah maksimum kartu yang dapat ditukar sekaligus dengan "passing card exchange"
+hingga 3 kartu<@>
+---------------------------------------------------------
+"Avatar card" dapat diperbarui dengan bertukar dengan lawan yang sama dan
+"Multiplayer" atau "passing card exchange"<@>
+---------------------------------------------------------
+Sebagai imbalan karena menyelesaikan tugas<dengan anggota lain
+"Material avatar" bisa diambil<@>
+---------------------------------------------------------
+Blood memo<@>
+---------------------------------------------------------
+"Rebounding bullet" adalah bullet dengan efek untuk memulihkan kekuatan teman.
+Namun, tidak memiliki efek bagi orang yang menembak<@>
+---------------------------------------------------------
+Untuk Bullet dengan sifat yang sangat istimewa
+penggunaan God arc terbatas<@>
+---------------------------------------------------------
+Hanya ada satu bagian, ada gambar-gambar camelia kecil, gentian dan Sakuya bersama<@>
+---------------------------------------------------------
+Dan yang lainnya adalah foto baru<@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Bullet
+---------------------------------------------------------
+Photo
+---------------------------------------------------------
+Stop searching
+---------------------------------------------------------
+
+---------------------------------------------------------
+Sudah mulai tapi susah untuk dilihat karena layarnya rusak<@>
+---------------------------------------------------------
+What do you see?<@>
+---------------------------------------------------------
+File terkunci dan tidak bisa dilihat<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Look another file
+---------------------------------------------------------
+Yorozuya
+---------------------------------------------------------
+Apa anda ingin membeli sesuatu?
+---------------------------------------------------------

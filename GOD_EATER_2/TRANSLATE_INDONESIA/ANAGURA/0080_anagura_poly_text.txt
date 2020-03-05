@@ -1,0 +1,289 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0118
+===============================================================
+[00000608:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+Tidak bisa masuk karena tidak memiliki wewenang
+---------------------------------------------------------
+
+---------------------------------------------------------
+Tidak bisa masuk karena tidak memiliki wewenang
+---------------------------------------------------------
+
+---------------------------------------------------------
+Tidak bisa masuk karena tidak memiliki wewenang
+---------------------------------------------------------
+
+---------------------------------------------------------
+Tidak bisa masuk karena tidak memiliki wewenang
+---------------------------------------------------------
+
+---------------------------------------------------------
+Tidak bisa masuk karena tidak memiliki wewenang
+---------------------------------------------------------
+Kalbi
+---------------------------------------------------------
+Kalbi
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+Di caligula muncul dalam aisis,seseorang dengan mesin
+Aku dengar ceritanya masih tersendak……
+---------------------------------------------------------
+Apakah orangnya merasa hidup dalam god machine……
+---------------------------------------------------------
+Gill
+---------------------------------------------------------
+God machine ditusuk oleh aragami merah……
+---------------------------------------------------------
+Akhirnya kutemukan……
+Lain kali kau takkan kabur
+---------------------------------------------------------
+Haruomi
+---------------------------------------------------------
+Bang blood selaku wakil kapten
+Aku punya permintaan..tak apa kan?
+---------------------------------------------------------
+Permintaan jenis apa?
+---------------------------------------------------------
+Baiklah
+---------------------------------------------------------
+Ada apa didalam caligula merah?
+---------------------------------------------------------
+Itu……
+---------------------------------------------------------
+……Akan kupakai untukmu
+---------------------------------------------------------
+Oke
+---------------------------------------------------------
+Caligula merah berhadapan dengan kota……
+Aku ingin kau menolongku meninggalkannya
+---------------------------------------------------------
+Gill sepertinya melakukannya sendiri……
+Aku ingin kau menyambung bagian itu sebelum kehilangan dia lagi
+---------------------------------------------------------
+Aku datang ke cabang far east karena aragami yang digigit god machine nyangkut
+Itu karena aku tau itu telah mengalir ke far east
+---------------------------------------------------------
+Dalam cerita kota,dia tampaknya terjebak dengan god machine……
+Mungkin..itu mesin kate
+---------------------------------------------------------
+Ah……
+Tapi,aku tak ingin membunuh mush kate
+---------------------------------------------------------
+……Aku ingin membebaskan gill
+---------------------------------------------------------
+Akan kujaga selamanya,menjahit ditempat itu...orang itu
+Kate juga berharap begitu
+---------------------------------------------------------
+Caligula yang memukul kota
+Tampaknya sekarang bergerak ke kapal induk lama
+---------------------------------------------------------
+Aku ingin menyelesaikannya
+Bantu aku,pinjamkan kekuatanmu
+---------------------------------------------------------
+Maaf,karena terlalu mementingkan diriku sendiri
+---------------------------------------------------------
+Aku tentu saja akan kembali
+Itupun jika aku hidup aman dan kembali kerumah
+---------------------------------------------------------
+Hibari
+---------------------------------------------------------
+Reaksi kuat dari aragami telah dikonfirmasi far east,dekat
+kapal induk yang tak terpakai
+---------------------------------------------------------
+Dia menyerang unit pertama di aegis dan kembali dengan caligula jenis baru
+Tolong hukum dia!
+---------------------------------------------------------
+Aku mengandalkanmu
+---------------------------------------------------------
+Kota
+---------------------------------------------------------
+Terima kasih..aku kira kau mungkin telah dimakan……
+Tampaknya aragami yang menyerang pergi ke kapal induk
+---------------------------------------------------------
+Ngomong-ngomong,aku pertama kalinya melihat wajah haruomi seperti itu
+Berbicara tentang kejadian di Aegis,ekspersi wajahnya tiba-tiba berubah
+---------------------------------------------------------
+Aku ingin tau apa yang dia ketahui tentang caligula merah……
+---------------------------------------------------------
+Bang haruomi……
+Aku ingin tau apa yang dia ketahui tentang caligula merah……
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Gil,apa yang terjadi?……
+Aku rasa aku terlalu memikirkannya
+---------------------------------------------------------
+Romeo
+---------------------------------------------------------
+Bukankah aneh bahwa pernyataan dari gill aneh semenjak bang kota kembali
+Bahkan jika aku mencoba,aku tak punya reaksi sama sekali……
+---------------------------------------------------------
+Apakah wakil kapten tau sesuatu？
+Bahwa ada apa saja yang berkaitan dengan aragami yang menyerang unit pertama?
+---------------------------------------------------------
+Mutsumi
+---------------------------------------------------------
+Kerjalah..tolong berhati-hati dan pergilah
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Semuanya tertulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Itu terlihat seperti majalah model atau katalog
+Aku tidak tau karena tertulis dalam bahasa rusia<@>
+---------------------------------------------------------
+Terlihat seperti file berteks
+Aku tidak bisa melihatnya karena tersembunyi<@>
+---------------------------------------------------------
+Модный　журнал
+---------------------------------------------------------
+Дневник
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Jangan lakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Liat berkasnya
+---------------------------------------------------------
+Jangan lakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Terdapat banyak taktik dalam file terkait<@>
+---------------------------------------------------------
+"Signal Bullet" mengacu pada item yang digunakan untuk memberikan instruksi kepada kawan dalam misi<@>
+---------------------------------------------------------
+Kisaran pengaruh "Bullet signal" ada dua jenis "Wide area signals" dan "Narrow Range signal"<@>
+---------------------------------------------------------
+"Wide area signal" untuk semua anggota yang berpartisipasi dalam misi
+"Narrow area signal" hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+Terdapat 4 jenis "peluru signal" yang dapat digunakan<@>
+---------------------------------------------------------
+"Wide-area Signal: all hands set", "Narrow-Band Signal: Menunggu penyebaran,"
+"narrow-band signal: Mencari serangan musuh," "narrow-band signal: Set"<@>
+---------------------------------------------------------
+Untuk informasi lebih detail silahkan liat database<@>
+---------------------------------------------------------
+"Control Unit" diaktifkan dengan "Burst Skill"<@>
+---------------------------------------------------------
+"Burst skill" menunjukan efel saat dalam burst
+Adalah sebuah skill special<@>
+---------------------------------------------------------
+Juga tergantung pada "control unit" dan skill yang terpasang didalamnya maka Title akan berubah<@>
+---------------------------------------------------------
+Aku tidak bisa membukanya karena tidak
+memiliki izin<@>
+---------------------------------------------------------
+Petunjuk taktis senior : peluru signal
+---------------------------------------------------------
+Petunjuk taktis lebih lanjut : Kontrol unit
+---------------------------------------------------------
+ＮＯ　ＮＡＭＥ
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Filenya tersusun rapi 
+Mudah untuk melihatnya<@>
+---------------------------------------------------------
+Dengan "kartu avatar" tukar dengan "avatar"
+teman yang akan bisa berpartisipasi 
+dalam misi kapan saja
+<@>
+---------------------------------------------------------
+Terdapat 2 cata dalam bertukar "kartu avatar"
+Cara pertama secara manual bertukar
+saat "Multiplayer"<@>
+---------------------------------------------------------
+Cara yang lain adalah dengan "Perukaran kartu langsung"
+Batas 3 kartu yang dapat ditukar secara bersamaan<@>
+---------------------------------------------------------
+"Kartu avatar" dapat diupdate dengan teman yang sama
+Dengan "Multiplayer" atau "Redemption card exchange"<@>
+---------------------------------------------------------
+Sebagai imbalan karena menyelesaikan tugas<dengan anggota lain
+"Material avatar" bisa diambil<@>
+---------------------------------------------------------
+Memo bullet<@>
+---------------------------------------------------------
+Rebounding bullet adalah bullet dengan efek untuk memulihkan kekuatan teman.
+Namun, tidak memiliki efek bagi orang yang menembak<@>
+---------------------------------------------------------
+Untuk Bullet dengan sifat yang sangat istimewa
+penggunaan God arc terbatas<@>
+---------------------------------------------------------
+Hanya ada satu potongan,dengan Tsubaki dan Lindow waktu kecil
+Ada juga foto bersama sakuya<@>
+---------------------------------------------------------
+Foto yang lain relatif baru<@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Bullet
+---------------------------------------------------------
+Foto
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Aku telah memulainya
+Tapi tampilannya rusak dan sulit dilihat<@>
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Semua file terkunci
+Aku tidak bisa melihatnya<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Yorozuya
+---------------------------------------------------------
+Apakah kau ingin membeli sesuatu?
+---------------------------------------------------------

@@ -1,0 +1,51 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0016
+===============================================================
+[00000200:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Hibari
+---------------------------------------------------------
+Permisi, Kouta ada panggilan dari penduduk di bagian
+luar<@>
+---------------------------------------------------------
+Kota
+---------------------------------------------------------
+Hah...? Tapi kenapa saat aku akan pergi misi?<@>
+---------------------------------------------------------
+Tapi mereka bersikeras itu harus kau, Segeralah...<@>
+---------------------------------------------------------
+Ok Ok, Aku akan kesana<@>
+---------------------------------------------------------
+Ya...Pasti
+---------------------------------------------------------
+Apa!? Sekarang...!?<@>
+---------------------------------------------------------
+Aku paham, Aku paham! Aku akan kesana setelah misiku
+selesai!<@>
+---------------------------------------------------------
+Ah, baiklah, Aku akan mengurus bagian pertahanan! ...Teh?
+Tidak, Aku baik baik saja! Okay, Sampai jumpa, nanti!<@>
+---------------------------------------------------------
+Baiklah, Tidak ada masalah!<@>
+---------------------------------------------------------
+Ada yang salah?
+---------------------------------------------------------
+Apa ada sesuatu yang terjadi dengan keluargamu?
+---------------------------------------------------------
+Orang-orang dari luar ada yang menentang Fenrir jadi mereka
+memintaku untuk menjadi perantara ...<@>
+---------------------------------------------------------
+Yah, itu sudah biasa untukmu! aku akan menangani itu saat
+misiku selesai<@>
+---------------------------------------------------------
+...hey, Kita tidak akan kemana kemana jika seperti ini! mari
+beraksi<@>
+---------------------------------------------------------

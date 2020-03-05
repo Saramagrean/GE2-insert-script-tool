@@ -1,0 +1,33 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0008
+===============================================================
+[00000168:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Gil
+---------------------------------------------------------
+Hah...Aku tidak pernah mengira akan ada satu hari dimana 
+aku dapat mengatur God Arc-mu...<@>
+---------------------------------------------------------
+Apa kau tidak mau?
+---------------------------------------------------------
+Apa kau senang?
+---------------------------------------------------------
+Aku akan mengatur God Arc-mu berdasarkan apa yang sudah kau 
+dapatkan terlebih di masa depan...<@>
+---------------------------------------------------------
+Aku akan lebih memperhatikan kemudahannya saat kugunakan 
+dalam misi... Ini dia<@>
+---------------------------------------------------------
+Itu tidak benar Lebih seperti... Nggak, bukan 
+apa-apa<@>
+---------------------------------------------------------
+Baiklah... Bagaimana aku harua mengatakannya<@>
+---------------------------------------------------------

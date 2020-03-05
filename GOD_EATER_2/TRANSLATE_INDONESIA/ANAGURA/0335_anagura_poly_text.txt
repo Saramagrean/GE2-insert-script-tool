@@ -1,0 +1,63 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0020
+===============================================================
+[00000216:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Gill
+---------------------------------------------------------
+Wow, bagaimana kabarmu?
+Apakah Anda berhasil memperkuat "Shirogane proximity weapon" dari itu?
+---------------------------------------------------------
+Pertama, siapkan "Shirogane proximity weapon" yang sudah diperkuat...
+dan akan menjadi "Shirogane short blade type" dan "Shirogane Long blade type"
+---------------------------------------------------------
+Senjata diperkuat dengan "low density sensitive wave receptor" sebagai "high density complex core"
+Jika kamu memperkuat senjata ke "RANK 5", kamu dapat "mengupgradenya" lagi
+---------------------------------------------------------
+Siapkan "Shirogane proximity weapon"... setelah itu "timbang" menggunakan
+"high density sensitive wave receptor"
+---------------------------------------------------------
+Jika kamu kehilangan "High density senstive wave receptor" ... lagi,
+kamu dapat membuatnya kembali, dan sudah terdaftar dalam daftar "material composition" dari terminal
+---------------------------------------------------------
+Oh, dan ... jika kamu selesai membuatnya dengan aman
+Equip God Arc dan datang kepada saya.
+---------------------------------------------------------
+Tidak, aku tidak keberatan, lanjutkanlah dengan cepat, aku akan menunggu
+---------------------------------------------------------
+Di upgrade kan
+---------------------------------------------------------
+Aku tidak tahu cara mengupgrade nya 
+---------------------------------------------------------
+Maaf, belum ...
+---------------------------------------------------------
+Benar... apakah kamu bisa meng upgrade God Arc itu?
+aku juga ingin memeriksa kinerja dengan mataku sendiri ......
+---------------------------------------------------------
+Rupanya, itu berjalan dengan baik. Jika kamu tidak keberatan ......
+Bisakah kamu menunjukkan kegunaannya?
+---------------------------------------------------------
+Jadi begitu......
+Katakan padaku kapan kamu siap
+---------------------------------------------------------
+Dengan senang hati
+---------------------------------------------------------
+Sekarang sedikit ......
+---------------------------------------------------------
+Ada apa, kamu tidak pergi?
+---------------------------------------------------------
+Setelah misi selesai ......
+Katakan padaku kapan waktunya habis.
+---------------------------------------------------------
+OK, apakah kamu akan pergi?
+---------------------------------------------------------
+Kalau begitu, ketika kamu selesai, silakan hubungi lagi, aku akan menunggu.
+---------------------------------------------------------

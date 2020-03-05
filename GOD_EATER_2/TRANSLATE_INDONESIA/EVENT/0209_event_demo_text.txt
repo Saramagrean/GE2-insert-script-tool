@@ -1,0 +1,57 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0018
+===============================================================
+[00000208:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Gil
+---------------------------------------------------------
+Mission selesai, "kapten"<@>
+---------------------------------------------------------
+benar, misi jni sudah selesai kapten...
+---------------------------------------------------------
+aku masih belum terbiasa...
+---------------------------------------------------------
+Mm...Ah,baiklah...<@>
+---------------------------------------------------------
+baiklah...aku tidak bermaksud mengatakan hal seperti ini
+tapi...<@>
+---------------------------------------------------------
+Blood captain...ini tentang mu bukan tentang jabatanmu...hanya
+kaulah satu satunya yang bisa kupercayai, aku maksus<@>
+---------------------------------------------------------
+Julius yelah memutuskan untuk bertaarung sendirian dan
+bertarung dengan kemampuanya semdiri<@>
+---------------------------------------------------------
+benar sekali hanya tinggal 4 orang yang ada di blood... kau
+adalah pusatnya yang membuat kami terus bersama<@>
+---------------------------------------------------------
+dengan ciel yang sudah mulai terbuka, menyelamatkan nana
+dari kutukannya, dan menghilangkan ketidak percayaanku
+dengan romeo...kau selalu berhasil<@>
+---------------------------------------------------------
+aku akan membantumu sebagai kapten kami kami mendatang<@>
+---------------------------------------------------------
+semuanya menunggu mu sebagai kapten@>
+---------------------------------------------------------
+ok aku mengerti, aku akan bantu semampiku...
+---------------------------------------------------------
+Ah... mari kita bertarung bersama mulai saat ini
+---------------------------------------------------------
+aku akan menjagamu kapten<@>
+---------------------------------------------------------
+...baiklah,ayonkitabkembali<@>
+---------------------------------------------------------
+jangan kawatir, kau tidak perlu menanggunya sendiri kami
+akan membantumu dan bertarung bersamamu<@>
+---------------------------------------------------------
+ini adalah pertarungan yang sulit... tapi terimakasih telah
+mengambilnya<@>
+---------------------------------------------------------

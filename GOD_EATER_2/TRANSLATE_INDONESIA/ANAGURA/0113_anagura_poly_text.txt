@@ -1,0 +1,303 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0123
+===============================================================
+[00000628:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+Dengan otoritas saat ini di ruangan ini
+Aku tidak bisa masuk
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas saat ini, di ruangan ini
+Aku tidak bisa masuk
+---------------------------------------------------------
+Alisa
+---------------------------------------------------------
+Sulit bagi orang untuk mengkompilasi ... ...
+---------------------------------------------------------
+Bahkan jika unit miliknya berbeda, God machine yang sama saling menggunakan ......
+Ketika Anda berada dalam masalah, silakan hubungi kami kapan saja
+---------------------------------------------------------
+Asuna
+---------------------------------------------------------
+Fuu ... ... aku sedikit lelah ... ...
+Mungkin sedikit lebih baik ......
+---------------------------------------------------------
+Kalbi
+---------------------------------------------------------
+(Aku melihat di sini tampak seperti aku ingin bermain dengan mata bantal)
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+Baru-baru ini aku merasa bahwa hubungan tidak berjalan dengan baik
+Aku harus memikirkan beberapa solusi ...
+---------------------------------------------------------
+Emile
+---------------------------------------------------------
+Sebelumnya, Gill dan Romeo
+Mereka memiliki pertengkaran panas dan intens
+---------------------------------------------------------
+Menurutku, ada alasan untuk Gill mengatakannya
+Kupikir ...
+---------------------------------------------------------
+Elina
+---------------------------------------------------------
+Tentang Romeo ... Aku pikir ada sesuatu yang berarti bagiku
+Karena, aku sepertinya tidak suka main sama sekali ... ...
+---------------------------------------------------------
+Berkelahi dengan putus asa ... ...
+Mungkin aku seperti itu
+---------------------------------------------------------
+Gill
+---------------------------------------------------------
+Ya ampun ……
+Sama seperti ini ... Ini akan merusak diri sendiri suatu hari nanti
+---------------------------------------------------------
+Haruomi
+---------------------------------------------------------
+Nah, batas pikiranmu itu penting
+---------------------------------------------------------
+Selalu wanita yang luar biasa tanpa panik
+Aku bisa memanggil ... ... sejauh itu
+---------------------------------------------------------
+Hibari
+---------------------------------------------------------
+Blood memiliki tugas baru
+---------------------------------------------------------
+Canon
+---------------------------------------------------------
+Biliar mencoba melatih konsentrasi dan akurasi
+Aku dengar itu bagus, tapi benarkah?
+---------------------------------------------------------
+Kouta
+---------------------------------------------------------
+Kamu hanya harus bertarung atau bertarung
+Aku selalu terlihat baik-baik saja
+---------------------------------------------------------
+Yah, aku kira kamu berhubungan baik satu sama lain
+…… Hmm? Tunggu?
+---------------------------------------------------------
+Apakah itu berarti bahwa Ellina dan Emile adalah teman baik juga?
+Meskipun aku memikirkannya, aku merasa seperti mereka adalah monyet anjing ....
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Gil juga jengkel ... ...
+Mari bergaul lebih baik dengan orang lain
+---------------------------------------------------------
+Meskipun itu suasana yang menyenangkan sampai sekarang
+Kemana perginya itu ......
+---------------------------------------------------------
+nurse
+---------------------------------------------------------
+Di kamar rumah sakit ini, orang dengan black lympomas sembuh
+---------------------------------------------------------
+Karena kamu mungkin terinfeksi dengan black plague jika kamu berinteraksi dengan orang yang
+terkena dampak Tolong jangan terlalu dekat
+---------------------------------------------------------
+Licca
+---------------------------------------------------------
+Terkadang aku pikir pertarungan itu bagus
+Jauh lebih menyakitkan satu sama lain untuk tidak berkata apapun
+---------------------------------------------------------
+Romeo
+---------------------------------------------------------
+……Apa yang terjadi? Jika aku jadi kamu, aku baik-baik saja.
+Gil tertangkap sedikit, jadi aku jadi kesal
+---------------------------------------------------------
+... Yah, pokoknya tidak apa-apa!
+Tidak apa-apa tidak apa-apa! 
+---------------------------------------------------------
+Mutsumi
+---------------------------------------------------------
+Haru-san, kenapa selalu seperti ini
+Aku harap kamu bisa lebih serius ... ...
+---------------------------------------------------------
+Sakaki
+---------------------------------------------------------
+Manusia adalah makhluk yang sangat menyenangkan ....
+Dengan kata-kata, berkelahi atau berdandan dan berbaikan
+---------------------------------------------------------
+Juga dikatakan bahwa ada celah antara tindakan dan kata-kata ......
+Sayangnya, aku pikir ini adalah tempat yang indah
+---------------------------------------------------------
+Satsuki
+---------------------------------------------------------
+Mengenai bonus yang diterima dari pangkalan satelit
+Dengan mengirim kembali, oke? 
+---------------------------------------------------------
+Yuno
+---------------------------------------------------------
+Yah, itu tidak sopan jika harus mengirimnya kembali
+Aku kira akan lebih baik jika mengirimnya sebagai persediaan dan mengirimkannya? 
+---------------------------------------------------------
+Ya, siap! 
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat? <@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Semua ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti majalah fashion atau katalog
+Aku tidak tahu karena semuanya ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti file teks dan sebuah video anu
+Saya tidak bisa melihatnya karena terkunci<@>
+---------------------------------------------------------
+Модный　журнал
+---------------------------------------------------------
+Дневник
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat? <@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+tidak melakukan apapun
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat? <@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Tonton arsipnya
+---------------------------------------------------------
+tidak melakukan apapun
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat? <@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Ada banyak file tentang taktik disini<@>
+---------------------------------------------------------
+"Signal Bullet" mengacu pada item yang digunakan untuk memberikan instruksi kepada kawan dalam misi<@>
+---------------------------------------------------------
+Kisaran pengaruh "Bullet signal" ada dua jenis "Wide area signals" dan "Narrow Range signal"<@>
+---------------------------------------------------------
+"Wide area signal" untuk semua anggota yang berpartisipasi dalam misi
+"Narrow area signal" hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+Ada 4 macam "signal bullet" yang bisa digunakan<@>
+---------------------------------------------------------
+"Wide-area Signal: all hands set", "Narrow-Band Signal: Menunggu penyebaran,"
+"narrow-band signal: Mencari serangan musuh," "narrow-band signal: Set"<@>
+---------------------------------------------------------
+Untuk informasi rinci tentang masing-masing signal bullet, cek pada "Database"<@>
+---------------------------------------------------------
+"Control Unit" diaktifkan dengan "Burst Skill"<@>
+---------------------------------------------------------
+"Burst skill" menunjukkan efeknya hanya selama burst
+Ini adalah keterampilan khusus<@>
+---------------------------------------------------------
+Juga tergantung pada "control unit" dan skill yang terpasang didalamnya maka Title akan berubah<@>
+---------------------------------------------------------
+Aku tidak bisa membukanya karena aku tidak mempunyai izin<@>
+---------------------------------------------------------
+Panduan taktik senior: signal bullet
+---------------------------------------------------------
+Panduan taktik lanjutan: Control unit
+---------------------------------------------------------
+ＮＯ　ＮＡＭＥ
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat? <@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+File-file tersebut diatur
+Sangat mudah untuk dilihat<@>
+---------------------------------------------------------
+Oleh "avatar card" ditukar dengan "avatar"
+Itu adalah teman yang dapat berpartisipasi dalam misi kapan saja<@>
+---------------------------------------------------------
+Ada dua cara untuk bertukar "Avatar Card"
+Salah satu caranya adalah bertukar secara manual di "Multiplayer"<@>
+---------------------------------------------------------
+Yang lainnya adalah "exchange of passing cards"
+Hingga 3 kartu dapat ditukar sekaligus<@>
+---------------------------------------------------------
+"Avatar card" dapat diperbarui dengan bertukar dengan lawan yang sama
+Dengan melakukan "Multiplayer" atau "Redemption card exchange"<@>
+---------------------------------------------------------
+Sebagai imbalan karena menyelesaikan tugas<dengan anggota lain
+"Material avatar" bisa diambil<@>
+---------------------------------------------------------
+Bullet memo<@>
+---------------------------------------------------------
+"Rebounding bullet" adalah peluru yang memiliki efek mengembalikan kekuatan fisik kamu
+Namun, itu tidak berhasil untuk orang yang menembak sendiri<@>
+---------------------------------------------------------
+Untuk Bullet dengan sifat yang sangat istimewa
+penggunaan God arc terbatas<@>
+---------------------------------------------------------
+Hanya satu bagian, dengan sedikit Tsubaki dan Lindow
+Ada gambar Sakuya bersamanya<@>
+---------------------------------------------------------
+Yang lainnya adalah foto yang relatif baru<@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Bullet
+---------------------------------------------------------
+Photo
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Aku mulai, tapi
+Layar rusak dan sulit dilihat<@>
+---------------------------------------------------------
+Apa yang kau lihat? <@>
+---------------------------------------------------------
+Setiap file terkunci
+aku tidak bisa melihatnya<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Yorozuya
+---------------------------------------------------------
+Apa kamu mau membeli sesuatu? 
+---------------------------------------------------------
+Yuno
+---------------------------------------------------------
+Satsuki, itu mengingatkanku bahwa surat undangan yang aku terima adalah
+Apakah kamu menjawabku? 
+---------------------------------------------------------
+Satsuki
+---------------------------------------------------------
+Aku telah menaruhnya dengan benar
+
+---------------------------------------------------------
+Ya terima kasih! 
+---------------------------------------------------------

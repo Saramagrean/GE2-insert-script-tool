@@ -1,0 +1,52 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0014
+===============================================================
+[00000192:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Romeo
+---------------------------------------------------------
+Ugh... Hah, hari ini akusedang melihat jari dan tulangku
+bekerja!<@>
+---------------------------------------------------------
+tapi letnanmu itu benar benar bersemangat kapanpun aku
+berpapasan denganya, tugasku menjadi semakin mudah<@>
+---------------------------------------------------------
+...ini sudah terpikirkan olehku sejak lama<@>
+---------------------------------------------------------
+sepertinya, aku ingin ,apa yang bisa kubantu untuk
+memudahkan pertarungan kalian atau apa yang harus ku lakukan
+supaya kalian membantuku<@>
+---------------------------------------------------------
+jadi aku mencoba meniru si gilbert, dan bertingkah laku
+seperti nana... aku mencoba banyak hal<@>
+---------------------------------------------------------
+tapi, bukan hanya itu<@>
+---------------------------------------------------------
+aku berpikir kalau aku harus melakukan nya dengan caraku
+sendiri untuk mendapatkan hasil yang terbaik<@>
+---------------------------------------------------------
+Julius, kapten, Gil, dan juga Nana... semuanya sangat
+hebat disini banyak hal yang bisa kalu lakukan tapi aku
+tidak bisa<@>
+---------------------------------------------------------
+tapi sebenarnya kenapa aku setuju harus melakukan sesuatu
+apa yang tidak bisa orang lain lakukan <@>
+---------------------------------------------------------
+aku sangat bahagia, setelah aku bertemu dengan kalian semua
+para blood<@>
+---------------------------------------------------------
+...terimakasih<@>
+---------------------------------------------------------
+aku percaya padamu dan sekarang ayo kita pergi,
+kapten!<@>
+---------------------------------------------------------
+Heheh<@>
+---------------------------------------------------------

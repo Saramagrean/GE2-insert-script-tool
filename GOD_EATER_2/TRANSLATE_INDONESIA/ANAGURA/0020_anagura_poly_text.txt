@@ -1,0 +1,485 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0211
+===============================================================
+[00000980:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Emil
+---------------------------------------------------------
+Mata yang seperti angin topan, bunga yang bercahaya, cahaya yang seperti sebuah keajaiban……
+---------------------------------------------------------
+Kamu dari Brad, bebaskan kami sebelum kami menang,
+kami akan memberikan peristirahatan untuk prajurit sementara waktu……
+---------------------------------------------------------
+Fran
+---------------------------------------------------------
+Sekumpulan Aragami menghalangi jalan, Friar bekerja sama dengan unit reinforcement dari Far East Branch
+dan meminta untuk mengalahkan Aragami
+---------------------------------------------------------
+Gill
+---------------------------------------------------------
+gelombang besar datang!……
+---------------------------------------------------------
+Bagaimanapun, kalahkan Aragami, itu saja……
+---------------------------------------------------------
+Grem
+---------------------------------------------------------
+Jika kita menunjukan kemampuan Blood ke Far East, dimasa depan,
+kita juga memiliki model bisnis atau kekuatan tempur......
+---------------------------------------------------------
+kamu! Jangan menaruh kepala mu di kisah visi strategis!
+apa yang kamu lakukan di sini! Duduklah !
+---------------------------------------------------------
+Julius
+---------------------------------------------------------
+Blood menggunakan God machine dan penguatan......
+ini adalah hubungan eksternal yang dapat mengalahkan musuh dengan kekuatan penuh
+---------------------------------------------------------
+Ada hal yang ingin kutanyakan
+---------------------------------------------------------
+Aku mengerti
+---------------------------------------------------------
+Selanjutnya, mari kita bahas bagaimana cara mengatur barel yang tersisa ......
+jika kamu tertarik, kamu dapat datang dan mendengarkan
+---------------------------------------------------------
+Tentang Assault dan Sniper
+---------------------------------------------------------
+Aku ingin membahasnya
+---------------------------------------------------------
+Terima kasih banyak
+---------------------------------------------------------
+ini adalah senapan yang dapat menembak dengan OP yang rendah
+---------------------------------------------------------
+Sangat cocok untuk menghentikan musuh yang juga dapat menakut-nakuti musuh jika terkena bullet Assault
+---------------------------------------------------------
+direkomendasikan untuk "orang yang ingin melakukan dengan tangan sendiri daripada kekuatan"
+---------------------------------------------------------
+Ketika kamu menembakkan bullet Assault OP miliku akan dikembalikan
+---------------------------------------------------------
+"Drawback shot" disertai dengan backsteping, Penembakan ini akan menentukan hidup dan mati
+---------------------------------------------------------
+Tentang "Assault"?
+---------------------------------------------------------
+Disarankan untuk siapa saja?
+---------------------------------------------------------
+Katakan padaku apa rahasianya
+---------------------------------------------------------
+Aku ingin mendengar hal lain
+---------------------------------------------------------
+"Sniper" adalah tipe "barrel", jangkauanya panjang dan waktu terkena musuh juga singkat
+---------------------------------------------------------
+Ketika dalam mide " membidik" ruang lingkup bisa diperbesar
+---------------------------------------------------------
+Aku sarankan "agar orang menembak dari kejauhan"
+---------------------------------------------------------
+Tidak cocok untuk orang yang mudah emosi
+---------------------------------------------------------
+"Stealth field" agar peluru yang terkena Aragami, tidak ketahuan oleh aragami itu, manfaatkan dengan baik
+---------------------------------------------------------
+Tidak bisa digunakan ketika kamu berada di dekat Aragami... harus hati hati
+---------------------------------------------------------
+Tentang "sniper"?
+---------------------------------------------------------
+Untuk melawan Aragami, membutuhkan "taktik" untuk memahami posisi musuh dan "keahlian perang"
+yang berhubungan dengan God machine serta memerintahkan unit, menjadi hal yang penting
+---------------------------------------------------------
+Itu benar ...... Pada dasarnya, berbahaya bertarung dari depan dengan banyak musuh dan
+"setiap orang akan terbunuh"
+---------------------------------------------------------
+Itu artinya musuh yang ada di lapangan akan mengalahkan mereka satu per satu sebelum unit menyatu......
+---------------------------------------------------------
+"Setiap individu" membutuhkan kecerdikan yang tidak dapat disadari oleh musuh.
+Misalnya, "Zygote" yang sangat baik dalam penglihatan, memanggil temannya jika menemukan musuh
+---------------------------------------------------------
+Kemudian, bertarunglah di tempat yang tidak ditemukan di Zygote atau kalahkan
+Zygote secepatnya adalah kuncinya
+---------------------------------------------------------
+untuk mengalahkan musuh yang sendirian biasanya mereka "sering mengalahkan setiap orang"
+karena alasan itu pikirkanlah tempat untuk bertarung dan strategi serangan yang mumpuni
+---------------------------------------------------------
+Dasar teknik pertempuran adalah "intersesi" dan "melihat secara teliti gerakan musuh",
+seperti memotong, menembak, menghindari, dll. Semuanya berperan penting
+---------------------------------------------------------
+Di waktu santai, kamj harus memeriksa musuh dalam database dan memilih peralatan berdasarkan
+kompatibilitas antara musuh dan senjata
+---------------------------------------------------------
+Apa yang penting dalam berperang?
+---------------------------------------------------------
+Beritahu aku tentang taktik yang spesifik
+---------------------------------------------------------
+Beritahu aku tentang bertarung saat perang
+---------------------------------------------------------
+Untuk menguasai "cara dasar bertarung" dengan benar, amati pergerakan musuh, gunakan pertarungan
+jarak dekat, tembak, dan pertahanan pada waktu yang tepat
+---------------------------------------------------------
+Sebelum memilah, pikir tentang "atribut" dari musuh untuk memilih bagian-bagian dari God Machine, 
+"atribut" akan diperoleh jika menyerang musuh di titik lemah
+---------------------------------------------------------
+Penting juga untuk memilih "atribute" dan "Barret" yang tepat, walaupun kamu dapat menyesuaikan sendiri
+"barret" nya... tapi mari kita jelaskan
+---------------------------------------------------------
+Aku ingin menanggapi perasaan itu, tapi ... mustahil menguasai Blood Arts sampai level
+"awakening of blood"
+---------------------------------------------------------
+Jika kamu menggunakan (blood art)  sepanjang waktu, percayalah bahwa
+"The power of blood" akan bangkit
+---------------------------------------------------------
+God machine, yang merupakan Aragami buatan, dapat berevolusi menjadi benda-benda dengan karakteristik
+yang berbeda tergantung pada "inti komposit" material ... Itulah "kekuatan dari god Machine"
+---------------------------------------------------------
+Cobalah untuk mencoba membuat "inti komposit" dari "sintesis" terminal
+---------------------------------------------------------
+Untuk mejadi kuat?
+---------------------------------------------------------
+Aku ingin segera menguasai Blood Art
+---------------------------------------------------------
+Kami butuh God machine yang lebih kuat
+---------------------------------------------------------
+Tentang "Assault"
+---------------------------------------------------------
+Tentang "Sniper"
+---------------------------------------------------------
+Tentang "Blast"
+---------------------------------------------------------
+Tentang "Shotgun"
+---------------------------------------------------------
+Tentang " taktik"
+---------------------------------------------------------
+Aku ingin mendengar penjelasan yang pertama
+---------------------------------------------------------
+Dr.Leah
+---------------------------------------------------------
+Jika Anda adalah Direktur Jenderal Glem, saya akan mengambil hari libur ......
+Apa yang Anda butuhkan?
+---------------------------------------------------------
+Apakah kamu belum mendengar kabar dari Rachel?
+Dengan God Machine soldiers dan juga sebagai wakil direkutur, aku...
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Aragami, banyak orang yang datang
+kin karena bantuan dari Far East, ini agak gawat
+---------------------------------------------------------
+Aku deg degan......apakah ada yang bisa dimakan
+---------------------------------------------------------
+Rachel
+---------------------------------------------------------
+Sebentar lagi badai akan lewat, tetapi jangan dikhawatirkan
+---------------------------------------------------------
+Jika God Eater adalah bilah manusia, Brad memotong lekukannya
+alikan kekuatanmu sebisa mungkin
+---------------------------------------------------------
+Friar staff
+---------------------------------------------------------
+Penguatan berasal dari Far East Branch? ......
+klo tidak salah dulu Far East terjadi insiden beberapa tahun yang lalu ......
+---------------------------------------------------------
+Pada waktu itu, mereka sedang membuat project "Aegis" 
+adalah kasus yang terjadi pada Aragami yang tidak diketahui dan hancur
+---------------------------------------------------------
+Yang menghancurkan project tersebut adalah tim elit dari Far East
+lamnya ada orang yang super kuat......
+---------------------------------------------------------
+Tentang God machine soldier, kami sedang mempelajari 2 jenis kendali tanpa pengawasan dan kontrol berawak
+anya memliki masalah tersendiri, perkembangannya juga tidak stabil
+---------------------------------------------------------
+lebih baik, kontrol tanpa pengawasan Dr.kujo
+gai temannya Dr.leah aku ingin kamu bekerja keras, ketika sudah selesai, aku akan melihatnya
+---------------------------------------------------------
+Aa, lakukan yang terbaik
+---------------------------------------------------------
+ Kecelakaan?
+---------------------------------------------------------
+Pada saat seperti itu God machine tidak bisa digunakan?
+---------------------------------------------------------
+Sampai jumpa lagi
+---------------------------------------------------------
+Friar staff
+---------------------------------------------------------
+Bala bantuan yang hebat telah tiba! terutama Starssburg-san, orang bangsawan,
+seperti kesatria yang sebenarnya
+---------------------------------------------------------
+...... Orang itu sendiri yang mengatakannya
+---------------------------------------------------------
+Romeo
+---------------------------------------------------------
+Baiklah, saatnya untuk menunjukkan kekuatan Blood ......
+---------------------------------------------------------
+God Eater dari Far East Branch juga akan datang, sambutan juga diperlukan untuk menyambut mereka
+---------------------------------------------------------
+
+---------------------------------------------------------
+What do you see?
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Look another file
+---------------------------------------------------------
+Semua ditulis dalam bahasa Rusia
+---------------------------------------------------------
+Aku tidak tahu,
+karena semuanya ditulis dalam bahasa Rusia yang terlihat seperti majalah mode atau katalog
+---------------------------------------------------------
+Seperti file teks, tetapi terkunci dan tidak dapat dilihat
+---------------------------------------------------------
+Модный　журнал
+---------------------------------------------------------
+Дневник
+---------------------------------------------------------
+Stop Searching
+---------------------------------------------------------
+
+---------------------------------------------------------
+What do you see?
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Do nothing
+---------------------------------------------------------
+
+---------------------------------------------------------
+What do you see
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Look a Archive
+---------------------------------------------------------
+Do nothing
+---------------------------------------------------------
+
+---------------------------------------------------------
+What do you see
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Look another file
+---------------------------------------------------------
+Ada banyak taktik terkait dengan file
+---------------------------------------------------------
+"Signal Bullet" mengacu pada item yang digunakan untuk memberikan instruksi kepada kawan dalam misi<@>
+---------------------------------------------------------
+Kisaran pengaruh "Bullet signal" ada dua jenis "Wide area signals" dan "Narrow Range signal"<@>
+---------------------------------------------------------
+"Wide area signal" untuk semua anggota yang berpartisipasi dalam misi
+"Narrow area signal" hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+Ada 4 jenis "signal bullet" yang bisa digunakan
+---------------------------------------------------------
+"Wide-area Signal: all hands set", "Narrow-Band Signal: Menunggu penyebaran,"
+"narrow-band signal: Mencari serangan musuh," "narrow-band signal: Set"<@>
+---------------------------------------------------------
+Lebih detail, tentang signal bullet lihat " database"
+---------------------------------------------------------
+"Control Unit" diaktifkan dengan "Burst Skill"<@>
+---------------------------------------------------------
+" Burst skill" adalah skill special yang hanya aktif ketika dalam burst mode
+---------------------------------------------------------
+Juga tergantung pada "control unit" dan skill yang terpasang didalamnya maka tile akan berubah
+---------------------------------------------------------
+Aku tidak bisa membukanya karena aku tidak punya izin
+---------------------------------------------------------
+Advanced tactics teaching: signal bullets
+---------------------------------------------------------
+Advanced tactics teaching: control unit
+---------------------------------------------------------
+ＮＯ　ＮＡＭＥ
+---------------------------------------------------------
+Stop Searching
+---------------------------------------------------------
+
+---------------------------------------------------------
+What do you see
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Look another file
+---------------------------------------------------------
+File sudah diatur sehingga mudah dicari
+---------------------------------------------------------
+"Avatar" adalah teman yang dapat berpartisipasi dalam misi setiap saat melalui pertukaran "Avatar Card"
+---------------------------------------------------------
+Ada dua cara untuk mengganti "Avatar Card" Salah satunya adalah dengan mengubahnya
+secara manual di "Multiplayer"
+---------------------------------------------------------
+Dan jumlah maksimum kartu yang dapat ditukar sekaligus dengan "passing card exchange"
+hingga 3 kartu
+---------------------------------------------------------
+"Avatar card" dapat diperbarui dengan bertukar dengan lawan yang sama dan "Multiplayer"
+atau "passing card exchange"
+---------------------------------------------------------
+Dan mungkin akan mendapatkan " Avatar recovered material" sebagai hadiah dari misi
+---------------------------------------------------------
+Bullet memo
+---------------------------------------------------------
+"Rebounding bullet" adalah bullet dengan efek untuk memulihkan kekuatan teman.
+Namun, tidak memiliki efek bagi orang yang menembak
+---------------------------------------------------------
+Penggunaan God Arc dapat di handle dengan bullet dengan sifat istimewa
+---------------------------------------------------------
+Hanya ada satu bagian, ada gambar-gambar Tsubaki kecil, Lindow dan Sakuya bersama
+---------------------------------------------------------
+Dan yang lainnya adalah foto baru
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Bullet
+---------------------------------------------------------
+Photo
+---------------------------------------------------------
+Stop Searching
+---------------------------------------------------------
+
+---------------------------------------------------------
+
+---------------------------------------------------------
+What do you see?
+---------------------------------------------------------
+Sudah mulai tapi susah untuk dilihat karena layarnya rusak
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Look another file
+---------------------------------------------------------
+Damian
+---------------------------------------------------------
+Sekarang, aku akan menjelaskan tentang "Hammer"!
+---------------------------------------------------------
+Tapi aku tidak bisa menjelaskan secara panjang dengan bicara, kamu harus lihat detailnya di " database"!
+---------------------------------------------------------
+Jika kamu ingin tahu tentang tekhnik dan cara penggunaan cobalah untuk check  "database"
+aku yakin itu akan membantumu
+---------------------------------------------------------
+Jika kamu ingin bertanya datanglah kapan saja! close combat (pertempuran jarak dekat)
+sangat penting untuk bertempur, kamu sebaiknya mulai terbiasa sekarang
+---------------------------------------------------------
+Tentang "Hammer" tipe
+---------------------------------------------------------
+Aku ingin menjelaskan
+---------------------------------------------------------
+Katakan secara detail, bagaimana cara menggunakannya/
+---------------------------------------------------------
+Aku akan menemuimu
+---------------------------------------------------------
+God arc dapat mengubah gaya bertarung antara jarak pendek dan jarak jauh ......
+yang seharusnya diajarkan dalam pelatihan dasar
+---------------------------------------------------------
+Namun, kemungkinan menang pada pertempuran akan berubah,
+tergantung apakah kamu bisa menggunakan atau tidak
+---------------------------------------------------------
+Hal pertama adalah mencobanya secara bergantian.
+Jika Anda menemukan senjata jarak dekat yang sesuai dengan diri Anda,
+efisiensi pertempuran harus jauh lebih tinggi
+---------------------------------------------------------
+Pertama-tama, senjata kedekatan dibagi menjadi dua tipe, tipe "blade" dan "Hammer"
+---------------------------------------------------------
+Ada 3 jenis senjata jarak dekat yaitu "Hammer" tipe "blade" tipe dan "spear" tipe
+---------------------------------------------------------
+Kali ini aku akan menjelaskan kan "Hammer" tipe
+---------------------------------------------------------
+Apa tipsnya ketika bertempur?
+---------------------------------------------------------
+Apa itu senjata jarak dekat?
+---------------------------------------------------------
+Aku ingin mendengar penjelasan lain
+---------------------------------------------------------
+Senjata yang dapat melibatkan kekuatan tangan dan kaki, dan jangkauan pendek, itulah "short blade"!
+---------------------------------------------------------
+Kelihatannya memang sederhana, tetapi ada kekuatan yang besar didalamnya, kamu belum mengetahuinya
+---------------------------------------------------------
+Aku sarankan bagi mereka untuk " serang dengan taktik" dan serang secara frontal, stab dan lari
+---------------------------------------------------------
+Ada juga kelebihannya yaitu "dash di udara" yang memungkinkan untuk melakukan serangan di udara
+---------------------------------------------------------
+Tidak hanya menebas saja, tetapi bisa "penetrasi" lewat devour dan mengakibatkan "burst
+ yang akan menaikkan status
+---------------------------------------------------------
+Tetapi berhati-hatilah dengan staminamu, ketika kamu kehabisan stamina, dan musuh menyerangmu!
+---------------------------------------------------------
+Tentang "Short Blade" tipe
+---------------------------------------------------------
+Disarankan untuk siapa saja?
+---------------------------------------------------------
+Katakan padaku apa rahasianya
+---------------------------------------------------------
+Kekuatan, jangkauan, mobilitas, itulah " long blade"!
+---------------------------------------------------------
+Serangan yg lebih luas daripada "short blade" dan seimbang
+---------------------------------------------------------
+Aku sarankan untuk melakukan "serangan secara terus menerus" untuk orang itu
+---------------------------------------------------------
+Serangan terus menerus dengan "Zero stance" dan mengembalikan keadaan semula pedang,
+dan dapat melakukan "Impuls Edge"!
+---------------------------------------------------------
+Bagaimana cara menembakkan "impuls edge" ke dalam serangan akan menjadi kuncinya
+---------------------------------------------------------
+Dari OP yang tersimpan, kamu dapat menembakkan IE tanpa beralih ke shotgun,
+itulah kelebihan "long blade"!
+---------------------------------------------------------
+Tentang "Long blade"?
+---------------------------------------------------------
+Dibandingkan dengan blade lain, blade yang sangat baik dalam kekuasaan dan interval ...... 
+itulah "buster blade"!
+---------------------------------------------------------
+karena berat pedangnya, pedang ini mempunyai attribute " crushing"
+---------------------------------------------------------
+Disarankan untuk orang yang dapat "melihat pergerakan musuh dan menyerangnya" dan bersikap tenang
+---------------------------------------------------------
+bisa melakukan "charge crush" yang dapat memberikan damage yang besar
+---------------------------------------------------------
+Dengan "parring Upper" kamu dapat menahan serangan Aragami dan menyerang langsung……
+---------------------------------------------------------
+Gerakannya lambat itulah fitur dari "Buster" yang dapat menahan dan menyerang balik!
+---------------------------------------------------------
+Tentang "Buster blade"?
+---------------------------------------------------------
+Bagaimanapun juga senjata itu besar dan lambat...!
+---------------------------------------------------------
+Jika kamu melakukan " boost start" kamu akan menghajar Aragami dengan kecepatan yang tinggi
+---------------------------------------------------------
+"Heavy attack" dimanapun kamu menyerang dan melakukan "boost start" adalah strategi yang baik
+---------------------------------------------------------
+Tapi, "boost start" adalah penentu serangan, dan harus berhati-hati karena mengkonsumsi stamina
+---------------------------------------------------------
+Barrage attack "boost rush" dari "boost start-up" dan rush blow dari "boost start" "boost drive"
+---------------------------------------------------------
+Teknik serangan besar atau " Boost impact" yang dapat duhubungkan dari keduanya,
+akan menghasilkan damage yang cukup besar!
+---------------------------------------------------------
+Tentang "Boost Hammer"?
+---------------------------------------------------------
+Pedang yang bisa menyerang dengan mobilitas dan daya tembus, itu adalah "Charge spear"!
+dan memiliki attribute " pierce"
+---------------------------------------------------------
+Disarankan bagi mereka yang melakukan "taktik serangan dan lari" seperti short blade!
+---------------------------------------------------------
+Dapat menyerang secara meluncur dengan "charge glide" dan bisa melakukan "back flip" 
+itulah kelebihan charge spear!
+---------------------------------------------------------
+Serangan terus menerus dengan "charge glide" akan menambah damage!
+---------------------------------------------------------
+Dengan melakukan taktik serang dan lari, kamu dapat menyerang dengan combo terus menerus, 
+tapi kamu harus dapat menggunakannya dengan baik
+---------------------------------------------------------
+Tentang "Charge Spear"?
+---------------------------------------------------------
+Tentang "Short Blade"
+---------------------------------------------------------
+Tentang "Long blade"
+---------------------------------------------------------
+Tentang "Buster Blade"
+---------------------------------------------------------
+Tentang "Boost Hammer"
+---------------------------------------------------------
+Tentang "Charge Spear"
+---------------------------------------------------------
+"Blade" Tipe
+---------------------------------------------------------
+Aku ingin mendengar penjelasannya
+---------------------------------------------------------

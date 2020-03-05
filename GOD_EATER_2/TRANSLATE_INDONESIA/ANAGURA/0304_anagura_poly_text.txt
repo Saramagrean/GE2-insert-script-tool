@@ -1,0 +1,125 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0043
+===============================================================
+[00000308:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Alisa 
+---------------------------------------------------------
+Kerja bagus.Bisakah aku punya sedikit waktu sekarang? 
+---------------------------------------------------------
+Heck! Apa? Oh, oh, tidak apa-apa!Aku ingin tahu apakah
+aku bisa membuat pejalan kaki ... ... 
+---------------------------------------------------------
+Yah, hal semacam itu, bukankah itu bagus!Lebih baik lagi
+ada sesuatu yang ingin ku bicarakan 
+---------------------------------------------------------
+Fuh ... ... Terima kasihSelain itu,
+ada konsultasi tentang satelit 
+---------------------------------------------------------
+Oh, aku minta maaf.Jika tampaknya nyaman,
+aku akan memberitahumu 
+---------------------------------------------------------
+Apakah kamu membersihkan kamar? 
+---------------------------------------------------------
+Sebanyak apapun tanpa berkata 
+---------------------------------------------------------
+Sekarang sedikit ... 
+---------------------------------------------------------
+Di beberapa situs tempat satelit, izin untuk konstruksi
+disetujui! Dengan ini,
+lebih banyak orang bisa hidup dengan tenang ......! 
+---------------------------------------------------------
+Itu bagus, tapi bahan konstruksi mulai kekurangan ... ...
+Aku ingin Kamu bekerja sama dalam mengamankam
+bahan konstruksi 
+---------------------------------------------------------
+Sebenarnya ini pekerjaan Cradle, tapi sekarang sedang
+kekurangan tenaga kerja Aku membutuhkannya ......
+Bisakah kamu membantu? 
+---------------------------------------------------------
+Apa itu benar? Apa?Terima kasih! 
+---------------------------------------------------------
+Aku akan mengambil materi yang ingin kamu tanyakanBisakah
+kamu berbicara lagi nanti? 
+---------------------------------------------------------
+OkeKalau begitu, Aku menunggu 
+---------------------------------------------------------
+Kami bersedia bekerja sama 
+---------------------------------------------------------
+Aku ingin kamu mempersiapkan 
+---------------------------------------------------------
+Kami telah merangkum materi yang ingin Kamu amankan untukmu
+Mungkin sedikit lebih ..... 
+---------------------------------------------------------
+Satu "War King Alloy" "Beast God" dan "Demon Lord Armor"
+Bisakah kamu membantu? 
+---------------------------------------------------------
+Tolong beri tahu aku jika semua sudah berkumpulBaiklah,
+terima kasih! 
+---------------------------------------------------------
+Sudahkah Kamu mengumpulkan sumber daya untuk
+pembangunan satelit? 
+---------------------------------------------------------
+OkeTolong beri tahu aku jika semua sudah berkumpul 
+---------------------------------------------------------
+"War King Alloy" "Beast Wing" "One Warrior Armor"
+Tolong beri tahu aku jika semua sudah berkumpul 
+---------------------------------------------------------
+Jika aku hanya tinggal di terminal
+Akan sangat membantu jika kamu mengambilkannya 
+---------------------------------------------------------
+Aku telah mengumpulkan 
+---------------------------------------------------------
+Itu masih ... ... 
+---------------------------------------------------------
+Beri tahu aku sumber daya yang kamu butuhkan 
+---------------------------------------------------------
+Oh, kedengarannya seperti mereka berkumpul, terima kasih!
+Bisakah aku mendapatkannya? 
+---------------------------------------------------------
+Terima kasih, selamat! 
+---------------------------------------------------------
+Oh, begitukah ... aku mengerti
+---------------------------------------------------------
+Tentu saja 
+---------------------------------------------------------
+Tunggu sebentar 
+---------------------------------------------------------
+Aku ingin pergi ke situs tempat satelit untuk menyampaikan
+materi segera. Permisi, adakah yang bisa ku bantu? 
+---------------------------------------------------------
+Oh, tidak, kami tidak akan mengantarkannya secara terpisah
+Aku ingin kamu menemaniku sebagai pendamping saat di
+kendaraan transportasi 
+---------------------------------------------------------
+Bisakah kamu membantu?
+---------------------------------------------------------
+Agak, aku minta maaf karena meninggalkan ketergantungan
+Karena kita akan bersiap, masihkah kita punya sedikit waktu? 
+---------------------------------------------------------
+Sampai hal semacam itu sendiri? 
+---------------------------------------------------------
+Ini adalah kapal yang saya buat, 
+---------------------------------------------------------
+Er ... maaf, sepertinya ada yang hilang
+---------------------------------------------------------
+Tampaknya kendaraan transportasi sudah siapMari kita menuju
+ketempat satelit segera! 
+---------------------------------------------------------
+Apakah kamu ingin mengkonfirmasi detail misi lagi? 
+---------------------------------------------------------
+Tampaknya kendaraan transportasi sudah siap, jadi aku ingin
+menuju ke tempat satelit Bisakah kamu memberitahuku jika
+kamu kembali dari misi? 
+---------------------------------------------------------
+Apakah kamu sudah siap?Aku akan menunggu,
+tolong beri tahu aku segera setelah disetel 
+---------------------------------------------------------

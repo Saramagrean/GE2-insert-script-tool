@@ -1,0 +1,36 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0011
+===============================================================
+[00000180:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Haruomi
+---------------------------------------------------------
+Oh, aku membuatmu menunggu Tidak perlu berbicara banyak lagi ...
+---------------------------------------------------------
+Mari kita pergi ...... aku sedang mencari itu, pada titik tujuan eksplorasi ......
+---------------------------------------------------------
+Ups, belum siap? Saat kamu siap, silakan hubungi kami
+---------------------------------------------------------
+Saya akan mengikuti.
+---------------------------------------------------------
+Sekarang sedikit ......
+---------------------------------------------------------
+Sungguh buruk membiarkan Kanon menunggu terlalu lama Kalau saja kamu sudah mempersiapkan ini, 
+bisakah kamu datang ke sini?
+---------------------------------------------------------
+Kanon sedang menunggu ... ayo kita pergi 
+---------------------------------------------------------
+Jika kamu punya banyak waktu, maukah kamu memberi tahuku? aku punya sedikit cerita denganmu
+---------------------------------------------------------
+Ayo, kita pergi
+---------------------------------------------------------
+Ups, silakan jika kamu sudah siap atau belum siap, silakan hubungi kami
+---------------------------------------------------------

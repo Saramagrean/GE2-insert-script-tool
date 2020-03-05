@@ -1,0 +1,54 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0018
+===============================================================
+[00000208:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Gil
+---------------------------------------------------------
+...<@>
+---------------------------------------------------------
+Baiklah, jadi bagaimana dengan God Arc mu saat itu ?<@>
+---------------------------------------------------------
+Itu sangat berguna.
+---------------------------------------------------------
+Misi jadi lebih mudah kalau sama ente
+---------------------------------------------------------
+Haha, Tidak diragukan lagi<@>
+---------------------------------------------------------
+Awalnya aku penasaran dengan semua hal itu sih<@>
+---------------------------------------------------------
+Saat itu, ketika kita menyelesaikan Set Kurogane bersama..
+aku sadar bahwa sedikit demi sedikit aku menyukai hai itu<@>
+---------------------------------------------------------
+kemudian pada saat yang sama, tiba-tiba aku mengingat
+sesuatu yang sungguh aku tidak bisa melakunannya<@>
+---------------------------------------------------------
+Meskipun God Arc itu sangat penting untuk melindungi hidupmu<@>
+---------------------------------------------------------
+kau akan belajar dari orang yang mempertaruhkan nyawanya
+demi melindungi mereka dan mereka pun terus berkembang,
+dan itu akan membuat dirimu merasakan sesuatu yg luar biasa<@>
+---------------------------------------------------------
+Maaf untuk mendapatkan "All Blue" ini,
+tapi tempat jati diriku hanya disini ...<@>
+---------------------------------------------------------
+A... Aku senang ko kau datang kesini<@>
+---------------------------------------------------------
+Semua orang pun senang kalau kau disin
+---------------------------------------------------------
+Gil... Kau berubah
+---------------------------------------------------------
+... Aku akan mengandalkanmu sekarang kawan!<@>
+---------------------------------------------------------
+...Haha, mungkin aku telah banyak melakukan perubahan<@>
+---------------------------------------------------------
+Ah, Kurasa sih begitu....<@>
+---------------------------------------------------------

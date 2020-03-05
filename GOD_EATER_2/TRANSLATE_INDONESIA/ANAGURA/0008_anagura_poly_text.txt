@@ -1,0 +1,474 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0202
+===============================================================
+[00000944:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+Dengan otoritas saat ini, aku tidak bisa masuk ke ruangan ini
+---------------------------------------------------------
+Fran
+---------------------------------------------------------
+Apakah stok barang-barang yang dapat dibuang seperti Pill yang diperoleh cukup?
+Jika Kamu ingin mengisinya, Kamu dapat membelinya di mesin penjual otomatis di bawah tangga
+---------------------------------------------------------
+Apakah persiapan diperlukan?
+Silakan ganti peralatan dll. Di terminal
+---------------------------------------------------------
+Prosedur misi
+---------------------------------------------------------
+Aku akan segera menemuimu
+---------------------------------------------------------
+Dr. Raquel menghubungi Kamu untuk menemuimu.
+Dikatakan bahwa kita sedang ditunggu di laboratorium
+---------------------------------------------------------
+
+Kamu bisa naik lift untuk memindahkan kompartemen di bawah
+Turun di lantai tinggi dan itu adalah pintu di sebelah kanan Kamu
+---------------------------------------------------------
+
+Kamu bisa naik lift untuk memindahkan kompartemen di bawah
+Turun di lantai tinggi dan itu adalah pintu di sebelah kanan Kamu
+---------------------------------------------------------
+Tentu saja
+Kemudian, silakan pilih konten pelatihan
+---------------------------------------------------------
+Di mana lab Dr.?
+---------------------------------------------------------
+Aku ingin meninjau pelatihan sebelum itu
+---------------------------------------------------------
+Dari Kapten Julius, menunggumu di depan laboratorium Dr. Raquel
+Aku mendapat kontak sebelumnya.
+---------------------------------------------------------
+Meskipun aki minta maaf atas masalahmu
+Tolong pergi ke Kapten Julius.
+---------------------------------------------------------
+Permisi, tolong izinkan aku mengkonfirmasi.
+Apakah ini pelatihan di tempat yang dimaksudkan oleh Kapten Julius?
+---------------------------------------------------------
+Tentu saja
+---------------------------------------------------------
+Itu benar
+---------------------------------------------------------
+Ok aku paham
+Harap berhati-hati.
+---------------------------------------------------------
+Ambil misi
+---------------------------------------------------------
+Julius
+---------------------------------------------------------
+Tetap siap
+Jika Kamu ingin menyesuaikan God Machine, Kamu harus melakukannya di terminal
+---------------------------------------------------------
+Oh, aku datang untuk melihat Dr. Raquel
+---------------------------------------------------------
+Aku juga punya sedikit pembicaraan
+Ketika bisnis Dr. Raquel selesai, silakan hubungi lagi
+---------------------------------------------------------
+Oh, itu kerja keras untuk menyelesaikan pelatihan dasar
+Calon kandidat kedua Blood sangat bagus ...
+---------------------------------------------------------
+Kupikir, aku akan pindah ke fase berikutnya segera.
+Anggap ini sebagai batu ujian untuk masa depan
+---------------------------------------------------------
+Ya, kukira itu adalah tawaran yang tiba-tiba
+Kalau begitu, ketika Kamu siap, silakan hubungi lagi
+---------------------------------------------------------
+Oh, apakah Kamu akan pergi ke misi pelatihan
+Dalam hal ini, tolong hubungi lagi setelah misi berakhir
+---------------------------------------------------------
+Oh, apakah Kamu siap untuk melakukan pelatihan di tempat kerja?
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Senior Romeo bilang, tetapi Kamu dapat menyesuaikan God machine
+Tingkatkan kinerja, ubah bidikan peluru ... ....
+---------------------------------------------------------
+Melatih God machine untuk memperkuat, kamu mendapatkan kekuatan Blood ... ...
+Yah, aku akan sibuk mulai sekarang!
+---------------------------------------------------------
+Hei, hei! Dengar, dengarkan!
+Beberapa waktu yang lalu, Senior Romeo mengajariku itu!
+---------------------------------------------------------
+Romeo senpai dan kapten Julius ...... Keduanya
+Kami berasal dari panti asuhan yang sama denganku! Bukankah ini luar biasa?
+---------------------------------------------------------
+
+Kapten Julius ... ... aku tidak pernah berbicara langsung dengannya
+aku hanya tahu namanya! Karena itu adalah selebriti kelas yang dipilih
+---------------------------------------------------------
+Yah, aku akan bekerja dengan orang seperti itu ...
+Sesuatu, ini seperti mimpi
+---------------------------------------------------------
+Kamu mendengar dari Kapten Julius tentang "pelatihan praktis", bukan?
+Yah, aku pergi, tapi ....
+---------------------------------------------------------
+Tapi lapangan luar nampaknya berbahaya ......
+Uh yeah, jika kamu gugup, perutmu akan berkurang
+---------------------------------------------------------
+Rachel
+---------------------------------------------------------
+Anda mengambil untuk pertama kalinya, "God Machine"
+Itu yang mewujudkan kekuatanmu .... Dan yang lainnya adalah menunggu kebangkitannya saja
+---------------------------------------------------------
+Pejabat Friar
+---------------------------------------------------------
+Sepertinya pelatihannya berjalan dengan baik
+Apakah Kamu sudah bertarung dengan Aragami asli di tempat kejadian?
+---------------------------------------------------------
+Aku melihat ... aku bekerja di berbagai bab
+aku telah melihat banyak penggunaan God Machine, ini benar-benar pekerjaan yang sulit
+---------------------------------------------------------
+Berolahraga dengan benar
+Lama untuk sehari, selamat ... ...
+---------------------------------------------------------
+Mereka jauh dari bentuk kehidupan biasa
+Ini terdiri dari "sel Oracle" dan itu memakan segalanya
+---------------------------------------------------------
+Jika sejumlah besar orang seperti itu terjadi, itu akan menjadi aneh di dunia ......
+Satu-satunya harapan cahaya, God Machine Kimi digunakan ... ... Lakukan yang terbaik.
+---------------------------------------------------------
+Oh, lakukan yang terbaik di tempat kerja.
+Kmu harus memeriksa Aragami di "database"
+---------------------------------------------------------
+Aku berencana untuk bertarung dari sekarang
+---------------------------------------------------------
+Tentang Alagami
+---------------------------------------------------------
+Aku harus pergi sekarang
+---------------------------------------------------------
+Jika Dr. Raquel telah menggunakan
+Kamu dapat keluar dari lantai tinggi dengan menaiki elevator untuk pergerakan kompartemen
+---------------------------------------------------------
+Pejabat Friar
+---------------------------------------------------------
+Kerja bagus hari ini!
+---------------------------------------------------------
+Jika Kamu ingin membeli barang-barang yang dapat dibuang seperti Restore Pill
+Ada mesin penjual otomatis di tempat menuruni tangga!
+---------------------------------------------------------
+Kamu dan Nana masuk,
+Blood telah menjadi hidup juga!
+---------------------------------------------------------
+Romeo
+---------------------------------------------------------
+Latihan dasar semacam itu, Kamu selesai?
+Jika ada sesuatu yang ingin Kamu ketahui untuk perang yang sebenarnya, aku akan memberimu saran!
+---------------------------------------------------------
+Ini adalah pendamping yang dapat diandalkan oleh God Eater! Sangat keren!
+Adapun rincian dapat dilihat di database ...... Ada generasi
+---------------------------------------------------------
+Kami adalah God Eater Blood "generasi ketiga"!
+Sensitivitas kuat ...... Yah bagaimanapun juga perjalanan terbaik yang pernah ada!
+---------------------------------------------------------
+Dasar-dasar pertarungan yang mendekat tidak hanya untuk menebas, suplai OP juga penting
+Kemudian, jika Kamu berpikir "ada celah", makanlah dalam bentuk penangkapan!
+---------------------------------------------------------
+Kamu bisa mencuri "Aragami Bullet" jika kamu memakan Aragami, dan itu dapat ditembakan.
+Keseimbangan antara memotong, makan, dan menembak tidak apa-apa, hebat!
+---------------------------------------------------------
+Bagus sekali! Sebenarnya, yang paling penting adalah pertahanan!
+Jika kamu terus menyerang, Kamu tidak bisa bertahan.
+---------------------------------------------------------
+Shield untuk pertahanan, tergantung pada jenisnya
+Karena kecepatan penyebaran dan kekuatan Shield berbeda, berhati-hatilah!
+---------------------------------------------------------
+Oh! Ya, jika Kamu tertarik Kamu dapat menyesuaikan God Machine di terminal!
+---------------------------------------------------------
+Tentang God Machine
+---------------------------------------------------------
+Tentang serangan
+---------------------------------------------------------
+Tentang pertahanan
+---------------------------------------------------------
+Terima kasih banyak
+---------------------------------------------------------
+Kamu ... kamu terus mengejar, tapi apa yang ingin kamu tanyakan padaku? Aku tertarik untuk belajar! Baiklah, aku akan memberitahumu yang spesial.
+---------------------------------------------------------
+Apa! Apa? Aku mendengar hal-hal yang sulit ... Yah, itu kekuatan yang hanya dimiliki Blood ... tapi ... 
+---------------------------------------------------------
+Kemudian, "kekuatan Blood" berarti "faktor tidak seimbang" untuk Blood ... ... Nah, apa itu ... Baiklah, OK, tanyakan pada Dr. Raquel!
+---------------------------------------------------------
+Melakukan penelitian untuk menciptakan tipe baru dari pemakan dewa Ini adalah orang yang menciptakan Pasukan Khusus Blood! 
+---------------------------------------------------------
+Ada juga panti asuhan yang sangat besar seperti "Magnolia = kompas" Aku menjalankan ... Ah, Aku dan Julius berasal dari sana! 
+---------------------------------------------------------
+Yah, Aku tidak pernah bertemu sampai Aku datang ke sini. ... ... Eh? Apa?
+---------------------------------------------------------
+Karena Julius adalah elit kelas pilih ...... Jangan katakan itu ... 
+---------------------------------------------------------
+Oh! Jika Kamu memiliki pertanyaan, silakan bertanya kepada seniormu kapan saja!
+---------------------------------------------------------
+Aku ingin tahu tentang "kekuatan Blood" 
+---------------------------------------------------------
+Orang seperti apa, Dr. Raquel?
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Semua ditulis dalam bahasa Rusia <@>
+---------------------------------------------------------
+Ini terlihat seperti majalah mode atau katalog Aku tidak mengerti karena semuanya ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti file teks Dikunci dan tidak dapat dilihat <@>
+---------------------------------------------------------
+　
+---------------------------------------------------------
+
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat? <@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Aku tidak melakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat arsip
+---------------------------------------------------------
+Aku tidak melakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Ada banyak taktik terkait file
+<@>
+---------------------------------------------------------
+"Signal bullet" adalah misi, melawan sekutu Item yang akan digunakan saat memberikan instruksi <@>
+---------------------------------------------------------
+Rentang pengaruh "Signal Bullet" ada 2 "sinyal area luas" dan "sinyal jangkauan sempit" <@>
+---------------------------------------------------------
+"Sinyal area luas" adalah semua anggota yang berpartisipasi dalam misi " sinyal jangkauan sempit" hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+Ada 4 jenis "Signal Bullet" yang bisa digunakan<@>
+---------------------------------------------------------
+"Sinyal area luas: agregat set" "sinyal area sempit: menunggu penyebaran" "Sinyal jangkauan Sempit: cari serangan musuh" "sinyal Jangkauan sempit: atur" <@>
+---------------------------------------------------------
+Untuk informasi rinci dari setiap sinyal, lihat "Database"<@>
+---------------------------------------------------------
+"Control unit" adalah peralatan yang dilengkapi dengan "burst skill" <@>
+---------------------------------------------------------
+"Burst Skill" menunjukkan efeknya hanya selama ledakan Ini adalah keahlian khusus<@>
+---------------------------------------------------------
+Juga, "unit kontrol" dan skill yang terpasang di dalamnya berubah sesuai dengan judul<@>
+---------------------------------------------------------
+Aku tidak bisa membukanya karena Aku tidak punya izin <@>
+---------------------------------------------------------
+Panduan taktis lanjutan: Signal Bullet
+---------------------------------------------------------
+Panduan taktis lanjutan: Unit kontrol 
+---------------------------------------------------------
+ＮＯ　ＮＡＭＥ
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+File-file tersebut diatur Sangat mudah untuk dilihat <@>
+---------------------------------------------------------
+Dengan "avatar card" bertukar dengan "avatar" Ini tentang teman yang dapat berpartisipasi dalam misi kapan saja<@>
+---------------------------------------------------------
+Ada dua cara untuk bertukar "Avatar Card" Salah satunya adalah secara manual bertukar di "Multiplayer" <@>
+---------------------------------------------------------
+Lainnya adalah "exchange of passing card" Hingga 3 kartu dapat ditukar sekaligus<@>
+---------------------------------------------------------
+"Avatar card" dapat diperbarui dengan bertukar dengan lawan yang sama dengan melakukan "Multiplauer" atau "Redemption of card"<@>
+---------------------------------------------------------
+Sebagai imbalan atas tugas yang dilakukan dengan pihak lain "Bahan koleksi Avatar" akan diperoleh<@>
+---------------------------------------------------------
+Memo Bullet<@>
+---------------------------------------------------------
+"Rebounding bullet" adalah peluru yang memiliki efek mengembalikan kekuatan fisik kamu 
+Namun, itu tidak berfungsi untuk orang yang menembak <@>
+---------------------------------------------------------
+Untuk Bullet dengan sifat yang sangat istimewa God Machinr dapat digunakan terbatas<@>
+---------------------------------------------------------
+Hanya satu bagian, dengan sedikit Tsubaki dan Lindow Ada foto-foto Sakuya bersama <@>
+---------------------------------------------------------
+Yang lainnya adalah foto yang relatif baru<@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Bullet
+---------------------------------------------------------
+Foto
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Aku mulai, tapi Layar rusak dan sulit dilihat <@>
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Setiap file terkunci Kamu tidak dapat melihatnya <@>
+---------------------------------------------------------
+Buka terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Damian
+---------------------------------------------------------
+Itu jelas merupakan penjelasan tentang jenis "Blade" kali ini Aku akan memberi tahu Kamu apa pun yang ingin kamu dengar! 
+---------------------------------------------------------
+Selamat pagi! Namun, ada juga batasan untuk menjelaskan dengan mulut Namun, ini adalah "basis data" yang berguna pada saat seperti itu! 
+---------------------------------------------------------
+Jika Kamu ingin tahu detail seperti cara menggunakan dan teknik Kamu harus memeriksa "database", itu harus berguna untuk yakin 
+---------------------------------------------------------
+Karena Kamu di sini untuk sementara waktu, jika ada sesuatu yang ingin Kamu dengar, datanglah kapan saja! Pertarungan jarak dekat adalah kunci untuk bertempur, sebaiknya Kamu terbiasa sekarang
+---------------------------------------------------------
+Tentang jenis "blade"
+---------------------------------------------------------
+Aku ingin mengulas
+---------------------------------------------------------
+Katakan padaku bagaimana cara menggunakannya 
+---------------------------------------------------------
+Sampai jumpa nanti
+---------------------------------------------------------
+Shinkansen dapat berganti gaya bertarung dengan jarak pendek dan jarak jauh ... ... Yah, seharusnya diajarkan di pelatihan dasar 
+---------------------------------------------------------
+Meski begitu, tergantung apakah Kamu dapat berhasil menggunakan senjata kedekatan Probabilitas keberhasilan dalam tugas sangat berubah
+---------------------------------------------------------
+Pertama-tama, cobalah berbagai hal Jika Kamu menemukan senjata jarak dekat yang sesuai dengan diri Kamu, efisiensi pertempuran harus ditingkatkan secara signifikan 
+---------------------------------------------------------
+Pertama-tama, senjata kedekatan adalah jenis "Blade" dan "Pole" Ini dibagi menjadi dua jenis 
+---------------------------------------------------------
+Tiga jenis senjata kedekatan diklasifikasikan sebagai "Blade" jenis 
+Ada dua jenis senjata kedekatan diklasifikasikan sebagai "Pole" jenis, tapi ... 
+---------------------------------------------------------
+Kali ini saya akan memberi tahu Anda tentang tipe "blade" dasar 
+---------------------------------------------------------
+Kiat bertarung? 
+---------------------------------------------------------
+Apa itu senjata jarak dekat? 
+---------------------------------------------------------
+Aku ingin mendengar hal-hal lain
+---------------------------------------------------------
+Senjata yang dapat menyerang dengan tangan dan gerak kaki, bukan kekuatan atau jangkauan Itu "short blade"! 
+---------------------------------------------------------
+Tampaknya itu senjata sederhana, tapi itulah sebabnya itu sangat dalam Mungkin ada metode menyerang yang belum Kamu ketahui
+---------------------------------------------------------
+Disarankan bagi mereka yang lebih memilih "taktik hit & away" di garis depan, serang, tikam (makan), kabur! Apa itu 
+---------------------------------------------------------
+Ini juga fitur "Kamu bisa melangkah di udara" Menari dalam acrobat juga merupakan kesenangan nyata!
+---------------------------------------------------------
+Aku pandai menusuk bukan hanya untuk memotong tetapi memiliki atribut "penetrasi" Ada juga fitur yang "meledak" adalah "mudah memberikan kelainan keadaan"!
+---------------------------------------------------------
+Tapi hati-hati dengan "stamina"! Sesak napas segera Sementara itu, aneh ...... Kamu dapat melakukan apa saja! 
+---------------------------------------------------------
+Apa itu "Short Blade"? 
+---------------------------------------------------------
+Untuk siapa itu direkomendasikan?
+---------------------------------------------------------
+Katakan padaku rahasianya
+---------------------------------------------------------
+Kekuasaan, jangkauan, mobilitas dan tiga berdenyut Suguremono ...... Itu "Long Blade"!
+---------------------------------------------------------
+Syafaat lebih panjang dari "Short", Kami bisa masuk dan menyerang 
+Pisau yang seimbang
+---------------------------------------------------------
+Aku akan merekomendasikan "Aku ingin memutuskan serangan terus menerus dengan cemerlang" 
+---------------------------------------------------------
+Serangan terus menerus dengan "Zero Stance" dengan mengembalikan pisau sebagai Shakien! Sampai akhirnya, satu sisi impuls dilepaskan!
+---------------------------------------------------------
+Bagaimana menggabungkan "impuls edge" ke dalam serangan Aku kira itu akan menjadi penting 
+---------------------------------------------------------
+Dari tabung yang disimpan, Kamu dapat menembakkan bidikan kuat dengan kuat Ini adalah fitur besar "Long Blade" untuk menembak tanpa harus beralih ke Gun! 
+---------------------------------------------------------
+Apa itu "Long Blade"?
+---------------------------------------------------------
+Dibandingkan dengan pisau lain yang "berat", tetapi dengan panjang gaya dan manfaat Pisau yang bagus ... ... itu "Blade Buster"! 
+---------------------------------------------------------
+Hanya berat, itu juga fitur untuk memiliki atribut "hancurkan" 
+---------------------------------------------------------
+Disarankan untuk pria "Aku melihat pergerakan musuh dengan tegas dan tegas" Aku bisa bergerak dengan tenang dan berani
+---------------------------------------------------------
+"Charge crash" yang memberikan kerusakan berat Itu karena ada kemungkinan bahwa itu tidak ditangani dengan benar 
+---------------------------------------------------------
+Di "Paring Upper" Kamu dapat mengandalkan Aragami Penjaga cepat dengan "penjaga tingkat lanjut" ... 
+---------------------------------------------------------
+Meskipun gerakannya lambat, bukannya membela dan melawannya juga bagus Ini adalah fitur besar "Blade Buster"!
+---------------------------------------------------------
+Apa itu "Blade Buster"?
+---------------------------------------------------------
+Pokoknya itu pisau yang berat dan lambat ...... Aku pikir itu kesalahan besar! Mungkin memang berat, tapi itu adalah penampilan pertama pria itu!
+---------------------------------------------------------
+Jika Kamu melakukan "boost start", Kamu akan dihajar dengan kecepatan ultra tinggi!
+Kecepatannya cukup mengejutkan Kamu terlalu pendek
+---------------------------------------------------------
+Aku akan merekomendasikan "Aku ingin mengalah hanya dengan satu tembakan" Kekuatan pukulan adalah dek, Aku akan dipukuli dengan "peluncuran dorongan" yang menyegarkan 
+---------------------------------------------------------
+Namun, "boost start" adalah konsumsi stamina yang intens
+Apakah itu bisa digunakan dengan baik atau tidak akan menjadi kuncinya
+---------------------------------------------------------
+Serangan bootstroke dari "boost start" "meningkatkan rush"
+Rush berhembus dari 'Boost Start' 'Boost Drive'
+---------------------------------------------------------
+Teknik big impact "BOOST IMPACT" terhubung dari keduanya
+Kamu harus dapat memberikan damage besar jika Kamu menggunakannya dengan baik!
+
+Apa itu "boost hammer"?
+---------------------------------------------------------
+Pisau yang bisa menyerang dengan mobilitas dan daya tembus, itu adalah "Charge Spear"! Seperti namanya, itu memiliki atribut "penetrasi" 
+---------------------------------------------------------
+Disarankan bagi mereka yang lebih memilih "taktik hit & away" di garis depan
+Apakah sama dengan Short Blade? Ha ha ha, jangan bodoh!
+---------------------------------------------------------
+"Charge Glide" yang dapat tergesa-gesa terlepas dari tanah atau udara, nyaman untuk dihindari
+"Back flip" ...... Ini adalah pisau khusus hanya untuk Charge dan Departure
+---------------------------------------------------------
+Serangan kombo terus menerus setelah "charge glide" bahkan lebih harus dilihat!
+Kekuatan serangan akan meningkat setelah tombak terbuka.
+---------------------------------------------------------
+Bersama dengan hit and away, mantap kombo dan pasti mempertajam kekuatan fisik Jika Kamu dapat menggunakannya dengan baik, pertempuran harus dipromosikan dengan baik
+---------------------------------------------------------
+Apa itu "Charge Spear"?
+---------------------------------------------------------
+Tentang "Short Blade"
+---------------------------------------------------------
+Tentang "Long Blade"
+---------------------------------------------------------
+Tentang "Blade Buster"
+---------------------------------------------------------
+Tentang "Boost Hammer"
+---------------------------------------------------------
+Tentang "Charge Spear"
+---------------------------------------------------------
+Tipe "Blade"
+---------------------------------------------------------
+Tipe "Pole"
+---------------------------------------------------------
+Aku ingin menanyakan penjelasan pertama 
+---------------------------------------------------------

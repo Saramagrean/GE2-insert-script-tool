@@ -1,0 +1,55 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0015
+===============================================================
+[00000196:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Licca
+---------------------------------------------------------
+Ini sudah sangat terlambat...<@>
+---------------------------------------------------------
+Tetapi data yang dikumpulkan berharga Terimakasih<@>
+---------------------------------------------------------
+Kau cukup kerad juga, biasanya orang akan menganggap ini
+ pekerjaan yang tak menyenangkan...<@>
+---------------------------------------------------------
+Pekerjaan ini adalah tujuan hidupku
+---------------------------------------------------------
+Senang rasanya kerja bersamamu
+---------------------------------------------------------
+wkwk! pasti ini adalah hal terbaik jika 
+pekerjaannya menjanjikan<@>
+---------------------------------------------------------
+Prototype ini didesain dulu
+ sekali oleh insinyur Fenrir<@>
+---------------------------------------------------------
+Menggunakan Link Support Device dan God Arc bersamaan
+ adalah hal yang tak mungkin
+jadi diperlukan sparepart untuk mengatasinya<@>
+---------------------------------------------------------
+Dan respon Fenrir malah "apaan nih cuih gaguna teori
+ doang" dan tak mencairkan dananya sehingga 
+penelitiannya terhenti<@>
+---------------------------------------------------------
+Tetapi, Insinyur itu tak menyerah dan mengembangkannya
+ dengan duit sendiri..... akhrnya dia meninggal 
+dengan karya yang belum selesai<@>
+---------------------------------------------------------
+Insinyur itu adalah ayahku<@>
+---------------------------------------------------------
+God Arc dan Link Support Device lalu bisa digunakan
+ bersamaan seperti yang didemonstrasikan<@>
+---------------------------------------------------------
+Begitulah, kita akan bekerka bersama untuk beberapa lama
+ mula sekarang... berjanjilah padaku<@>
+---------------------------------------------------------
+Ini butuh dua, jadi jangan menahan diri ketika kau sadar
+ aku buat kesalahan, langsung tunjukkam padaku<@>
+---------------------------------------------------------

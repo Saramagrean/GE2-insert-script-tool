@@ -1,0 +1,48 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0017
+===============================================================
+[00000204:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Soma
+---------------------------------------------------------
+...... tunggusebentar
+---------------------------------------------------------
+Sudah ku jelaskan sebelumnya .... Tentang agregasi feromonAku ingin memvalidasi efeknya, tapi ... aku 
+kekurangan tenaga
+---------------------------------------------------------
+Jika kamu membantuku, aku akan terbantu, tapi ... bagaimana?
+---------------------------------------------------------
+Oh ya ... Yah, seperti IchibachiItu jebakan yang besar ... tapi mahal untuk dioperasikan
+---------------------------------------------------------
+Tidak, itu mustahil, itu jebakan yang besar... dan juga mahal dioperasikan
+---------------------------------------------------------
+Apa penelitiannya berjalan dengan baik?
+---------------------------------------------------------
+Kapan mekanisme itu digunakan?
+---------------------------------------------------------
+Ada banyak masalah teknis ......Sebagai gantinya, sekarang kami menggunakan verifikasi teknis lainnya
+---------------------------------------------------------
+Kembali ke topik pembicaraan...... Bisakah kamu membantuku?
+---------------------------------------------------------
+Mohon kerjasama nya
+---------------------------------------------------------
+Ah ... maafTolong beritahu aku lagi ketika kamu siap
+---------------------------------------------------------
+tidak apa-apa
+---------------------------------------------------------
+Persiapannya masih ...
+---------------------------------------------------------
+Hmm ...?Apa kamu ingin memeriksa isi dari misi ini?
+---------------------------------------------------------
+Misi sudah dimulai...... pergilah dan hati-hati
+---------------------------------------------------------
+Oh, aku mengerti.Tolong beritahu aku lagi ketika kamu siap
+---------------------------------------------------------

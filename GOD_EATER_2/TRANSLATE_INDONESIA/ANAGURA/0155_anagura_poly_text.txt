@@ -1,0 +1,307 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0123
+===============================================================
+[00000628:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+Dengan otoritas saat ini di ruangan ini
+Aku tidak bisa masuk / 00
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas saat ini di ruangan ini
+Aku tidak bisa masuk 
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas saat ini, di ruangan ini
+Kamu tidak bisa masuk 
+---------------------------------------------------------
+Alisa 
+---------------------------------------------------------
+Tolong biarkan kami bertarung dengan
+Aragami yang  berkumpul ... ... kita akan musnahkan mereka 
+---------------------------------------------------------
+Calbi 
+---------------------------------------------------------
+Kyururu ~ 
+---------------------------------------------------------
+Ciel 
+---------------------------------------------------------
+Romeo sudah pensiun ...... Sepertinya contoh kasus sensitif ditemukan 
+---------------------------------------------------------
+Marduk ... ... untuk membawa Aragami di sekitarnya
+Aku memiliki kemampuan 
+---------------------------------------------------------
+Mungkin pertempuran sengit tak terelakkan ... ...
+Kapten ... .... Pastikan untuk menang dan kembali dengan selamat ... 
+---------------------------------------------------------
+Emile 
+---------------------------------------------------------
+Teman ... mengerti perasaanmu
+Tapi melupakan diriku sendiri dengan kemarahan adalah ...... Angkat ke ksatria 
+---------------------------------------------------------
+Tampaknya itu adalah kekhawatiran yang tidak perlu
+Baiklah, mari kita pergi ke setiap pertempuran ...! 
+---------------------------------------------------------
+Oh ... ... Hal pertama yang dipertahankan adalah kerumunan ksatria
+Baiklah, mari kita pergi untuk setiap pertempuran ...! 
+---------------------------------------------------------
+Aku tahu 
+---------------------------------------------------------
+Mari peduli 
+---------------------------------------------------------
+Elina 
+---------------------------------------------------------
+Begitu banyak Aragami ... ....
+Apapun ... ... Aku harus membela Far East ... 
+---------------------------------------------------------
+Gil 
+---------------------------------------------------------
+Contoh Marduk ... ... Kamu menemukannya? 
+---------------------------------------------------------
+Tidak mungkin, kamu akan datang dari sana ... ...
+Itu menyelamatkan Aku kesulitan mencari, terima kasih 
+---------------------------------------------------------
+Musuh Romeo ... ... pasti akan takut ... 
+---------------------------------------------------------
+Haruomi 
+---------------------------------------------------------
+Apakah kamu serius ... ...?
+Pergi dan datang 
+---------------------------------------------------------
+Aragami di sekitar kita, serahkan pada kita
+Suatu hari aku sudah diurus ... ... Ini bukan Sase 
+---------------------------------------------------------
+Hibari 
+---------------------------------------------------------
+Tepat sebelum mengkonfirmasi terjadinya medan eksentrik yang kuat ...
+Mungkin sebagai hasil verifikasi ...... Marduk yang bertarung dengan Romeo 
+---------------------------------------------------------
+Dalam misi ini, Dr. Sakaki memiliki penjelasan
+Kami segera dipanggil "ruang manajer cabang"! 
+---------------------------------------------------------
+Ekologi Marduk belum dijelaskan
+Ini adalah spesies sensitif dengan banyak misteri ...... Tidak pernah mustahil mustahil 
+---------------------------------------------------------
+Aku berharap Kamu beruntung 
+---------------------------------------------------------
+Canon 
+---------------------------------------------------------
+Jika ini tentang Far East Branch, mohon jangan khawatir!
+Itu sebabnya kami di sini! 
+---------------------------------------------------------
+Kouta 
+---------------------------------------------------------
+... .... Aragami contohnya keluar?
+Tinggalkan ikan kecil untuk kami, pergi dan kunjungi 
+---------------------------------------------------------
+Nana 
+---------------------------------------------------------
+Senior Romeo ...
+Kapten ... ... Tentu, mari kita hidup dan kembali ... 
+---------------------------------------------------------
+Nurse 
+---------------------------------------------------------
+Pasien hilang
+Ini telah menjadi tenang ... / 00Licca 
+---------------------------------------------------------
+Licca 
+---------------------------------------------------------
+Ini dilakukan dengan baik jika Kamu menyesuaikan God Machine
+Meski begitu, jangan lakukan itu tidak masuk akal 
+---------------------------------------------------------
+Mutsumi 
+---------------------------------------------------------
+Aku juga, untuk semua orang
+Aku menyiapkan banyak pesta dan menunggu! 
+---------------------------------------------------------
+Sakaki 
+---------------------------------------------------------
+Jika pihak lain menarik Aragami, mari kita juga melawan ini dengan nomor
+Karena itu, itu adalah pertempuran kekuatan total antara Marduk dan Far East Branch ... ... 
+---------------------------------------------------------
+... ... mari kita tinggalkan sayatan ke Honjin untuk kalian
+Pastikan untuk menang, hidup dan pulang 
+---------------------------------------------------------
+Itu buruk untuk bergegas ... apakah ini agak terlambat
+Itu pasti dikelilingi oleh Aragami, dan juga ... ... 
+---------------------------------------------------------
+Untuk kalian, Blood, secepatnya
+Aku pikir lebih baik untuk mengatakan hal ini 
+---------------------------------------------------------
+Spesies sensitif yang ada di pusat kawanan ... ... Itu pasti Marduk
+Mungkin sama dengan yang menyerang pangkalan satelit tempo hari ... 
+---------------------------------------------------------
+Satsuki 
+---------------------------------------------------------
+Ini adalah strategi berskala besar di Timur Jauh ...
+Saya ingin Anda melihat dengan mata ini dengan tegas 
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal 
+---------------------------------------------------------
+Lihat file lain 
+---------------------------------------------------------
+Semua ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti majalah mode atau katalog
+Aku tidak mengerti karena semuanya ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti file teks
+Dikunci dan tidak dapat dilihat<@>
+---------------------------------------------------------
+  
+---------------------------------------------------------
+ 
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal 
+---------------------------------------------------------
+Saya tidak melakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat arsip
+---------------------------------------------------------
+Saya tidak melakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal 
+---------------------------------------------------------
+Lihat file lain 
+---------------------------------------------------------
+Ada banyak taktik terkait file <@> 
+---------------------------------------------------------
+"Signal bullet" adalah misi, melawan sekutu
+Item yang akan digunakan saat memberikan instruksi <@> 
+---------------------------------------------------------
+Kisaran pengaruh "sinyal peluru" adalah "sinyal area luas" dan "sinyal jangkauan sempit" <@> 
+---------------------------------------------------------
+"Sinyal area luas" adalah semua anggota yang berpartisipasi dalam misi
+"Sinyal area sempit" hanya mengacu pada anggota dalam status tindak lanjut <@> 
+---------------------------------------------------------
+Ada 4 jenis "Signal Bullet" yang bisa digunakan <@> 
+---------------------------------------------------------
+"Sinyal Area Luas: agregat set" "sinyal area sempit: menunggu penyebaran"
+"Sinyal jangkauan Luas: cari serangan musuh" "sinyal jangkauan sempit: atur" <@>
+---------------------------------------------------------
+Untuk Informasi rinci dari setiap sinyal, lihat "Database" <@> 
+---------------------------------------------------------
+"Control unit" adalah peralatan yang dilengkapi dengan "Burst Skill" <@> 
+---------------------------------------------------------
+"Burst Skill" menunjukkan efeknya hanya selama ledakan
+Ini adalah keahlian khusus <@> 
+---------------------------------------------------------
+Juga, "unit kontrol" dan Skill yang terpasang di dalamnya
+berubah sesuai dengan Judul<@> 
+---------------------------------------------------------
+Aku tidak bisa membukanya karena Aku tidak punya izin <@>
+---------------------------------------------------------
+Panduan taktis lanjutan: sinyal peluru 
+---------------------------------------------------------
+Panduan taktis lanjutan: Unit kontrol 
+---------------------------------------------------------
+N O  N A M E 
+---------------------------------------------------------
+Berhenti melihat 
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat? <@> 
+---------------------------------------------------------
+Buka Terminal 
+---------------------------------------------------------
+Lihat file lain 
+---------------------------------------------------------
+File-file tersebut diatur
+Sangat mudah untuk melihat <@> 
+---------------------------------------------------------
+Dengan "kartu avatar" bertukar dengan "avatar"
+Ini tentang teman yang dapat berpartisipasi dalam misi kapan saja <@> 
+---------------------------------------------------------
+Ada dua cara untuk bertukar "Avatar Card"
+Salah satunya adalah secara manual bertukar di "Multiplayer" <@> 
+---------------------------------------------------------
+cara Lainnya adalah "pertukaran kartu yang lewat"
+Hingga 3 kartu dapat ditukar sekaligus <@> 
+---------------------------------------------------------
+"Avatar card" dapat diperbarui dengan bertukar dengan lawan yang sama dengan melakukan "Multiplayer" atau "melewati pertukaran kartu" <@>
+---------------------------------------------------------
+Sebagai imbalan atas tugas yang dilakukan dengan pihak lain
+"Bahan koleksi Avatar" akan di peroleh <@> 
+---------------------------------------------------------
+Memo Bullet <@> 
+---------------------------------------------------------
+"Rebounding bullet" adalah peluru yang memiliki efek mengembalikan kekuatan fisik Kamu
+Namun, itu tidak berfungsi untuk orang yang menembak <@> 
+---------------------------------------------------------
+Untuk Bullet dengan sifat yang sangat istimewa
+God Machine dapat digunakan terbatas <@> / 00Hanya satu bagian, dengan sedikit Tsubaki dan Lindow
+Ada foto-foto Sakuya bersama <@> 
+---------------------------------------------------------
+Hanya satu bagian, dengan sedikit Tsubaki dan Lindow
+Ada foto-foto Sakuya bersama <@> 
+---------------------------------------------------------
+Yang lainnya adalah foto yang relatif baru <@> 
+---------------------------------------------------------
+Avatar 
+---------------------------------------------------------
+Bullet 
+---------------------------------------------------------
+Foto 
+---------------------------------------------------------
+Berhenti melihat 
+---------------------------------------------------------
+
+---------------------------------------------------------
+Aku mulai, tapi
+Layar rusak dan sulit dilihat <@> / 00Apa yang kamu lihat? <@> 
+---------------------------------------------------------
+Apa yang kamu lihat? <@> 
+---------------------------------------------------------
+Setiap file terkunci
+Kamu tidak dapat melihatnya <@> 
+---------------------------------------------------------
+Buka Terminal 
+---------------------------------------------------------
+Lihat file lain 
+---------------------------------------------------------
+Damisn 
+---------------------------------------------------------
+Tinggalkan penjaga belakang untukku.
+Pergi .... Silakan Kamu bertarung 
+---------------------------------------------------------
+Yoruzuya 
+---------------------------------------------------------
+Apakah Kamu ingin membeli sesuatu? 
+---------------------------------------------------------
+Yuno 
+---------------------------------------------------------
+Hati-hati
+Selalu ... ... Tolong pulang dengan selamat 
+---------------------------------------------------------

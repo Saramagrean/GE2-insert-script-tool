@@ -1,0 +1,312 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0125
+===============================================================
+[00000636:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+Dengan otoritas saat ini, di ruangan ini
+Aku tidak bisa masuk
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+Pikirkanlan teman2mu dan saling bekerja samalah disaat berjuang dikala saat berperang,
+aku tidak begitu punya banyak pengalaman tapi aku akan selalu berusaha
+---------------------------------------------------------
+Oh, wakil kapten ... ... rekan kerja yang baik
+---------------------------------------------------------
+Menanggapi secara fleksibel sesuai dengan situasi perang ... ...
+Itu penting ... aku akan mengerti
+---------------------------------------------------------
+Tetapi aku tidak bisa menebak apa yang terjadi,
+Untuk mengatasi itu...... Kamu harus menaati seniornya
+---------------------------------------------------------
+Aku tidak akan menolaknya.
+---------------------------------------------------------
+Aku pikir cara berpikir juga penting
+---------------------------------------------------------
+...... Itu saja tidak cukup?
+
+---------------------------------------------------------
+Tentu Saja!
+karna itulah perintah dibuatkan di pembangunan
+---------------------------------------------------------
+Aku tidak berpikir hal seperti itu!
+Aku hanya berharap untuk misi yang dapat diandalkan ...
+---------------------------------------------------------
+Aku tidak berjuang sendirian
+---------------------------------------------------------
+God Arc bukanlah alat untuk bertarung
+---------------------------------------------------------
+……
+---------------------------------------------------------
+Pikirkan tentang perusahaanmu ... ... untuk bekerja sama dan bertarung sesuai dengan situasi
+Jika itu penting ...  Bukankah seperti itu?
+---------------------------------------------------------
+Oke aku paham
+Aku akan memodifikasinya dan mencoba untuk berusaha ......
+---------------------------------------------------------
+Fran
+---------------------------------------------------------
+Kapten Julius sedang mencari wakil kapten
+Aku ingin berkonsultasi tentang kebijakan tugas-tugas berikut
+---------------------------------------------------------
+Misi baru telah dikeluarkan untuk Blood
+Apakah kamu siap?
+---------------------------------------------------------
+Gill
+---------------------------------------------------------
+Oh, itu benar ...... aku suka apa yang aku suka 
+Ketika aku membiarkan dia melakukannya, aku berbicara dengan Julius
+---------------------------------------------------------
+Saya tidak menyangkal ide Ciel
+hanya saja Heights' tactics tidak akan cocok untukku ...
+---------------------------------------------------------
+Pergeseran sedikit dalam kesadaran dapat menyebabkan kematian ......
+Itu tidak bisa ditolong.
+---------------------------------------------------------
+Hal seperti itu, tidak ada artinya di medan perang
+Pergeseran sedikit dalam kesadaran dapat menyebabkan kematian ......
+---------------------------------------------------------
+Apakah dia tidak egois?
+---------------------------------------------------------
+Ciel berusaha untuk menjadi dirinya sendiri
+---------------------------------------------------------
+Ciel tidak mengerti Inti dari bekerja sama dengan rekan kerja ... ...
+---------------------------------------------------------
+Saya mendengar bahwa dia berada di rumah sakit ... ...
+Sampai saat itu ... ...
+---------------------------------------------------------
+...... Aku harap kami dapat mendukung mu
+Yah ... itu hanya sebuah pemikiran.
+---------------------------------------------------------
+Ciel selalu sendiri
+---------------------------------------------------------
+Itu sebabnya aku membutuhkan kekuatan rekan-rekanku
+---------------------------------------------------------
+Aku mengerti apa yang ingin dikatakan oleh Wakil Kapten
+...... Hei, biarkan aku berpikir.
+---------------------------------------------------------
+Julius
+---------------------------------------------------------
+Blood memiliki tugas baru
+... ... apakah kamu siap sekarang?
+---------------------------------------------------------
+Oh, wakil kapten ... ... Misi selanjutnya, aku meninggalkan tier plan untuk tactics planning
+Kamu harus berada di garden, jadi silahkan lihat
+---------------------------------------------------------
+......Aku mohon padamu
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Hei, supaya bisa berteman baik dengan Ciel
+Menurutmu apa yang harusku lakukan?
+---------------------------------------------------------
+Aku tidak terlalu tau tentang taktik dan strategi, itu benar-benar hal yang sulit
+Aku tidak tau harus bicara tentang apa
+---------------------------------------------------------
+Eh? Bahkan jika aku memberitahumu contoh ......
+---------------------------------------------------------
+Yah ...... aku khawatir tentang kesempatan itu .......
+---------------------------------------------------------
+Ada contoh contohnya
+---------------------------------------------------------
+Kau dapat membuat peluang sebanyak mungkin
+---------------------------------------------------------
+Oh, begitukah!
+Roti Oden!
+---------------------------------------------------------
+Tentu saja! Awal dari semuanya, itu dimulai dari membuatmu kenyang!
+Trima kasih, Aku akan segera mencobanya!
+---------------------------------------------------------
+Dr. Rachel
+---------------------------------------------------------
+...... Apakah kamu mencari ciel?
+---------------------------------------------------------
+Dia sedang berdiri didaerah bercabang....
+Aku berpikir kearah mana itu akan pergi ... tergantung dengan pikiran orang tersebut
+---------------------------------------------------------
+Petugas Friar
+---------------------------------------------------------
+Baru-baru ini Ciel selalu di kebun
+Sepertinya Anda suka di sana-sini.
+---------------------------------------------------------
+Petugas Friar
+---------------------------------------------------------
+Bekerja sama dengan rekan kerja untuk bertarung demi untung dan melawan pertarungan
+Adalah salah satu elemen terpenting
+---------------------------------------------------------
+Bahkan saat kau tersesat dengan teman, kamu bisa
+memberikan instruksi "all hands set"
+---------------------------------------------------------
+Bagaimana kalau mencoba memanfaatkannya ketika dibagi kepada musuh?
+---------------------------------------------------------
+Romeo
+---------------------------------------------------------
+Ciel juga sedikit tidak keras kepala
+Aku pikir itu bagus.
+---------------------------------------------------------
+Dalam pengetahuan taktik, tidak ada orang yang bisa mengimbangi Ciel bukan?
+Aku harap aku berhasil memberikan kekuatan entah bagaimana ......
+---------------------------------------------------------
+Ini adalah Eksekusi Kata
+---------------------------------------------------------
+Aku hanya tidak bisa membantu berpikir
+---------------------------------------------------------
+Bo, Bodoh! Aku tidak perlu mengatakan
+Namun, Karena kita gagal kita berbicara
+---------------------------------------------------------
+Lain kali di medan perang, Kau dapat mengatur untuk mengelola entah bagaimana
+Yah, lihatlah!
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Semua ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti mode majalah atau katalog
+Aku tidak tahu karena semuanya ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti file teks
+Aku tidak bisa melihatnya karena terkunci<@>
+---------------------------------------------------------
+Модный　журнал
+---------------------------------------------------------
+Дневник
+---------------------------------------------------------
+Berhentilah mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Saya tidak melakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Tonton arsipnya
+---------------------------------------------------------
+Saya tidak melakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Ada banyak taktik terkait file<@>
+---------------------------------------------------------
+"Signal Bullet" mengacu pada item yang digunakan untuk memberikan instruksi kepada kawan dalam misi<@>
+---------------------------------------------------------
+Kisaran pengaruh "Bullet signal" ada dua jenis "Wide area signals" dan "Narrow Range signal"<@>
+---------------------------------------------------------
+"Wide area signal" untuk semua anggota yang berpartisipasi dalam misi
+"Narrow area signal" hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+Ada 4 jenis "signal bullet" yang bisa digunakan<@>
+---------------------------------------------------------
+"Wide-area Signal: all hands set", "Narrow-Band Signal: Menunggu penyebaran,"
+"narrow-band signal: Mencari serangan musuh," "narrow-band signal: Set"<@>
+---------------------------------------------------------
+Untuk informasi rinci tentang masing-masing sinyal, lihat "Database"<@>
+---------------------------------------------------------
+"Control Unit" diaktifkan dengan "Burst Skill"<@>
+---------------------------------------------------------
+"Burst skill" memperlihatkan efeknya hanya saat pada burst
+Itu adalah skill spesial<@>
+---------------------------------------------------------
+Juga, "control unit" dan skill yang terpasang
+Namanya ikut berganti<@>
+---------------------------------------------------------
+Saya tidak bisa membukanya karena saya tidak punya izin<@>
+---------------------------------------------------------
+Panduan taktik senior: signal bullet
+---------------------------------------------------------
+Panduan taktik lanjutan: Control unit
+---------------------------------------------------------
+ＮＯ　ＮＡＭＥ
+---------------------------------------------------------
+Berhentilah mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+File-file tersebut diatur
+Supaya mudah untuk dilihat<@>
+---------------------------------------------------------
+Jika Anda bertukar "Avatar Card" untuk "Avatar"
+Seorang teman supaya temanmu dapat berpartisipasi dalam misi kapan saja<@>
+---------------------------------------------------------
+Ada dua cara untuk bertukar "Avatar Card"
+Salah satu caranya adalah secara manual yaitu bertukar saat "Multiplayer"<@>
+---------------------------------------------------------
+Cara lain adalah "pertukaran kartu yang lewat"
+Hingga 3 kartu dapat ditukar sekaligus<@>
+---------------------------------------------------------
+"Avatar card" dapat diperbarui dengan bertukar dengan partner yang sama
+Dengan melakukan "Multiplayer" atau "Penukaran avatar card"<@>
+---------------------------------------------------------
+ 
+Sebagai kompensasi untuk bekerja dengan orang lain
+"Material costum" dapat diperoleh<@>
+---------------------------------------------------------
+Blood Memo<@>
+---------------------------------------------------------
+"Rebounding bullet" adalah peluru yang memiliki efek mengembalikan kekuatan fisik Anda
+Namun, itu tidak berhasil untuk orang yang menembakkan peluru itu sendiri<@>
+---------------------------------------------------------
+Untuk Bullet dengan sifat yang sangat istimewa
+penggunaan God arc terbatas<@>
+---------------------------------------------------------
+Satu-satunya bagian,Foto tsubaki bersama  Sakuya<@>
+---------------------------------------------------------
+Yang lainnya adalah foto yang relatif baru<@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Bullet
+---------------------------------------------------------
+Sebuah foto
+---------------------------------------------------------
+Berhentilah mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+Saya mulai, 
+Namun layar rusak dan sulit dilihat<@>
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Setiap file terkunci
+Saya tidak bisa melihatnya<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------

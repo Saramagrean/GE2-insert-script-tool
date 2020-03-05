@@ -1,0 +1,353 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0142
+===============================================================
+[00000704:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+Tidak bisa masuk karena tidak memiliki wewenang
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas saat ini aku tidak diizinkan masuk ke ruangan ini
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas saat ini aku tidak diizinkan masuk ke ruangan ini
+---------------------------------------------------------
+Asuna
+---------------------------------------------------------
+apa yang akan terjadi dengan friar,aku menantikannya
+Aku takkan melupakan semuanya yang pergi ke friar！
+---------------------------------------------------------
+Kalbi
+---------------------------------------------------------
+Kalbi？
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+Fasilitas perawatan bercak hitam putih FRIAR dibuka, tampaknya fasilitas ini 
+menerima pasien dari seluruh negeri
+---------------------------------------------------------
+Terpisah dari fasilitas,hanya frir seorang
+Yang bisa merespond pasien……
+---------------------------------------------------------
+……Sebagai wakil kapten blood,berlanjut
+Dia menerima posisinya untuk membantumu
+---------------------------------------------------------
+Meskipun dia orang yang menjijikkan ... ... Sekali lagi, terima kasih atas perhatiannya.
+---------------------------------------------------------
+Emil
+---------------------------------------------------------
+Keberhasilan luar biasa dari pasukan god arc seperti telah dilahirkan kembali, aku mendengar dia menunjukkannya!
+---------------------------------------------------------
+Kita tidak bisa dikalahkan
+Sekarang waktunya untuk melepaskan sinar dari Polar Stern!
+---------------------------------------------------------
+Erina
+---------------------------------------------------------
+Hebat ... ... Aku akan menaruh semua bolanya pada tembakan pertama ... ...
+Lagipula itu bukan hal yang biasa ...!
+---------------------------------------------------------
+Gill
+---------------------------------------------------------
+Tampaknya pasukan god arc sedang meningkatkan pertempuran dengan segera
+Yah Julius ......
+---------------------------------------------------------
+Kapten, kita akan menuju misi ...
+Agar tidak terlambat untuk Hatsu
+---------------------------------------------------------
+Hibari
+---------------------------------------------------------
+Mulai hari ini, pasien Black plague yang berada dalam perawatan di sini sudah
+diputuskan untuk dikirim ke Friar Black Kidney Intensive Care Facility
+---------------------------------------------------------
+Aku di beri tahu, Asuna ingin mengucapkan selamat tinggal pada semua orang
+---------------------------------------------------------
+Licca, soal masalah god arcnya Romeo
+Sepertinya ada sesuatu yang ingin kau katakan
+---------------------------------------------------------
+Blood punya tugas baru
+---------------------------------------------------------
+Saat ini,
+para pasukan god arc friar sedang berhadapan dengan aragami yang paling besar
+---------------------------------------------------------
+Blood, masing-masing unit sisanya
+tangani Aragami ukuran kecil dan menengah
+---------------------------------------------------------
+Kota
+---------------------------------------------------------
+Terima kasih kepada Friar, yang segera mulai menerima pasien black plague
+aku merasa aman di sini
+---------------------------------------------------------
+Reaksi sekitarnya terhadap black malice tidak baik, jadi ....
+---------------------------------------------------------
+Penduduk penghuninya cenderung tidak dapat mengabdikan diri untuk perawatan pasien black plague
+Kurasa aku berpikir bahwa sigap jelas sangat minim
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Aku mendengar tentang itu beberapa saat yang lalu,
+Prajurit Julius, dia hebat
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+Untuk pertempuran itu, tidak hanya di atas fenrir,
+tampaknya pujian itu telah diadopsi dari masyarakat umum
+---------------------------------------------------------
+Kau tidak bergerak dengan benar hingga terakhir kali setelah semua itu luar biasa, Julius
+---------------------------------------------------------
+Perawat
+---------------------------------------------------------
+Di kamar rumah sakit ini, orang dengan limfoma hitam sembuh
+---------------------------------------------------------
+Kau mungkin terinfeksi dengan black plague jika kau bersentuhan dengan orang yang sudah terkena dampaknya
+Harap perhatikan dengan sungguh-sungguh
+---------------------------------------------------------
+Licca
+---------------------------------------------------------
+Ngomong-ngomong ... ada sesuatu yang ingin kukatakan padamu
+---------------------------------------------------------
+God Arc Romeo ...... aku tidak bisa membatalkan negara yang belum aktif
+Mungkin karena aku kehilangan pasanganku ...
+---------------------------------------------------------
+Terutama, ketidaknyamanan, tapi ...
+Dengan berbagi informasi ... ... Juga, aku akan menghubungimu jika sesuatu terjadi
+---------------------------------------------------------
+Fasilitas perawatan intensif Flyer tampaknya mulai operasi skala penuh akhirnya
+Bahkan pasien kulit hitam di sini akan diangkut ke sana
+---------------------------------------------------------
+"Mari kita kembali, mari kita bahas tentang ceritanya, mari kita tinggalkan saja"
+Aku diminta oleh Asna-chan.
+---------------------------------------------------------
+Jika kau berbicara dengan Dr. Sakaki, bahkan buku gambar dari god arc yang bahkan anak-anak pun
+bisa mengerti Mengapa kau tidak menulisnya ... Yah, aku kira aku harus mencobanya
+---------------------------------------------------------
+Mutsumi
+---------------------------------------------------------
+Tanganku menjadi kasar ...
+Sepertinya aku harus menggunakan deterjen yang lain
+---------------------------------------------------------
+Sakaki
+---------------------------------------------------------
+Sepertinya aku menyelesaikan tugas pertamaku sebagai blood dari cabang far east
+Terima kasih
+---------------------------------------------------------
+Bahkan di sini, aku akan mengubah prosedur transfermu, ini secara resmi dilakukan.
+---------------------------------------------------------
+Yah ... ... lagi, selamat datang di cabang far east, Ini akan sesulit seperti biasanya,
+tapi mari kita bertarung bersama
+---------------------------------------------------------
+Satsuki
+---------------------------------------------------------
+Selamat mengambil posisi sebagai kapten,
+apa ini rasanya?
+---------------------------------------------------------
+Mulai sekarang, silanglah berbagai jenis informasi, aku mengandalkanmu
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat? <@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Semua ditulis dalam bahasa rusia <@>
+---------------------------------------------------------
+Ini terlihat seperti majalah mode atau katalog,
+aku tidak mengerti karena semuanya ditulis dalam bahasa rusia <@>
+---------------------------------------------------------
+Ini terlihat seperti file teks, dikunci dan tidak dapat dilihat <@>
+---------------------------------------------------------
+Модный　журнал
+---------------------------------------------------------
+Дневник
+---------------------------------------------------------
+Berhenti melihat-lihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang mau kau lihat? <@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Tidak jadi
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang mau kau lihat? <@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat arsip-arsip
+---------------------------------------------------------
+Tidak jadi
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang mau kau lihat? <@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lainnya
+---------------------------------------------------------
+Ada banyak file berkaitan dengan taktik
+---------------------------------------------------------
+"Signal Bullet" mengacu pada item yang digunakan untuk memberikan instruksi kepada kawan dalam misi<@>
+---------------------------------------------------------
+Kisaran pengaruh "Bullet signal" ada dua jenis "Wide area signals" dan "Narrow Range signal"<@>
+---------------------------------------------------------
+"Wide area signal" untuk semua anggota yang berpartisipasi dalam misi
+"Narrow area signal" hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+Terdapat 4 jenis "peluru signal" yang dapat digunakan<@>
+---------------------------------------------------------
+Signal ber-area lebar : Set aggregate  Signal ber-area sempit : set
+Signal berjarak lebar : Set                      Signal berjarak pendek : Mencari serangan musuh<@>
+---------------------------------------------------------
+Untuk informasi lebih detail silahkan liat database<@>
+---------------------------------------------------------
+"Control Unit" diaktifkan dengan "Burst Skill"<@>
+---------------------------------------------------------
+"Burst skill" menunjukan efel saat dalam burst
+Adalah sebuah skill special<@>
+---------------------------------------------------------
+Juga tergantung pada "control unit" dan skill yang terpasang didalamnya maka Title akan berubah<@>
+---------------------------------------------------------
+Aku tidak bisa membukanya karena tidak
+memiliki izin<@>
+---------------------------------------------------------
+Petunjuk taktis senior : peluru signal
+---------------------------------------------------------
+Petunjuk taktis lebih lanjut : Kontrol unit
+---------------------------------------------------------
+ＮＯ　ＮＡＭＥ
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Filenya tersusun rapi 
+Mudah untuk melihatnya<@>
+---------------------------------------------------------
+Dengan "kartu avatar" tukar dengan "avatar"
+teman yang akan bisa berpartisipasi 
+dalam misi kapan saja
+<@>
+---------------------------------------------------------
+Terdapat 2 cata dalam bertukar "kartu avatar"
+Cara pertama secara manual bertukar
+saat "Multiplayer"<@>
+---------------------------------------------------------
+Cara yang lain adalah dengan "Perukaran kartu langsung"
+Batas 3 kartu yang dapat ditukar secara bersamaan<@>
+---------------------------------------------------------
+"Kartu avatar" dapat diupdate dengan teman yang sama
+Dengan "Multiplayer" atau "Redemption card exchange"<@>
+---------------------------------------------------------
+Sebagai imbalan karena menyelesaikan tugas<dengan anggota lain
+"Material avatar" bisa diambil<@>
+---------------------------------------------------------
+Memo bullet<@>
+---------------------------------------------------------
+Rebounding bullet adalah bullet dengan efek untuk memulihkan kekuatan teman.
+Namun, tidak memiliki efek bagi orang yang menembak<@>
+---------------------------------------------------------
+Untuk Bullet dengan sifat yang sangat istimewa
+penggunaan God arc terbatas<@>
+---------------------------------------------------------
+Hanya ada satu potongan,dengan Tsubaki dan Lindow waktu kecil
+Ada juga foto bersama sakuya<@>
+---------------------------------------------------------
+Foto yang lain relatif baru<@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Bullet
+---------------------------------------------------------
+Foto
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Aku telah memulainya
+Tapi tampilannya rusak dan sulit dilihat<@>
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Semua file terkunci
+Aku tidak bisa melihatnya<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Kigurumi
+---------------------------------------------------------
+……！！
+---------------------------------------------------------
+Damian
+---------------------------------------------------------
+Oh,ini dia
+---------------------------------------------------------
+Apa yang berada di lapangan adalah shiu dan yakusha raja……
+Benar-benar lawan yang nakal
+---------------------------------------------------------
+Walaupun pesawatnya sempit,jika ada skill "silencing",hanya ada satu sisi di corner theater
+Kau bisa lakukan apapub seperti langsung menarik poinnya
+---------------------------------------------------------
+Serangan beratribut api efektif pada kedua aragami
+Mohon perhariannya untuk stun attack ke shyuu fallen star！
+---------------------------------------------------------
+Mulai sekarang,tolonglah
+---------------------------------------------------------
+Aku berjuang untuk straregi misi berikutnya
+---------------------------------------------------------
+Kau tampaknya sudah menjadi kapten
+Jangan menjadi terlalu asing..lakukan saja apa yang kau mau
+---------------------------------------------------------
+Ah,iya...bisakah aku menggunakan link support device？
+Jika ada sesuatu yang tak kau ketahui,silahkan lihat database
+---------------------------------------------------------
+Yuno
+---------------------------------------------------------
+Selalu datang sejauh ini...makasih
+Aku harap semuanya segera membaik
+---------------------------------------------------------
+Secara resmi dari kapten ke blood,ambil kantornya
+Selamat..apa kau bisa mengatakannya ？
+---------------------------------------------------------
+Pasien akan ditransportasi ke rumah sakit friar mulai hari ini
+Jadi,asuna bilang bahwa ia ingin berterima kasih ke blood……
+---------------------------------------------------------
+Asuna
+---------------------------------------------------------
+Makasih karena selama ini telah melindungi kami！
+Aku kecewa berada disini tapi aku tidak kesepian
+---------------------------------------------------------
+Jika bersenang-senang dengan friar,aku akan kembali lagi
+Kali ini akan kuberikan semuanya dariku！
+---------------------------------------------------------
+Yah...karena itu aku senang kau tetap menungguku
+---------------------------------------------------------
+Yuhu……
+Bahkan setelah aku ke friar,tolong kontak aku
+---------------------------------------------------------
+Yup！
+---------------------------------------------------------

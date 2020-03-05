@@ -1,0 +1,74 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0028
+===============================================================
+[00000248:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Emil
+---------------------------------------------------------
+Hai ma ma maukah kamu da da datang kemari
+---------------------------------------------------------
+A a a apa yang kamu bicaran? a a aku biasa saja kok
+---------------------------------------------------------
+Dan, teman tolong tunggu！
+---------------------------------------------------------
+Ada apa？
+---------------------------------------------------------
+Baguslah kalau begitu
+---------------------------------------------------------
+A aku tidak bisa bersembunyi darimu
+---------------------------------------------------------
+Cepatlah berbicara
+---------------------------------------------------------
+Sebenarnya, misi selanjutnya adalah mengawal penjajah satelit ......
+---------------------------------------------------------
+Kapten Kouta berkata "Jika Emil baik-baik saja!" aku menunjuk aku sebagai pemimpin pasukan 
+eksekusi
+---------------------------------------------------------
+Bergantung pada situasinya, itu akan diatur dengan tepat, Ini adalah titik yang bagus dari cabang 
+Far East ......
+---------------------------------------------------------
+Sampai sekarang aku menerima segala misi, yang aku sendiri jauh dari orang orang karena yang hanya 
+kukerjakan adalah melawan Aragami
+---------------------------------------------------------
+Melindungi warga sipil, jika gagal Tidak terjadi kerusakan parah
+---------------------------------------------------------
+Ketika berpikir bahwa hidup mereka langsung dibawa di pundak ini, Dengan keadaan seperti itu, tidak 
+bisa lagi berdiri ......
+---------------------------------------------------------
+Emil yang menyedihkan... dimana letak kesombongan ksatria
+---------------------------------------------------------
+A, apa...？
+---------------------------------------------------------
+Ti ti tidak mungin, apakah kamu harus mengulurkan tangan kepada Emil yang menyedihkan ini!？
+---------------------------------------------------------
+Jika kamu mengatakan "kamu bisa melakukannya", kamu ingin percaya, Tapi tetap saja ...
+---------------------------------------------------------
+Mm... kamu bisa melakukannya？
+---------------------------------------------------------
+Kamu bisa melakukannya! kamu seharusnya bisa melakukannya！
+---------------------------------------------------------
+Bagaimana denganmu, apakah kamu akan membantuku dengan tugasku? aku pikir aku bisa menyelamatkan 
+nyawa kolonis satelit ......！
+---------------------------------------------------------
+Butuh bantuan？
+---------------------------------------------------------
+Kamu bisa melakukannya
+---------------------------------------------------------
+Terima kasih Tidak ada banyak dorongan jika kamu tetap disana！
+---------------------------------------------------------
+Perutku mules anjir, mungkin karena teh susu itu
+---------------------------------------------------------
+Serahkan padaku
+---------------------------------------------------------
+Biarkan aku berpikir
+---------------------------------------------------------
+Oh, ada apa？
+---------------------------------------------------------

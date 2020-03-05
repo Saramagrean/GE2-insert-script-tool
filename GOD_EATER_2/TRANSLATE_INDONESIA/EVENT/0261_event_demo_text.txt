@@ -1,0 +1,42 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0010
+===============================================================
+[00000176:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Soma
+---------------------------------------------------------
+Bahan bahan yang disatukan tanpa ada masalah akan sulit 
+bagimu<@>
+---------------------------------------------------------
+Aku harus berterimakasih padamu dengan sesuatu... Apa yang 
+akan Kota lakukan disaat seperti ini...<@>
+---------------------------------------------------------
+Tidak tidak, Tentu saja tidak
+---------------------------------------------------------
+Traktir aku makan kalau begitu
+---------------------------------------------------------
+Sejujurnya, Eksperimen itu tentang kegagalan yang tidak 
+sedikit, tapi aku memahami itu dengan banyak<@>
+---------------------------------------------------------
+Meskipun paman Sakaki dan orang tuaku mengulanginya tidak 
+peduli seberapa banyak pun...<@>
+---------------------------------------------------------
+padahal, mengambil tantangan tidak peduli berapa kalipun 
+untuk mendapatkan hasil yang baik... tidak begitu buruk 
+juga<@>
+---------------------------------------------------------
+Tidak, tidak perlu sungkan... jika eksperimen selanjutnya 
+gagal juga, aku akan meminta bantuanmu lagi<@>
+---------------------------------------------------------
+Oh, akan kulakukan jika seperti itu, jika eksperimen 
+selanjutnya gagal juga, aku akan meminta bantuanmu 
+lagi<@>
+---------------------------------------------------------

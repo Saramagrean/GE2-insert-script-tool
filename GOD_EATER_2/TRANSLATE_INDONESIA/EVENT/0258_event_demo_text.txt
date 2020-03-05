@@ -1,0 +1,77 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0023
+===============================================================
+[00000228:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Soma
+---------------------------------------------------------
+okay... Kalau begitu, Mungkin lebih bijaksana untuk menyesuaikan 
+faktor bias dalam bentuk yang lebih kental daripada yang
+kita duga.....<@>
+---------------------------------------------------------
+Meski begitu, Aegis dibangun untuk bertahan Hphm...aku dapat membayangkan 
+wajah sombong pria itu.....<@>
+---------------------------------------------------------
+Siapa orang itu?
+---------------------------------------------------------
+Tentang Aegis...
+---------------------------------------------------------
+Sekarang kamu menyebutkan itu... Obrolan kami terganggu biar ku tebak 
+aku tidak dapat lari dari pembicaraan ini... seperti
+itulah....<@>
+---------------------------------------------------------
+Mungkin... aku masih belum menyamai ayahku... Akan tetapi, 
+ada satu hal yang dapat kubanggakan<@>
+---------------------------------------------------------
+Bahwa ada teman yang percaya padaku
+dan aku yakin pada temanku<@>
+---------------------------------------------------------
+Kouta akan melindungi Far East Branch
+selamanya<@>
+---------------------------------------------------------
+Alisa membantu banyak orang dari pangkalan satelit<@>
+---------------------------------------------------------
+Lalu ada Lindow dan dia... Temanku terus mencari 
+aragami jenis baru untuk membantu penelitian baru<@>
+---------------------------------------------------------
+Sungguh jawaban yang benar itu pasti lebih dari satu, 
+jalan untuk mencapai itu... Tidak hanya satu juga<@>
+---------------------------------------------------------
+Kau mengatakannya dengan baik
+---------------------------------------------------------
+Aku juga berpikir begitu
+---------------------------------------------------------
+Saat proyek Aegis gagal, Ayahku melanjutkan proyek itu 
+dengan kepercayaannya sendiri, dan berakhir dengan membuat musuh yang keluar dari 
+orang disekitarnya...<@>
+---------------------------------------------------------
+Keyakinan yang buta membuatmu lemah, Diikuti dengan
+mengurung diri, lalu melahirkan lebih banyak keyakinan buta<@>
+---------------------------------------------------------
+Aku terbiasa hidup seperti itu jadi aku dapat memahami 
+itu...<@>
+---------------------------------------------------------
+Hmph... Kita berbicara terlalu lama ayo kembali<@>
+---------------------------------------------------------
+Aku yakin aku telah memberitahumu sebelumnya, Tapi... Auramu sama
+seperti temanku<@>
+---------------------------------------------------------
+...Aku kan sabar menanti<@>
+---------------------------------------------------------
+Oh... Salahku lalu Johannes von Schicksal ialah
+ayahku<@>
+---------------------------------------------------------
+Hphm... Apa yang kau katakan adalah gema dari 
+temanku<@>
+---------------------------------------------------------
+Ah, Apa yang baru saja kau katakan adalah gema
+dari teman saya<@>
+---------------------------------------------------------

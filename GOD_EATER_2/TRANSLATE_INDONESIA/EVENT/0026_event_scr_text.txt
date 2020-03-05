@@ -1,0 +1,51 @@
+NAMA:event_scr_text
+ENCODING:UTF-8
+CRLF:\n
+ID:
+TYPE:
+JUMLAH_STRING:0016
+===============================================================
+[00000200:00000512:00002015:00066133:00000250:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+ Aku lapar ... ...
+---------------------------------------------------------
+Itu...
+---------------------------------------------------------
+「Awan Merah」……
+---------------------------------------------------------
+Oh ... mulai Merah lagi? ...
+---------------------------------------------------------
+Ah...selamat siang...
+---------------------------------------------------------
+Apa yang terjadi, apakah kau berasal dari Satelite Base di 
+mana hanya orang-orang muda yg dapat masuk ...
+---------------------------------------------------------
+Oh, Kau seorang God Eater... ...
+---------------------------------------------------------
+Tidak perlu kau sembunyikan itu adalah suatu pekerjaan yang 
+sangat mulia
+---------------------------------------------------------
+Sirene ini, apa ...?
+---------------------------------------------------------
+Sepertinya hujan merah akan turun ke sini ... ayo, masuklah 
+kedalam
+---------------------------------------------------------
+Yah, tidak, aku baik-baik saja kok
+---------------------------------------------------------
+untuk, sebentar saja jangan sungkan.
+---------------------------------------------------------
+Oh, baiklah ... sudah berapa lama kau berlangan?
+---------------------------------------------------------
+Seperti yang aku katakan sebelumnya, pemuda ini mengatakan 
+bahwa aku lapar, jadi tolong lakukan sesuatu
+---------------------------------------------------------
+Tidak tidak, kakek! tidak apa-apa ... Karena aku seorang God 
+Eater, kami bisa makan jika kami kembali ... ...
+---------------------------------------------------------
+rasa lapar tidak bisa dihindarkan, Mau god eater atau bukan, 
+untuk saat ini, diamlah dan minum saja teh ini...
+---------------------------------------------------------

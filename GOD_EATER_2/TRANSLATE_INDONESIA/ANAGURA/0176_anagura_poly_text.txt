@@ -1,0 +1,320 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0129
+===============================================================
+[00000652:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+Itu Tertulis...
+"Tidak ada entri untuk masuk karena sudah keluar"
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas saat ini, aku tidak bisa masuk keruangan ini
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas saat ini, aku tidak bisa masuk keruangan ini
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas saat ini, aku tidak bisa masuk keruangan ini
+---------------------------------------------------------
+Kalbi
+---------------------------------------------------------
+Kyuru?
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+Faktor P73 Tidak Seimbang...... digunakan dalam "rencana Munagalm"
+Itu ditulis dalam database<@>
+---------------------------------------------------------
+Ini lebih efektif daripada faktor tidak seimbang yang diberikan kepada kita......
+Tampaknya rencana itu dibekukan dari bahaya dan kegagalan eksperimen<@>
+---------------------------------------------------------
+....Mari bicara, Dr.Leah
+---------------------------------------------------------
+Faktor P73 Tidak Seimbang...... ditubuh Rachel......
+---------------------------------------------------------
+Franz
+---------------------------------------------------------
+.....Aku khawatir
+Hal-hal tentang Friar, maupun Dr.Leah.....
+---------------------------------------------------------
+Gil
+---------------------------------------------------------
+Sepertinya tidak ada pesan yang datang dari Friar sejauh ini
+....Yah, aku rasa begitu
+---------------------------------------------------------
+Aku juga, ingin menghadiri pertemuan
+Karena Nana "Gil akan segera marah".....<@>
+---------------------------------------------------------
+Ya memang benar, bahwa kamu dan Ciel cocok untuk hal-hal semacam ini
+Aku mengharapkannya, kapten<@>
+---------------------------------------------------------
+Aku dengar, itu sepertinya sulit
+Sepertinya adikku punya masa lalu seperti itu....
+---------------------------------------------------------
+Hibari
+---------------------------------------------------------
+Tampaknya mendengar keadaan Dr. Leah menjadi mungkin
+Kamu datang ke kamar rumah sakit
+---------------------------------------------------------
+Blood memiliki tugas baru
+---------------------------------------------------------
+Canon
+---------------------------------------------------------
+Jika kamu mencoba memberikan manisan ke Dr.Leah
+Perawat menghentikan ku....Meskipun itu enak ......
+---------------------------------------------------------
+Kouta
+---------------------------------------------------------
+Markas Fenrir juga, sedang mendengarkan rumor tentang selebaran saat ini.....
+Ini adalah sesuatu yang sangat berbeda dari suasana Far East Branch
+---------------------------------------------------------
+Melindungi orang yang tidak memiliki God Machine, Bahkan teman-temanku
+apanya.... yang berbeda
+---------------------------------------------------------
+Leah
+---------------------------------------------------------
+Aku minta maaf ....
+Hari ini.... Tentang ini....
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Aku juga ingin pergi ke pertemuan Dr. Leah.
+"Berhenti bicara karena itu membuatku rumit", aku dihentikan oleh Gil<@>
+---------------------------------------------------------
+aku ingin mendengar, Beberapa hal tentang Julius....
+nah, aku menyerahkannya kepada kapten!<@>
+---------------------------------------------------------
+Capek
+Lagi pula, kamu tidak mengerti dengan baik?<@>
+---------------------------------------------------------
+Nah, Dr.Leah baru saja kembali.
+Bahkan jika kamu terburu-buru itu tidak akan tertolong<@>
+---------------------------------------------------------
+perawat
+---------------------------------------------------------
+.....saat berkunjung, haraplah tenang
+---------------------------------------------------------
+Mutsumi
+---------------------------------------------------------
+Jarang, kamu tidak makan masakan terlalu banyak......
+Makan adalah hal yang paling penting
+---------------------------------------------------------
+Sakaki
+---------------------------------------------------------
+Dr.Leah masih dalam keadaan gelisah
+kamu sebaiknya melihat situasinya untuk sementara waktu sekarang
+---------------------------------------------------------
+Dr.Leah tampaknya sedikit tenang
+Dengan cepat, aku pergi untuk menanyakan cerita....
+---------------------------------------------------------
+Sudahkah kamu melewati pembayaran pintu depan
+Aku telah menominasikanmu dan Ciel kepada seseorang
+---------------------------------------------------------
+Aku minta maaf tapi, Apakah kamu tidak akan meminta wawancara dengan Dr.Leah?
+Ini satu-satunya petunjuk tentang Friar yang perlu diketahui
+---------------------------------------------------------
+Dia sedang menunggumu di "Hospital room"
+Tempatnya di Laboratorium, Itu dekat dengan laboratorium ku
+---------------------------------------------------------
+Terima kasih, aku selamat.
+Mendengarkan cerita dari orang-orang, secara mengejutkan itu melelahkan<@>
+---------------------------------------------------------
+Masih ada banyak hal yang perlu dikhawatirkan, Haruskah kita lakukan lain kali lagi
+Sekarang yang paling penting, kesembuhannya adalah prioritas utama
+---------------------------------------------------------
+Satsuki
+---------------------------------------------------------
+Friar tidak memiliki tanda-tanda pergerakan terutama di Friar
+Nah, mana yang harus diperiksa dulu Dr.Leah....<@>
+---------------------------------------------------------
+aku mendengarnya.
+Mulai sekarang, apakah kamu akan berbicara dengan Dr.Leah?<@>
+---------------------------------------------------------
+Apa? Tolong tenang
+kenapa kau melibatkanku, tidak mungkin aku melakukan permintaan yang membuatku frustrasi<@>
+---------------------------------------------------------
+Bagaimana?
+Keadaan Dr.Leah
+---------------------------------------------------------
+Ah, tidak apa-apa, bahkan jika kamu tidak menjawab
+aku ingin mencari tahu sendiri apa yang ingin ku ketahui, itulah pekerjaan ku
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Semuanya ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti majalah mode atau katalog
+aku tidak mengerti karena semuanya ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti teks file
+aku tidak bisa melihatnya karena terkunci<@>
+---------------------------------------------------------
+　
+---------------------------------------------------------
+
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka terminal
+---------------------------------------------------------
+tidak melakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka terminal
+---------------------------------------------------------
+lihat arsip
+---------------------------------------------------------
+tidak melakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Ada banyak file terkait taktik<@>
+---------------------------------------------------------
+"Signal bullet" adalah misi, melawan sekutu
+Ucapkan item yang kamu gunakan saat memberikan instruksi<@>
+---------------------------------------------------------
+Kisaran pengaruh "Signal Bullet" ada dua jenis "Wide area signal" dan "Narrow range signal"<@>
+---------------------------------------------------------
+"Wide-area signals" diperuntukan bagi semua anggota yang berpartisipasi dalam misi
+"Narrow-area signal" hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+Ada 4 macam "signal bullet" yang bisa digunakan<@>
+---------------------------------------------------------
+"Wide-area signal: general meeting" "Shrinking field signal: spread standby"
+"Narrow range signal: search enemy assault" "Shrinking Domain Signal: Collection"<@>
+---------------------------------------------------------
+Lihat "Database" untuk informasi rinci tentang setiap signal<@>
+---------------------------------------------------------
+"Control unit" dilengkapi dengan "Burst skill"<@>
+---------------------------------------------------------
+"Burst skill" yaitu keterampilan khusus, menunjukkan efeknya hanya selama burst aktif<@>
+---------------------------------------------------------
+Juga, keterampilan yang terpasang pada "Control unit" berubah sesuai dengan title<@>
+---------------------------------------------------------
+Aku tidak bisa membukanya karena tidak memiliki izin<@>
+---------------------------------------------------------
+Panduan taktis senior: Signal Bullet
+---------------------------------------------------------
+Panduan taktis lanjutan: Control Unit
+---------------------------------------------------------
+ＮＯ　ＮＡＭＥ
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+File-file tersebut diatur
+agar mudah untuk dilihat<@>
+---------------------------------------------------------
+Dengan "Avatar card" bertukar dengan "Avatar"
+teman yang dapat berpartisipasi dalam misi kapan saja<@>
+---------------------------------------------------------
+Ada dua cara untuk bertukar "Avatar Card"
+Salah satu caranya adalah secara manual bertukar di "Multiplayer"<@>
+---------------------------------------------------------
+Satunya lagi adalah "Exchange of passing cards"
+Hingga 3 kartu dapat ditukar sekaligus<@>
+---------------------------------------------------------
+"Avatar card" dapat diperbarui dengan bertukar dengan sesama teman
+Dengan melakukan "Multiplayer" atau "Redemption card exchange"<@>
+---------------------------------------------------------
+Sebagai imbalan atas tugas yang dilakukan dengan pihak lain
+[Avatar collection material] dapat diperoleh<@>
+---------------------------------------------------------
+Bullet Memo<@>
+---------------------------------------------------------
+"Rebounding bullet" adalah peluru yang memiliki efek mengembalikan kekuatan fisik Anda
+Namun, itu tidak akan bekerja untuk orang yang menembak sendiri<@>
+---------------------------------------------------------
+Untuk Bullet dengan sifat yang sangat istimewa
+God machine dapat digunakan terbatas<@>
+---------------------------------------------------------
+Hanya satu bagian, disatu sisi ada gambar Tsubaki dan Lindow bersama Sakuya<@>
+---------------------------------------------------------
+Yang lainnya adalah foto yang relatif baru<@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Bullet
+---------------------------------------------------------
+foto
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+aku mulai, tapi
+Layar rusak dan sulit dilihat<@>
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Setiap file terkunci
+aku tidak bisa melihatnya<@>
+---------------------------------------------------------
+Buka terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Kigurumi
+---------------------------------------------------------
+……
+---------------------------------------------------------
+Damien
+---------------------------------------------------------
+God machine soldier, Hari ini Sukses besar di berbagai tempat..... begitulah
+Orang-orang di markas, tampaknya puas dengan hasil ini....
+---------------------------------------------------------
+Yoshiya
+---------------------------------------------------------
+Apakah kamu akan membeli sesuatu?
+---------------------------------------------------------
+Yuno
+---------------------------------------------------------
+Dr.Leah......
+Aku ingin tahu apakah aku mengejarmu selamanya<@>
+---------------------------------------------------------
+kamu akan mengunjungi Dr.Leah
+Situasi Friar.... Aku harap aku bisa sedikit mengerti
+---------------------------------------------------------
+Oh, bagaimana?<@>
+---------------------------------------------------------
+....Yah, aku tidak bisa mendengarkan apa pun yang detail
+Tapi terima kasih, tolong beri tahu aku jika kamu memahami sesuatu lagi<@>
+---------------------------------------------------------

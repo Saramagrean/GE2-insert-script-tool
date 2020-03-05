@@ -1,0 +1,106 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0034
+===============================================================
+[00000272:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Kouta
+---------------------------------------------------------
+Meskipun begitu banyak operasi skala besar diperluas, dan 
+disini pun belum ada kemajuan pada Naa Mon.
+---------------------------------------------------------
+Erina
+---------------------------------------------------------
+...apakah itu tidak ada gunanya?<@>
+---------------------------------------------------------
+Emil
+---------------------------------------------------------
+apa kamu ingin mennyerah!?<@>
+---------------------------------------------------------
+jika kamu memutuskan untuk menyerah, bagaimana kamu bisa 
+menyebut dirimu sebagai prejurut dari Far East branch's 1st 
+unit!<@>
+---------------------------------------------------------
+Hoo, boy... Sepertinya ada gangguan lain di sini<@>
+---------------------------------------------------------
+Emile! kau terlalu ribut ! kamu tidak tau masalah 
+kami!<@>
+---------------------------------------------------------
+Lol, Yeah, aku tidak tau apa masalah kalian :v. <@> kamu tau 
+kenapa?<@>
+---------------------------------------------------------
+ini!
+---------------------------------------------------------
+aku tidak tau situasinya!
+---------------------------------------------------------
+There's no helping it... I will explain, so sit 
+down...<@>
+---------------------------------------------------------
+I see the more you listen, the more irritating it 
+gets.<@>
+---------------------------------------------------------
+You are interested too aren't you? what is that 
+Kigurumi...?
+---------------------------------------------------------
+What are you worried about!? that seems fair and square! 
+<@>
+---------------------------------------------------------
+Now, ... Do you Milo <@>
+---------------------------------------------------------
+Wha...behind...!? <@>
+---------------------------------------------------------
+Hm, Greetings. I've now seen your ability...it is worthy 
+of praise.<@>
+---------------------------------------------------------
+Kigurumi No, let's call him together<@>
+---------------------------------------------------------
+Of course, you haven't spoken a word so far but your sword, 
+your gun, and the symbol on your back got chivalry 
+across<@>
+---------------------------------------------------------
+We're people who lead the same chivalrious life... Then 
+why shouldn't we be frank with each other, talk to each 
+other with all our hearts?<@>
+---------------------------------------------------------
+With that temporary appearance, no, even though I imprisoned 
+it myself inside that monster jail, You must have a very 
+good reason...<@>
+---------------------------------------------------------
+You gonna tell that to only me? I want you to convey that 
+passionate spirit of yours through that icey jail that 
+you've been locked up in!<@>
+---------------------------------------------------------
+Ha, scared? Just now, I caught a faint glimpse of fear in 
+your eyes.
+---------------------------------------------------------
+Like me, you would be healthy in the sunshine of broad 
+daylight but you're afraid of exposing yourself...<@>
+---------------------------------------------------------
+Why is it! Why is it that makes you that obstinate! That 
+silence of yours, you, you're just like...!<@>
+---------------------------------------------------------
+Aren't you just like a costume!!<@>
+---------------------------------------------------------
+But it doesn't matter! I shall... I shall keep knocking 
+on your door!<@>
+---------------------------------------------------------
+Come on, answer me, Kigurumi! Respond to my passionate 
+heart!<@>
+---------------------------------------------------------
+For... Forgive me, my friend!<@>
+---------------------------------------------------------
+So it was empty to begin with...? How scary, 
+Captain...!<@>
+---------------------------------------------------------
+Aaah...the mystery just keeps on deepening. However, there 
+is no doubt that we've aquired some promising evidence!
+---------------------------------------------------------
+Just you wait, Kigurumi!<@>
+---------------------------------------------------------

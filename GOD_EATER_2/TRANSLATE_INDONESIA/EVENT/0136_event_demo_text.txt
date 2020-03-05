@@ -1,0 +1,46 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0013
+===============================================================
+[00000188:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Haruomi
+---------------------------------------------------------
+perkenalkan ini cammile.Dia disini dlm sebuah misi 
+melindungi dlm misi menjaga pasokan yang datang dari 
+barat...<@>
+---------------------------------------------------------
+Camille
+---------------------------------------------------------
+aku tak percaya kalau aku bertemu si playboy ini saat misi<@>
+---------------------------------------------------------
+aku Camille Rembrandt dari Marseille branch,
+senang bertemu denganmu<@>
+---------------------------------------------------------
+dipukul dlm misi, kau bilang...
+---------------------------------------------------------
+Haru, apa yang sedang kau lakukan...
+---------------------------------------------------------
+Yeah, serius lah Haru, apa yang sedang kau pikirkan
+dlm otakmu itu?<@>
+---------------------------------------------------------
+hidup itu bukan tentang kerja,aku sedang menjalankan bisnis,
+aku dibayar karena sebuah"trip"<@>
+---------------------------------------------------------
+Fufu...lembutkan suaramu dan kita akan menikmati angin 
+dari far east branch<@>
+---------------------------------------------------------
+ayo kita bersenang
+---------------------------------------------------------
+Oh, apa kamu belum siap bertarung?<@>
+---------------------------------------------------------
+didlm kasus ini,aku akan nongkrong di ruangannya :v. 
+beritahu aku kalo kau sudah siap ok!.<@>
+---------------------------------------------------------

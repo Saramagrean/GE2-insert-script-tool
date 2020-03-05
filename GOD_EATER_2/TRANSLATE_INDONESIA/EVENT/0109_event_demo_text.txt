@@ -1,0 +1,31 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0008
+===============================================================
+[00000168:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Soma
+---------------------------------------------------------
+Tujuan misi ini adalah menaklukan Aragami... Tapi tujuan 
+kita yang sebenarnya adalah Golden Gboro-Gboro.<@>
+---------------------------------------------------------
+Tubuh mereka mengandung material-material langka yang harus 
+kita amankan sebanyak mungkin...<@>
+---------------------------------------------------------
+Barisan depan adalah Aku...dan kau<@>
+---------------------------------------------------------
+Erina akan tetap di belakang, melindungi kita...<@>
+---------------------------------------------------------
+Erina
+---------------------------------------------------------
+Ah...Baik<@>
+---------------------------------------------------------
+Ayo pergi! <@>
+---------------------------------------------------------

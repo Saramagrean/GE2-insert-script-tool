@@ -1,0 +1,96 @@
+NAMA:event_scr_text
+ENCODING:UTF-8
+CRLF:\n
+ID:
+TYPE:
+JUMLAH_STRING:0034
+===============================================================
+[00000272:00000512:00002015:00066133:00000250:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Selanjutnya, meskipun status operasi dari istilah ini ... 
+...
+---------------------------------------------------------
+Ngomong-ngomong, Nana, kau mengatakan sesuatu ke Dr. 
+Rachel?
+---------------------------------------------------------
+Ya, sedikit, secara teratur ... ...
+---------------------------------------------------------
+Ah ... ...
+---------------------------------------------------------
+Makarel .....
+---------------------------------------------------------
+Nana ...? Apakah kau baik-baik saja?
+---------------------------------------------------------
+... ... Nana! Apa? Hei, bertahanlah! !
+---------------------------------------------------------
+Nana, enak tidak?
+---------------------------------------------------------
+Ini enak! Nana, aku orang yang paling bahagia saat makan!
+---------------------------------------------------------
+Ketika Nana sedang bahagia, ibu juga ikut bahagia
+---------------------------------------------------------
+Ibu, akan pergi keluar dulu. Kau berjanji, bisakah kau 
+menunggu?
+---------------------------------------------------------
+Ya Jangan menangis! Aku tidak akan marah! Saat aku kesepian, 
+aku makan roti gandum!
+---------------------------------------------------------
+Ya, Nana benar-benar menepati janji anak yang baik, harap 
+tunggu
+---------------------------------------------------------
+ya
+---------------------------------------------------------
+Oh, Wakil Kapten ... ... Ciel ... ...
+---------------------------------------------------------
+aku mengerti ... ... aku pingsan, ... ...
+---------------------------------------------------------
+aku mengalami mimpi yang sangat buruk, saat melihatnya 
+...
+---------------------------------------------------------
+Ibuku ... ... mati berdarah-darah .....
+---------------------------------------------------------
+kamu sebaiknya istirahatlah dulu?
+---------------------------------------------------------
+Ya ... aku mengerti ... Terima kasih, Ciel
+---------------------------------------------------------
+Ibuku meninggal dan aku di rawat oleh Profesor Rachel, aku 
+sangat kecil, karena aky masih kecil.
+---------------------------------------------------------
+Aku agak lupa, tapi .....
+---------------------------------------------------------
+Aku tinggal dengan ibuku di pegunungan di suatu tempat ... 
+Itu sering turun salju .....
+---------------------------------------------------------
+tidak begitu banyak pemduduk disana oh yaa...Ibuku juga, 
+adalah Seorang God Eater
+---------------------------------------------------------
+Jangan menangis! Aku tidak akan marah! Saat aku kesepian, 
+aku makan roti gandum! ..... itulah janjiku dengan ibuku
+---------------------------------------------------------
+Ketika aku lapar, aku tidak terlalu kesepian ... dan juga, 
+ketika makan banyak roti Oden, ibuku akan senang!
+---------------------------------------------------------
+Fuutsu
+---------------------------------------------------------
+Fuhuhuhu
+---------------------------------------------------------
+Jadi ... ... Saat kau makan roti gandum, ingat ibumu ... ... 
+akan merasa bahagia ... ...
+---------------------------------------------------------
+Baiklah, baiklah!
+---------------------------------------------------------
+Terima kasih untuk kalian berdua! Jika aku membicarakan 
+sesuatu aku menjadi,sangat lapar!
+---------------------------------------------------------
+Tolong jangan mencoba terlalu banyak pikiran Akan lebih baik 
+bagimu untuk melihat Profesor Rachel sekali lagi.
+---------------------------------------------------------
+Tidak apa-apa! Setelah makan nasi, aku akan pergi ke tempat 
+profesor Rachel!
+---------------------------------------------------------
+Yah, aku tidur dengan nyenyak ~
+---------------------------------------------------------

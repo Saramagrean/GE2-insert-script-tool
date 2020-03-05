@@ -1,0 +1,72 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0022
+===============================================================
+[00000224:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Licca
+---------------------------------------------------------
+Hey, Kau dari Blood, kan?<@>
+---------------------------------------------------------
+Aku dengar kau ingin memberikanku sebuah purwarupa jika kau
+mengenaiku
+---------------------------------------------------------
+Link Support atau sebagainya, apa iti?
+---------------------------------------------------------
+A ha ha! Kau pasti mendengarnya dari Damian<@>
+---------------------------------------------------------
+Kalau begitu, Aku akan memberimu purwarupa Link Support
+Device nanti<@>
+---------------------------------------------------------
+Tapi, ada beberapa hal yang harus kau ingat<@>
+---------------------------------------------------------
+Purwarupa berarti masih dalam tahap uji coba jadi tak ada
+yang menjamin performanya...Ingat itu<@>
+---------------------------------------------------------
+Juga, Aku juga ingin meminta bantuanmu dalam pengembangan
+purwarupa layaknya percobaan lainnya seperti mengisi data,
+dan menyediakan materials yang dibutuhkan<@>
+---------------------------------------------------------
+Dengan kata lain, apakah aku seperti marmut?...
+---------------------------------------------------------
+Tidakkah aku terlihat seperti Pilot uji coba?
+---------------------------------------------------------
+Baiklah, Aku akan menjelaskannya<@>
+---------------------------------------------------------
+Apa yang aku ingin ujikan padamu kali ini adalah new-type
+Link Support Device...<@>
+---------------------------------------------------------
+Link Support Device yang sekarang menutup fungsi God Arc ,
+jadi yang lainnya menjadi cadangan jika yang lainnya berada
+dalam pertempuran<@>
+---------------------------------------------------------
+Tetapi purwarupa yang diberikan padamu bisa melakukan fungsi
+Link Support Device tanpa menghilangkan performa God Arc
+yang biasanya!<@>
+---------------------------------------------------------
+Maksudku, secara teori, itu akan menjadi yang
+terbaik...<@>
+---------------------------------------------------------
+Terima kasih telah memkai God Arc dengan Link Support Device
+ketika kau berada di helikopter<@>
+---------------------------------------------------------
+Okay, Ayo pergi<@>
+---------------------------------------------------------
+Kita tidak terburu-buru, kapan saja bisa Katakan padaku
+nanti saat kau sudah merasa nyaman<@>
+---------------------------------------------------------
+Terdengar seperti aku memiliki reputasi buruk... Bukan
+berarti aku aku melakukan percobaan padamu, jadi jangan
+khawatir<@>
+---------------------------------------------------------
+Untuk sekarang...<@>
+---------------------------------------------------------
+Yeah, seperti itu!<@>
+---------------------------------------------------------

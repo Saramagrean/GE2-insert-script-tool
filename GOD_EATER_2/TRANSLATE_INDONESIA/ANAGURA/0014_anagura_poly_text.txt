@@ -1,0 +1,526 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0206
+===============================================================
+[00000960:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+Dengan otoritas saat ini,
+aku tidak bisa masuk
+---------------------------------------------------------
+Fran
+---------------------------------------------------------
+Terima kasih atas pekerjaan mu.
+Apakah ada yang kau butuhkan ?
+---------------------------------------------------------
+Kami bekerja sama dengan "Ashihara Yuno"-Sama untuk kegiatan Fenrir
+di pertemuan itu<@>
+---------------------------------------------------------
+Romeo
+---------------------------------------------------------
+He- hei ....
+Ano... Tapi-.. , ahh maaf , bukan apa-apa 
+---------------------------------------------------------
+Romeo, sejak aku melihat Yuno-sama, aku sudah berada dalam keadaan itu cukup lama
+aku berharap itu tidak akan mengganggu tugas ku.
+---------------------------------------------------------
+Untuk menerima pesanan
+---------------------------------------------------------
+Kenapa Seorang penyanyi ada di Friar?
+---------------------------------------------------------
+Sampai bertemu lagi
+---------------------------------------------------------
+Tentu saja
+Harap jangan ragu untuk memberi tahu kami kapan kau membutuhkannya
+---------------------------------------------------------
+Misi baru telah dikeluarkan untuk anggota Blood
+Apakah kau siap? 
+---------------------------------------------------------
+Silakan ganti peralatan dll. Di terminal
+Kau juga dapat menggunakan material yang dikumpulkan untuk memperkuat mesin Jinki
+---------------------------------------------------------
+Grem
+---------------------------------------------------------
+Ada masalah apa?
+Sekarang, kembalilah ke tempat!
+---------------------------------------------------------
+Julius
+---------------------------------------------------------
+aku rasa kau terbiasa bertarung ...
+Ini mungkin waktu yang tepat untuk menjelaskan secara detail cara menangani barel
+---------------------------------------------------------
+Mari kita atur berikutnya ... 
+Apakah ada yang ingin kau tanyakan?
+---------------------------------------------------------
+Aku mengerti ... aku berharap untuk segera kembali lagi.
+---------------------------------------------------------
+Hal-hal dasar
+---------------------------------------------------------
+Tentang "taktik"
+---------------------------------------------------------
+Tidak juga
+---------------------------------------------------------
+Untuk melawan Aragami, tidak hanya menguasai "seni bertarung" dalam menggunakan Jinki,
+Namun juga harus cekatan dalam mengatur
+"Taktik" agar memahami posisi musuh dan unit komando , ini sangat penting
+---------------------------------------------------------
+Itu benar .. Dasarnya Sangat berbahaya bertarung dengan banyak musuh dari depan
+---------------------------------------------------------
+Sebelum musuh di lapangan bergabung dengan kelompok mereka,
+pastikan kau menghancurkannya satu demi satu ...
+---------------------------------------------------------
+Setiap mengalahkan Aragami membutuhkan kecerdikan agar tidak ditemukan musuh.
+Misalnya, "Zygote" yang sangat baik dalam penglihatan ia mampu memanggil kawanan nya jika
+kau menemukannya di sini
+---------------------------------------------------------
+Lalu, apakah kau bertarung di tempat yang terdapat  Zygote?
+Memilih untuk menghancurkan Zygote terlebih dahulu adalah kuncinya
+---------------------------------------------------------
+Untuk menghancurkan musuh yang terisolasi "di mana-mana"
+Untuk alasan itu, pertimbangkanlah tempat untuk bertarung dan perintah untuk dikalahkan ... OK?
+---------------------------------------------------------
+Dasar-dasar teknik pertempuran adalah "intersection" dan "look closely at enemy movements"
+Ini melibatkan segalanya, seperti pemotongan, penembakan dan penghindaran
+---------------------------------------------------------
+Di masa damai, periksa musuh dalam database
+Berdasarkan kompatibilitas antara musuh dan senjata, kau dapat memilih peralatan
+---------------------------------------------------------
+Apa yang penting dalam pertarungan sebenarnya?
+---------------------------------------------------------
+Katakan padaku taktik spesifik 
+---------------------------------------------------------
+Katakan padaku soal menghindar saat bertarung
+---------------------------------------------------------
+Aku ingin mendengar hal-hal lain
+---------------------------------------------------------
+Pertama-tama, untuk menguasai "Basic way of fighting" dengan kuat
+Lihatlah pergerakan musuh, gunakan pertempuran jarak dekat, menembak,
+pertahankan waktu mu dengan benar.
+---------------------------------------------------------
+Sebelum memulai pertarungan, kau harus berpikir tentang "atribut" yang digunakan musuh dan memilih
+mesin Jinki yang Cocok . Cukup dengan menyerang bagian "atribut"  yang merupakan kelemahan musuh,
+pertarungan akan menguntungkan mu
+---------------------------------------------------------
+Juga penting untuk membidik dengan memilih "atribut" "Barrett" yang sesuai
+"Barrett" dapat disesuaikan, tapi ... mari kita jelaskan
+---------------------------------------------------------
+Semangat mu yang seperti itu sangat dihargai ...
+"Blood Awakening" diperlukan untuk menguasai "Blood Arts"
+---------------------------------------------------------
+Jika kau meningkatkan diri mu sendiri dalam pertempuran, baik "kekuatan Blood" bangunlah
+kepercayaan itu, untuk masa depan ...
+---------------------------------------------------------
+Jinki, yang merupakan Aragami buatan, terbuat dari bahan yang disebut "inti komposit"
+Itu dapat berkembang menjadi hal-hal dengan karakteristik yang berbeda ... 
+"strengthen the god machine"
+---------------------------------------------------------
+"Komposit inti" dapat dibuat dari "sintesis" cek lah di terminal
+Kau harus mencobanya.
+---------------------------------------------------------
+Bagaimana menjadi lebih kuat?
+---------------------------------------------------------
+Aku ingin belajar Blood Arts segera.
+---------------------------------------------------------
+Aku menginginkan mesin yang lebih kuat
+---------------------------------------------------------
+Rea
+---------------------------------------------------------
+Anak-anak yang menarik ......
+kau ingin melihat nya Tuan Yuno ?
+---------------------------------------------------------
+…fufufu
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Apakah kamu tidak bertemu Yuno? Seperti yang diduga!
+dapat diprediksi bahwa itu akan mengecewakan!
+---------------------------------------------------------
+Saat aku melihat Romeo-senpai ... ...
+Entah bagaimana, aku merasa percaya diri ..!
+---------------------------------------------------------
+Ano...? Apakah kau akan ke Kantor Direktur?
+aku baik-baik saja, aku akan menahan diri.
+---------------------------------------------------------
+Dr.Rachel
+---------------------------------------------------------
+Aku harap kalian mampu membawa perdamaian di dunia luar
+.<@>
+---------------------------------------------------------
+Aku sangat senang bahwa aku dapat menyaksikan pertumbuhan Anggota Blood...
+Tolong lakukan yang terbaik
+---------------------------------------------------------
+Petugas Friar
+---------------------------------------------------------
+Tidak mungkin, Yuno akan datang ke Friar ? ... ...
+Sangat menakjubkan
+---------------------------------------------------------
+Kau tidak tahu? Ia adalah penyanyi kelas dunia dari Far East
+Fenrir pun termasuk penggemar nya
+---------------------------------------------------------
+Sial! Ini akan menjadi masalah besar jika ditanyakan?
+Aku mengerti perasaan mu……
+---------------------------------------------------------
+Tapi kau tau ?... ketika kau berpikir sebaliknya
+Kepribadian itu membuat hal-hal yang harus diselesaikan, bukan?
+---------------------------------------------------------
+Tanpa direktur Grem, Friar dan Blood tidak akan ada di sana
+Nah, orang-orang tentu sangat menyukai nya
+---------------------------------------------------------
+Oh, itu adalah kakak Dr. Rachel, yang merupakan tipe pengontrol "pengembang senjata mesin Jinki"
+yang berawak Ketika tidak ada direktur Grem, dia juga bertindak sebagai direktur
+---------------------------------------------------------
+Oh.. sampai ketemu lg 
+---------------------------------------------------------
+Yuno itu terkenal?
+---------------------------------------------------------
+Rasanya seperti direktur Grem ……
+---------------------------------------------------------
+Siapa Dr. Rea? ia berasal dari mana?
+---------------------------------------------------------
+Aku harus pergi sekarang
+---------------------------------------------------------
+Petugas Friar
+---------------------------------------------------------
+Ada hal-hal yang tidak bisa dilakukan hanya dengan keterampilan
+Jika Aragami semakin kuat, Kau juga harus memperkuat mesin Jinki mu!
+---------------------------------------------------------
+Romeo
+---------------------------------------------------------
+Kana, ada hal semacam itu!
+Aku akan pergi menemui direktur Grem ……
+---------------------------------------------------------
+……Baiklah, aku sudah meninjau nya
+Aku akan masuk ke ruangan direktur GREEM itu dengan bangga!!!
+---------------------------------------------------------
+Aaa?
+Aku sedang berpikir beberapa saat yang lalu …
+---------------------------------------------------------
+Mari kita pergi melihat Yuno!
+Sekarang kau harus berada di ruangan GREEM!
+---------------------------------------------------------
+Jangan katakan itu!
+Waktu yang kau pikirkan juga terbuang sia-sia, bukan?
+---------------------------------------------------------
+Itu benar, OK, ini adalah latihan untuk menghubungkan misi!
+kau akan mengejutkan Kantor Direktur dan menerima izin dari Grem untuk memasuki ruangan
+---------------------------------------------------------
+Ketika izin masuk dan keluar, aku akan segera bergegas!
+...... aku telah melihatnya sampai saat itu, aku selalu bertanya-bertanya!!
+---------------------------------------------------------
+Aku memikirkannya.
+---------------------------------------------------------
+Yah, bolehkah aku pergi ... 
+---------------------------------------------------------
+Apa? aku lupa isi dari strategi! Apa?
+Itu tidak bisa ditolong ... seperti yang aku katakan lagi, Pukul lah kepalaku!
+---------------------------------------------------------
+Ini adalah latihan hubungan misi!
+kau akan pergi ke Kantor Direktur dan menerima izin dari Grem untuk memasuki ruangan
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Semua ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti majalah mode atau katalog
+Aku tidak tahu karena semuanya ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti file teks
+aku tidak bisa melihatnya karena terkunci<@>
+---------------------------------------------------------
+Модный　журнал
+---------------------------------------------------------
+Дневник
+---------------------------------------------------------
+Berhenti mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Aku tidak melakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Tonton arsipnya
+---------------------------------------------------------
+Aku tidak melakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Ada banyak taktik terkait file<@>
+---------------------------------------------------------
+"Signal Bullet" mengacu pada item yang digunakan untuk memberikan instruksi kepada kawan dalam misi<@>
+---------------------------------------------------------
+Kisaran pengaruh "Bullet signal" ada dua jenis "Wide area signals" dan "Narrow Range signal"<@>
+---------------------------------------------------------
+"Wide area signal" untuk semua anggota yang berpartisipasi dalam misi
+"Narrow area signal" hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+Ada 4 jenis "Bullet Signal" yang bisa digunakan<@>
+---------------------------------------------------------
+"Wide-area Signal: all hands set", "Narrow-Band Signal: Menunggu penyebaran,"
+"narrow-band signal: Mencari serangan musuh," "narrow-band signal: Set"<@>
+---------------------------------------------------------
+Untuk informasi rinci tentang masing-masing signal, lihat lah di "Database"<@>
+---------------------------------------------------------
+"Control Unit" diaktifkan dengan "Burst Skill"<@>
+---------------------------------------------------------
+"Burst skill" menunjukkan efeknya hanya selama Mode Burst
+Ini adalah keterampilan khusus<@>
+---------------------------------------------------------
+Juga tergantung pada "control unit" dan skill yang terpasang didalamnya maka Title akan berubah<@>
+---------------------------------------------------------
+Aku tidak bisa membukanya karena aku tidak punya izin<@>
+---------------------------------------------------------
+Senior tactical guidance: signal bullet
+---------------------------------------------------------
+Advanced tactical guidance: Control unit
+---------------------------------------------------------
+ＮＯ　ＮＡＭＥ
+---------------------------------------------------------
+Berhenti mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+File-file tersebut diatur
+Sehingga sangat mudah untuk dilihat<@>
+---------------------------------------------------------
+Dengan "Avatar Card" bertukar dengan "avatar"
+agar Character teman dapat berpartisipasi secara offline dalam misi kapan saja<@>
+---------------------------------------------------------
+Ada dua cara untuk bertukar "Avatar Card"
+Salah satu caranya adalah secara manual yaitu bertukar di "Multiplayer"<@>
+---------------------------------------------------------
+Cara lainnya adalah "exchange of passing cards"
+Hingga 3 kartu dapat ditukar sekaligus<@>
+---------------------------------------------------------
+"Avatar card" dapat diperbarui dengan bertukar dengan lawan yang sama
+Dengan melakukan "Multiplayer" atau "Exchange redemption"<@>
+---------------------------------------------------------
+Sebagai imbalan karena menyelesaikan tugas<dengan anggota lain
+"Material avatar" bisa diambil<@>
+---------------------------------------------------------
+Bullet memo<@>
+---------------------------------------------------------
+"Rebounding bullet" adalah peluru yang memiliki efek mengembalikan kekuatan fisik mu
+Namun, itu tidak berhasil untuk orang yang menembak kan nya sendiri<@>
+---------------------------------------------------------
+Untuk Bullet dengan sifat yang sangat istimewa
+penggunaan God arc terbatas<@>
+---------------------------------------------------------
+Terdapat foto Tsubaki dan Lindow
+berama Sakuya di sisi nya<@>
+---------------------------------------------------------
+Yang lainnya adalah foto yang relatif baru<@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Bullet
+---------------------------------------------------------
+Sebuah foto
+---------------------------------------------------------
+Berhenti mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+Layar rusak dan sulit dilihat<@>
+---------------------------------------------------------
+Apa yang kau lihat?<@>
+---------------------------------------------------------
+Setiap file terkunci
+aku tidak bisa melihatnya<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Damian
+---------------------------------------------------------
+Kali ini tentang "Blade Type"
+aku akan memberi tahu apa pun yang ingin kau dengar!
+---------------------------------------------------------
+Namun, ada juga batasan untuk menjelaskan di sini
+Nah... jika kau ingin tau secara rinci nya "basis data" akan sangat berguna
+---------------------------------------------------------
+Jika kau ingin tahu detail seperti cara menggunakan dan teknik
+kau harus memeriksa "database", itu pasti akan berguna
+---------------------------------------------------------
+Lain waktu aku akan menjelaskan "Pole" type
+Jika kau tertarik ,kau dapat datang dan mendengarkan kapan saja.
+---------------------------------------------------------
+Tentang jenis "blade"
+---------------------------------------------------------
+Aku ingin mengulas
+---------------------------------------------------------
+Katakan padaku bagaimana cara menggunakannya secara detail
+---------------------------------------------------------
+Aku akan segera menemuimu
+---------------------------------------------------------
+Jinki dapat berganti gaya bertarung dengan jarak pendek dan jarak jauh ... ...
+Yah, seharusnya ini sudah diajarkan dalam pelatihan dasar
+---------------------------------------------------------
+Meski begitu, tergantung apakah kau dapat berhasil menggunakan senjata jarak dekat,
+Probabilitas keberhasilan misi bisa sangat berubah
+---------------------------------------------------------
+Pertama-tama, cobalah berbagai hal Jika kau menemukan senjata jarak dekat yang cocok dengan mu,
+efisiensi pertempuran harus jauh lebih tinggi
+---------------------------------------------------------
+Pertama-tama, senjata jarak dekat adalah jenis "Blade" dan "Pole"
+Ini dibagi menjadi dua jenis
+---------------------------------------------------------
+Tiga jenis senjata jarak dekat diklasifikasikan sebagai "Blade"
+Ada dua jenis senjata kedekatan yang diklasifikasikan sebagai type "Pole" 
+---------------------------------------------------------
+Kali ini aku akan memberi tahu mu tentang dasar "Blade" type
+---------------------------------------------------------
+Kiat bertarung?
+---------------------------------------------------------
+Apa itu senjata jarak dekat?
+---------------------------------------------------------
+Aku ingin mendengar hal lain
+---------------------------------------------------------
+Senjata yang dapat menyerang dengan satu tangan dan pergerakkan gerak kaki
+Itulah "short" Blade!
+---------------------------------------------------------
+Tampaknya itu senjata sederhana, tapi itulah sebabnya .
+Mungkin ada metode menyerang yang belum kau ketahui
+---------------------------------------------------------
+Disarankan bagi mereka yang lebih memilih "taktik hit & away" di garis depan
+Potong, tikam dan Menghindar! 
+---------------------------------------------------------
+ia juga memiliki fitur "kau bisa melangkah di udara"
+Menari dalam acrobat juga merupakan kesenangan Tersendiri.
+---------------------------------------------------------
+Bukan hanya untuk memotong tetapi ia juga memiliki atribut "penetation"
+---------------------------------------------------------
+Tapi hati-hati dengan "stamina"! dapat membuat mu Sesak napas dengan segera
+.
+---------------------------------------------------------
+Apa itu "Short" Blade ?
+---------------------------------------------------------
+Seperti apa yang akan kau rekomendasikan?
+---------------------------------------------------------
+Katakan padaku rahasianya
+---------------------------------------------------------
+Kekuasaan, jangkauan dan mobilitas Itu lah "Long" Blade!
+---------------------------------------------------------
+Kau bisa masuk dan menyerang
+Itu adalah Blade yang seimbang.
+---------------------------------------------------------
+Aku merekomendasikan bagi yang ingin memutuskan serangan terus menerus dengan brilian
+---------------------------------------------------------
+Serangan terus menerus dengan "Zero Stance" dengan mengembalikan pisau sebagai Shakien!
+Sampai akhirnya, satu sisi impuls dilepaskan!
+---------------------------------------------------------
+Bagaimana menggabungkan "impuls edge" ke dalam serangan
+Itu akan sangat penting
+---------------------------------------------------------
+Dari tabung yang disimpan, kau dapat menembakkan bidikan kuat
+Ini adalah fitur istimewa "long" Blade.
+---------------------------------------------------------
+Apa itu "Long" Blade ?
+---------------------------------------------------------
+Dibandingkan dengan pisau lain nya, inilah yang paling Berat, tetapi dengan style dan dilihat dari
+manfaatnya ini adalah blade yang bagus yaitu "buster"
+---------------------------------------------------------
+Itu juga bagus untuk memiliki atribut "Crush"
+---------------------------------------------------------
+Disarankan untuk orang "yang melihat pergerakan musuh dengan tegas"
+Bergerak dengan tenang dan berani
+---------------------------------------------------------
+"Charge crash" yang memberikan kerusakan berat
+Jika ada kemungkinan seperti itu , ada kemungkinan itu tidak bisa ditangani dengan benar
+---------------------------------------------------------
+"Paring Upper"
+Defend yang cepat untuk "penjagaan tingkat lanjut" ...…
+---------------------------------------------------------
+Meskipun gerakannya lambat, ia memiliki pertahanan yang cepat untuk menahan serangan lawan
+Ini adalah fitur besar "Buster"!
+---------------------------------------------------------
+Apa itu "Buster" Blade?
+---------------------------------------------------------
+Bagaimanapun itu adalah senjata berat dan lambat .... Mungkin memang berat,
+tapi itu adalah penampilan pertama nya saja
+---------------------------------------------------------
+Jika kau melakukan "boost start", kau akan dihajar dengan kecepatan ultra tinggi!
+Kecepatannya cukup mengejutkan
+---------------------------------------------------------
+aku akan merekomendasikan "bagi yang ingin mengalah hanya dengan Kekuatan pukulan sangat besar,
+yang dihajar oleh "dorongan awal" dengan sangat mengesankan
+---------------------------------------------------------
+Namun, "boost start" dapat mengkonsumsi stamina yang intens
+Apakah itu bisa digunakan dengan baik atau tidak akan menjadi kuncinya
+---------------------------------------------------------
+Serangan bootstroke dari "boost start" "increase rush"
+Rush berhembus dari 'Boost Start' 'Boost Drive'
+---------------------------------------------------------
+Teknik big impact "BOOST IMPACT" terhubung dari keduanya
+kau dapat membuat kerusakan besar jika kau menggunakannya dengan baik!
+---------------------------------------------------------
+Apa itu "boost Hammer"?
+---------------------------------------------------------
+Pedang yang bisa menyerang dengan mobilitas dan daya tembus, itu adalah "Charge Spear"!
+Seperti namanya, itu memiliki "penetration" atribut 
+---------------------------------------------------------
+Disarankan bagi mereka yang lebih memilih "taktik hit & away" di garis depan
+Apakah terdengar singkat? Ha ha ha, jangan bodoh!
+---------------------------------------------------------
+Saat melakukan "Charging glide"  kau dapat melepas nya di tanah atau udara, dan nyaman untuk dihindari
+"Back flip" 
+---------------------------------------------------------
+Serangan kombo terus menerus setelah melakukan "charge glide" kau harus lihat!
+Kekuatan serangan akan meningkat setelah ujung tombak terbuka.
+---------------------------------------------------------
+hit, Combo and away, pasti nya mempertajam kekuatan fisik
+Jika kau bisa menggunakannya , pertempuran bisa berjalan dengan baik
+---------------------------------------------------------
+Apa itu "Charge Spear"?
+---------------------------------------------------------
+Tentang "Short" Blade
+---------------------------------------------------------
+Tentang "Long" Blade
+---------------------------------------------------------
+Tentang "Buster" Blade
+---------------------------------------------------------
+Tentang "Buster Hammer"
+---------------------------------------------------------
+Tentang "Charge Spear"
+---------------------------------------------------------
+"Blade" type
+---------------------------------------------------------
+"Pole" type
+---------------------------------------------------------
+Aku ingin mendengar penjelasan pertama
+---------------------------------------------------------

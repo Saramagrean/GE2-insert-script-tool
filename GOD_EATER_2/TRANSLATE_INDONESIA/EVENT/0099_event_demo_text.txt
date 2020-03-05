@@ -1,0 +1,59 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0018
+===============================================================
+[00000208:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Emil
+---------------------------------------------------------
+ah tidak, maaf, air mataku tak bisa berhenti.<@>
+---------------------------------------------------------
+Rivalmu ada di depanmu, tapi ini menyedihkan saat aku ingin 
+kau memaafkanku ... <bd> gatauk deh <@>
+---------------------------------------------------------
+kau tahu, ada orang tua yang ngomong kaya gini..."Bahkan 
+Emil bisa nangid"<@>
+---------------------------------------------------------
+gaada yang bilang gitu
+---------------------------------------------------------
+Biasanya, aku ingat ini datang ke Far East Branch< tiap 
+hari@>
+---------------------------------------------------------
+Saat ini semua hal jadi langka, yang bisa kau temukan di Far 
+East Branch bersinar terang, aku akan berjuang untuk 
+mendapatkannya
+---------------------------------------------------------
+ya, lalu aku bertemu dengannya
+---------------------------------------------------------
+"sushi" <@>
+---------------------------------------------------------
+Aku suka itu
+---------------------------------------------------------
+Apakah itu tak apa?
+---------------------------------------------------------
+Apakah kau tak bisa membuat sushi?
+---------------------------------------------------------
+Oh tidak, maaf, pilihan kataku buruk, tak ada yang salah 
+pada sushi itu sendiri, itu jenis makanan yang hebat<@>
+---------------------------------------------------------
+Walaupun, kau tak boleh lengah dihadapan Setan Jahat 
+didalamnya... namanya...<@>
+---------------------------------------------------------
+"Wasabi"<@>
+---------------------------------------------------------
+Aku sadar aromanya diperhalus, tapi dari ingatanku sendiri, 
+itu membuat mataku menangis!<@>
+---------------------------------------------------------
+Lalu hari ini, seperti merespon apa yang kurasakan, 
+Polarstein bergetar ...!<@>
+---------------------------------------------------------
+A-apakah kau akan menangis tersedu bersamaku, oh Polarstein 
+senjata kesayanganku...!<@>
+---------------------------------------------------------

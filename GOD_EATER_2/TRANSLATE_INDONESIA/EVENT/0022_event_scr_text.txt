@@ -1,0 +1,33 @@
+NAMA:event_scr_text
+ENCODING:UTF-8
+CRLF:\n
+ID:
+TYPE:
+JUMLAH_STRING:0008
+===============================================================
+[00000168:00000512:00002015:00066133:00000250:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+ Apa?
+---------------------------------------------------------
+Aragami menginvasi area perumahan! Tim pertahanan mundur ke 
+garis pertahanan 3 sampai tim lain dan pasukan Blood 
+kembali
+---------------------------------------------------------
+Bisakah kau mendengarku, Nana! Apa kau baik?
+---------------------------------------------------------
+Dr Sakaki! Apakah ini mungkin ... ...karena kesalahanku?
+---------------------------------------------------------
+Tidak, kujelaskan jelaskan bahwa itu adalah invasi dari 
+dinding luar keenam yang sudah tua
+---------------------------------------------------------
+Tapi Nana, kau dalam bahaya aku ingin kau menunggu di sana 
+jadi janganlah pergi ke medan perang
+---------------------------------------------------------
+ya, aku mengerti ... ...
+---------------------------------------------------------
+Baiklah, aku akan ke sana lagi nanti
+---------------------------------------------------------

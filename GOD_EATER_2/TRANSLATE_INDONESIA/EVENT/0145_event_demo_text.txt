@@ -1,0 +1,60 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0018
+===============================================================
+[00000208:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Canon
+---------------------------------------------------------
+Kalau begitu, untuk wawancara hari ini, Aku akan
+mempertimbangkan bekerja denganmu!<@>
+---------------------------------------------------------
+Tentang itu, apakah ada yang mengganggumu?
+---------------------------------------------------------
+Jadi, apa yang ingin kau tanyakan?
+---------------------------------------------------------
+Oh, tentu... Kau mengerti...<@>
+---------------------------------------------------------
+Aku tidak tahu apa yang ingin kutanyakan!<@>
+---------------------------------------------------------
+Ah! Aku tidak bermaksud seperti itu!<@>
+---------------------------------------------------------
+Untuk beberapa alasan, catatan bertarungku terbilang buruk
+walaupun aku memberikan semua yang kupunya, tetapi tidak ada
+perubahan sama sekali<@>
+---------------------------------------------------------
+Tetapi bahkan Aku tidak bisa mengatakan apa yang salah Aku
+bertanya-tanya jika aku tidak cocok dengan pekerjaan
+ini...<@>
+---------------------------------------------------------
+Jadi kau tahu cenderung mengalami kegagalan...?
+---------------------------------------------------------
+Bidik musuh dengan baik
+---------------------------------------------------------
+Tentu skill menembakku tidak terlalu bagus Aku menyadari
+skill tidak lebih ataupun kurang<@>
+---------------------------------------------------------
+Ketepatanku sangat buruk Teman setimku berada di lajur
+tembak, kemudian Aragami bergerak dengan keinginannya
+sendiri...! <@>
+---------------------------------------------------------
+Tidak, ini bukan soal ketepatanmu...
+---------------------------------------------------------
+Tentu saja Aragami akan bergerak sesuai dengan
+kemauannya...
+---------------------------------------------------------
+Yeah, Aku mengerti<@>
+---------------------------------------------------------
+Dengan kata lain, kau mengatakan padaku untuk bidik dengan
+hati2 sebelum menembak, Aku hanya harus kembali ke dasar,
+seperti seberapa baik tidur membawa anak, seperti itu!?<@>
+---------------------------------------------------------
+Aku telah belajar banyak! Terima kasih! <@>
+---------------------------------------------------------

@@ -1,0 +1,87 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0028
+===============================================================
+[00000248:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Emile
+---------------------------------------------------------
+Hey, kita bahkan berhasil bertahan hidup hari ini.<@>
+---------------------------------------------------------
+Terima kasih atas kerja kerasmu.
+---------------------------------------------------------
+Makasih Emil
+---------------------------------------------------------
+Apa, ucapanmu sia-sia kalo untukku, lagipula ini semua 
+berkat kamu<@>
+---------------------------------------------------------
+Bahkan sejak aku dihajar olehmu hari itu, kekuatan misterius 
+muncul dari diriku yang terdalam<@>
+---------------------------------------------------------
+Mungkin ini "Blood Arts"... oni mungkin kekuatan dari 
+"Awakening" mu yang tersalurkan padaku<@>
+---------------------------------------------------------
+Aku bisa ucapkan Polarstein ku berterima kasih juga padamu, 
+sekarang aku dapat kekuatan baru untuk melindungi 
+orang-orang<@>
+---------------------------------------------------------
+Polarstein?
+---------------------------------------------------------
+Apa maksudmu?
+---------------------------------------------------------
+Ah, Polarstein adalah nama God Arc<@>
+---------------------------------------------------------
+Walaupun mereka awalnya Aragami, God Arc adalah kawan kita, 
+memberi nama juga apa salahnya ya kan? <@>
+---------------------------------------------------------
+Tentang asal usul namanya... ntar kukasih tau deh, gatau 
+kapan<@>
+---------------------------------------------------------
+Balik ke topik, kita sudah menemukan sesuatu yang penting 
+tentang "Blood Arts"<@>
+---------------------------------------------------------
+Aku sadar ketika dalam misi, tapi saat aku mencobanya di 
+Ruang Training untuk memastikannya, tubuhku 
+bergetarrrr...
+---------------------------------------------------------
+Dadaku tak bisa menahan rahasia ini lebih lama dari 
+kalian<@>
+---------------------------------------------------------
+yaudah ngomong, bacod
+---------------------------------------------------------
+Ntar deh kapan-kapan ngomongnya
+---------------------------------------------------------
+ketika memakai "Blood Arts",akan ada cahaya muncul dari 
+God Arc dan tubuh <@>
+---------------------------------------------------------
+Cahaya itu...nyata kan? <@>
+---------------------------------------------------------
+Sekitar satu jam setelah minum Teh Hitam, kau akan lebih 
+ceria dari biasanya!<@>
+---------------------------------------------------------
+Bagaimana menurutmu? mengejutkan kan?<@>
+---------------------------------------------------------
+Energi dari Blood Arts adalah dari "Kekuatan Blood"... 
+itu hal yang menarik ketika buktinya muncul dari diri kita 
+sendiri
+---------------------------------------------------------
+Btw kekuatan dan jaraknya tak punya efek lain jelasnya, alat 
+latihan Far East Branch milik kita sudah 
+membuktikannya<@>
+---------------------------------------------------------
+Okay, aku merasa lebih baik sekarang, terima kasih sudah 
+mendengarkanku<@>
+---------------------------------------------------------
+Yaudah, aku permisi dulu<@>
+---------------------------------------------------------
+Yah, kau harus mendengarkannya lebih teliti.
+---------------------------------------------------------
+Ucapanmu tak seperti biasanya, itu tak muncul lagi?<@>
+---------------------------------------------------------

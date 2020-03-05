@@ -1,0 +1,84 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0027
+===============================================================
+[00000244:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Emil
+---------------------------------------------------------
+Eh anjir, kau masih bisa berdiri!<@>
+---------------------------------------------------------
+O Aragami tak bernama, kekuatanmu sendiri pantas untuk dapat 
+pujianku...<@>
+---------------------------------------------------------
+Walaupun, di hadapan pertarungan dengan temanku kau tidak 
+lebih dari sekadar rintangan untuk dilangkahi<@>
+---------------------------------------------------------
+Makan nih!!<@>
+---------------------------------------------------------
+Jenis Blood Arts terbaru lahir dari Pelatihan 
+Spesialku!<@>
+---------------------------------------------------------
+Datanglah kekuatan yang lahir dari ikatan antara aku dan 
+Polarstern, juga dengan temanku!<@>
+---------------------------------------------------------
+Pergilah! Serangaaaaan Emiiiiiiil!<@>
+---------------------------------------------------------
+Itu benar aku juga berlatih bagaimana caranya memakai God 
+arc dengan baik dan benar kan??
+---------------------------------------------------------
+Sebagai pertarungan kita, ini berlanjut ke awal yang segar 
+mulai sekarang..<@>
+---------------------------------------------------------
+Dan, semua akan sirna dan diingat dalam legenda masa depan 
+sebagai pertarungan legendaris!<@>
+---------------------------------------------------------
+Kau harus menjaga resolusimu...tidak?<@>
+---------------------------------------------------------
+Ada apa... Tanganku, kakiku... Tubuhku, bahkan Anuku, 
+terasa sangat dingin...<@>
+---------------------------------------------------------
+Hmm... itu reaksi dari Blood Arts baru...<@>
+---------------------------------------------------------
+...untuk bertarung bersamamu, sepertinya aku jadi terlalu 
+bersemangat...<@>
+---------------------------------------------------------
+Tapi aku tak menyesal... karena aku telah berkorban 
+semuanya...<@>
+---------------------------------------------------------
+Lihatlah wahai kawan... Itu adalah matahari terbenam yang 
+selalu menjaga kita...<@>
+---------------------------------------------------------
+Bagaimana menurutmu... Bukankah itu indah...<@>
+---------------------------------------------------------
+Emil! Emil!
+---------------------------------------------------------
+Hei... Berhentilah bacod...
+---------------------------------------------------------
+...A-Achoo!<@>
+---------------------------------------------------------
+Ugh, ini pasti karena aku berlatih diluar kemaren malam, aku 
+jadi kena demam gimi<@>
+---------------------------------------------------------
+Walaupun ini bagian dari tugas kita untuk menjaga kesehatan 
+kita sebagai profesional dan panutan yang baik, aku terlalu 
+malu<@>
+---------------------------------------------------------
+Aku akan kembali ke rumah hari ini, waktunya minum secangkir 
+teh hitam diseduh dengan madu<@>
+---------------------------------------------------------
+Tentu saja kau juga kuundang... Owie!<@>
+---------------------------------------------------------
+Apa, apa yang salah? jangan bilang kau tak ingin minum teh 
+denganku karena aku rivalmu!<@>
+---------------------------------------------------------
+Ow, tahan bentar, kau salah! aku tak ingin memakai suasana 
+yang tak enak, nularin demam padamu!<@>
+---------------------------------------------------------

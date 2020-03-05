@@ -1,0 +1,56 @@
+NAMA:event_scr_text
+ENCODING:UTF-8
+CRLF:\n
+ID:
+TYPE:
+JUMLAH_STRING:0018
+===============================================================
+[00000208:00000512:00002015:00066133:00000250:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+ Jika kau berpikir bahwa memanipulasi boneka yang disebut 
+God Machine Soldiers ... ... aku sendiri juga boneka yang 
+dimanipulasi ... ...
+---------------------------------------------------------
+Aku ... ... apa adanya ...
+---------------------------------------------------------
+Apakah kau ingin mati?
+---------------------------------------------------------
+Lagi pula, tidak ada yang berniat mengambil alih Julius?
+---------------------------------------------------------
+Hmm, karena kau mewarisi rumah ini, jika awalnya, apa garis 
+yang kau ambil alih?
+---------------------------------------------------------
+Heck,aku biasanya membanggakan keluarga, aku bangga dengan 
+keluargaku, ketika aku mengalami situasi buruk tentangmu
+---------------------------------------------------------
+kau diam saja!
+---------------------------------------------------------
+... ... Baiklah, mari kita periksa lagi
+---------------------------------------------------------
+Senang bertemu denganmu, Julius
+---------------------------------------------------------
+Apa yang terjadi?
+---------------------------------------------------------
+.... Ayah dan Mamaku meninggal
+---------------------------------------------------------
+Kemudian, berbagai orang datang ... mereka bawanya ... ... 
+Semuanya... ...
+---------------------------------------------------------
+Semua orang menyiksaku dengan buruk ...
+---------------------------------------------------------
+Seperti Aragami ... ...
+---------------------------------------------------------
+Julius, Kau dapat memiliki banyak teman jika kita tinggal 
+bersama mulai besok ... ...
+---------------------------------------------------------
+Kakak ... ... Dale?
+---------------------------------------------------------
+Rachel, Rachel Claudius Mulai dari sekarang aku adalah mama 
+barumu...
+---------------------------------------------------------
+Baiklah .... Aku... ...
+---------------------------------------------------------

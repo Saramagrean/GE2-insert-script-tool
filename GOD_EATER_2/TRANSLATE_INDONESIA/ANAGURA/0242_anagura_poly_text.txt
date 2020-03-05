@@ -1,0 +1,316 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0127
+===============================================================
+[00000644:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+「No entry to enter」
+……Tertulis seperti itu
+---------------------------------------------------------
+
+---------------------------------------------------------
+Tydac dapat mengakses ruangan untuk saat ini
+---------------------------------------------------------
+
+---------------------------------------------------------
+Tydac dapat mengakses ruangan untuk saat ini
+---------------------------------------------------------
+
+---------------------------------------------------------
+Tydac dapat mengakses ruangan untuk saat ini
+---------------------------------------------------------
+Alisa
+---------------------------------------------------------
+akhirnya.. kita akan melawan kyuubi
+aku, merasa gugup
+---------------------------------------------------------
+Lindow
+---------------------------------------------------------
+Hoii Alisa、are you okeh?
+kalem.. kalemm..
+---------------------------------------------------------
+iya iya ah, bcd
+---------------------------------------------------------
+okelah kimak, ikuzo!
+seperti biasanya！
+---------------------------------------------------------
+Calbi
+---------------------------------------------------------
+tetew teteww～
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+Jumlah aragami saat ini terkonfirmasi……
+Perintah diterima, mengatur set awal……
+---------------------------------------------------------
+..ah kapten!
+saatnya baku hantam dengan kyuubi!
+---------------------------------------------------------
+kau, fokus hajar kyuubi!
+aragami yang berkeliaran disekitarnya、biar jadi urusan kami！
+---------------------------------------------------------
+yoi, sip！
+
+---------------------------------------------------------
+……zeeb！
+---------------------------------------------------------
+……ya
+juga, ketika ku dapat perintahnya、sedikit……
+---------------------------------------------------------
+serahkan saja padaku！
+---------------------------------------------------------
+percayalah!
+---------------------------------------------------------
+……kau gugup?
+---------------------------------------------------------
+Emil
+---------------------------------------------------------
+
+tuk masa depan manusia……berusaha melawan ancaman yang tidak diketahui
+tuk melindungi teman ku tercinta……
+---------------------------------------------------------
+……okeh、dirimu sampoernah！
+tak ada yang perlu ditakuti, gelud dan nikmati!
+---------------------------------------------------------
+Gilbert
+---------------------------------------------------------
+setelah ku simak baik-baik, itu aragami gaada bedanya sama yang biasanya
+kayaknya……akan tetapi, jangan lengah!
+---------------------------------------------------------
+Hibari
+---------------------------------------------------------
+informasi keberadaan kyuubi telah dikirim dari tim investigasi
+melaksanakan misi pemusnahan kyuubi, mohon bantuannya!
+---------------------------------------------------------
+ku berdoa tuk keselamatan diri kita
+---------------------------------------------------------
+waktu kita terbatas
+segera ambil misi setelah semuanya siap!
+---------------------------------------------------------
+Kouta
+---------------------------------------------------------
+bersama dengan lindow、dan gelud sama gami kerad
+kedengarannya menarik!
+---------------------------------------------------------
+tidak ada yang perlu dikhawatirkan, kalian semua HEBAD, terutama dirimu!
+Hiduplah dan kembali dengan selamat!
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+akhirnya, dirimu bertempur dan melawan kyuubi
+sumpah, aslinya ku pengen ikut gebuk palanya XD
+---------------------------------------------------------
+tapi itu kerjaan member cradle, bukan kah seperti itu？
+nah、untuk saat ini lebih baik kita percayakan pada mereka!
+---------------------------------------------------------
+kapten, serahkan bagian support ke kami
+bersihkan lane！
+---------------------------------------------------------
+Friar Office
+---------------------------------------------------------
+dalam persiapan menghadapi kyuubi, untuk seluruh staff Friar
+diharapkan untuk dapat mengevakuasi diri
+---------------------------------------------------------
+karena akses FRIAR akan segera ditutup, harap maklum
+---------------------------------------------------------
+Licca
+---------------------------------------------------------
+akhirnya, inilah kesempatan untuk mendapatkan sel oracle langka..
+ku tunggu kabar baik nya！
+---------------------------------------------------------
+Lindow
+---------------------------------------------------------
+Oh, ku telah menunggu！
+tampaknya tim bagian survey baru saja mengalahkan kyuubi
+---------------------------------------------------------
+inilah mengapa, Cradle dan Blood dipersatukan
+yaitu untuk memulai misi ngelawan kyuubi
+
+---------------------------------------------------------
+ikuti saja alurnya bersama kami
+wherever you say, Kimi wo omou kimochi~
+---------------------------------------------------------
+jika sudah siap, silahkan mulai misinya
+---------------------------------------------------------
+Mutsumi
+---------------------------------------------------------
+ku bahagia.. keliatan enak tuh makanan
+entahlah mengapa demikianー？
+---------------------------------------------------------
+ya, itu sebenarnya ide Gilbert..
+dan kebetulan juga cocok buat nana
+---------------------------------------------------------
+Sakaki
+---------------------------------------------------------
+soal kyuubi, dari yang sebelumnya disampaikan
+sudah tidak ada lagi informasi tambahan
+---------------------------------------------------------
+liat saja lah、saya masih menyimak aragami kayak biasa……
+macem-macem sleding palanya, biar guud
+---------------------------------------------------------
+maaf soal infonya yang yaa begitu rumit、tapi inilah caranya melawannya
+kusarankan persiapkan diri, dan bila sudah sleding saja
+---------------------------------------------------------
+Soma
+---------------------------------------------------------
+okelah kimak, tujuan kita ya..
+inti sel kyuubi, kumpulin sel oracle langka
+---------------------------------------------------------
+dan kita kerja lembur bagai quda
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang akan anda lakukan？<@>
+---------------------------------------------------------
+Akses terminal
+---------------------------------------------------------
+Akses File lain
+---------------------------------------------------------
+bapuk bahasa alien, bahasa rusia kali ..<@>
+---------------------------------------------------------
+hmm kek majalah atau katalog..
+yaa tapi mana saya tau, saya kan ayam<@>
+---------------------------------------------------------
+yang ini keliatannya kayak file TXT
+Tapi ku butuh password RAR nya, minta pak basit(?) <@>
+---------------------------------------------------------
+manga ecchi
+---------------------------------------------------------
+buku diary
+---------------------------------------------------------
+Ah sudahlah
+---------------------------------------------------------
+
+---------------------------------------------------------
+apa yang akan anda lakukan?<@>
+---------------------------------------------------------
+Akses Terminal
+---------------------------------------------------------
+Ga ngapa-ngapain
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang akan anda lakukan?<@>
+---------------------------------------------------------
+Akses Terminal
+---------------------------------------------------------
+Akses Berkas
+---------------------------------------------------------
+Ga ngapa-ngapain
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang akan anda lakukan？<@>
+---------------------------------------------------------
+Akses Teminal
+---------------------------------------------------------
+Mengakses File lain
+---------------------------------------------------------
+ada banyak yang terkait soal File<@>
+---------------------------------------------------------
+「LSD」 digunakan untuk bertugas、untuk berkomunikasi
+katakan apa saja yang anda perlukan dalam bentuk instruksi<@>
+---------------------------------------------------------
+「LSD」 Tersedia 2 jenis jangkauan 「sinyal area luas」 dan 「sinyal area sempit」<@>
+---------------------------------------------------------
+「sinyal area luas」 gunakan untuk teriak ke semua member
+「sinyal area sempit」 gunakan buat japri temen terdekat<@>
+---------------------------------------------------------
+ada 4 jenis 「LSD」 yang tersedia<@>
+---------------------------------------------------------
+「area luas：set totalitas」「area sempit：menunggu penyebaran」
+「jangakuan jarak dekat：mencari serangan lawan」「jangkauan area dekat：set」<@>
+---------------------------------------------------------
+untuk rincian lebih jelas buka 「Database」<@>
+---------------------------------------------------------
+「Control Unit」 itu dilengkapi dengan 「busrt skill」<@>
+---------------------------------------------------------
+「Burst Skill」 hanya aktif saat ente dalam keadaan burst
+amazing bukan?<@>
+---------------------------------------------------------
+dan, 「Control Unit」 beserta skill di dalemnya
+semua berubah mengikuti situasi kondisi<@>
+---------------------------------------------------------
+tak dapat dibuka tanpa ijin pak basit<@>
+---------------------------------------------------------
+paduan kelas senior：LSD
+---------------------------------------------------------
+paduan kelas senior：Control Unit
+---------------------------------------------------------
+ＮＯ　ＮＡＭＥ
+---------------------------------------------------------
+Berhenti mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang akan anda lakukan？<@>
+---------------------------------------------------------
+Akses Terminal
+---------------------------------------------------------
+Akses File lainnya
+---------------------------------------------------------
+File telah diatur alakadarnya
+agar mudah untuk dilihat<@>
+---------------------------------------------------------
+「Avatar Card」 didapat dengan saling bertukar「Avatar」
+dapat digunakan sebagai member dalam party<@>
+---------------------------------------------------------
+「Avatar Card」 bisa diperoleh dari 2 cara
+pertama curry pas 「Multiplayer mode」<@>
+---------------------------------------------------------
+dan satunya lagi 「Trade In Sleep Mode」, tapi susah njir<@>
+---------------------------------------------------------
+「Avatar Card」dapat diperbaharui
+yaitu dengan cara melakukan pertukaran kembali dgn orang yg sama<@>
+---------------------------------------------------------
+gunakan juga untuk berbagi kebaikan
+setelah mabar jangan pelit-pelit buat bertukar<@>
+---------------------------------------------------------
+Bullet Memo<@>
+---------------------------------------------------------
+「Rebounding Bullet」 adalah bullet yang bisa memberikan efek balance pada kekuatan fisik anda
+Namun tak berguna pada orang yang menembakannya pada diri sendiri<@>
+---------------------------------------------------------
+Untuk bullet dengan sifat yang unik
+penggunaan jinki jadi terbatas<@>
+---------------------------------------------------------
+hanya satu bagian, ada gambar lindow dan sakuya
+ini adalah foto milik sakuya<@>
+---------------------------------------------------------
+yang lain terlihat seperti foto baru<@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Bullet
+---------------------------------------------------------
+foto
+---------------------------------------------------------
+berhenti mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+kulihat...
+Tapi gambarnya rusak dan sulit untuk dilihat<@>
+---------------------------------------------------------
+Apa yang akan anda lakukan？<@>
+---------------------------------------------------------
+File nya di password :v
+minta Pass RAR nya ke pak Basit<@>
+---------------------------------------------------------
+Akses Terminal
+---------------------------------------------------------
+Akses File lain
+---------------------------------------------------------
+hmmm yeah
+---------------------------------------------------------
+mau beli apa？
+---------------------------------------------------------

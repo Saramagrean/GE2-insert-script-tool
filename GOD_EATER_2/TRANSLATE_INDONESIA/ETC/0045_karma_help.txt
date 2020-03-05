@@ -1,0 +1,2364 @@
+NAMA:karma_help
+ENCODING:UTF-8
+CRLF:\n
+ID:
+TYPE:
+JUMLAH_STRING:0327
+===============================================================
+[00001477:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+[Step Attack Improves]
+
+Applies force from a step
+into a shock wave attack.
+
+□ and △ attacks produce
+different shock waves.
+---------------------------------------------------------
+[Step Attack Improves]
+
+Applies force from a step
+into stronger shock waves.
+
+More powerful; △ attacks
+inflict multiple hits.
+---------------------------------------------------------
+[Step Attack Improves]
+
+Applies force from a step
+into powerful shock waves.
+
+Further increases damage
+and the number of hits.
+---------------------------------------------------------
+[Step Attack Improves]
+
+Step attacks produce
+shock waves that strike
+an Aragami's entire body.
+
+Even more damage and hits.
+---------------------------------------------------------
+
+---------------------------------------------------------
+
+---------------------------------------------------------
+
+---------------------------------------------------------
+
+---------------------------------------------------------
+[Aerial △ Attack Improves]
+
+Springs off an Aragami with
+an explosive Oracle kick.
+
+Reduces stamina on a hit.
+---------------------------------------------------------
+[Aerial △ Attack Improves]
+
+Springs off an Aragami with
+a powerful, explosive
+Oracle kick.
+
+Reduces stamina on a hit.
+---------------------------------------------------------
+[Aerial △ Attack Improves]
+
+Springs off an Aragami with
+an even stronger, explosive
+Oracle kick.
+
+Hits cost less stamina.
+---------------------------------------------------------
+[Aerial △ Attack Improves]
+
+Springs off an Aragami with
+a kick powerful enough to
+destroy Aragami from within.
+
+Hits cost minimal stamina.
+---------------------------------------------------------
+[Aerial △ Attack Improves]
+
+A powerful stab straight
+down from midair.
+---------------------------------------------------------
+[Aerial △ Attack Improves]
+
+A powerful stab straight
+down from midair.
+
+Even stronger against
+Aragami weak points.
+---------------------------------------------------------
+[Aerial △ Attack Improves]
+
+A shining, powerful stab
+straight down from midair.
+
+Dramatically stronger vs.
+Aragami weak points.
+---------------------------------------------------------
+[Aerial △ Attack Improves]
+
+A brilliant, powerful stab
+straight down from midair.
+
+Lethally strong against
+Aragami weak points.
+---------------------------------------------------------
+[Aerial △ Attack Improves]
+
+Activates your blade-form
+for a powerful gliding
+attack.
+---------------------------------------------------------
+[Aerial △ Attack Improves]
+
+A gliding attack surrounded
+by Oracle blades.
+
+The blades can nullify
+some enemy Oracle attacks.
+---------------------------------------------------------
+[Aerial △ Attack Improves]
+
+A stronger gliding attack
+with more Oracle blades.
+
+The blades can nullify
+some enemy Oracle attacks.
+---------------------------------------------------------
+[Aerial △ Attack Improves]
+
+Many Oracle blades slash
+your target's entire body.
+
+The blades can nullify
+some enemy Oracle attacks.
+---------------------------------------------------------
+[Aerial △ Attack Improves]
+
+Builds strength midair for
+a powerful glide attack.
+
+Hit an Aragami's weak point
+to deliver lethal damage.
+---------------------------------------------------------
+[Rising Edge Improves]
+
+Creates an Oracle blade
+that rises with your swing.
+---------------------------------------------------------
+[Rising Edge Improves]
+
+A blade of concentrated
+Oracle power rises with
+your swing.
+---------------------------------------------------------
+[Rising Edge Improves]
+
+A fang formed from
+concentrated Oracle
+power inflicts massive
+damage on flying Aragami.
+---------------------------------------------------------
+[Rising Edge Improves]
+
+Concentrates even more
+Oracle power to create
+a fang that tears through
+Aragami.
+---------------------------------------------------------
+[Rising Edge Improves]
+
+A big swing launches a
+powerful rising attack.
+---------------------------------------------------------
+[Rising Edge Improves]
+
+A big swing launches a
+powerful rising attack
+accompanied by a pillar
+of Oracle light.
+---------------------------------------------------------
+[Rising Edge Improves]
+
+A big swing launches a
+powerful rising attack
+trailed by a high-energy
+pillar of Oracle light.
+---------------------------------------------------------
+[Rising Edge Improves]
+
+A midair rising swing.
+
+After performing a Rising
+Edge, press R1+□ again to
+use this move.
+---------------------------------------------------------
+[Rising Edge Improves]
+
+A midair rising swing
+following a Rising Edge.
+
+Overflowing energy creates
+a spiral of light.
+---------------------------------------------------------
+[Rising Edge Improves]
+
+A midair rising swing
+following a Rising Edge.
+
+An even stronger attack;
+Your God Arc radiates light.
+---------------------------------------------------------
+[Rising Edge Improves]
+
+A midair rising swing
+following a Rising Edge.
+
+Your fully-powered God
+Arc shines like the sun.
+---------------------------------------------------------
+[□ Attack Improves]
+
+A multi-stage attack with
+rapid swings producing
+razor-sharp pressure waves
+to slash through Aragami.
+---------------------------------------------------------
+[□ Attack Improves]
+
+The razor-sharp pressure
+waves increase in number
+and power.
+---------------------------------------------------------
+[□ Attack Improves]
+
+A multi-stage attack
+with increased damage from
+its high-energy blades.
+---------------------------------------------------------
+[□ Attack Improves]
+
+A multi-stage attack with
+high-energy blades that
+rip through Aragami.
+---------------------------------------------------------
+[□ Attack Stage 5 Improves]
+
+Keep pressing □ button
+after the combo for a
+continuous attack.
+---------------------------------------------------------
+[□ Attack Stage 5 Improves]
+
+Keep pressing □ button for 
+a continuous attack.
+
+Heightens your God Arc's
+power for extra damage.
+---------------------------------------------------------
+[□ Attack Stage 5 Improves]
+
+A faster continuous attack.
+Keep pressing □ button
+for an unlimited combo.
+---------------------------------------------------------
+[□ Attack Stage 5 Improves]
+
+An even faster continuous
+attack. Unleashes your
+God Arc to relentlessly
+slash through Aragami.
+---------------------------------------------------------
+[△ Attack Improves]
+
+Forms an Oracle blade
+for a thrusting attack
+with extended reach.
+---------------------------------------------------------
+[△ Attack Improves]
+
+Forms a high-density
+Oracle blade for
+a thrusting attack
+with extended reach.
+---------------------------------------------------------
+[△ Attack Improves]
+
+Forms a higher powered
+Oracle blade for a slightly
+faster thrusting attack
+with extended reach and
+multiple hits.
+---------------------------------------------------------
+[△ Attack Improves]
+
+Forms a high-powered
+Oracle blade for a swift,
+armor-piercing attack
+with extended reach.
+---------------------------------------------------------
+[△ Attack Stage 5 Improves]
+
+Builds up power for a
+strong thrusting attack
+---------------------------------------------------------
+[△ Attack Stage 5 Improves]
+
+Builds up power for an
+even stronger thrusting
+attack.
+---------------------------------------------------------
+[△ Attack Stage 5 Improves]
+
+Builds up energy and
+releases it in a
+thrusting attack with
+multiple hits. Strong
+against downed Aragami.
+---------------------------------------------------------
+[△ Attack Stage 5 Improves]
+
+Builds up even more energy
+and releases it with a
+pinpoint explosive thrust.
+Does greatly increased
+damage against downed foes.
+---------------------------------------------------------
+[△ Attack Stage 5 Improves]
+
+Builds up a large amount
+of power and releases it
+with a thrust. Steals HP
+from any Aragami it hits.
+---------------------------------------------------------
+[△ Attack Stage 5 Improves]
+
+Builds up a large amount
+of power and releases it
+with a thrust. Steals
+more HP than before.
+---------------------------------------------------------
+[△ Attack Stage 5 Improves]
+
+Blood from your wound
+pours into your God Arc.
+Can be repeated by
+continually pressing △,
+but each use costs HP.
+---------------------------------------------------------
+[△ Attack Stage 5 Improves]
+
+Dashes forward with a
+piercing thrust.
+
+Can withstand weak
+Aragami attacks.
+---------------------------------------------------------
+[△ Attack Stage 5 Improves]
+
+Dashes forward with a
+powerful piercing thrust.
+
+Can withstand weak
+Aragami attacks.
+---------------------------------------------------------
+[△ Attack Stage 5 Improves]
+
+A piercing thrust that
+propels you forward with
+superhuman speed.
+Withstands strong attacks;
+powerful vs. downed foes.
+---------------------------------------------------------
+[△ Attack Stage 5 Improves]
+
+Power fills your God Arc
+and unleashes an attack
+faster than the eye can see.
+Withstands strong attacks;
+powerful vs. downed foes.
+---------------------------------------------------------
+[Aerial □ Attack Stage 3 Improves]
+
+Encircle an Aragami to
+deliver slashing attacks
+from all sides.
+Continue pressing □ for
+up to 3 consecutive uses.
+---------------------------------------------------------
+[Aerial □ Attack Stage 3 Improves]
+
+Encircle an Aragami to
+deliver slashing attacks
+from all sides.
+Continue pressing □ for
+up to 5 consecutive uses.
+---------------------------------------------------------
+[Aerial □ Attack Stage 3 Improves]
+
+Encircle an Aragami to
+deliver powerful slashing
+attacks from all sides.
+Continue pressing □ for
+up to 10 consecutive uses.
+---------------------------------------------------------
+[Aerial □ Attack Stage 3 Improves]
+
+Encircles an Aragami,
+warping in and out of
+place to attack at will.
+Continue pressing □ for
+up to 10 consecutive uses.
+---------------------------------------------------------
+[Aerial □ Attack Stage 3 Improves]
+
+A wide slash accompanied
+by a substantial retreat.
+---------------------------------------------------------
+[Aerial □ Attack Stage 3 Improves]
+
+A wide slash accompanied
+by a substantial retreat.
+
+Simultaneously attacks
+with an Oracle blade.
+---------------------------------------------------------
+[Aerial □ Attack Stage 3 Improves]
+
+A wide slash accompanied
+by a substantial retreat.
+
+Multiple Oracle blades
+follow your attack.
+---------------------------------------------------------
+[Aerial □ Attack Stage 3 Improves]
+
+A wide slash accompanied
+by a substantial retreat.
+
+Multiple Oracle blades
+provide additional hits.
+---------------------------------------------------------
+[Aerial △ Attack Improves]
+
+Performs an upward aerial
+attack.
+
+Resets aerial actions,
+but costs stamina.
+---------------------------------------------------------
+[Aerial △ Attack Improves]
+
+Performs a stronger
+upward aerial attack.
+
+Resets aerial actions,
+but costs stamina.
+---------------------------------------------------------
+[Aerial △ Attack Improves]
+
+An upward aerial attack
+effective against enemy
+weak points.
+Resets aerial actions
+while costing less stamina.
+---------------------------------------------------------
+[Aerial △ Attack Improves]
+
+An upward aerial attack
+effective against enemy
+weak points.
+Resets aerial actions
+and costs little stamina.
+---------------------------------------------------------
+[△ Attack Improves]
+
+A mobile attack cloaked in
+an Oracle barrier.
+
+The barrier will nullify
+some enemy Oracle attacks.
+---------------------------------------------------------
+[△ Attack Improves]
+
+A stronger mobile attack
+cloaked in an Oracle barrier.
+
+The barrier will nullify
+some enemy Oracle attacks.
+---------------------------------------------------------
+[△ Attack Improves]
+
+A mobile attack cloaked in
+a stronger Oracle barrier
+that nullifies some
+long-range attacks and
+weaker close-range attacks.
+---------------------------------------------------------
+[△ Attack Improves]
+
+A mobile attack cloaked in
+a high-density Oracle
+barrier that nullifies some
+long-range attacks and
+weaker close-range attacks.
+---------------------------------------------------------
+[△ Attack Improves]
+
+Builds up energy through
+three quick dashes, then
+unleashes a powerful
+upward attack.
+---------------------------------------------------------
+[△ Attack Stage 1 Improves]
+
+Rushes forward, unleashing
+a powerful upward attack
+if any Aragami are caught
+in your path.
+---------------------------------------------------------
+[△ Attack Stage 1 Improves]
+
+Rushes forward, unleashing
+a stronger spinning upward
+attack if any Aragami are
+caught in your path.
+---------------------------------------------------------
+[△ Attack Stage 1 Improves]
+
+Rushes forward, unleashing
+a spinning upward attack
+to any Aragami in your way.
+During the spin, your God
+Arc's damage output increases.
+---------------------------------------------------------
+[△ Attack Stage 1 Improves]
+
+Rushes forward, unleashing
+a spinning upward attack
+to any Aragami in your way.
+During the spin, your God Arc
+unlocks its full potential.
+---------------------------------------------------------
+[Zero Stance Improves]
+
+Activates the Oracle Cells
+in your God Arc to increase
+its attack power.
+The effect can be chained
+through successive attacks.
+---------------------------------------------------------
+[Zero Stance Improves]
+
+Activates the Oracle Cells in
+your God Arc to increase its
+attack power even more.
+The effect can be chained
+through successive attacks.
+---------------------------------------------------------
+[Zero Stance Improves]
+
+Activates the Oracle Cells
+in your God Arc to greatly
+increase its attack power.
+The effect can be chained
+through successive attacks.
+---------------------------------------------------------
+[Zero Stance Improves]
+
+Activates the Oracle Cells
+in your God Arc to maximize
+its attack power.
+The effect can be chained
+through successive attacks.
+---------------------------------------------------------
+[Zero Stance→□ Attack Improves]
+
+Slowly raises your God Arc
+into an upward stance, then
+swings it down with all your
+might. Even more effective
+against Aragami weak points.
+---------------------------------------------------------
+[Zero Stance→□ Attack Improves]
+
+Slowly raises your God Arc
+into an upward stance, then
+swings it down with great
+force. Even more effective
+against Aragami weak points.
+---------------------------------------------------------
+[Zero Stance→□ Attack Improves]
+
+Slowly raises your God Arc
+into an upward stance, then
+delivers a targeted strike.
+Highly effective against
+Aragami weak points.
+---------------------------------------------------------
+[Zero Stance→□ Attack Improves]
+
+Slowly raises your God Arc
+into an upward stance, then
+dispatches Aragami with one
+strike. Highly effective
+against Aragami weak points.
+---------------------------------------------------------
+[Zero Stance→△ Attack Improves]
+
+Strikes your foes several
+times as you pass through
+them with lightning speed.
+---------------------------------------------------------
+[Zero Stance→△ Attack Improves]
+
+Strikes your foes additional
+times as you pass through
+them with godlike speed.
+---------------------------------------------------------
+[Zero Stance→△ Attack Improves]
+
+An expert technique that
+strikes your foes even more
+times as you pass through
+them with godlike speed.
+---------------------------------------------------------
+[Zero Stance→△ Attack Improves]
+
+A secret technique open
+only to true masters of the
+sword. Strikes your foes
+countless times as you pass
+through them in a flash.
+---------------------------------------------------------
+[Impulse Edge Improves]
+
+An Impulse Edge with
+increased firepower.
+Creates a large explosion.
+---------------------------------------------------------
+[Impulse Edge Improves]
+
+An Impulse Edge with
+increased firepower.
+Creates a fiery explosion
+that hits multiple times.
+---------------------------------------------------------
+[Impulse Edge Improves]
+
+An Impulse Edge with
+increased firepower.
+Creates a white-hot
+explosion that hits
+additional times.
+---------------------------------------------------------
+[Impulse Edge Improves]
+
+An Impulse Edge with
+ultimate firepower.
+Creates a blinding,
+super-destructive explosion
+that hits even more times.
+---------------------------------------------------------
+[Impulse Edge Improves]
+
+Condenses energy into
+a long-range laser beam.
+---------------------------------------------------------
+[Impulse Edge Improves]
+
+Releases stored up energy
+as a high-powered laser
+beam with multiple hits.
+---------------------------------------------------------
+[Impulse Edge Improves]
+
+The ultimate laser-type
+Impulse Edge with even
+more hits. Strong enough
+to carve a hole through
+Aragami.
+---------------------------------------------------------
+[Impulse Edge Improves]
+
+An Impulse Edge with all the
+stops pulled out. Slashes an
+orb of ultra-dense energy to
+cause a massive explosion.
+Costs 100 OP.
+---------------------------------------------------------
+[Impulse Edge Improves]
+
+An Impulse Edge with
+lowered firepower and OP
+cost to enable burst fire.
+---------------------------------------------------------
+[Impulse Edge Improves]
+
+A somewhat stronger
+burst-fire Impulse Edge.
+---------------------------------------------------------
+[Impulse Edge Improves]
+
+An even stronger burst-
+fire Impulse Edge with
+explosive rounds.
+---------------------------------------------------------
+[Impulse Edge Improves]
+
+The ultimate burst-fire
+Impulse Edge. Its scarlet
+explosions annihilate
+Aragami.
+---------------------------------------------------------
+[Impulse Edge Improves]
+
+An Impulse Edge with
+lowered firepower and OP
+cost to enable firing
+three bullet-type Oracle
+shots in quick succession.
+---------------------------------------------------------
+[Impulse Edge Improves]
+
+An improved bullet-type
+Impulse Edge offers
+greater firepower
+without sacrificing
+the low OP cost.
+---------------------------------------------------------
+[Impulse Edge Improves]
+
+The ultimate bullet-type
+Impulse Edge. Bullets
+enveloped in a spiral
+of Oracle energy tear
+through Aragami flesh.
+---------------------------------------------------------
+[□ Attack Improves]
+
+Releases Oracle energy
+from your God Arc to
+create a massive blade
+that adds to your attack.
+---------------------------------------------------------
+[□ Attack Improves]
+
+Creates a massive sword
+of Oracle energy that
+adds to your attack.
+
+Attack power increases.
+---------------------------------------------------------
+[□ Attack Improves]
+
+Creates a massive sword
+that adds to your attack.
+The Oracle Cells go
+critical, and the sword
+crackles with energy.
+---------------------------------------------------------
+[□ Attack Improves]
+
+Creates a sword from
+ultra-dense Oracle
+Cells that adds to your
+attack. Its blade
+radiates red lightning.
+---------------------------------------------------------
+[□ Attack Improves]
+
+Oracle blades shoot
+out from your attacks.
+---------------------------------------------------------
+[□ Attack Improves]
+
+Larger Oracle blades
+shoot out from your
+attacks.
+---------------------------------------------------------
+[□ Attack Improves]
+
+Even larger Oracle
+blades shoot out from
+your attacks.
+---------------------------------------------------------
+[□ Attack Improves]
+
+Blades formed from
+high-density Oracle
+Cells shoot out from
+your attacks.
+---------------------------------------------------------
+[□ Attack Stage 4 Improves]
+
+Builds up Oracle
+energy and releases it
+in a powerful strike.
+---------------------------------------------------------
+[□ Attack Stage 4 Improves]
+
+Builds up high-density
+Oracle energy and
+releases it in a more
+powerful strike.
+---------------------------------------------------------
+[□ Attack Stage 4 Improves]
+
+When released with your
+sword strike, the
+high-density Oracle
+energy leaves a trail
+of light.
+---------------------------------------------------------
+[□ Attack Stage 4 Improves]
+
+Builds up even more
+Oracle energy, leaving
+a blue trail behind
+your swing.
+---------------------------------------------------------
+[□ Attack Stage 4 Improves]
+
+The Oracle Cells in
+your body resonate
+with your God Arc.
+
+Heals HP on a hit.
+---------------------------------------------------------
+[□ Attack Stage 4 Improves]
+
+The Oracle Cells in your
+body activate, resonating
+with your God Arc.
+
+Heals HP on a hit.
+---------------------------------------------------------
+[□ Attack Stage 4 Improves]
+
+Your body and God Arc,
+highly attuned, deliver
+a powerful attack.
+
+Hits restore more HP.
+---------------------------------------------------------
+[□ Attack Stage 4 Improves]
+
+You and your God Arc
+act as one to deliver
+a devastating strike.
+
+Hits restore substantial HP.
+---------------------------------------------------------
+[Aerial □ Attack Improves]
+
+Each swing projects an
+Oracle blade to strike
+foes at medium range.
+---------------------------------------------------------
+[Aerial □ Attack Improves]
+
+Each swing projects a
+large Oracle blade to
+strike foes at medium
+range.
+---------------------------------------------------------
+[Aerial □ Attack Improves]
+
+Each swing projects two
+large Oracle blades to
+strike foes at medium
+range.
+---------------------------------------------------------
+[Aerial □ Attack Improves]
+
+Each swing projects two
+high-density Oracle
+blades to strike foes
+at medium range.
+---------------------------------------------------------
+[Aerial △ Attack Improves]
+
+Stop in midair to perform
+a quick somersault attack,
+slicing apart nearby foes.
+---------------------------------------------------------
+[Aerial △ Attack Improves]
+
+Stop in midair to perform
+a quick somersault attack,
+slicing apart nearby foes.
+Press △ again for another
+revolution.
+---------------------------------------------------------
+[Aerial △ Attack Improves]
+
+Stop in midair to perform
+a quick somersault attack,
+slicing apart nearby foes.
+Keep pressing △ to repeat
+up to three times.
+---------------------------------------------------------
+[Aerial △ Attack Improves]
+
+Stop in midair to perform
+a quick somersault attack,
+slicing apart nearby foes.
+Keep pressing △ to repeat
+up to four times.
+---------------------------------------------------------
+[Aerial △ Attack Improves]
+
+An aerial attack with
+increased movement speed
+and distance.
+The final strike is
+damaging.
+---------------------------------------------------------
+[Aerial △ Attack Improves]
+
+A stronger aerial attack
+with increased movement
+speed and distance.
+The final strike is
+more damaging.
+---------------------------------------------------------
+[Aerial △ Attack Improves]
+
+A high-speed aerial attack.
+
+The final strike is
+more damaging and ignores
+Aragami defense.
+---------------------------------------------------------
+[Aerial △ Attack Improves]
+
+A high-speed aerial attack
+crackling with energy.
+The final strike is
+more damaging and ignores
+Aragami defense.
+---------------------------------------------------------
+[Aerial △ Attack Improves]
+
+A mobile aerial attack.
+Pressing △ button again, 
+up to three times in 
+sequence, allows you 
+to change direction.
+---------------------------------------------------------
+[Aerial △ Attack Improves]
+
+A mobile aerial attack with
+a crimson aura. Pressing
+△ button again, up to four 
+times in sequence, allows 
+you to change direction.
+---------------------------------------------------------
+[△ Attack Improves]
+
+A high-speed slashing
+attack with increased
+movement distance.
+---------------------------------------------------------
+[△ Attack Improves]
+
+An even stronger
+slashing attack with
+high speed and mobility.
+---------------------------------------------------------
+[△ Attack Improves]
+
+An even faster slashing
+attack that does increased
+damage to enemy weak points.
+Your sword is an ocean wave
+buffeting Aragami at will.
+---------------------------------------------------------
+[△ Attack Improves]
+
+A slashing attack with
+godlike speed that does
+increased damage to enemy
+weak points. Your enemies
+won't even see you coming.
+---------------------------------------------------------
+description text goes here
+---------------------------------------------------------
+description text goes here
+---------------------------------------------------------
+description text goes here
+---------------------------------------------------------
+description text goes here
+---------------------------------------------------------
+[Aerial △ Attack Improves]
+
+Readies your sword high,
+then smashes it down
+with a sudden drop.
+---------------------------------------------------------
+[Aerial △ Attack Improves]
+
+Readies your sword high,
+then smashes it straight
+down with a sudden, more
+forceful drop.
+---------------------------------------------------------
+[Aerial △ Attack Improves]
+
+Readies your sword high,
+focusing energy into its
+blade, then smashes it
+into the earth with a
+sudden drop.
+---------------------------------------------------------
+[Aerial △ Attack Improves]
+
+Fills your blade with
+energy, then smashes it
+down with a sudden drop.
+A devastating strike
+against any Aragami.
+---------------------------------------------------------
+[Charge Crush Improves]
+
+A Charge Crush made
+stronger by building up
+and concentrating energy.
+---------------------------------------------------------
+[Charge Crush Improves]
+
+A Charge Crush made even
+stronger by building up
+and concentrating
+additional energy.
+---------------------------------------------------------
+[Charge Crush Improves]
+
+Fills your weapon with so
+much energy it shines.
+Strong enough to break an
+Aragami's toughest parts.
+---------------------------------------------------------
+[Charge Crush Improves]
+
+Bursting with energy, your
+sword becomes a force of
+pure destruction.
+Even more damaging against
+Aragami weak points.
+---------------------------------------------------------
+[Charge Crush Improves]
+
+Continue holding □ after
+your charge is ready to
+build up even more energy.
+
+Effective vs. weak points.
+---------------------------------------------------------
+[Charge Crush Improves]
+
+Stores up even more energy
+than before for a savage
+attack. Effective vs. weak
+points. During the charge,
+some attacks are ignored.
+---------------------------------------------------------
+[Charge Crush Improves]
+
+Fills your sword with
+enough energy to split any
+foe in two. Effective vs.
+weak points. While charging,
+some attacks are ignored.
+---------------------------------------------------------
+[Charge Crush Improves]
+[Restricted to Link Burst 3]
+
+Pours your body and soul
+into an ultimate attack.
+Requires additional
+stamina and charge time.
+---------------------------------------------------------
+[Charge Crush Improves]
+
+Rushes forward with a
+burst of released energy.
+
+Press □ again to perform
+a smash attack.
+---------------------------------------------------------
+[Charge Crush Improves]
+
+Rushes forward with a
+burst of released energy.
+
+Press □ again to perform
+a stronger smash attack.
+---------------------------------------------------------
+[Charge Crush Improves]
+
+Rushes forward with a burst
+of energy that shields you
+from attacks. Press □ again
+to redirect the energy into
+a smash attack.
+---------------------------------------------------------
+[Charge Crush Improves]
+
+Rushes forward with a burst
+of energy that shields you
+from attacks and
+destroys an Aragami body.
+---------------------------------------------------------
+[Charge Crush Improves]
+
+Strikes the ground with
+focused Oracle energy,
+causing countless spikes
+to emerge from the earth.
+---------------------------------------------------------
+[Charge Crush Improves]
+
+Strikes the ground with
+focused Oracle energy,
+causing countless spikes
+to emerge from the earth
+amid a pillar of light.
+---------------------------------------------------------
+[Charge Crush Improves]
+
+A high-density Oracle slam
+creates countless spikes
+amid a massive explosion.
+Extra damage vs. foes weak
+to your attack's attribute.
+---------------------------------------------------------
+[Charge Crush Improves]
+
+An ultra-dense Oracle slam
+creates scarlet spikes amid
+a cataclysmic explosion.
+Extra damage vs. foes weak
+to your attack's attribute.
+---------------------------------------------------------
+[Charge Crush Improves]
+
+An upward swing releases
+stored Oracle energy,
+firing a projectile to
+strike distant enemies.
+---------------------------------------------------------
+[Charge Crush Improves]
+
+Fires a projectile blade
+of high-density Oracle
+energy that shreds through
+distant foes, hitting
+multiple times.
+---------------------------------------------------------
+[Parrying Upper Improves]
+
+If you parry an Aragami's
+attack, you will perform
+a powerful counterattack.
+---------------------------------------------------------
+[Parrying Upper Improves]
+
+Performs a stronger
+counterattack when you
+parry an Aragami's attack.
+---------------------------------------------------------
+[Parrying Upper Improves]
+
+Performs an even stronger
+counterattack when you
+parry an Aragami's attack.
+---------------------------------------------------------
+[Parrying Upper Improves]
+
+The power of your rage
+manifests as a crimson
+blade, delivering a deadly
+counterattack when you
+parry an Aragami's attack.
+---------------------------------------------------------
+[Parrying Upper Improves]
+
+The duration of your guard
+during a Parrying Upper
+decreases greatly, but a
+successful parry results
+in a decisive counterattack.
+---------------------------------------------------------
+[Parrying Upper Improves]
+
+Activates the Oracle Cells
+within your body to perform
+a stronger Parrying Upper.
+Shields you from weak
+attacks for the duration.
+---------------------------------------------------------
+[Parrying Upper Improves]
+
+Further activates your
+Oracle Cells to perform
+a stronger Parrying Upper.
+Shields you from some
+attacks for the duration.
+---------------------------------------------------------
+[Parrying Upper Improves]
+
+Further excites your Oracle
+Cells to nullify Aragami
+attacks. Costs less
+stamina and protects
+against most attacks.
+---------------------------------------------------------
+[Parrying Upper Improves]
+
+Your activated Oracle Cells
+become a suit of armor to
+absorb almost any attack.
+
+Costs less stamina.
+---------------------------------------------------------
+[□ Attack Improves]
+
+Activates your God Arc
+to deliver an armor-
+crushing combo attack.
+Deflects weak attacks
+for the duration.
+---------------------------------------------------------
+[□ Attack Improves]
+
+Activates your God Arc
+to deliver an armor-
+crushing combo attack.
+Deflects weak attacks
+for the duration.
+---------------------------------------------------------
+[□ Attack Improves]
+
+Focuses Oracle energy into
+your activated God Arc
+for explosive attacks.
+Deflects weak attacks
+for the duration.
+---------------------------------------------------------
+[□ Attack Improves]
+
+An armor-crushing combo
+attack of unparalleled
+power.
+Deflects weak attacks
+for the duration.
+---------------------------------------------------------
+[□ Attack Improves]
+
+Oracle energy envelops
+your sword, creating shock
+waves with each full swing.
+The shock waves nullify
+some enemy Oracle attacks.
+---------------------------------------------------------
+[□ Attack Improves]
+
+Additional Oracle energy
+fills your sword,
+unleashing shock waves.
+The shock waves nullify
+some enemy Oracle attacks.
+---------------------------------------------------------
+[□ Attack Improves]
+
+Your sword creates
+additional shock waves,
+which also nullify some
+enemy Oracle attacks.
+---------------------------------------------------------
+[□ Attack Improves]
+
+A massive energy field
+engulfs your sword,
+creating mighty shock waves.
+The shock waves nullify
+some enemy Oracle attacks.
+---------------------------------------------------------
+[△ Attack Improves]
+
+An attack with greatly
+increased damage against
+Aragami weak points.
+---------------------------------------------------------
+[△ Attack Improves]
+
+An attack dealing even
+greater damage against
+Aragami weak points.
+---------------------------------------------------------
+[△ Attack Improves]
+
+The base damage of this
+attack increases, while
+dealing dramatically
+higher damage against
+Aragami weak points.
+---------------------------------------------------------
+[△ Attack Improves]
+
+A lethal combo attack.
+Its baseline damage is
+improved, but strikes
+against Aragami weak points
+bring out its true power.
+---------------------------------------------------------
+[△ Attack Stage 3 Improves]
+
+A powerful strike.
+
+While readying the blow,
+you can withstand
+some Aragami attacks.
+---------------------------------------------------------
+[△ Attack Stage 3 Improves]
+
+A more powerful strike.
+
+While readying the blow,
+you can withstand
+some Aragami attacks.
+---------------------------------------------------------
+[△ Attack Stage 3 Improves]
+
+Readies your sword high for
+a fierce strike. While
+readying, you can withstand
+stronger attacks. Landing a
+hit restores stamina.
+---------------------------------------------------------
+[△ Attack Stage 3 Improves]
+
+The ground trembles beneath
+this deadly strike. While
+readying, you ignore most
+attacks. Successful hits
+greatly restore stamina.
+---------------------------------------------------------
+[Step Attack Improves]
+
+Uses the momentum of your
+step to perform a more
+powerful attack.
+Does increased damage to
+Aragami weak points.
+---------------------------------------------------------
+[Step Attack Improves]
+
+An even stronger step
+attack.
+
+Does increased damage to
+Aragami weak points.
+---------------------------------------------------------
+[Step Attack Improves]
+
+Boosts the output of your
+God Arc to greatly increase
+its power. Does extra damage
+to Aragami weak points, and
+successful hits earn OP.
+---------------------------------------------------------
+[Step Attack Improves]
+
+Light surrounds your God
+Arc for this powerful step
+attack. Does extra damage
+to Aragami weak points, and
+successful hits earn OP.
+---------------------------------------------------------
+[△ Attack Stage 4 Improves]
+
+A piercing attack leaves
+behind Oracle energy that
+explodes after a delay.
+---------------------------------------------------------
+[△ Attack Stage 4 Improves]
+
+A piercing attack leaves
+behind Oracle energy that
+explodes after a delay.
+The number of hits are
+increased.
+---------------------------------------------------------
+[△ Attack Stage 4 Improves]
+
+A piercing attack tears apart
+Aragami with high-density
+Oracle energy from the
+inside out. The number of
+hits are further increased.
+---------------------------------------------------------
+[△ Attack Stage 4 Improves]
+
+A delayed explosion
+annihilates Aragami from the
+inside out, leaving only
+remnants of crimson light.
+Hits are further increased.
+---------------------------------------------------------
+[△ Attack Stage 4 Improves]
+[Usable only in Link Burst]
+
+Injects concentrated Oracle
+Cells that soon explode into
+spears of light, destroying
+the Aragami from within.
+---------------------------------------------------------
+[△ Attack Stage 4 Improves]
+
+A spear thrust propels
+you forward, even passing
+through Aragami in your
+path and deflecting weak
+attacks.
+---------------------------------------------------------
+[△ Attack Stage 4 Improves]
+
+A powerful spear thrust
+propels you forward in a
+flash, even passing through
+Aragami in your path and
+deflecting weak attacks.
+---------------------------------------------------------
+[△ Attack Stage 4 Improves]
+
+An advancing strike with
+supercharged energy. Pierces
+through Aragami, deflects
+strong attacks, and does
+extra damage to downed foes.
+---------------------------------------------------------
+[△ Attack Stage 4 Improves]
+
+Propels you forward with
+supersonic speed. Perforates
+through Aragami, deflects
+strong attacks, and does
+extra damage to downed foes.
+---------------------------------------------------------
+[Aerial △ Improves]
+
+Activates your God Arc to
+perform a stronger gliding
+attack.
+---------------------------------------------------------
+[Aerial △ Improves]
+
+Activates your God Arc for
+a gliding attack accompanied
+by Oracle spears that negate
+some Aragami Oracle attacks.
+---------------------------------------------------------
+[Aerial △ Attack Improves]
+
+An even stronger gliding
+attack flanked by more
+Oracle spears that negate
+some Aragami Oracle attacks.
+---------------------------------------------------------
+[Aerial △ Attack Improves]
+
+A gliding attack flanked by
+a phalanx of Oracle spears
+that riddle your enemies with
+holes while negating some of
+their Oracle attacks.
+---------------------------------------------------------
+[Aerial △ Attack Improves]
+
+Stabs your spear straight
+down into the ground
+with a blast of energy.
+---------------------------------------------------------
+[Aerial △ Attack Improves]
+
+Stabs your spear straight
+down into the ground
+with a more powerful
+blast of energy.
+---------------------------------------------------------
+[Aerial △ Attack Improves]
+
+Performs an armor-piercing
+stab straight into the
+ground, while countless
+flashes of energy damage
+the surrounding area.
+---------------------------------------------------------
+[Aerial △ Attack Improves]
+
+Performs an armor-piercing
+stab straight into the
+ground, while unleashing a
+tremendous energy blast that
+damages the surrounding area.
+---------------------------------------------------------
+[Charge Glide Improves]
+
+A Charge Glide with superior
+braking power. After hitting
+an enemy, you take a large
+jump backward, from where you
+may continue into a combo.
+---------------------------------------------------------
+[Charge Glide Improves]
+
+A stronger Charge Glide with
+superior braking power. After
+hitting an enemy, you jump
+backward, while making an
+explosive Oracle attack.
+---------------------------------------------------------
+[Charge Glide Improves]
+
+A Charge Glide with superior
+braking power. After hitting
+an enemy, you jump backward,
+while making a powerful,
+explosive Oracle attack.
+---------------------------------------------------------
+[Charge Glide Improves]
+
+A Charge Glide with superior
+braking power. After hitting
+an enemy, you jump backward,
+while making an even stronger,
+explosive Oracle attack.
+---------------------------------------------------------
+[Charge Glide Improves]
+
+Increases your Oracle
+output, enveloping you in a
+crimson aura for a more
+damaging Charge Glide attack.
+---------------------------------------------------------
+[Charge Glide Improves]
+
+Further increases your Oracle
+output for an even more
+damaging Charge Glide attack.
+---------------------------------------------------------
+[Charge Glide Improves]
+
+Increased Oracle output
+enables your Charge Glide
+to pierce through Aragami,
+increasing the amount of
+damage you inflict.
+---------------------------------------------------------
+[Charge Glide Improves]
+
+With further increases to
+your Oracle output, your
+Charge Glide pierces through
+Aragami in a crimson flash,
+magnifying the damage dealt.
+---------------------------------------------------------
+[Charge Glide Improves]
+
+Builds up massive energy for
+a gradually accelerating
+Charge Glide that deals
+damage proportional to speed
+at the time of impact.
+---------------------------------------------------------
+[Ground Charge Glide Improves]
+
+Focuses stored energy into
+a powerful thrusting attack.
+---------------------------------------------------------
+[Ground Charge Glide Improves]
+
+Focuses stored energy into
+an even more powerful
+thrusting attack.
+---------------------------------------------------------
+[Ground Charge Glide Improves]
+
+Focuses highly concentrated
+energy into a thrusting
+attack with multiple hits.
+---------------------------------------------------------
+[Ground Charge Glide Improves]
+
+Focuses highly concentrated
+energy into a thrusting
+attack capable of piercing
+Aragami armor.
+---------------------------------------------------------
+[□ Attack Improves]
+
+Plants your feet to perform
+an infinite spear-swinging
+combo attack that slowly
+consumes stamina.
+---------------------------------------------------------
+[□ Attack Improves]
+
+Plants your feet to perform
+a stronger infinite combo
+attack that slowly consumes
+stamina.
+---------------------------------------------------------
+[□ Attack Improves]
+
+Plants your feet to perform
+a faster infinite combo attack
+that slowly consumes stamina.
+A finishing strike can be
+dealt by pressing △.
+---------------------------------------------------------
+[□ Attack Improves]
+
+Shreds Aragami apart with an
+infinite combo attack that
+slowly consumes stamina.
+A finishing strike can be
+dealt by pressing △.
+---------------------------------------------------------
+[□ Attack Improves]
+
+Plants your feet to perform
+a stronger infinite combo
+attack that slowly consumes
+stamina while restoring
+additional OP.
+---------------------------------------------------------
+[□ Attack Improves]
+
+Plants your feet to perform
+a faster infinite combo attack
+that slowly consumes stamina
+while restoring additional OP.
+Press △ for a finishing strike.
+---------------------------------------------------------
+[□ Attack Improves]
+
+A rapid combo attack that
+slowly consumes stamina while
+quickly draining OP from
+Aragami. A finishing strike
+can be dealt by pressing △.
+---------------------------------------------------------
+[△ Attack Improves]
+
+A multi-stage attack
+creating Oracle spears to
+join each thrust.
+---------------------------------------------------------
+[△ Attack Improves]
+
+A multi-stage attack
+creating stronger Oracle
+spears to join each thrust.
+---------------------------------------------------------
+[△ Attack Improves]
+
+Increases the power of the
+Oracle spears for a stronger
+multi-stage attack.
+The last stage of the combo
+inflicts even more hits.
+---------------------------------------------------------
+[△ Attack Improves]
+
+A multi-stage attack
+accompanied by deadly Oracle
+spears that perforate any
+Aragami in their path.
+---------------------------------------------------------
+[△ Attack Improves]
+
+A piercing attack with
+greatly increased damage
+against Aragami weak points.
+---------------------------------------------------------
+[△ Attack Improves]
+
+A piercing combo attack that
+deals even greater damage
+against Aragami weak points.
+---------------------------------------------------------
+[△ Attack Improves]
+
+The base damage of this
+attack increases, while
+dealing dramatically
+higher damage against
+Aragami weak points.
+---------------------------------------------------------
+[△ Attack Improves]
+
+The base damage of this
+combo attack increases,
+while pinpoint strikes
+against Aragami weak points
+inflict lethal damage.
+---------------------------------------------------------
+[Aerial □ Attack Improves]
+
+A midair forward dash and
+spear swing. More stages
+are added to the aerial □
+attack chain, enabling
+an attacking retreat.
+---------------------------------------------------------
+[Aerial □ Attack Improves]
+
+A midair forward dash and
+stronger spear swing. More
+stages are added to the
+aerial □ attack chain, ending
+in an attacking retreat.
+---------------------------------------------------------
+[Aerial □ Attack Improves]
+
+A mobile aerial combo that
+strikes while advancing and
+retreating in turn. Also
+creates a barrier that can
+block enemy Oracle attacks.
+---------------------------------------------------------
+[Aerial □ Attack Improves]
+
+An unorthodox aerial combo
+that strikes while advancing
+and retreating in turn. Also
+creates a barrier that can
+block enemy Oracle attacks.
+---------------------------------------------------------
+[Aerial □ Attack Improves] / 0A / 0A forward amount has increased significantly / 0A air Cleave attack / 00[Aerial □ Attack Improves] / 0A / 0A forward amount Cleave greatly extended / 0A aerial attack / 0A / 0A Aragami Oracle attack / 0A a barrier to cut off part formation / 00[Aerial □ Attack Improves] / 0A / 0A forward amount Cleave greatly extended / 0A aerial attack / 0A / 0A Aragami Oracle attack / 0A a barrier to cut off part formation / 00[Aerial □ Attack Improves]
+
+Hovers in place while Oracle
+blades join your every slash.
+---------------------------------------------------------
+[Aerial □ Attack Improves] / 0A / 0A forward amount Cleave greatly extended / 0A aerial attack / 0A / 0A Aragami Oracle attack / 0A a barrier to cut off part formation / 00[Aerial □ Attack Improves] / 0A / 0A forward amount Cleave greatly extended / 0A aerial attack / 0A / 0A Aragami Oracle attack / 0A a barrier to cut off part formation / 00[Aerial □ Attack Improves]
+
+Hovers in place while Oracle
+blades join your every slash.
+---------------------------------------------------------
+[Aerial □ Attack Improves] / 0A / 0A forward amount Cleave greatly extended / 0A aerial attack / 0A / 0A Aragami Oracle attack / 0A a barrier to cut off part formation / 00[Aerial □ Attack Improves]
+
+Hovers in place while Oracle
+blades join your every slash.
+---------------------------------------------------------
+[Aerial □ Attack Improves]
+
+Hovers in place while Oracle
+blades join your every slash.
+---------------------------------------------------------
+[Aerial □ Attack Improves]
+
+A stationary aerial combo
+with Oracle blades joining
+each powerful slash.
+Keep pressing □ to chain
+up to three attacks.
+---------------------------------------------------------
+[Aerial □ Attack Improves]
+
+A stationary aerial combo
+with Oracle blades joining
+each powerful slash.
+Keep pressing □ to chain
+up to four attacks.
+---------------------------------------------------------
+[Aerial □ Attack Improves]
+
+A stationary aerial slice-
+and-dice combo with Oracle
+blades joining each brutal
+slash. Keep pressing □ to
+chain up to five attacks.
+---------------------------------------------------------
+[Aerial □ Attack Improves]
+
+Each wide swing projects
+an Oracle blade to strike
+foes at medium range.
+---------------------------------------------------------
+[Aerial □ Attack Improves]
+
+Each wide swing projects a
+powerful Oracle blade to
+strike foes at medium range.
+---------------------------------------------------------
+[Aerial □ Attack Improves]
+
+Each swing projects two
+high-density Oracle
+blades to strike foes
+at medium range.
+---------------------------------------------------------
+[Aerial □ Attack Improves]
+
+Each swing projects two
+high-density Oracle blades
+to strike foes from afar.
+---------------------------------------------------------
+[△ Attack Improves]
+
+A thrusting attack that
+awakens your God Arc's nature.
+Attack power is increased
+against Aragami weak to
+your attack's attribute.
+---------------------------------------------------------
+[△ Attack Improves]
+
+A thrusting attack that
+awakens your God Arc's nature.
+Attack power is greatly
+increased vs. Aragami weak
+to your attack's attribute.
+---------------------------------------------------------
+[△ Attack Improves]
+
+Amplifies your resonance to
+awaken your God Arc's nature.
+Performs a thrusting attack
+hugely effective vs. Aragami
+weak to your attack's attribute.
+---------------------------------------------------------
+[△ Attack Improves]
+
+A thrusting attack that
+awakens your God Arc's full
+power. Attack power is sharply
+increased against Aragami weak
+to your attack's attribute.
+---------------------------------------------------------
+[□ Attack Stage 3 Improves]
+
+Slams the earth with your
+hammer, causing pillars of
+energy to erupt.
+---------------------------------------------------------
+[□ Attack Stage 3 Improves]
+
+An even stronger hammer
+slam causes explosions of
+energy over a wide area.
+---------------------------------------------------------
+[□ Attack Stage 3 Improves]
+
+Oracle energy fills your
+hammer and unleashes
+destructive pillars of
+light over a wide area.
+---------------------------------------------------------
+[□ Attack Stage 3 Improves]
+
+Power fills your hammer,
+annihilating Aragami in
+golden pillars of light.
+---------------------------------------------------------
+[□ Attack Stage 3 Improves]
+[Missed Finisher = K.O.]
+
+Press □ to spin ever faster
+with your hammer and △ to
+transfer that force into
+an attack. The longer you
+spin, the stronger the attack.
+---------------------------------------------------------
+[Aerial △ Attack Improves]
+
+Fills your hammer with
+Oracle energy, then slams
+the ground, causing spires
+of earth to erupt.
+---------------------------------------------------------
+[Aerial △ Attack Improves]
+
+Fills your hammer with more
+Oracle energy, then slams
+the ground, causing spires
+of earth to erupt at a distance.
+---------------------------------------------------------
+[Aerial △ Attack Improves]
+
+Fills your hammer with even
+more Oracle Energy, then
+slams the ground, causing
+spires of earth to erupt
+over a greater distance.
+---------------------------------------------------------
+[Aerial △ Attack Improves]
+
+Slams the ground with all
+your might, summoning the
+savage fury of the untamed
+earth.
+---------------------------------------------------------
+[Boost Impact Improves]
+
+At full boost, your hammer
+glows with Oracle energy
+for this high-powered
+slam attack.
+---------------------------------------------------------
+[Boost Impact Improves]
+
+Strengthens your hammer's
+Oracle aura for a boost-
+powered all-out attack.
+---------------------------------------------------------
+[Boost Impact Improves]
+
+Fueled by even more boost
+power, the Oracle slam attack
+deals sharply increased damage
+capable of crushing an
+Aragami's toughest defenses.
+---------------------------------------------------------
+[Boost Impact Improves]
+
+A deadly attack fueled by
+even more boost power and
+easily capable of crushing an
+Aragami's toughest defenses.
+---------------------------------------------------------
+[Boost Impact Improves]
+
+Releases the limiter on your
+God Arc for a max-boosted,
+all-out slamming attack.
+
+Consumes all your stamina.
+---------------------------------------------------------
+[Boost Impact Improves]
+
+Charges up power for a
+mighty upward swing.
+
+Inflicts increased damage
+against Aragami weak points.
+---------------------------------------------------------
+[Boost Impact Improves]
+
+Charges up more power for
+a mightier upward swing.
+
+Inflicts increased damage
+against Aragami weak points.
+---------------------------------------------------------
+[Boost Impact Improves]
+
+Oracle Cells heighten your
+boost's power for a mighty
+upward swing.
+Inflicts increased damage
+against Aragami weak points.
+---------------------------------------------------------
+[Boost Impact Improves]
+
+A boost of blue-hot flames
+propels an all-out upward
+swing.
+Inflicts increased damage
+against Aragami weak points.
+---------------------------------------------------------
+[All Boost Actions Improve]
+
+Enhances boost output.
+
+All Boost Actions inflict
+increased damage.
+---------------------------------------------------------
+[All Boost Actions Improve]
+
+Further enhances boost output.
+
+All Boost Actions inflict
+increased damage.
+---------------------------------------------------------
+[All Boost Actions Improve]
+
+Imbues your hammer with
+Oracle Cells to enhance
+boost output. All Boost
+Actions inflict increased
+damage and cost less stamina.
+---------------------------------------------------------
+[All Boost Actions Improve]
+
+Your burning passion enkindles
+your God Arc's true power.
+All Boost Actions inflict
+increased damage and, in your
+ardor, cost less stamina.
+---------------------------------------------------------
+[All Boost Actions Improve]
+
+Your Oracle Cells resonate
+with your God Arc to increase
+resistance to Aragami attacks
+during boosts. Also slightly
+increases your attack damage.
+---------------------------------------------------------
+[All Boost Actions Improve]
+
+Your Oracle Cells resonate
+with your God Arc to increase
+resistance to Aragami attacks
+during boosts. Your attack
+damage also increases further.
+---------------------------------------------------------
+[All Boost Actions Improve]
+
+Superior resonance with your
+God Arc makes you impervious
+to most Aragami attacks during
+boosts, while also increasing
+your attack power.
+---------------------------------------------------------
+[All Boost Actions Improve]
+
+Superior resonance with your
+God Arc grants you iron skin
+during boost actions. Few
+Aragami can even scratch you,
+and your attack damage rises.
+---------------------------------------------------------
+[Boost Rush Improves]
+
+Energy fills your God Arc
+as your wild swings pulverize
+Aragami with explosive force.
+---------------------------------------------------------
+[Boost Rush Improves]
+
+Energy fills your God Arc
+as your wild swings pulverize
+Aragami with explosive force.
+
+Damage is increased.
+---------------------------------------------------------
+[Boost Rush Improves]
+
+Even more energy fills your
+God Arc as your mighty, wild
+swings pulverize Aragami with
+explosive force.
+Attack speed is increased.
+---------------------------------------------------------
+[Boost Rush Improves]
+
+As powerful as they are fast,
+your wild swings could shatter
+a giant boulder.
+
+Attack speed is increased.
+---------------------------------------------------------
+[Boost Rush Improves]
+
+A chain attack that inflicts
+greatly increased damage
+against Aragami weak points.
+---------------------------------------------------------
+[Boost Rush Improves]
+
+A chain attack that inflicts
+even greater damage against
+Aragami weak points.
+---------------------------------------------------------
+[Boost Rush Improves]
+
+The base damage of this
+attack increases, while
+dealing dramatically
+higher damage against
+Aragami weak points.
+---------------------------------------------------------
+[Boost Rush Improves]
+
+A deadly and furious combo
+attack. Its baseline damage
+is improved, but strikes
+against Aragami weak points
+bring out its true worth.
+---------------------------------------------------------
+[Boost Drive Improves]
+
+The speed of a forward charge
+carries into a powerful swing.
+
+While dashing, you can
+withstand some Aragami attacks.
+---------------------------------------------------------
+[Boost Drive Improves]
+
+Built-up energy and the speed
+of a forward charge carry
+into a powerful swing. While
+dashing, you can withstand
+some Aragami attacks.
+---------------------------------------------------------
+[Boost Drive Improves]
+
+Built-up Oracle energy and the
+speed of a forward charge carry
+into a powerful swing. While
+dashing, you can withstand
+stronger Aragami attacks.
+---------------------------------------------------------
+[Boost Drive Improves]
+
+Built-up energy and the speed
+of a forward charge carry
+into a brutal swing. While
+dashing, you can withstand
+stronger Aragami attacks.
+---------------------------------------------------------
+[Boost Drive Improves]
+
+A Boost Drive with
+reduced stamina cost
+and dash distance
+but increased damage.
+---------------------------------------------------------
+[Boost Drive Improves]
+
+A Boost Drive with reduced
+stamina cost and dash
+distance but with even
+higher gains to damage.
+---------------------------------------------------------
+[Boost Drive Improves]
+
+A Boost Drive with reduced
+dash distance and even less
+stamina consumption.
+Damage increases when
+chaining attacks.
+---------------------------------------------------------
+[Boost Drive Improves]
+
+A Boost Drive with a shorter
+dash for a brutal close range
+attack. Stamina cost is reduced
+even further, and damage
+increases over chained attacks.
+---------------------------------------------------------
+description text goes here
+---------------------------------------------------------
+description text goes here
+---------------------------------------------------------
+[□ / △ Attacks Improve]
+
+The Oracle Cells in your
+body resonate with your
+God Arc during chain attacks.
+
+Hits restore stamina.
+---------------------------------------------------------
+[□ / △ Attacks Improve]
+
+The Oracle Cells in your
+body resonate with your
+God Arc during chain attacks.
+Damage is increased.
+Hits restore stamina.
+---------------------------------------------------------
+[□ / △ Attacks Improve]
+
+The Oracle Cells in your
+body resonate with your
+God Arc to perform powerful
+chain attacks.
+Hits restore more stamina.
+---------------------------------------------------------
+[□ / △ Attacks Improve]
+
+Your Oracle Cells and your
+God Arc resonate to obliterate
+Aragami with each swing.
+
+Hits greatly restore stamina.
+---------------------------------------------------------
+[□ / △ Attacks Improve]
+
+Performs chain attacks with
+your Oracle Cells and your
+God Arc resonating in harmony.
+Hits restore stamina along with
+an increased amount of OP.
+---------------------------------------------------------
+[□ / △ Attacks Improve]
+
+Performs solid chain attacks
+with your Oracle Cells and your
+God Arc resonating in harmony.
+Hits restore stamina along
+with an even more OP.
+---------------------------------------------------------
+[Step Attack Improves]
+
+A larger step enables attacks
+from a greater distance.
+
+The step distance is different
+for □ and △ attacks.
+---------------------------------------------------------
+[Step Attack Improves]
+
+A larger step enables attacks
+from a greater distance.
+□ and △ attacks have different
+distances. During activation,
+you can withstand some attacks.
+---------------------------------------------------------
+[Step Attack Improves]
+
+A larger step enables attacks
+from a greater distance while
+withstanding stronger attacks.
+The step distance differs
+between □ and △ attacks.
+---------------------------------------------------------
+[Step Attack Improves]
+
+A mighty step attack that rides
+the power of the wind while
+withstanding stronger attacks.
+The step distance differs
+between □ and △ attacks.
+---------------------------------------------------------
+[Aerial □ Attack Improves]
+
+Gathers Oracle energy for a
+powerful swiping attack.
+
+Additional □ presses can
+chain up to two attacks.
+---------------------------------------------------------
+[Aerial □ Attack Improves]
+
+Gathers Oracle energy for a
+powerful swiping attack.
+
+Additional □ presses can
+chain up to two attacks.
+---------------------------------------------------------
+[Aerial □ Attack Improves]
+
+A powerful swiping attack
+with increased speed.
+
+Additional □ presses can
+chain up to three attacks.
+---------------------------------------------------------
+[Aerial □ Attack Improves]
+
+A faster, more destructive
+swiping attack to smash
+aerial foes to bits.
+Additional □ presses can
+chain up to four attacks.
+---------------------------------------------------------
+Julius's Blood Art.
+
+Capable of granting
+Burst Mode to teammates.
+---------------------------------------------------------
+Ciel's Blood Art.
+
+Uses her Blood Power to
+perceive her enemies, then
+delivers a precise attack
+before backing away again.
+---------------------------------------------------------
+Ciel's Blood Art.
+
+Uses her Blood Power to
+perceive her enemies, then
+delivers a precise attack
+before backing away again.
+---------------------------------------------------------
+Ciel's Blood Art.
+
+Uses her Blood Power to
+perceive her enemies, then
+delivers a precise attack
+before backing away again.
+---------------------------------------------------------
+Ciel's Blood Art.
+
+Uses her Blood Power to
+perceive her enemies, then
+delivers a precise attack
+before backing away again.
+---------------------------------------------------------
+Gilbert's Blood Art.
+
+His rushing attack inspires
+his teammates, raising
+their attack power.
+---------------------------------------------------------
+Gilbert's Blood Art.
+
+His rushing attack inspires
+his teammates, raising
+their attack power.
+---------------------------------------------------------
+Gilbert's Blood Art.
+
+His rushing attack inspires
+his teammates, raising
+their attack power.
+---------------------------------------------------------
+Gilbert's Blood Art.
+
+His rushing attack inspires
+his teammates, raising
+their attack power.
+---------------------------------------------------------
+Nana's Blood Art.
+
+Using this Blood Art
+attracts enemies to her,
+making her the focus of
+their attacks.
+---------------------------------------------------------
+Nana's Blood Art.
+
+Using this Blood Art
+attracts enemies to her,
+making her the focus of
+their attacks.
+---------------------------------------------------------
+Nana's Blood Art.
+
+Using this Blood Art
+attracts enemies to her,
+making her the focus of
+their attacks.
+---------------------------------------------------------
+Nana's Blood Art.
+
+Using this Blood Art
+attracts enemies to her,
+making her the focus of
+their attacks.
+---------------------------------------------------------

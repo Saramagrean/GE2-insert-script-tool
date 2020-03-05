@@ -1,0 +1,38 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0009
+===============================================================
+[00000172:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Gil
+---------------------------------------------------------
+Seperti biasanya, gerakanmu sangat bagus dan cocok seperti 
+yang kuharapkan , tidak ada lagi...<@>
+---------------------------------------------------------
+Sekarang sampai pada ini...Aku bertanya-tanya apakah aku 
+harus bertujuan untuk implementasi yang lebih efisien bukan 
+hanya meningkatkan fungsi dasar God Arc's milikmu...<@>
+---------------------------------------------------------
+Bukankah kamu... Punya permintaan khusus?<@>
+---------------------------------------------------------
+Aku akan mempercayaimu dengan itu!
+---------------------------------------------------------
+Selaraskan dengan hatimu!
+---------------------------------------------------------
+Aku akan memberitahumu saat aku siap sampai nanti, kamu 
+harus sedikit menunggu<@>
+---------------------------------------------------------
+ini God Arc milikmu, jadi setidaknya kamu harus mengatakan 
+sesuatu... Baiklah, Aku mengerti. Kamu sangat 
+mempercayaiku bukan?<@>
+---------------------------------------------------------
+Untuk isi hatimu, huh... Ah, dapet aku akan sesuaikan God 
+Arc agar sesuai dengan caramu<@>
+---------------------------------------------------------

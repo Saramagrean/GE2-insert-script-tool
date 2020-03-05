@@ -1,0 +1,59 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0016
+===============================================================
+[00000200:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Nana
+---------------------------------------------------------
+Kali ini, Kita akan mencampur Restore Pills dengan Soda rasa
+Melon dan Licca mengatakan padaku bahwa itu akan siap besok
+lusa<@>
+---------------------------------------------------------
+Hah, Aku gak sabar!<@>
+---------------------------------------------------------
+Apa saja bumbunya?
+---------------------------------------------------------
+material ini, cara pakainya gimana?
+---------------------------------------------------------
+Yang mereka ucapkan pas itu, jika kita menggunakan God Arc
+di arena pertarungan, itu akan mempercepat Oracle sel untuk
+muncul
+---------------------------------------------------------
+Aku gatau detailnya tapi, jika kualitas rempah-rempah dan
+pemanis didalam Healing Pill buruk, itu tak bisa digunakan
+---------------------------------------------------------
+Oh, Licca juga bilang padaku jika aku punya talenta! dia
+bilang "Mental seperti itu yang tak bisa dicapai melalui
+penelitian"
+---------------------------------------------------------
+Itu memang talenta dalam membuat item kan?
+---------------------------------------------------------
+….Yeah!
+---------------------------------------------------------
+Jadi, rasa apa yang harus kubuat selanjutnya...? dengan
+pengecualian Healing Pill, banyak item untuk ku susun<@>
+---------------------------------------------------------
+Aku akan kembali, ketika kau punya ide bagus!<@>
+---------------------------------------------------------
+Jadi... seingatku... dia bilang untuk mencampurkan semua
+bahan dengan cara mengaduk spesial agar terbentuk suatu cita
+rasa
+---------------------------------------------------------
+Jadi, untuk cita rasanya kau harus mencampur semua bahan
+dengan resep spesial, lalu ini, lalu itu...
+---------------------------------------------------------
+Gak gitu, memasak
+termasuk suatu tipe dari penelitian sains juga!... itu yang
+dikatakan Dr. Sakaki padaku!<@>
+---------------------------------------------------------
+Yeah, bahkan Dr. Sakaki memujiku! memasak sungguh
+menyenangkan!<@>
+---------------------------------------------------------

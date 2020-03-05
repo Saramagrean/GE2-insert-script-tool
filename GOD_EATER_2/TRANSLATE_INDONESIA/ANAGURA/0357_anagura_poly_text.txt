@@ -1,0 +1,36 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0011
+===============================================================
+[00000180:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Kouta
+---------------------------------------------------------
+Tampaknya beberapa reaksi Aragami telah dikonfirmasi di sekitar anagura
+---------------------------------------------------------
+Jika kamu tidak keberatan, bisakah kamu menemaniku dalam misi? aku ingin segera menyelesaikan secepat 
+mungkin
+---------------------------------------------------------
+Terima kasih, aku terselematkan,Kalau begitu, silakan mengajukan permohonan untuk misi ini
+---------------------------------------------------------
+begitu ...... Yah tidak ada cara lain lagi,Tampaknya Aragami tidak menyerang dengan cara ini
+---------------------------------------------------------
+Jika sepertinya itu nyaman, katakan padaku lagi yak
+---------------------------------------------------------
+Serahkan padaku
+---------------------------------------------------------
+Sekarang sedikit ......
+---------------------------------------------------------
+Aragami sudah melihat kita ! ayo kalahkan mereka dengan cepat
+---------------------------------------------------------
+Setelah misi selesai, bisakah kamu datang ke tempatku? ada yang ingin ku bicarakan
+---------------------------------------------------------
+Ups, apakah persiapannya belum?Tolong beritahu aku lagi ketika kamu sudah siap
+---------------------------------------------------------

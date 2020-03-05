@@ -1,0 +1,72 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0023
+===============================================================
+[00000228:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Satsuki
+---------------------------------------------------------
+Maafkan aku, karena tiba tiba berkunjung. Meski demikian, ada 
+beberapa hal yang ingin kutanyakan.....<@>
+---------------------------------------------------------
+Yuno datang untuk melihat asuna yang ada di Friar, sebagai 
+pasien yang mengidap penyakit laba-laba hitam<@>
+---------------------------------------------------------
+Lalu, tentang Profesor Rachel dia tidak akan mengijinkan kami 
+menjenguk dia apapun yang terjadi<@>
+---------------------------------------------------------
+Dia tidak berbela sungkawa, apalagi bertukar surat 
+untuk menyederhanakannya, Kita tidak dapat menghubungi dari luar 
+sama sekali<@>
+---------------------------------------------------------
+Mereka berkata untuk mencegah infeksi... Tapi kadang 
+itu sedikit mencurigakan<@>
+---------------------------------------------------------
+itulah mengapa! aku ingin berbicara denganmu...
+Sekarang, apa ada seseorang yang dapat dipercaya di Friar?<@>
+---------------------------------------------------------
+mungkinkah itu Julius
+---------------------------------------------------------
+Prof. Rachel?
+---------------------------------------------------------
+Direktur biro Grem?
+---------------------------------------------------------
+Operator Fran?
+---------------------------------------------------------
+Yang tersisa hanyalah Fran...
+---------------------------------------------------------
+Uh-huh<@>
+---------------------------------------------------------
+Hah, Aku mengerti<@>
+---------------------------------------------------------
+Oh ho<@>
+---------------------------------------------------------
+Jadi! satu satunya jalan adalah Fran...<@>
+---------------------------------------------------------
+Ah, bukan masalah! Aku tidak bermaksud menyusahkan Ms. Fran
+jadi kau tidak perlu khawatir!<@>
+---------------------------------------------------------
+Aku hanya meminta "Bahan baku" sedit padanya 
+...Hehe<@>
+---------------------------------------------------------
+Baiklah, maaf jika kami mengganggu<@>
+---------------------------------------------------------
+Tidak, aku telah menghubungi Julius tapi
+gagal.....Jadi bagaimana dengan yang lainnya?<@>
+---------------------------------------------------------
+Apakah kau mendengarkan apa yang kukatakan? Dia menolak kami, jadi 
+kami memilihmu.....<@>
+---------------------------------------------------------
+Ah, kakek tua itu!, sepertinya,  dia terlihat seperti orang cabul, jadi tentu saja 
+tidak! apakah tidak ada yang lain?<@>
+---------------------------------------------------------
+Oh...aku mengerti...Aku akan meminta bantuannya! Ah, harus tetap tenang 
+apapun yang terjadi!<@>
+---------------------------------------------------------

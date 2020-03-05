@@ -1,0 +1,65 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0019
+===============================================================
+[00000212:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Gil
+---------------------------------------------------------
+itu mengejutkanku<@>
+---------------------------------------------------------
+getaran disaat charge, menjadi lebih ringan, membuat itu 
+tidak nyaman sebagai pusat gravitasi nya, membuatnya mudah 
+untuk digunakan ketika keseimbangannya pas tuk melangkah<@>
+---------------------------------------------------------
+apa kelebihanya, blood art semakin mudah untuk 
+dikendalikannya...rencanaku itu bisa lebih menghemat 
+tenaga seperti hasil akhir yang kuinginkan...<@>
+---------------------------------------------------------
+dengan sebuat tuning pada jinki, bagaimana bisa bisa banyak 
+di reformasi...<@>
+---------------------------------------------------------
+tuning itu sangat penting
+---------------------------------------------------------
+seorang professional yang hebat
+---------------------------------------------------------
+Licca
+---------------------------------------------------------
+terima kasih aku menghargai mu kamu mau membantu membuat 
+jinki ku menjadi lebih baik <@>
+---------------------------------------------------------
+kalian berdua, jika kalian berpikir... maukah kalian 
+membantu ku lebih lama lagi? ketertarikan ku pada penyetelan 
+dan bagainmana cara membuatnya sekarang sedang mendidih.<@>
+---------------------------------------------------------
+Yeah, kau benar! Kurogane butuh material untuk menjadi 
+sebuah senjata...<@>
+---------------------------------------------------------
+bukankah bagus untuk keahlian mu membuat sebuah senjata 
+setelah kau mendapatkan bantuan dari gil?
+---------------------------------------------------------
+aku harap itu bagus?
+---------------------------------------------------------
+sperti bersalaman
+---------------------------------------------------------
+baiklah,ayo kita mulai jika ide mu membuat senjata mele yang 
+kuat.
+---------------------------------------------------------
+Ah, jika itu benar... sebenarnya, aku tidak pernah berpikir 
+untuk bertindak sejauh ini<@>
+---------------------------------------------------------
+Ah,itu benar... falam kasus kali ini, perasaan itulah yang 
+kudapat...<@>
+---------------------------------------------------------
+Oh, tapi tentu saja! karena kau sudah banya sekali membantu 
+ku keluar selama ini.
+---------------------------------------------------------
+Aah, senang bertemu denganmu<@>
+---------------------------------------------------------

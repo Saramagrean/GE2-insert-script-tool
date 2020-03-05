@@ -1,0 +1,59 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0016
+===============================================================
+[00000200:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Licca
+---------------------------------------------------------
+...kau serius,itu mengejutkanku aku tidak percaya kalau 
+gil punya bakat seperti itu<@>
+---------------------------------------------------------
+kalian membicarakan apa?
+---------------------------------------------------------
+Gil punya bakat?
+---------------------------------------------------------
+Gil
+---------------------------------------------------------
+Oh, tidak,itu bukan sesuatu yang besar...<@>
+---------------------------------------------------------
+hanya saja, dia bilang kepadaku untuk memperlihatkan proses 
+pembuatan dari Substansi penerimaan Gelombang induktif dan 
+aku harus buat didepanya langsung sebagai demonstrasi<@>
+---------------------------------------------------------
+itu sungguh membuatku senang, tapi, mungkin selanjutnya bisa 
+menjadi sesuatu yang besar! Dia belajar hanya dengan melihatku
+saja dan bisa membuatnya sendiri dengan mudah!<@>
+---------------------------------------------------------
+Gil kau sangat bisa melakukan apa saja!
+---------------------------------------------------------
+kau pintar sekali Gil!
+---------------------------------------------------------
+baiklah, jika kalian berdua bisa menyelesaikan semuanya itu 
+akan menjadi bantuan besar untukku ... Gil mungkin saja 
+kau Bisa mengejutkan kami para engineer, siapa tau<@>
+---------------------------------------------------------
+bagaimanapun juga, sekarang aku hanya bisa membuat Inducive 
+Wave reception substance... kita bisa melakukannya lebih 
+efisien mulai sekarang<@>
+---------------------------------------------------------
+ini adalah Inducive Wave reception substance yang pertama 
+kubuat... ambillah<@>
+---------------------------------------------------------
+akan lebih bagus kalau aku bisa membuat jinkinya secara 
+langsung ... aku harap itu akan menjadi jinki yang bagus<@>
+---------------------------------------------------------
+kali ini berjalan baik karena kebetulan... ini semua 
+berkat instruksi dari Licca<@>
+---------------------------------------------------------
+Jangan berharap terlalu tinggi kepadaku... kan aku sudah 
+bilang kali ini berjalan lancar karna ada bantuan dari 
+Licca<@>
+---------------------------------------------------------

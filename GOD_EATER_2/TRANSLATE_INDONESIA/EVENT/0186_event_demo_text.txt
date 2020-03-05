@@ -1,0 +1,84 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0026
+===============================================================
+[00000240:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Ciel
+---------------------------------------------------------
+Um... tentang perasaan aneh ini, aku merasakan peluru
+yang keluar kemarin seperti peluru saat kita keluar bersama
+waktu itu...<@>
+---------------------------------------------------------
+menurut hasil analisis licca, komposisi dari Oracle cells
+didalam peluru penyembuhan berbeda dari biasanya...<@>
+---------------------------------------------------------
+penyimpangan ini menempel dibeberapa cell secara bersamaan,
+sangat sulit untuk menyesuaikannya dan mereka tidak bisa
+digunakan ke tipe senjata yg sama,mereka berevolusi jadi...<@>
+---------------------------------------------------------
+sebagai hasilnya. penyesuaian ke efek penyebuhannya pun
+bertambah, sekarang kita mempunyai peluru penyembuhan yang
+bisa menyembuhkan segala effect buruk...<@>
+---------------------------------------------------------
+...Hm?
+---------------------------------------------------------
+singkatnya ... apabyang kau maksud?
+---------------------------------------------------------
+hipotesis ini masih dugaan, tapi itu sepertinya ini terjadi
+karena adanya gelombang dari blood power milik blood unit
+itu yang kumaksud<@>
+---------------------------------------------------------
+maaf , alu tak mendengarnya
+---------------------------------------------------------
+Blood apa...?
+---------------------------------------------------------
+fenomena itu terjadi karena adanya gelombang blood power
+yang memberikan effek pada peluru melalui jinki dan jadi
+berevolusi seperti "Blood Art" melalui "Power of Will".<@>
+---------------------------------------------------------
+itu dinamakan "Blood Bullet" .sebuah peluru yang
+berevolusi ke tipe yang unik singkatmya ...<@>
+---------------------------------------------------------
+seperti itulah yang dibilang Dr. Sakaki kepadaku... dan
+selanjutnya... Uhm...<@>
+---------------------------------------------------------
+siapa tau, mungkin itu berkat perasaan ciel yang super
+kuat...dia menggodaku seperti itu...<@>
+---------------------------------------------------------
+kau berhasil, apa itu penemuan yang hebat?
+---------------------------------------------------------
+itu hebat!
+---------------------------------------------------------
+ya ...!aku bahagia!<@>
+---------------------------------------------------------
+Licca dan Dr. Sakaki... sangat gembira sperti kamu saat
+ini ... aku senang... aku bisa membantu
+semuanya,meskipun itu hana sedikit<@>
+---------------------------------------------------------
+dan, aku mempertimbangkan unutuk mencoba peluru ini...
+jadi jika kau tidak keberatan, aku ingin pergi
+bersamamu...<@>
+---------------------------------------------------------
+tentu saja! ayo pergi!
+---------------------------------------------------------
+aku akan ikut setelah aku mempersiapkan diri
+---------------------------------------------------------
+aku masih belum mempercayainitu...<@>
+---------------------------------------------------------
+ya...
+---------------------------------------------------------
+ok! baiklag kalau begitu, aku akan menantikannya!<@>
+---------------------------------------------------------
+aku akan menunggumu hingga kausiap,ok?
+---------------------------------------------------------
+baiklah! akunakan menunggumu disini hingga kamu bersiap siap
+<@>
+---------------------------------------------------------

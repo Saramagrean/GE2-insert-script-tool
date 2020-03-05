@@ -1,0 +1,79 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0027
+===============================================================
+[00000244:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Erina
+---------------------------------------------------------
+Barusan, kita telah menjalankan banyak misi bersama tidakkah 
+kau berpikir, ? <@>
+---------------------------------------------------------
+Karna Aku mengatakan Aku mau mencatat gimana cara 
+bertarung
+---------------------------------------------------------
+Itu karna kita kekurangan anggota
+---------------------------------------------------------
+Kau dari Blood Special Unit, sedangkan Aku God Eater dari 
+Far East... Tapi kau tak ememikirkan itu, kan?<@>
+---------------------------------------------------------
+Berbicara Jujur<@>
+---------------------------------------------------------
+Saat kau baru saja datang, Aku menyebut Blood sebagai Unit 
+Elite dari nama saja<@>
+---------------------------------------------------------
+Jadi, Aku terus berpikir, "Tak Mungkin aku kalah dari 
+Blood!"...<@>
+---------------------------------------------------------
+Kenapa kau bertanya, bukankah yang telah bertumpah darah dan 
+berjuang untuk melindungi tempat ini adlah God Eater biasa 
+dari Far East seperti kami...!<@>
+---------------------------------------------------------
+Setiap God Eater punya motivasi yang sama 
+---------------------------------------------------------
+Persaingan bisa juga membantumu mengembangkan diri
+---------------------------------------------------------
+Apa begitu...<@>
+---------------------------------------------------------
+Jadi aku ... < @ >
+---------------------------------------------------------
+Kau tahu ...
+---------------------------------------------------------
+Aku akan berhenti jadi keras kepala!<@>
+---------------------------------------------------------
+Aku akan mengikuti petunjukmu!<@
+---------------------------------------------------------
+Oh benar, Aku akan meniru gaya Cabang Far East dan 
+memnaggilmu senpai!
+---------------------------------------------------------
+kelihatan bagus?<@>
+---------------------------------------------------------
+Well, ok...
+---------------------------------------------------------
+Mengerti, junior!
+---------------------------------------------------------
+Baiklah!<@>
+---------------------------------------------------------
+Baik kalogitu senior, ini membawaku lebih dan lebih ke misi 
+Aku tak menyarankan utk menyampaikan keluhan, karna itu 
+terus naik leibh jauh!
+---------------------------------------------------------
+Itu dia! Ato-sa, Ayo pergi belanja sekarang! dekat rumah 
+Kapten Kota, ada TOSERBA kecil ... 
+---------------------------------------------------------
+Kau benar... <@>
+---------------------------------------------------------
+Aku sangat baik ... < @ >
+---------------------------------------------------------
+ya... sekarang Kau mengerti...<@>
+---------------------------------------------------------
+Yeah ... terima kasih, Aku.. bagus juga bisa bicara 
+denganmu... <@>
+---------------------------------------------------------

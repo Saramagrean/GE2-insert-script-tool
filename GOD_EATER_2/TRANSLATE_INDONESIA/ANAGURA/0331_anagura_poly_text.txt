@@ -1,0 +1,30 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0007
+===============================================================
+[00000164:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Gill
+---------------------------------------------------------
+Bagaimana ini...? apa kamu sudah selesai berpikir?
+---------------------------------------------------------
+Haha, seperti biasa kamu selalu serius ...... Kalau begitu, maukah kamu memberi tahuku lebih 
+banyak
+---------------------------------------------------------
+Itu God Arc milikmu, kau bisa berpikir perlahan sampai yakin ...... Oh, aku mendengarnya dari Rikka 
+......
+---------------------------------------------------------
+Tampaknya kita dapat membangun kembali apa pun sebanyak yang kita kumpulkan bahkan bahan. Mungkin 
+ada satu hal yang harus diputuskan sebagai "blade" saat ini
+---------------------------------------------------------
+pikirkan dalam tiga hari dan tiga malam
+---------------------------------------------------------
+Aku masih memutuskan
+---------------------------------------------------------

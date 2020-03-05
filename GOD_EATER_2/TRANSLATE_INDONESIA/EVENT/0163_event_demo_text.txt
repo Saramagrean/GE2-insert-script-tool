@@ -1,0 +1,48 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0015
+===============================================================
+[00000196:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Kouta
+---------------------------------------------------------
+hmmm?
+---------------------------------------------------------
+Nggak lagi deh... Mereka berdua selalu seperti
+itu...<@>
+---------------------------------------------------------
+Yaa, Kutebak aku nggak bisa membawa unit pertama itu
+bersama...<@>
+---------------------------------------------------------
+Waktu akan menyelesaikannya
+---------------------------------------------------------
+Aku yakin mereka pasti bisa
+---------------------------------------------------------
+Mereka punya bakat masing-masing
+---------------------------------------------------------
+Satu-satunya yang bisa membawa mereka bersama adalah
+dirimu
+---------------------------------------------------------
+...Benar, unit pertama masih tetap unit pertama jadi
+mungkin pendekatan Blood tidak akan berhasip<@>
+---------------------------------------------------------
+Ya, mungkin menyita waktu, tapi akan kulakukan dengan caraku
+sendiri, sedikit demi sedikit. <@>.
+---------------------------------------------------------
+Terima kasih telah mendengarkanku<@>
+---------------------------------------------------------
+Aku kira,bisa dilihat seperti itu...<@>
+---------------------------------------------------------
+Yeahy, mereka pasti ceroboh...<@>
+---------------------------------------------------------
+Kepribadian mereka juga cukup kuat...<@>
+---------------------------------------------------------
+Ahaha, jika kau bilang seperti itu,aku harus nurut<@>
+---------------------------------------------------------

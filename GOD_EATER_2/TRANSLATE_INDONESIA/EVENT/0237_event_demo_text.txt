@@ -1,0 +1,66 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0018
+===============================================================
+[00000208:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Nana
+---------------------------------------------------------
+Kali ini, pasti berhasil... seperti yang Licca ucapkan, 
+kali ini aku akan membuat...<@>
+---------------------------------------------------------
+Kau akan mencambukkan Stun Grenade kali ini?
+---------------------------------------------------------
+Kau akan mencambukkan Jebakan kali ini?
+---------------------------------------------------------
+Licca benar-benar marah padalu setelah terakhir kali aku
+ membuat Nankurunaiza...
+aku dan Professor Sakaki
+ meminta maaf seharian...<@>
+---------------------------------------------------------
+Jadi dia mengatakan padaku untuk satu kali saja
+menciptakan sesuatu yang bukan makanan.<@>
+---------------------------------------------------------
+Jadi aku berpikir sejenak, mungkin dengan Stun Grenade
+ bisa lebih baik.... Variasi cahayanya,
+bukankah itu keren? <@>
+---------------------------------------------------------
+Selama masih bisa berfungsi seperti biasanya, 
+wujudnya tak terlalu penting kan? <@>
+---------------------------------------------------------
+Jadi, aku memutuskan untuk menciptakan Stun Grenade yang
+ lebih indah! Er.. aku tanya Licca dan membujuknya untuk
+ membuatkannya untukku .<@>
+---------------------------------------------------------
+Dan tentu saja tak mungkin aku bisa mencobanya disini, 
+jadi aku berpikir untuk mencobanya diluar 
+setelah misi selanjutnya<@>
+---------------------------------------------------------
+Baiklah! kalo dibolehin, kau ikut ya?
+<@>
+---------------------------------------------------------
+Bagaimana?
+---------------------------------------------------------
+Apa kata nanti dah
+---------------------------------------------------------
+Kalo gitu, aku akan bersiap-siap. <@>
+---------------------------------------------------------
+Yah! kali ini, aku punya ide untuk peningkatan baru
+ pada stun grenade! <@>
+---------------------------------------------------------
+So close! I also thought of that, but this time I had an 
+idea for an improvement to the stun grenade!
+Nyaris saja! aku juga berpikir tentang itu, tapi kali ini aku
+ punya ide untuk peningkatan pada stun grenade!<@>
+---------------------------------------------------------
+Baiklah ayo!<@>
+---------------------------------------------------------
+Ayo euy!<@>
+---------------------------------------------------------

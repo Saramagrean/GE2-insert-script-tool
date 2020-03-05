@@ -1,0 +1,230 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0092
+===============================================================
+[00000504:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+dengan otoritas saat ini, 
+Anda tidak dapat memasuki ruangan
+---------------------------------------------------------
+
+---------------------------------------------------------
+dengan otoritas saat ini, 
+Anda tidak dapat memasuki kamar
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+berdasarkan pengetahuan taktik yang telah aku belajar sejauh ini ... ... 
+Menurut pendapat ku, aku mengusulkan strategi terbaik
+---------------------------------------------------------
+Tapi mengapa ?
+Semenjak aku masuk, efisiensi pertempuran terus menurun
+---------------------------------------------------------
+Setelah semua, ide ku salah?
+Tapi ..... Bahkan jika demikian, Bagaimana kamu melakukannya
+---------------------------------------------------------
+Fran
+---------------------------------------------------------
+Birokrasi Chi-You telah diperintahkan oleh Blood
+ini adalah musuh yang sulit ... ... apakah kamu siap?
+---------------------------------------------------------
+Gill
+---------------------------------------------------------
+Aku tidak menyangkal taktik, tetapi ada juga "udara di tempat kejadian" 
+Berapa banyak kamu dapat menyaring taktik, tapi ada sebuah perbedaan dalam akurasi ......
+ini adalah meja diskusi
+---------------------------------------------------------
+Jika kamu tidak memberitahunya, Ciel akan tetap seperti itu ... ...
+---------------------------------------------------------
+Julius
+---------------------------------------------------------
+Aku mendengar bahwa  efisiensi tempur Blood menurun, Fran
+baik, aku juga memiliki sebuah periode..
+---------------------------------------------------------
+Wakil kapten, melakukannya seperti yang kamu sukai ... ... bagus
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Dia telah dimarahi Ciel karena dia tidak dapat menangani senjata
+---------------------------------------------------------
+Sejak kedekatan perang itu lebih baik, aku bilang aku bisa tinggal seperti 
+itu akan menjadi hambatan besar dalam hal taktik ....
+---------------------------------------------------------
+Jika Ciel berkata, aku akan melakukan sedikit dengan kamu
+Tapi, itu senapan ... ... aku tidak baik
+---------------------------------------------------------
+Petugas Friar
+---------------------------------------------------------
+Jika kamu menggunakan "recovery ball" atau "recovery post"
+kamu juga dapat memulihkan teman-temanmu
+---------------------------------------------------------
+Karena itu pulih lebih dari tablet pemulih, itu adalah produk serbaguna yang dapat digunakan bahkan
+dalam keadaan darurat Ini agak mahal, tapi lebih mudah memilikinya
+---------------------------------------------------------
+Petugas Friar
+---------------------------------------------------------
+Udaranya sepertinya lebih berat dari biasanya ... ...
+Apa yang terjadi?
+---------------------------------------------------------
+Romeo
+---------------------------------------------------------
+Sebagai senior di Blood, aku akan menindaklanjuti Ciel
+Aku berpikir, tetapi tampaknya cantik ... ... itu tidak bekerja dengan baik
+---------------------------------------------------------
+"Aku berharap aku bisa menarik kekuatan bahu kecilku? "
+"Itu benar, kamu harus menggunakan God Eater dengan inersia" ...
+---------------------------------------------------------
+Tidak ... Bukan itu masalahnya ....
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat ? <@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Semua tertulis dalah bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti majalah mode atau katalog
+Aku tidak tahu karena semuanya ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti file teks
+Saya tidak bisa melihatnya karena terkunci<@>
+---------------------------------------------------------
+Модный　журнал
+---------------------------------------------------------
+Дневник
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat ? <@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+tidak melakukan apapun
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat ? <@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Tonton arsip
+---------------------------------------------------------
+tidak melakukan apapun
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat ? <@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Ada banyak taktik terkait file<@>
+---------------------------------------------------------
+"Signal Bullet" mengacu pada item yang digunakan untuk memberikan instruksi kepada kawan dalam misi<@>
+---------------------------------------------------------
+Kisaran pengaruh "Bullet signal" ada dua jenis "Wide area signals" dan "Narrow Range signal"<@>
+---------------------------------------------------------
+"Wide area signal" untuk semua anggota yang berpartisipasi dalam misi
+"Narrow area signal" hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+Ada 4 jenis "sinyal peluru" yang bisa digunakan<@>
+---------------------------------------------------------
+"Wide-area Signal: all hands set", "Narrow-Band Signal: Menunggu penyebaran,"
+"narrow-band signal: Mencari serangan musuh," "narrow-band signal: Set"<@>
+---------------------------------------------------------
+Untuk informasi rinci tentang masing-masing sinyal, lihat "Database"<@>
+---------------------------------------------------------
+"Control Unit" diaktifkan dengan "Burst Skill"<@>
+---------------------------------------------------------
+"Burst skill" menunjukkan efeknya hanya selama burst 
+ini adalah skill khusus<@>
+---------------------------------------------------------
+Selain itu, "control unit" dan keterampilan yang dipasang di dalamnya 
+judul perubahan Menurut<@>
+---------------------------------------------------------
+Aku tidak bisa membukanya karena aku tidak memiliki izin<@>
+---------------------------------------------------------
+Bimbingan Taktik senior: sinyal peluru
+---------------------------------------------------------
+Bimbingan taktik Adven: Control unit
+---------------------------------------------------------
+ＮＯ　ＮＡＭＥ
+---------------------------------------------------------
+Berhenti mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lainnya
+---------------------------------------------------------
+File diatur 
+sangat mudah untuk dilihat<@>
+---------------------------------------------------------
+Dari "Kartu Avatar" bertukar dengan "Avatar" 
+itu adalah seorang teman yang dapat berpartisipasi dalam misi kapan saja<@>
+---------------------------------------------------------
+ada dua cara untuk bertukar "Kartu Avatar" 
+salah satu cara adalah bertukar secara manual  di "multiplayer"<@>
+---------------------------------------------------------
+Yang lainnya adalah "pertukaran dari kartu yg dikirim" 
+hingga 3 kartu dapat bertukar pada satu waktu<@>
+---------------------------------------------------------
+"Kartu Avatar" dapat diperbarui dengan bertukar dengan lawan yg sama
+dengan melakukan "multiplayer" atau "penebusan pertukaran kartu"<@>
+---------------------------------------------------------
+sebagai gaji untuk tugas dilakukan dengan pihak lain 
+"Bahan koleksi avatar" dapat diperoleh<@>
+---------------------------------------------------------
+Catatan Peluru<@>
+---------------------------------------------------------
+"Rebound Bullet" adalah sebuah peluru yang memiliki efek untuk mengembalikan kekuatan fisikmu
+Namun, itu tidak bekerja untuk orang yang menembaknya<@>
+---------------------------------------------------------
+Untuk Peluru dengan sifat yang sangat istimewa
+mesin Dewa penggunaannya terbatas<@>
+---------------------------------------------------------
+Hanya satu bagian, dengan tsubaki kecil dan lindow 
+ada gambar bersama sakuya <@>
+---------------------------------------------------------
+Yang lain relatif adalah foto baru<@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Peluru
+---------------------------------------------------------
+Foto
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Aku mulai, tapi 
+layar rusak dan sulit untuk melihat<@>
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+setiap file terkunci 
+Aku tidak bisa melihatnya<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lainnya00
+---------------------------------------------------------

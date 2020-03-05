@@ -1,0 +1,75 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0022
+===============================================================
+[00000224:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Leah
+---------------------------------------------------------
+Hmm, halo<@>
+---------------------------------------------------------
+Ngomong-ngomong ... Bagaimana keadaan Ciel? Apakah dia
+cocok dengan the Blood?<@>
+---------------------------------------------------------
+Dia luar biasa
+---------------------------------------------------------
+Dia sepertinya agak keluar dari itu
+---------------------------------------------------------
+Ciel berasal dari kelompok militer yang berpengaruh untuk
+memulainya Orang tuanya meninggal, jadi Rachel
+mengadopsinya<@>
+---------------------------------------------------------
+Kembali ke \ "Magnolia Compass ", rupanya Ciel berhasil
+melewatinya pelatihan militer tingkat lanjut yang
+berat...<@>
+---------------------------------------------------------
+Ada tes stres dalam kondisi ekstrim dan kecil kesalahan akan
+menjadi bencana...<@>
+---------------------------------------------------------
+Beberapa saat kemudian, ketika aku melihatnya, dia telah
+menjadi seorang gadis yang akan melaksanakan perintah dengan
+setia ... seperti anjing<@>
+---------------------------------------------------------
+Setelah itu, karena usia mereka dekat, dia ditugaskan
+menjadi pengawal Julius...<@>
+---------------------------------------------------------
+Mungkin itu karena hubungan mereka sebagai pelindung dan
+mereka yang dilindungi tampaknya tidak bisa menjadi
+Teman<@>
+---------------------------------------------------------
+Kenapa kamu memberitahuku ini?
+---------------------------------------------------------
+Apakah itu mengganggu Ciel?
+---------------------------------------------------------
+Sejak datang ke Friar, dia ... sudah sedikit lebih
+lembut, itu tampaknya<@>
+---------------------------------------------------------
+Saya ingin tahu apakah ada sesuatu tentang Blood, tentang
+kau, itu membuatnya begitu? Bahkan Julius lebih mudah
+didekati daripada dirinya saat itu...<@>
+---------------------------------------------------------
+Ciel bisa sangat kikuk ketika ada celah di antara keduanya
+orang dan dirinya sendiri tetapi dia berubah sedikit demi
+sedikit,jadi cobalah bergaul dengannya jika tidak keberatan<@>
+---------------------------------------------------------
+Saya menghargai kau mendengarkan saya Sampai jumpa
+nanti<@>
+---------------------------------------------------------
+Ya, seharusnya sudah jelas<@>
+---------------------------------------------------------
+Apakah begitu...<@>
+---------------------------------------------------------
+Haha, sepertinya Ciel sangat menghormatimu?<@>
+---------------------------------------------------------
+Ya ampun, jadi itu tidak mengganggumu sama sekali?<@>
+---------------------------------------------------------
+Haha, mungkin orang yang paling sering berbicara dengannya
+"Magnolia Compass"\ adalah aku...<@>
+---------------------------------------------------------

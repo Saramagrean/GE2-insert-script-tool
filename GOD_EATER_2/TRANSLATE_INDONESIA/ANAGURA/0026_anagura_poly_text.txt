@@ -1,0 +1,656 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0249
+===============================================================
+[00001132:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+Dengan wewenang saat ini
+Aku tak bisa masuk
+---------------------------------------------------------
+Emile
+---------------------------------------------------------
+Dalam tugas yang sebelumnya..aku berhutang besar padamu
+……Pertama-tama,biarkan aku berterima kasih padamu
+---------------------------------------------------------
+Tidak,itu tidak seberapa……
+---------------------------------------------------------
+Sama-sama
+---------------------------------------------------------
+Kemurnian macam apa ini……！
+Dia tidak hanya memiliki kemampuan...tapi juga keadilan
+---------------------------------------------------------
+Dan kekuatan yang kutunjukkan musuh aragami……
+Kau mungkin menjadi pedang yang membayar dunia yang terbungkus kegelapan
+---------------------------------------------------------
+Saat ini,aku mungkin dibalik layar..tapi！
+Mari kita tetap menjadi rival segera
+---------------------------------------------------------
+Rival？
+---------------------------------------------------------
+Keledai
+---------------------------------------------------------
+Mari kita saling memamerkan pencapaian kita saat bertemu nanti
+Aku sangat menantikan saat itu,kawanku！
+---------------------------------------------------------
+Oh,kawanku...aku sungguh-sungguh menyesal tapi aku terlanjur
+Aku harus kembali ke far east...tapi！
+---------------------------------------------------------
+Fran
+---------------------------------------------------------
+Emile-san ingin berterima kasih padamu
+Aku mencarimu……
+---------------------------------------------------------
+Dr.raquel juga berkata bahwa kau mempunyai cerita
+Pertama-tama,mari tanya pada dokter tentang kita
+---------------------------------------------------------
+Misi baru telah diisukan pada blood
+Apa kau siap？
+---------------------------------------------------------
+Gill
+---------------------------------------------------------
+Anggota baru..kah..
+---------------------------------------------------------
+Ah,aku pikir begitu
+Aku dengar dari romeo
+---------------------------------------------------------
+hahaha,setelah selama ini,bukankah lebih lama kau sebagai god machine？
+Baik senior maupun junior tetap cukup diperut mereka
+---------------------------------------------------------
+Aku baru saja tiba
+---------------------------------------------------------
+Apa kau senang mendapat junior？
+---------------------------------------------------------
+Penggunaan god machine sangat berlimpah disini..yah,itu hal yang bagus
+---------------------------------------------------------
+Entah bagaimana.aku tetap bertahan
+……itulah "kekuatan dari blood"
+---------------------------------------------------------
+Hasilnya bagus karena semuanya baik-baik saja
+Jangan terlalu memaksakan diri,kan？
+---------------------------------------------------------
+Julius
+---------------------------------------------------------
+Anggota baru dijadwalkan untuk datang ke blood
+Tapi dia tak pernah datang ke blood……
+---------------------------------------------------------
+Yep,bagus..biar kuperkenalkan dalam detail segera saat
+kau dipekerjakan
+---------------------------------------------------------
+Ada sesuatu yang ingin kutanya
+---------------------------------------------------------
+Aku mengerti
+---------------------------------------------------------
+Selamat...akhirnya kau membangunkan "kekuatan blood"
+Aku tak bisa memanggilmu pendatang baru lagi
+---------------------------------------------------------
+Blood arts juga bisa digunakan！
+---------------------------------------------------------
+Ah,apa yang membuat blood art tepat untuk "kekuatan blood"
+Tergantung dari senjata yang kau gunakan dan caramu bertarung,akan selalu
+ada variasi dari blood art
+---------------------------------------------------------
+Blood itu..sesuatu..
+Cobalah sesuatu yang bervariasi
+---------------------------------------------------------
+Ah……
+Maaf tentang cerita seperti itu……
+---------------------------------------------------------
+Tentang blast dan shotgun
+---------------------------------------------------------
+Tentang Assault dan sniper
+---------------------------------------------------------
+Aku ingin mendengar dasar dari cara bertarung
+---------------------------------------------------------
+Terima kasih banyak
+---------------------------------------------------------
+Itu adalah tipe barrel yang bisa menembak dengan komsumsi OP
+yang sedikit 
+---------------------------------------------------------
+Kau juga bisa menakuti musuh jika kau mengenainya dengan assault bullet
+Peluru ini tidak cocok untuk menyerang musuh dari belakang
+---------------------------------------------------------
+Direkomendasikan untuk "orang lebih suka usaha daripada kekuatan"
+---------------------------------------------------------
+Ada sesuatu yang bisa memulihkan OP saat menembak assault bullet……
+---------------------------------------------------------
+"drawback shoot" untuk menembak sambil mundur
+Penggunaan ini sangat menentukan hidup atau mati
+---------------------------------------------------------
+Apa itu "assault"？
+---------------------------------------------------------
+Direkomendasikan untuk siapa？
+---------------------------------------------------------
+Beritau aku rahasianya
+---------------------------------------------------------
+Aku ingin mendengar hal lain
+---------------------------------------------------------
+"Sniper" adalah sebuar tipe "barrel" untuk sniper
+Jarak jauh,waktu lebih singkat untuk kena
+---------------------------------------------------------
+Jangkaun dari mode bidikan bervariasi
+Ini sangat tepat untuk "Sniper"
+---------------------------------------------------------
+Direkomendasikan untuk "orang yang suka membidik dari jarak yang jauh"
+---------------------------------------------------------
+Tidak cocok untuk orang yang bertemperamen rendah
+---------------------------------------------------------
+"stealth field" dimana kau bersembunyi dari aragami selama beberapa saat
+Gunakan teknik ini dengan baik
+---------------------------------------------------------
+Tidak bisa digunakan jika sudah ditemukan musuh
+……Ingat itu baik-baik
+---------------------------------------------------------
+Apa itu "sniper？
+---------------------------------------------------------
+Sebuah barrel yang menambah jangkauan tembak dan kekuatan disebut "blast"
+---------------------------------------------------------
+Kekuatan bullet tinggi,dan mengkomsumsi banyak OP……
+---------------------------------------------------------
+Direkomendasikan untuk "orang yang ingin memberi kerusakan besar dengan area yang
+lebar dalam satu tembakan"
+---------------------------------------------------------
+Tidak cocok untuk yang tidak bisa menilai musuh dan temannya 
+Terutama untuk orang yang tidak bisa mempercayai teman dibelakangnya……
+---------------------------------------------------------
+"ORACLE RESERVE" bisa mengstore OP yang tersisa kedalam god machine
+Itu untuk menggunakan skill spesial
+---------------------------------------------------------
+Batas 1000 OP yang bisa distore
+Hal ini sepuluh kali pernyatan awal
+---------------------------------------------------------
+Apa itu "blast"？
+---------------------------------------------------------
+"shotgun" adalah senjata dengan jangkauan panjang..tapi barrelnya
+digunakan untuk pertempuran jarak pendek
+---------------------------------------------------------
+Contohnya,tembakan akan lebih hebat jika objeknya lebih dekat……
+Filosofinya mudah dimengerti kan？
+---------------------------------------------------------
+Direkomendasikan untuk "orang yang suka maju ke lini musuh"
+---------------------------------------------------------
+Dengan kata lain tidak direkomendasikan untuk orang yang bertarung
+dengan jarak yang aman
+---------------------------------------------------------
+"rush fire"...hal ini akan mengurangi interaksi dengan musuh sekaligus
+Saat menembak,mode ini akan berhenti...bagus untuk mengatur waktu
+---------------------------------------------------------
+Mendekatlah dengan senjata jarak dekat dan gunakan di lini depan musuh
+---------------------------------------------------------
+Apa itu "shotgun"？
+---------------------------------------------------------
+Jika ingin bertarung dengan aragami,tidak hanya "fighting art" yang bisa dipakai god machine
+"Taktik" untuk menggenggam posisi dari musuh dan memerintah unit menjadi penting
+---------------------------------------------------------
+Itu benar...dasarnya adalah masih "kekalahan individual"
+Sangat berbahaya untuk bertarung dengan banyak musuh dari depan
+---------------------------------------------------------
+sebelum mengkonflik musuh dalam medan,bersatulah bersama
+Sudah pasti satu demi satu akan hancur
+---------------------------------------------------------
+"Setiap kekalahan individual" memerlukan kerja sama yang tidak dimilik musuh
+Contohnya "zygote",yang dimana memeliki penglihatan tajam
+---------------------------------------------------------
+Jadi,kau harus melawan zygote ditempat yang tak bisa ditemukannya
+Kuncinya adalah harus menghancurkan zygote awal sekali dengan cepat
+---------------------------------------------------------
+Untuk menghancurkan musuh yang terisolasi "dimana-mana"
+Untuk alasan itu,pertimbangkan tempat untuk bertarung agar bisa dikalahkan...oke？
+---------------------------------------------------------
+Dasar dari teknik bertarung adalah "titik potong" dan "Mengamati dengan cermat
+gerakan musuh
+Hal ini terkait dengan semuanya termasuk menebas,menembak dan menghindar
+---------------------------------------------------------
+Jika senggang,periksalah musuh dalam database
+Berdasarkan dari kecocokan antara musuh dan senjata,pililah yang cocok
+---------------------------------------------------------
+Hal apa yang penting saat bertempur？
+---------------------------------------------------------
+Beritau aku taktik yang lebih spesifik
+---------------------------------------------------------
+Beritau aku tentang pendirianmu saat sedang bertarung
+---------------------------------------------------------
+Pertama,kuasai dulu "Dasar cara bertarung"
+Perhatilan gerakan musuh,gunakan senjata jarak dekat,tembak
+dan bertahan disaat yang tepat
+---------------------------------------------------------
+Sebelum menyerang,pikirkan dulu "attributes" dari musuh dan pilih bagian dari
+god machine
+Pililah "attributes" yang menyerang kelemahan musuh..maka pertarungamu
+akan lebih unggul
+---------------------------------------------------------
+Termasuk penting juga untuk memilih dengan baik "attribute" dari "bullet"
+"Bullet" bisa dimodifikasi..biar kujelaskan
+---------------------------------------------------------
+God machine,artefak dari aragami,dibuat dari material bernama "composite core"
+Benda ini dapat dievolusi dengan karakteristis berbeda
+Itulah yang memperkuat god machine
+---------------------------------------------------------
+"composite core" dapat dibuat dari "Synthesis" terminal
+Cobalah
+---------------------------------------------------------
+Bagaimana cara bertambah kuat？
+---------------------------------------------------------
+Aku ingin mesin yang lebih hebat
+---------------------------------------------------------
+Tentang "assault"
+---------------------------------------------------------
+Tentang "sniper"
+---------------------------------------------------------
+Tentang "blast"
+---------------------------------------------------------
+Tentang "shotgun"
+---------------------------------------------------------
+Tentang "tactics"
+---------------------------------------------------------
+Aku ingin menanyakan penjelasan pertama
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Ada orang baru yang datang ke blood！
+Orang macam apa dia?ini akan menjadi semakin hidup！
+---------------------------------------------------------
+Beberapa saat yang lalu,"kekuatan blood" cukup?aku melihatnya!
+Perasaan jenis apa yang kau pakai！
+---------------------------------------------------------
+Seperti yang diharapkan！
+Kapten julius juga terkesima！
+---------------------------------------------------------
+Jadi,dover,atau……
+Sepertinya begitu
+---------------------------------------------------------
+Yah,aku merasa terkesima
+---------------------------------------------------------
+Yah,aku merasa terkesima
+---------------------------------------------------------
+Rachel
+---------------------------------------------------------
+Kekuatan blood dari darah itu
+Faktanya bahwa ia dapat melawan "sensitive species"……
+---------------------------------------------------------
+Itulah kuncinya dari apa yang kita incar,langkah lain yang dekat……
+Fiuh...aku akan berharap sekarang
+---------------------------------------------------------
+Akhirnya aku membangunkan "the power of blood"……
+Selanjutnya julius...kau orang kedua...selamat
+---------------------------------------------------------
+Jadi..apa yang harus kita bicarakan……
+---------------------------------------------------------
+Apakah itu aragami？
+---------------------------------------------------------
+Apa itu "responsive phenomenon"？
+---------------------------------------------------------
+Kenapa kau melawan diriku sendiri？
+---------------------------------------------------------
+Aku mengerti
+---------------------------------------------------------
+Aragami yang kau pukul mundur
+Untuk sementara panggil saja "sensitive species"……
+---------------------------------------------------------
+Aragami yang dipanggil "sensitive species",diperkuat oleh
+"sensitive phenomenon"
+Aku tau aku mencoba mendominasi aragami lain……
+---------------------------------------------------------
+God machine dengan oracle cells sejenis dengan aragami……
+Itulah kenapa god machine dari emile-san terasangkut
+---------------------------------------------------------
+"sensitive phenomenom"
+Sebuah fenomena yang saling mempengaruhi satu sama lain……
+---------------------------------------------------------
+Itu karena yang kau gunakan adalah god machine……
+Dan dengan aragami...fenomena ini mungkin terjadi
+---------------------------------------------------------
+Dengan "responsive phenomenon" yang hebat,hal ini akan melawan
+aturan dari "sensitive species"……
+yap,"blood power" juga sejenis dengan "sensitive phenomenom"
+---------------------------------------------------------
+Ini masih berupa hipotesa bahwa kita bisa melawan "sensitive species"……
+Fiuh..sebagai fakta kau membuktikannya
+---------------------------------------------------------
+Oh,itu benar..apa yang membuatku bahagia adalah sesuatu yang bisa dilanjutkan
+Dan juga,untuk blood,anggota keluarga baru akan bertambah
+---------------------------------------------------------
+Blood yang bisa melawan "sensitive species"
+Masih ada harapan bagi umat manusia……
+---------------------------------------------------------
+Sampai hari itu,semua dalam keluarga ini baik-baik saja……
+Fiuh……
+---------------------------------------------------------
+Romeo
+---------------------------------------------------------
+Dan juga,juniorku akan datang！
+
+---------------------------------------------------------
+
+Blood tiba-tiba akan menjadi keluarga yang besar！
+Seperti yang diharapkan,sebagai stok lama dimana aku tersangkut！
+---------------------------------------------------------
+Oh,kau tampak lelah！
+Jangan kecewa dong！
+---------------------------------------------------------
+Blood arts untuk membangunkan "blood power……
+……Oh,aku juga harus memberitaumu agar tidak kalah！
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Liat file lain
+---------------------------------------------------------
+Semuanya ditulis dalam bahasa rusia<@>
+---------------------------------------------------------
+Terlihat seperti majalah model atau katalog
+Aku tidak mengerti karena semuanya ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Terlihat seperti file berteks
+Terkunci dan tidak bisa dilihat<@>
+---------------------------------------------------------
+Модный　журнал
+---------------------------------------------------------
+Дневник
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Diam saja
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat berkas
+---------------------------------------------------------
+Diam saja
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Terdapat banyak taktik yang terkait dengan file<@>
+---------------------------------------------------------
+"Signal bullet" adalah misi,terhadap teman
+Item yang digunakan saat memberi intruksi！<@>
+---------------------------------------------------------
+Kisaran pengaruh "Bullet signal" ada dua jenis "Wide area signals" dan "Narrow Range signal"<@>
+---------------------------------------------------------
+"Wide area signal" untuk semua anggota yang berpartisipasi dalam misi
+"Narrow area signal" hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+Terdapat 4 jenis "signal bullets" yang dapat digunakan<@>
+---------------------------------------------------------
+"Wide-area Signal: all hands set", "Narrow-Band Signal: Menunggu penyebaran,"
+"narrow-band signal: Mencari serangan musuh," "narrow-band signal: Set"<@>
+---------------------------------------------------------
+Untuk konten yang lebih mendetail,silahkan liat database<@>
+---------------------------------------------------------
+"Control Unit" diaktifkan dengan "Burst Skill"<@>
+---------------------------------------------------------
+"Burst skill" akan menunjukkan efeknya hanya saat burst
+Merupakan skill spesial<@>
+---------------------------------------------------------
+Juga tergantung pada "control unit" dan skill yang terpasang didalamnya maka Title akan berubah<@>
+---------------------------------------------------------
+Tidak bisa membukanya karena tidak memiliki izin<@>
+---------------------------------------------------------
+Advanced tactical guidance : signal bullet
+---------------------------------------------------------
+Advanced tactical guidance : signal bullet
+---------------------------------------------------------
+ＮＯ　ＮＡＭＥ
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Filenya tersusun dengan rapi
+Mudah untuk melihatnya<@>
+---------------------------------------------------------
+Dengan "avatar card" kita bisa bertukar "avatar"
+Ini tentang teman yang bisa ikut dalam misi kapan saja<@>
+---------------------------------------------------------
+Ada 2 cara untuk bertukar "avatar card"
+Yang pertama dapat ditukar saat "multiplayer"<@>
+---------------------------------------------------------
+Yang lain adalah "exchange of passing cards"
+Batas 3 kartu yang dapat ditukar secara bersamaan<@>
+---------------------------------------------------------
+"Avatar card" dapat diupdate dengan bertukar dengan teman yang sama
+dengan melakukan "multiplayer" atau "passing card exchange"<@>
+---------------------------------------------------------
+Sebagai imbalan karena menyelesaikan tugas<dengan anggota lain
+"Material avatar" bisa diambil<@>
+---------------------------------------------------------
+Memo bullet<@>
+---------------------------------------------------------
+"Rebounding bullet" adalah bullet yang memiliki efek memulihkan
+kekuatan fisik
+Tetapi,efeknya tidak bekerja pada diri sendiri<@>
+---------------------------------------------------------
+Untuk Bullet dengan sifat yang sangat istimewa
+penggunaan God arc terbatas<@>
+---------------------------------------------------------
+Hanya 1  bagian dimana foto lindow dan tsubaki waktu kecil
+bersama dengan sakuya<@>
+---------------------------------------------------------
+Foto yang lain relatif baru<@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Bullet
+---------------------------------------------------------
+Foto
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Aku memulainya,tapi
+Tampilannya rusak dan susah untuk dilihat<@>
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Setiap file terkunci
+Kau tak bisa melihatnya<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Demian
+---------------------------------------------------------
+Apa kau sudah menemukan senjata untukmu nanti？
+Akan kuberitau kau semuanya yang ingin kudengar！
+---------------------------------------------------------
+Pagi!Bagaimanapun ,masih ada juga batas untuk menjelaskan dengan mulut
+Pastinya "database" juga akan berguna setiap saat！
+---------------------------------------------------------
+Jika kau ingin tau detail seperti cara menggunakan teknik
+Kau harus mengecek "database"..pastinya itu akan berguna
+---------------------------------------------------------
+Karena kau akan berada disini cukup lama,jika ada yang ingin
+kau dengar,datanglah kapan saja！
+Pertarungan jarak dekat adalah kunci dari pertempuran..perbiasakannlah
+---------------------------------------------------------
+Aku ingin review
+---------------------------------------------------------
+Beritau aku cara menggunakannya
+---------------------------------------------------------
+Sampai jumpa
+---------------------------------------------------------
+Shinkansen dapat mengganti style bertarung pada jarak dekat dan jauh……
+Jadi,itu yang harus kuajar dalam dasar latihan
+---------------------------------------------------------
+Bahkan juga,itu tergantung dari caramu menggunakan senjata
+Kemungkinan sukses dalam tugas berubah drastis
+---------------------------------------------------------
+Pertama-tama,cobalah berbagai hal
+Jika kau cocok dengan senjata melee,keefektifan pertarungan akan
+meningkat
+---------------------------------------------------------
+Bagaimana pun,jenis senjata adalah bertipe "blade" dan "pole"
+Dan dipisihkan menjadi 2 tipe
+---------------------------------------------------------
+Tiga tipe diklasifikasi sebagai tipe "blade"
+Dua dipe diklafikasi sebagai tipe "pole……
+---------------------------------------------------------
+Jadi,aku rasa tidak usah membahasnya lagi
+
+---------------------------------------------------------
+Tips saat bertarung？
+---------------------------------------------------------
+Apa itu senjata melee？
+---------------------------------------------------------
+Aku ingin mendengar hal lain
+---------------------------------------------------------
+Senjata yang menyerang dengan kerja kaki dan tangan dan berjarak pendek
+Itu adalah sebuah pedang "short"！
+---------------------------------------------------------
+Tampaknya mungkin senjata yang simpel
+Mungkin ada metode menyerang yang kau tak ketahui
+---------------------------------------------------------
+Direkomendasikan untuk orang yang lebih suka taktik "hit & away tactics"
+dilini depan
+Potong,tebas,kabur!itu doang
+---------------------------------------------------------
+Juga fitur berjalan diatas udara
+Menari dalam akrobat juga terdapat kesenangan tersendiri！
+---------------------------------------------------------
+Aku cocok dalam menebas tak hanya memotong tapi mempunyai atribut "penetration"
+Ada juga fitur "burst" dimana akan memberimu sensasi abnormal！
+---------------------------------------------------------
+Tapi berhati-hatilah dengan "stamina"!sesegaralah bernafas
+Dalam artian yang aneh tapi..kau bisa lakukan apapun！
+---------------------------------------------------------
+Apa itu pedang "short"？
+---------------------------------------------------------
+Direkomendasikan untuk siapa?
+---------------------------------------------------------
+Beritau aku rahasianya
+---------------------------------------------------------
+kekuatan,mobalitas dan 3 kali lipat denyut
+Itulah sebuah "long" blade
+---------------------------------------------------------
+Intersesinya jauh lebih panjang dari "short" blade..kau bisa melangkah
+dan menyerang……
+Pedang yang seimbang
+---------------------------------------------------------
+Aku merekomendasikannya untuk "orang yang suka menyerang bertubi-tubi"な
+---------------------------------------------------------
+Serangan bertubi-tubi dengan "zero stance" dengan memulihkan
+senjatanya dengan shakien！
+Untuk mengakhiri seranganannya,dilakukan satu tebasan kuat！
+---------------------------------------------------------
+Cara menyatukan "impulse edge" menjadi serangan
+Kupikir ini akan menjadi penting
+---------------------------------------------------------
+Dari stored barrel,kau bisa sepenuhnya menembakan tembakan kuat
+Hal ini adalah fitur besar dari "long" blade untuk menembak tanpa mengganti barrel！
+---------------------------------------------------------
+Apa itu "long" blade？
+---------------------------------------------------------
+Dibandingkan dengan blade yang lain,"heavy" blade mempunyai
+jangka dari kekuatan dan intersensi
+Pedang yang bagus...itulah "buster" blade！
+---------------------------------------------------------
+Hanya ada rasa berat,dan dengan attribut "crush"
+---------------------------------------------------------
+Aku merekomendasikannya pada "orang yang mengamati pergerakan musuh
+dengan saksama"
+Kau bisa bergerak dengan tenang
+---------------------------------------------------------
+"Charge crash" memberikan kerusakan berat
+Itu karena ada kemungkinan tak bisa dipakai dengan baik
+---------------------------------------------------------
+Dalam "paring upper" kau bisa menghitung aragami
+Bertahanlah secepatnya dengan "advanced guard"……
+---------------------------------------------------------
+Walaupun pergeraknnya lambat,tapi kau bisa bertahan dan mengcounter
+dengan baik
+Itulah fitur dari "buster" blade！
+---------------------------------------------------------
+Apa itu "buster" blade？
+---------------------------------------------------------
+Bagaimana pun ini adalah senjata yang berat dan lambat..kau salah！
+Mungkin ia berat tapi itu hanyalah tampilan pertamanya！
+---------------------------------------------------------
+Jika kau lakukan "boost start",kau akan mempunyai kecepatan kilat！
+Kecepatannya cukup untuk mengejutkan
+---------------------------------------------------------
+Aku merekomendasikannya untuk "orang yang hanya suka mengalahkan musuh begitu saja"
+Kekuatan dari serangan fatal..kau bisa mengalahkan musuh dengan "boost launch"
+---------------------------------------------------------
+Akan tetapi,"boost start" sangat mengkomsumsi stamina
+Apakah kau bisa mengendalikannya atau tidak akan menjadi kunci
+---------------------------------------------------------
+Seranga bootstroke berasal dari "boost start""boost rush"
+Rush blow berasal dari "boost start""boost drive"
+---------------------------------------------------------
+Teknik "boost impact" berhubungan dengan kedua itu
+Kau bisa memberikan kerusakan yang sangat hebat jika bisa menggunakannya
+dengan baik！
+---------------------------------------------------------
+Apa itu "boost hammer"？
+---------------------------------------------------------
+Pedang yang bisa menyerang dengan mobalitas dan kekuatan penetrasi
+itulah "charge power"！
+Seperti namanya,"charge spear" memiliki atribut "charge"
+---------------------------------------------------------
+Direkomendasikan untuk "orang yang suka dengan taktik hit & away" di lini depan
+Apakah sama dengan "short" blade?hahahaha,nggak lah njer！
+---------------------------------------------------------
+"Charge glide" dimana kau bisa menerobos dari tanah atau udara,sangat bagus
+jika ingin menghindar
+"Black flip"....pedang yang dispesialisasikan untuk charge！
+---------------------------------------------------------
+Kombo serangan setelah "charge glide" juga harus dilihat！
+Kekuatan serangannya akan bertambah seiring waku！
+---------------------------------------------------------
+Bersama dengan taktik hit and away,kombo yang solid dan ketajaman kemampuan
+fisik
+Jika kau bisa menggunakannya,pertarungan akan menjadi lebih menyenangkan
+---------------------------------------------------------
+Apa itu "charge spear"？
+---------------------------------------------------------
+Tentang "short" blade
+---------------------------------------------------------
+Tentang "long" blade
+---------------------------------------------------------
+Tentang "buster" blade
+---------------------------------------------------------
+Tentang "boost hammer"
+---------------------------------------------------------
+Tentang "charge spear"
+---------------------------------------------------------
+Tipe "blade"
+---------------------------------------------------------
+Tipe "pole"
+---------------------------------------------------------
+Aku ingin menanyakan penjelasan pertama
+---------------------------------------------------------

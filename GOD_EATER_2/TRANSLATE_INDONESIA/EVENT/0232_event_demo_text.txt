@@ -1,0 +1,57 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0017
+===============================================================
+[00000204:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Nana
+---------------------------------------------------------
+Tadah! ini adalah jebakan tipe baru! Nana yang buat!<@>
+---------------------------------------------------------
+Oh....?
+---------------------------------------------------------
+Biasa saja...
+---------------------------------------------------------
+Aragami kadang tahu jika ada jebakan dan cukup pintar untuk
+ menghindari jebakan itu <@>
+---------------------------------------------------------
+Jadi aku memasukkan hal-hal yang sepertinya disukai Aragami
+ sehingga lebih mudah menangkap mereka 
+---------------------------------------------------------
+Oh aku mengerti...!
+---------------------------------------------------------
+Tak terduga dan brilian.....!
+---------------------------------------------------------
+Cara pakainya gimana...?
+---------------------------------------------------------
+Inside the battle field there are many places where the 
+Aragami feed right? You could Insert a trap in the ground of 
+that location
+Di arena pertarungan ada banyak tempat untuk Aragam
+i makan kan? kau bisa menyelipkan jebakan
+ di tempat itu<@>
+---------------------------------------------------------
+Di tanah....?
+---------------------------------------------------------
+Ya gitu deh...
+---------------------------------------------------------
+Ah, Licca juga menunjukkan respon yang sama! walaupun
+ aku menduga itu benda yang bagus ...<@>
+---------------------------------------------------------
+.....yahh, baiklah, ayo kita tes benda ini! tak ada tanda-tanda
+ kemunculan Aragami, kuy lah Captain<@>
+---------------------------------------------------------
+Penampilan luarnya tak berubah banyak, tapi yang terpenting yaitu bagian dalamnya~~
+---------------------------------------------------------
+Tydac tydac, yang terpenting kali ini adalah bagian yang tak bisa
+ kita lihat~~
+---------------------------------------------------------
+ya kan?<@>
+---------------------------------------------------------

@@ -1,0 +1,62 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0015
+===============================================================
+[00000196:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Kota
+---------------------------------------------------------
+Kami menetap di dalam bangunan yang bernama "Dinding Baja
+Anti-Aragami" yang mampu melindungi Anagura dari serangan
+Aragami<@>
+---------------------------------------------------------
+dan lagi luasnya pun jauh sampai ke depan sana, adapun di
+bagian luar dinding... Itu bagi mereka yang hidup yang tidak
+memenuhi syarat untuk masuk kedalam Anagura<@>
+---------------------------------------------------------
+Maksudku, jika ada Aragami yang bisa melewati dinding ini
+padahal sudah dilengkapi senjata tingkat atas itu artinya
+pertanda buruk<@>
+---------------------------------------------------------
+Itu sebabnya setiap kali kita menemukan faktor-faktor
+beresiko seperti saat ini sangat perlu untuk personel yang
+ada untuk mengantisipasi dan melenyapkan mereka<@>
+---------------------------------------------------------
+Apakah dinding ini akan bereaksi?
+---------------------------------------------------------
+Jadi kita harus melindungi dinding ini?
+---------------------------------------------------------
+Dinding ini tidak lebih dari sebuah perisai di skenario
+terburuk Bagaimanapun kita harus melindungi rumah kita
+dengan tangan kita sendiri semestinya<@>
+---------------------------------------------------------
+Oh, sepertinya sudah waktunya. Baiklah, ayo pergi!<@>
+---------------------------------------------------------
+Pada awalnya, aku ragu apakah benda ini sungguh bisa
+melindungi kita dari Aragami juga, kau lihat, mereka
+benar-benar makan apapun<@>
+---------------------------------------------------------
+Tapi aku sudah memikirkannya lama dan terus-terusan, apa
+itu, lagi... Oh ya, ini dia<@>
+---------------------------------------------------------
+Lagi pula, ini diproduksi dari barang-barang dengan beberapa
+jenis sel Oracle dari Aragami yang membuat mereka kurang
+enak untuk Aragami<@>
+---------------------------------------------------------
+Ini juga perlu kinerja perawatan ketika datang spesies
+Aragami baru, pada dasarnya ini tidak bisa ditembus<@>
+---------------------------------------------------------
+Tidak seperti dinding Aragami yang tak bisa ditembus baik
+Aragami yang berevolusi setiap hari, jadi perawatan adalah
+suatu keharusan<@>
+---------------------------------------------------------
+Untuk mempertahankan perawatan, kami, God Eater akan terus
+menjalankan misi dan mengambil inti Aragami<@>
+---------------------------------------------------------

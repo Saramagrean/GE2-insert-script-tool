@@ -1,0 +1,41 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0011
+===============================================================
+[00000180:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Gil
+---------------------------------------------------------
+Bergandengan dengan orang lain untuk sesuatu seperti 
+ini... Tak seburuk yang kukira<@>
+---------------------------------------------------------
+Barusan Aku telah belajar dari Licca tidak hanya untuk 
+mengembangkan God Arc, tetapi juga teknologi terbaru yang 
+dalam pengembangan... Mereka sangat intens...<@>
+---------------------------------------------------------
+Teknologi mana yang dalam pengembangan?
+---------------------------------------------------------
+Apa kau bicara hal lain?
+---------------------------------------------------------
+Aku akan mengisimu di detail nanti Mungkin akan menyita 
+waktu<@>
+---------------------------------------------------------
+Omong-omong, Mengapa tidak kita coba God Arc yang baru 
+selesai ini?<@>
+---------------------------------------------------------
+Siap!
+---------------------------------------------------------
+Aku belum siap...
+---------------------------------------------------------
+Okay... Ayo coba nanti<@>
+---------------------------------------------------------
+Lalu, katakan padaku kapanpun kau siap Aku akan 
+menunggu<@>
+---------------------------------------------------------

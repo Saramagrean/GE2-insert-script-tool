@@ -1,0 +1,34 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0007
+===============================================================
+[00000164:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Licca
+---------------------------------------------------------
+Ini Licca, kau bisa mendengarnya? Sepertinya God Arc-mu
+sudah siap<@>
+---------------------------------------------------------
+Aku klarifikasi sekali lagi, tapi kau tak perlu memerhatikan
+aku<@>
+---------------------------------------------------------
+Sekarang, kita hubungkan purwarupa Link Support Device ke
+God Arc-mu<@>
+---------------------------------------------------------
+Ini bekerja secara independen dari God Arc, simulasi Oracle
+cells di dalam tubuhmu Singkatnya, kau akan mendapatkan
+"Attack Boost"<@>
+---------------------------------------------------------
+...Okay, semuanya bekerja dengan baik Baik God Arc maupun
+Link Support Device sudah siap!<@>
+---------------------------------------------------------
+Aku akan mengawasimu, maju dan cobalah Mungkin akan
+menyenangkan...!<@>
+---------------------------------------------------------

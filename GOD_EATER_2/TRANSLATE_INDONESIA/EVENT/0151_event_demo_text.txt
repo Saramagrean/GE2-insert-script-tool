@@ -1,0 +1,47 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0012
+===============================================================
+[00000184:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Canon
+---------------------------------------------------------
+Aku mengerti sekarang! Hal yang sana! Recovery bullets
+menjadi gila!<@>
+---------------------------------------------------------
+Mereka berubah jadi recovery bullets yang mendapatkan status
+effects! Walaupun aku hanya menembakkan recovery
+bullets!<@>
+---------------------------------------------------------
+Hal yang mengerikan berada di luar ekspetasiku teraasa
+seperti God Arc membuatku senang...!<@>
+---------------------------------------------------------
+Bukankah itu Blood Bullet?
+---------------------------------------------------------
+Tidak, ini pasti Blood Bullet...
+---------------------------------------------------------
+Blood... tidak mungkin, Aku tidak ingat menggunakannya
+Bagaimanapun , aku harus membuang peluru itu dan mengambil
+recovery bullets lagi...!<@>
+---------------------------------------------------------
+Pemborosan! Menggunakan keduanya lebih baik!
+---------------------------------------------------------
+Jangan mudah menyerah!
+---------------------------------------------------------
+Eh!? Kurasa...?<@>
+---------------------------------------------------------
+Ah... Kau telah mengucapkannya, betul tidak ada
+ketidakgunaan dari recovery bullets yang bisa menambahkan
+status effects...!<@>
+---------------------------------------------------------
+...Terimakasih Tuhan! Aku berhutang padamu! Bagaimanapun
+Aku cenderung untuk menjadi rabun ketika aku
+kebingungan...<@>
+---------------------------------------------------------

@@ -1,0 +1,73 @@
+NAMA:event_scr_text
+ENCODING:UTF-8
+CRLF:\n
+ID:
+TYPE:
+JUMLAH_STRING:0027
+===============================================================
+[00000244:00000512:00002015:00066133:00000250:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+ Ini adalah Kekuatan Blood unit
+---------------------------------------------------------
+Satsuki kau mungkin masih dapat bertarung kau segera siapkan 
+untuk itu!
+---------------------------------------------------------
+Aku tahu,kok!
+---------------------------------------------------------
+Bidang yg tak seimbang dapat menganggu
+---------------------------------------------------------
+ini sama dengan waktu itu ... ... ini adalah medan gerhana 
+yg yak merata untuk mengakhiri pertemuan!
+---------------------------------------------------------
+Satsuki apakah kau sudah siap untuk itu?
+---------------------------------------------------------
+Disini Satsuki sudah siap! Anda dapat memulainya kapan saja, 
+bagaimanapun juga!
+---------------------------------------------------------
+Sudah dimulai!
+---------------------------------------------------------
+Blood, pergi kebawah!
+---------------------------------------------------------
+Bidang tidak seimbang, bahkan perubahan bisa menjadi lebih 
+signifikan
+---------------------------------------------------------
+Satsuki, ayo mulai!
+---------------------------------------------------------
+Aku akan kembali ke lobi!Relay,tolong bergabung dengan 
+semua! Yuno Keluar!
+---------------------------------------------------------
+Hu ... ... Fuuuu ....
+---------------------------------------------------------
+Ini booth PA, juga sedikit agak bodoh ...
+---------------------------------------------------------
+Nona Satsuki! Ada apa?
+---------------------------------------------------------
+Sesuatu yang luar biasa ... ... datang!
+---------------------------------------------------------
+Nona Satsuki, anda tidak apa-apa?
+---------------------------------------------------------
+Semua orang di cabang Far East ....
+---------------------------------------------------------
+Bisakah Anda mendengarku cabang Far East? Di sini, Kouta Oh, 
+dan!
+---------------------------------------------------------
+Ya, saya mendengarnya!
+---------------------------------------------------------
+untuk kali ini serahkan pada kami!
+---------------------------------------------------------
+Aku mengerti. Bersenang-senanglah!
+---------------------------------------------------------
+Ada dua sumber bidang yang tidak seimbang ... ...
+---------------------------------------------------------
+Akhiri pertemuan, aku akan datang!
+---------------------------------------------------------
+aku akan kalah ... ...?
+---------------------------------------------------------
+Nona Yuno?
+---------------------------------------------------------
+Sisi yg kubu tak seimbang membuat sisi kubu Blood melemah
+---------------------------------------------------------

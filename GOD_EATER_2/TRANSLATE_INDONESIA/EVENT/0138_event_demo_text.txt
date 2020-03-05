@@ -1,0 +1,28 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0005
+===============================================================
+[00000156:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Haruomi
+---------------------------------------------------------
+jika kau bertanya kemana inez dia sudah pergi sekarang,
+dia hanya singgah sebentar disini...<@>
+---------------------------------------------------------
+aku ingin menunjukan padanya keindahan dari far east
+bunga bunga yg bermekaran, 4 musim yg datang dan pergi.<@>
+---------------------------------------------------------
+kau tau aku sangat mencintai far east branch aku sudah 
+pergi ke seluruh belahan dunia, tapi tidak ada tempat yg 
+seindah seperti disini<@>
+---------------------------------------------------------
+itulah kenapa, semuanya sangat menikmati pemandangan disini 
+selagi bisa...!<@>
+---------------------------------------------------------

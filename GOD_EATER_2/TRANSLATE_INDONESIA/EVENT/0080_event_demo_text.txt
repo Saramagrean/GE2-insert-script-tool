@@ -1,0 +1,42 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0010
+===============================================================
+[00000176:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Ciel
+---------------------------------------------------------
+saat aku menemukannya pertama kali dia sangat pemalu,tapi 
+sekarang dia sudah bisa mendekatimu dengan cepat<@>
+---------------------------------------------------------
+dia selalu menggigit ku setiap hari,tapi aku tidak akan 
+menyerah merawatnya,aku sangat senang karena 
+aku bisa...<@>
+---------------------------------------------------------
+tapi tunggu aku teringat sesuatu, ketika nana datang untuk 
+berkata haloo dan dia langsung menjadi sangat dekat dengan 
+Nana ...<@>
+---------------------------------------------------------
+dan setiap kali Erina datang dia hampir saja menjatuhkannya 
+untuk bermain dengannya , <@>
+---------------------------------------------------------
+lain kali, aku akan melaporkan hasil analisis dari blood 
+bullet kepadamu<@>
+---------------------------------------------------------
+seperti peluru lainnya blood bullet hanya terbatas pada satu 
+tipe senjata saja<@>
+---------------------------------------------------------
+dan mulai sekarang aku akan melakukan riset pertarungan 
+jarak dekat dan...
+---------------------------------------------------------
+(katcang bangsad :'v)<@>
+---------------------------------------------------------
+...hey kapten apakamu mendengarkan :' ? <@>
+---------------------------------------------------------

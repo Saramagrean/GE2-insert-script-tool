@@ -1,0 +1,40 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0010
+===============================================================
+[00000176:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Alisa 
+---------------------------------------------------------
+Oh, itu tepat sekali.Ada sesuatu yang ingin
+kutanyakan padamu 
+---------------------------------------------------------
+Beberapa hari yang lalu, ada laporan bahwa Alagami menetap
+di bekas area bendungan Aku diminta untuk berangkat
+dari markas ... ... 
+---------------------------------------------------------
+Jika proyek-proyek lain dibersihkan terlebih dahulu,
+namun benih jenis besar lainnya
+Sepertinya dia sudah menetap di bendungan ...... 
+---------------------------------------------------------
+Aku minta maaf! Mengganggu mu dengan kesalahan ku ......
+Terima kasih! 
+---------------------------------------------------------
+Ayo bantu 
+---------------------------------------------------------
+Sekarang sedikit ... 
+---------------------------------------------------------
+Apakah kamu ingin mengkonfirmasi detail misi lagi? 
+---------------------------------------------------------
+Bisakah Kamu memberi tahu ku jika Kamu kembali dari misi?
+aku ingin mengajak mu bekerja sama mengenai suatu hal
+---------------------------------------------------------
+OkeJika tampaknya nyaman, tolong katakan padaku lagi 
+---------------------------------------------------------

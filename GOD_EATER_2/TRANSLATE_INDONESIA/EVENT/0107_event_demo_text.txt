@@ -1,0 +1,107 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0036
+===============================================================
+[00000280:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Erina
+---------------------------------------------------------
+Hey...<@>
+---------------------------------------------------------
+... Apa ad tipe yang tidak ingin kau bawa dalam misi?<@>
+---------------------------------------------------------
+...Tak ada?<@>
+---------------------------------------------------------
+Orang-orang yang datang terlambat tak baik, Ku kira...
+---------------------------------------------------------
+Aku tak suka mendapat friendly fire, mungkin...
+---------------------------------------------------------
+Aku tak bicara soal itu!<@>
+---------------------------------------------------------
+Ini seperti, kau menyukai mereka, atau membenci mereka, hal 
+seperti itu yang Ku bicarakan mengenai perasaanmu<@>
+---------------------------------------------------------
+begitu Amatir untuk mencampurkan masalah pribadi dengan 
+urusan kerja
+---------------------------------------------------------
+Aku coba tuk tidak mempertimbangkan hal-hal semacam itu
+---------------------------------------------------------
+Hphm, bukankah kau yang dewasa...<@>
+---------------------------------------------------------
+Tapi hey, bagaimana jika patnermu seperti orang lain yang 
+mungkin menyukai atau membencimu...<@>
+---------------------------------------------------------
+Gimana jika mereka seseorang yang terlalu 
+mempertimbangkan...? <@>
+---------------------------------------------------------
+Ku punya kakak yang keren, baik and God Eater Far East yang 
+luar biasa...<@>
+---------------------------------------------------------
+Tapi tiga tahun lalu, dia menjalankan misi dan tidak datang 
+kembali<@>
+---------------------------------------------------------
+Saat itu Aku tak ingin percaya kakakku tak ada lagi disini 
+dan terus menangis, memikirkan kenapa bisa menjadi seperti 
+itu...<@>
+---------------------------------------------------------
+...Lalu Aku sadar bahwa selama Aragami ada, hal seperti ini 
+akan terus muncul di Dunia<@>
+---------------------------------------------------------
+Jadi, Ayo buat dunia tanpa Aragami, demikian kuputuskan 
+Kukan menjadi seorang God Eater<@>
+---------------------------------------------------------
+Aku pikir itu luar biasa
+---------------------------------------------------------
+Itu hal hebat untuk dilakukan
+---------------------------------------------------------
+Terima kasih<@>
+---------------------------------------------------------
+Saat aku bergabung dengan Fenrir, hal yg paling pertama 
+kulakukan adlah menginvestigasi kecelakaan kakakku Dia
+menjalankan misi terakhirnya bersama teman dekatnya, Soma<@>
+---------------------------------------------------------
+Kakakku selalu memuji orang itu sbg seseorang yang
+"salah paham, belum memikirkan perasaan orang"<@>
+---------------------------------------------------------
+Soma mendapat rumor buruk yang datang padanya... ...Aku 
+mengerti meskipun, sebagai sesama God Eater<@>
+---------------------------------------------------------
+Itu terserah padamu tuk melindungi dirimu sendiri jadi ini 
+sungguh salah mencemo'ohi Soma<@>
+---------------------------------------------------------
+Tapi kelihatannya orang itu dah menyalahkan dirinya sendiri 
+karna ia gagal menyelamatkan Kakakku tepat di depan 
+dirinya...<@>
+---------------------------------------------------------
+Aku...<@>
+---------------------------------------------------------
+Aku telah ditugaskan untuk menjalankan misi bersama 
+Soma<@>
+---------------------------------------------------------
+Kapanpun kita dalam misi sebelumnya, ia tak membiarkanku 
+melakukan apapun selain menjaga bagian belakang Ini jelas 
+menyakitkan bahwa ia jadi terlalu perhatian...<@>
+---------------------------------------------------------
+Sejak itu, Aku menghindari menjalankan misi bersama dirinya, 
+Maksudku...<@>
+---------------------------------------------------------
+Kau tahu ...
+---------------------------------------------------------
+Mau aku ikt?
+---------------------------------------------------------
+Bagaimana kalau kita pergi bareng
+---------------------------------------------------------
+Um...<@>
+---------------------------------------------------------
+Karna Aku mungkin aku tidak menyampaikannya dengan 
+benar...<@>
+---------------------------------------------------------
+Aku mengandalkanmu…!<@>
+---------------------------------------------------------

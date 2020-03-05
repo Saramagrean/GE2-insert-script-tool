@@ -1,0 +1,81 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0028
+===============================================================
+[00000248:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Haruomi
+---------------------------------------------------------
+kau telah menemaniku dalam pencarian yang begitu lama...
+dan sekarang sudah didepan mata<@>
+---------------------------------------------------------
+apa kamu ingat kita sudah berbicara tentang bagian wanita
+yang ingin dilihat pria ...<@>
+---------------------------------------------------------
+saat itu, aku menolak melihat oppai... itu sudah banyak
+mengganguku sejak lama<@>
+---------------------------------------------------------
+aku salah! maaf kan aku<@>
+---------------------------------------------------------
+memang, oppai itu adalah...!<@>
+---------------------------------------------------------
+aku tau kalau orang dewasa itu tidak perlu
+menyembunyikannya...<@>
+---------------------------------------------------------
+hanya satu yang membuat ku tertarik...itu adalah
+kau<@>
+---------------------------------------------------------
+jika dunia adalah limgkaran yang tiada akhir mungkin tujuan
+kita sudah terlihat dari awal...<@>
+---------------------------------------------------------
+aku malu betapabsombong nya aku!
+---------------------------------------------------------
+Aah, itu sebenarnya rahasia dari dunia ini...!
+---------------------------------------------------------
+aka mendapatkan hasil yang tak terduga...!<@>
+---------------------------------------------------------
+kamu merenndahkan diri untuk membimbingku, bahkan aku sudah
+tau semuanya...<@>
+---------------------------------------------------------
+...kamu sudah tau itu sebenarnya dari awal. pria akan
+kembali ke oppai seorang wanita<@>
+---------------------------------------------------------
+kamu benar kali ini
+---------------------------------------------------------
+jika kita bermain dengan aturan, aku keluar
+---------------------------------------------------------
+ayo kita kembali... ketanh yang dijanjikan, dimana hidup
+kita dibuat...!<@>
+---------------------------------------------------------
+kau tidak ikut denganku?<@>
+---------------------------------------------------------
+izinkan aku memanggilmu dengan sebutan suhu...!
+---------------------------------------------------------
+bukankah kita bekerja sama untuk tujuan bersama
+---------------------------------------------------------
+terima kasih...!<@>
+---------------------------------------------------------
+aku mendapatkan model yang tepat untuk kali ini, tapi...
+setelah kita bersalaman...!<@>
+---------------------------------------------------------
+ini terakhir kali aku menunjukannya kepadamu...<@>
+---------------------------------------------------------
+tidak mungkin
+---------------------------------------------------------
+tolong tanyakan kenorang lain
+---------------------------------------------------------
+aku akan tetap bicara, "hal yang nyata tidak perlu
+kemewahan" menyembunyikan diri, selama ini...<@>
+---------------------------------------------------------
+inu buka aturan...<@>
+---------------------------------------------------------
+aku lihat... aku lihat itu mungkin bagus untukmu, tapi itu
+juga buruk untukmu<@>
+---------------------------------------------------------

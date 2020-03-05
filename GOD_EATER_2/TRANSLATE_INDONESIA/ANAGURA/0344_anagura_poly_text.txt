@@ -1,0 +1,44 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0014
+===============================================================
+[00000192:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Haruomi
+---------------------------------------------------------
+Oh, aku membuatmu menunggu Apakah kamu ingat janji saat ini?
+---------------------------------------------------------
+Tidak ada pakaian ...... seperti ... Itu artinya! "Tubuh alami" adalah rahasia untuk memunculkan 
+kekuatan sejati penggunaan God machine
+---------------------------------------------------------
+...... Aku pikir begitu Terkadang aku ingin mendengar pendapatmu .... Bagaimana menurutmu?
+---------------------------------------------------------
+Aku mengerti ...... Kamu juga berpikir demikian! Jika kamu denganku, aku merasa kita tidak bisa 
+rukun!
+---------------------------------------------------------
+Ada orang yang ingin menandingimu Kemarilah!
+---------------------------------------------------------
+Normal...... Warnanya masih biru Tapi amanlah, aku pasti akan menjadikanmu seorang dewasa nanti
+---------------------------------------------------------
+Kamu benar!
+---------------------------------------------------------
+Dengan sedikit ......
+---------------------------------------------------------
+Tidak baik membiarkan Ines menunggu terlalu lama, kalau saja kamu sudah mempersiapkan ini, bisakah 
+kamu datang ke sini?
+---------------------------------------------------------
+Ines sedang menunggu ... ayo segera pergi. 
+---------------------------------------------------------
+Jika kamu punya banyak waktu, maukah Anda memberi tahu aku? aku punya sedikit cerita denganmu
+---------------------------------------------------------
+Yah, ayo pergi!
+---------------------------------------------------------
+Ups, silakan jika kamu sudah siap atau belum siap, silakan hubungi kami
+---------------------------------------------------------

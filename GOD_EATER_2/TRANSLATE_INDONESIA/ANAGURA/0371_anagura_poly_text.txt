@@ -1,0 +1,38 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0010
+===============================================================
+[00000176:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Licca
+---------------------------------------------------------
+Aku mencoba menambahkan beberapa penyesuaian berdasarkan data yang dikumpulkan terakhir kali
+Lain kali aku dapat menggunakan versi yang disesuaikan ini, bisakah aku bertanya lagi?
+---------------------------------------------------------
+Mungkin itu akan memakan waktu hingga larut lagi ... ...
+Apakah tidak masalah?
+---------------------------------------------------------
+Nah, hanya ada saja untuk aktif di Blood!
+Kalau begitu, tolong lepaskan kata-katamu ...
+---------------------------------------------------------
+Yah ... Benar juga, ya
+Tidak apa-apa bila engkau punya banyak waktu, jadi pada saat itu harap bekerja sama!
+---------------------------------------------------------
+Benda itu dulu
+---------------------------------------------------------
+Sekarang sedikit ...
+---------------------------------------------------------
+Yah, aku kira situasinya tidak cukup baik
+---------------------------------------------------------
+Dapatkah aku meminta seseorang untuk menelepon ketika misiku berakhir?
+Aku punya sesuatu yang ingin aku tanyakan lagi kepadamu
+---------------------------------------------------------
+Ya terima kasih!
+---------------------------------------------------------

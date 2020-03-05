@@ -1,0 +1,29 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0008
+===============================================================
+[00000168:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Soma
+---------------------------------------------------------
+Tempat ini adalah Aegis ... yang digunakan untuk dibangun sebagai tempat tinggal untuk rumah semua umat manusia<@>
+---------------------------------------------------------
+Sampai sekarang, spesifik aragami yang terpikat ke tempat ini karena agregasi feromon, sebuah zat bioaktif...<@>
+---------------------------------------------------------
+Nah, ini seperti perangkap besar<@>
+---------------------------------------------------------
+Saat itu ..... rupanya, struktur ini digunakan untuk membasmi hama hitam tertentu<@>
+---------------------------------------------------------
+Hibari
+---------------------------------------------------------
+Kongou yang sedang diinduksi oleh agregasi feromon itu akan istirahat 3 menit seperti telah diprediksi<@>
+---------------------------------------------------------
+Baiklah, bagaimana kalau kita mulai saja...<@>
+---------------------------------------------------------

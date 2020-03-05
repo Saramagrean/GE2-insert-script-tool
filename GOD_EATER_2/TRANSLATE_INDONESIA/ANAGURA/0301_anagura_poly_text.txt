@@ -1,0 +1,49 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0015
+===============================================================
+[00000196:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Alisa
+---------------------------------------------------------
+Oh, itu tepat sekali.Ada sesuatu yang ingin
+kutanyakan kepadamu 
+---------------------------------------------------------
+Tampaknya beberapa aragami Terkonfirmasi di sekitar satelit
+Saat ini tampaknya tidak ada yg salah,
+tetapi keluhan datang dari warga ... 
+---------------------------------------------------------
+Jadi, aku ingin Kamu bekerja sama memberantas Aragami ......
+Maukan kamu ... ...? 
+---------------------------------------------------------
+Bagaimana perasaanmu? 
+---------------------------------------------------------
+Kulitku tampaknya buruk
+---------------------------------------------------------
+Tidak ... aku baik-baik saja.Hanya kekurangan tidur
+---------------------------------------------------------
+Selain itu, Aku tidak bisa banyak istirahat sekarang.
+Bagaimana dengan itu, tolong bisakah? 
+---------------------------------------------------------
+Mari segera kita selesaikan. 
+---------------------------------------------------------
+Aku ingin Kamu bersiap-siap
+---------------------------------------------------------
+Apakah Kamu ingin mengkonfirmasi detail misi lagi? 
+---------------------------------------------------------
+Bisakah Kamu memberi tahu ku jika Kamu kembali dari misi?
+aku ingin mengajak mu bekerja sama mengenai suatu hal
+---------------------------------------------------------
+TERIMAKASIH! 
+---------------------------------------------------------
+BaiklahTolong beri tahu aku kapan persiapan selesai
+---------------------------------------------------------
+Baiklah,aku menunggu
+---------------------------------------------------------

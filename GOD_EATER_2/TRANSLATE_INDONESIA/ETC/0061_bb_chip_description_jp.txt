@@ -1,0 +1,170 @@
+NAMA:bb_chip_description_jp
+ENCODING:UTF-8
+CRLF:\n
+ID:
+TYPE:
+JUMLAH_STRING:0040
+===============================================================
+[00000296:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Assault Gun Lv1
+Shot follows Aragami.
+---------------------------------------------------------
+Assault Gun Lv2
+Recovery Bullet only.
+Restores HP and cures status effects.
+---------------------------------------------------------
+Assault Gun Lv3
+First shot only.
+Fires a three-way homing round.
+---------------------------------------------------------
+Assault Gun Lv4
+First shot only.
+Attacks nearby enemies after hitting initial target.
+---------------------------------------------------------
+Assault Gun Lv5
+Attack modules
+will no longer hit allies.
+---------------------------------------------------------
+Assault Gun Lv6
+First shot only.
+Shot reflects off of terrain.
+---------------------------------------------------------
+Assault Gun Lv7
+Recovery Bullet only.
+Restores HP and increases attack power.
+---------------------------------------------------------
+Assault Gun Lv7
+Recovery Bullet only.
+Restores HP and increases defense power. 
+---------------------------------------------------------
+Assault Gun Lv8
+Restores OP on hit.
+Amount increases with rapid-fire bullets.
+---------------------------------------------------------
+Assault Gun Lv9
+First shot only.
+Allows use of an additional module.
+---------------------------------------------------------
+Sniper Gun Lv1
+First shot only.
+Shot passes through Aragami.
+---------------------------------------------------------
+Sniper Gun Lv2
+Recovery Bullet only.
+Restores HP and cures status effects.
+---------------------------------------------------------
+Sniper Gun Lv3
+First shot only. Total bullet module numbers are reduced 
+by one. Shot hits Aragami multiple times.
+---------------------------------------------------------
+Sniper Gun Lv4
+First shot only.
+Reduces Aragami defense power.
+---------------------------------------------------------
+Sniper Gun Lv5
+Attack modules
+will no longer hit allies.
+---------------------------------------------------------
+Sniper Gun Lv6
+Disrupts some Oracle attacks and
+functions as a normal bullet.
+---------------------------------------------------------
+Sniper Gun Lv7
+Recovery Bullet only.
+Restores HP and increases attack power.
+---------------------------------------------------------
+Sniper Gun Lv7
+Recovery Bullet only.
+Restores HP and increases defense power. 
+---------------------------------------------------------
+Sniper Gun Lv8
+First shot only.
+Acts as a guide for ally homing rounds upon hit.
+---------------------------------------------------------
+Sniper Gun Lv9
+Increases in power at long range.
+---------------------------------------------------------
+Blast Gun Lv1
+Diminishes damage reduction
+from multiple hits.
+---------------------------------------------------------
+Blast Gun Lv2
+Recovery Bullet only.
+Restores HP and cures status effects.
+---------------------------------------------------------
+Blast Gun Lv3
+Increases in power the more
+time has passed since firing.
+---------------------------------------------------------
+Blast Gun Lv4
+Recovery Bullet only.
+Restores HP and OP.
+---------------------------------------------------------
+Blast Gun Lv5
+Attack modules
+will no longer hit allies.
+---------------------------------------------------------
+Blast Gun Lv6
+Increases in power the further it moves
+in the direction of gravity.
+---------------------------------------------------------
+Blast Gun Lv7
+Recovery Bullet only.
+Restores HP and increases attack power.
+---------------------------------------------------------
+Blast Gun Lv7
+Recovery Bullet only.
+Restores HP and increases defense power. 
+---------------------------------------------------------
+Blast Gun Lv8
+Increases in power and homes in on nearby 
+enemies upon contact with another bullet.
+---------------------------------------------------------
+Blast Gun Lv9
+Modules will no longer cancel
+each other out upon contact.
+---------------------------------------------------------
+Shotgun Lv1
+Shot hits Aragami multiple times.
+Total bullet module numbers are reduced by one.
+---------------------------------------------------------
+Shotgun Lv2
+Recovery Bullet only.
+Restores HP and cures status effects.
+---------------------------------------------------------
+Shotgun Lv3
+Disrupts some Oracle attacks and
+functions as a normal bullet.
+---------------------------------------------------------
+Shotgun Lv4
+Spread bullets ignore enemy bond defense
+when fired at close range.
+---------------------------------------------------------
+Shotgun Lv5
+Attack modules
+will no longer hit allies.
+---------------------------------------------------------
+Shotgun Lv6
+Draws in Aragami tracking Oracle.
+---------------------------------------------------------
+Shotgun Lv7
+Recovery Bullet only.
+Restores HP and increases attack power.
+---------------------------------------------------------
+Shotgun Lv7
+Recovery Bullet only.
+Restores HP and increases defense power.
+---------------------------------------------------------
+Shotgun Lv8
+Stuns Aragami with multiple hits,
+but deals less damage.
+---------------------------------------------------------
+Shotgun Lv9
+Bullets do more damage at greater distances.
+Effect increases for spread bullets.
+---------------------------------------------------------

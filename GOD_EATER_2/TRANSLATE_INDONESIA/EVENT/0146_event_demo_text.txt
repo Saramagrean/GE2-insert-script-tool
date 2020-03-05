@@ -1,0 +1,62 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0019
+===============================================================
+[00000212:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Licca
+---------------------------------------------------------
+Sebuah Oracle Diserap oleh Kanon...<@>
+---------------------------------------------------------
+Apakah tidak apa apa jika keluar jalur?<@>
+---------------------------------------------------------
+Bukan aku saja yang bilang dia tidak pantas -- Haru
+contohnya. Alasannya... Kau tahu, kan?<@>
+---------------------------------------------------------
+Ketika penyerapan Oracle awalnya ditujukan untuknya,
+beberapa God Eaters menjadi khawatir dengan kemampuannya...
+ability, dan membuat permintaan transfer. <@>
+---------------------------------------------------------
+Kemudian Haru berkata "God Arcnya mungkin tidak cocok
+menyerap oracle" dan melarang dia untuk melakukannya jadi
+ia tidak akan menyakiti dirinya sendiri atau orang lain. <@>
+---------------------------------------------------------
+Tapi kau tahu, dan ini hanya pendapatku, <@>
+---------------------------------------------------------
+Tingkat kecocokannya dengan God Arc agak patut diperhatikan.
+Bukan soal kemampuan bertarung, tetapi tentang potensinya
+dengan God Arc yang fantastis!<@>
+---------------------------------------------------------
+Aku hanya ingin melihat bagaimana mendorog gaya Old-Style
+God Arc.<@>
+---------------------------------------------------------
+Kau instruktur Kanon, kan? <@>
+---------------------------------------------------------
+Bersamaan, hal itu terjadi juga
+---------------------------------------------------------
+Seperti...
+---------------------------------------------------------
+Kalau begitu, pilijanmu ada di tanganmu.<@>
+---------------------------------------------------------
+Apakah bakatnya berkembang atau tidak terserah padamu.
+<@>
+---------------------------------------------------------
+Aku takut aku meleset...
+---------------------------------------------------------
+Aku tidak ingin dibenci oleh korban...
+---------------------------------------------------------
+Aku mengerti... <@>
+---------------------------------------------------------
+Bagaimana kalau kau memutuskannya setelah melihat
+perkembangannya? <@>
+---------------------------------------------------------
+Oh, ketika kau di sini, Aku ingin kau memberikan ini
+padanya. Aku telah menyetelnya untuk dirinya.<@>
+---------------------------------------------------------

@@ -1,0 +1,60 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0018
+===============================================================
+[00000208:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Gill
+---------------------------------------------------------
+Kami telah meringkas materi untuk "Sensitivity wave receptor"
+Jangan khawatir ... kamu tidak perlu mengumpulkan begitu banyak
+---------------------------------------------------------
+aku juga sedang bersiap
+Katakan padaku kalau kamu siap
+---------------------------------------------------------
+Apakah kamu siap?
+Materi yang aku ingin kamu tanyakan ...
+---------------------------------------------------------
+Tidak mungkin, apakah sudah berkumpul?
+---------------------------------------------------------
+Tidak, tidak perlu terburu-buru.
+Bahkan saat bertugas, kamu hanya harus mengambilnya
+---------------------------------------------------------
+sudah berkumpul
+---------------------------------------------------------
+Maaf, belum ...
+---------------------------------------------------------
+Katakan bahan apa saja yang diperlukan
+---------------------------------------------------------
+seperti yang diharapkan... boleh aku mengambilnya?
+---------------------------------------------------------
+Baiklah, aku baru saja selesai mengumpulkan ini
+kamu harus bisa membuat "sensitive wave receptor" ...
+---------------------------------------------------------
+Aku akan memberikannya kepada Rikka secepatnya.
+
+---------------------------------------------------------
+Oh, tidak apa-apa.
+Katakan padaku kalau kamu siap
+---------------------------------------------------------
+Tentu saja
+---------------------------------------------------------
+Tunggu sebentar
+---------------------------------------------------------
+
+...... Tidak, ini belum cukup
+
+---------------------------------------------------------
+"Yasksha mask" dan "Aviant Flesh"...
+jika kamu sudah mendapatkan semuanya beritahu aku
+---------------------------------------------------------
+Jika kamu berada di terminal
+tolong kembalikan itu ...... Senang bertemu denganmu.
+---------------------------------------------------------

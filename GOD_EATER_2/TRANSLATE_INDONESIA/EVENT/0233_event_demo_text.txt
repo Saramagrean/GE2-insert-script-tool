@@ -1,0 +1,47 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0013
+===============================================================
+[00000188:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Nana
+---------------------------------------------------------
+Tema hari ini "Item yang baik untuk kesehatan"! <@>
+---------------------------------------------------------
+Stamina sangat penting saat bertarung melawan Aragami
+ yang tangguh! walaupun, aku ragu kau bisa tetap sehat jika
+ cuma makan ration <@>
+---------------------------------------------------------
+Itulah mengapa, aku akan membuat "Healthy Ration"
+ dengan Ciel!<@>
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+Benar, Aku telah mengambil.apapun yang bisa diperoleh di
+ Far East, seperti sayuran, tanaman dan
+ obat herbal<@>
+---------------------------------------------------------
+Itulah Ciel, selalu melaksanakan tugas dengan baik, sekarang
+aku akan mencampurkan semuanya<@>
+---------------------------------------------------------
+...Huh Nana, apa kamu baru saja...<@>
+---------------------------------------------------------
+Eh, maksudku, aku mencampurkan semua bahan
+ yang ada seperti sayuran, tanaman dan obat herbal<@>
+---------------------------------------------------------
+Semua...?
+---------------------------------------------------------
+Harusnya sudah bisa kuduga...
+---------------------------------------------------------
+Aku mencoba sebagian ration barusan, dan rasanya enak!
+ini akan baik-baik saja!<@>
+---------------------------------------------------------
+Beneran nih?...<@>
+---------------------------------------------------------

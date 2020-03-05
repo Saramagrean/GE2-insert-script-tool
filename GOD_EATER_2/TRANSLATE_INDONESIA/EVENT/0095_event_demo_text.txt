@@ -1,0 +1,44 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0011
+===============================================================
+[00000180:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Emil
+---------------------------------------------------------
+Terima kasih, kawanku<@>
+---------------------------------------------------------
+...Butuh beberapa hari hingga tembok lapis baja diperkuat 
+Semuanya terlihat sudah agam tenang, meskipun<@>
+---------------------------------------------------------
+Selain itu, perhatikan, Tanganku penuh dengan sisa-sisa 
+material Aragami Ini tidak cukup, tapi dengan God Arc-ku 
+bisa...<@>
+---------------------------------------------------------
+...Tidak, ini milikmu Jika kau tidak berada di sekitar, 
+misi ini tidak akan berhasil<@>
+---------------------------------------------------------
+Aku akan memeberimu material ini 
+---------------------------------------------------------
+Adalah tugas ksatria untuk beramal
+---------------------------------------------------------
+Material ini adalah kesempatanku untuk bertemu denganmu
+---------------------------------------------------------
+Apa, datang lagi? Apakah kau benar-benar mengerti?! Teman! 
+Temanku! Terimakasij!<@>
+---------------------------------------------------------
+Terima kasih, God Arc-ku akan lebih kuat dari biasanya... 
+Aku akan membayar kebaikanmu ketika ini sudah 
+diperkuat<@>
+---------------------------------------------------------
+Tidak tunggu, sebagai ksatria Aku harus segera membayar 
+hutangku segera tinggal masalah waktu hingga top-quality 
+Darjeeling datang, bagaimana dengan itu?<@>
+---------------------------------------------------------

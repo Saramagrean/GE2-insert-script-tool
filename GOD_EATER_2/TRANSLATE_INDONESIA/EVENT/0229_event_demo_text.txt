@@ -1,0 +1,92 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0038
+===============================================================
+[00000288:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Nana
+---------------------------------------------------------
+Baiklah, semua orang! Minum sekaligus!<@>
+---------------------------------------------------------
+Erina
+---------------------------------------------------------
+...Ini adalah sampelmu?<@>
+---------------------------------------------------------
+Yup! Jangan khawatir<@>
+---------------------------------------------------------
+Canon
+---------------------------------------------------------
+Sebelumnya lezat, tapi ini ... rasanya tidak masuk akal sama sekali bukan?<@>
+---------------------------------------------------------
+Kouta
+---------------------------------------------------------
+Sekarang, sebelumnya yang lezat, yang satu ini tidaklah buruk kan?<@>
+---------------------------------------------------------
+Emile
+---------------------------------------------------------
+Kurasa ... cukup, mungkin tidak seperti yang diharapkan! <@>
+---------------------------------------------------------
+Baiklah, tidak semua orang mengambil sepotong Aku bertanya-tanya bagaimana rasanya nanti, aku begitu bersemangat! <@>
+---------------------------------------------------------
+Baik, waktunya untuk minum sedikit-sedikit!<@>
+---------------------------------------------------------
+Bagaimana ?
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+Ini... manis... seperti marshmallow... <@>
+---------------------------------------------------------
+Ah! Lezat! I penasaran... apakah ini melon soda? <@>
+---------------------------------------------------------
+Ooooh ini asam! Sangat asam ! <@>
+---------------------------------------------------------
+Ah, ini pasti Acar Plum! ini adalah makanan tradisional di Far East Branch<@>
+---------------------------------------------------------
+Tradisi... Maka aku harus menerimanya... Ini... 
+Rasa tradisional...! <@>
+---------------------------------------------------------
+Bagaimana aku mengatakannya, rasanya aneh tapi menyenangkan... Ah, ini sup jaging! <@>
+---------------------------------------------------------
+Alisa
+---------------------------------------------------------
+Uhm, manis dan pahit... Apakah ini black 
+coffee...?<@>
+---------------------------------------------------------
+Marshmallows dan melon soda menandakan sangat beruntung Lemon and sup jagung sedikit beruntung, coffee and pickled plum kurang 
+beruntung<@>
+---------------------------------------------------------
+Tunggu... Yang mendapatkan nasib buruk...<@>
+---------------------------------------------------------
+Ah, Kota...<@>
+---------------------------------------------------------
+Nana...Apa ini?... Apa...?<@>
+---------------------------------------------------------
+Mari kulihat ... Aku kombinasikan setiap bau makanan yang aku tahu kemudian difermentasi untuk membuat rasa baru!<@>
+---------------------------------------------------------
+Haa! Buset dah? Uuugh.....<@>
+---------------------------------------------------------
+...Hey hey, seperti apa rasanya?<@>
+---------------------------------------------------------
+Seperti burdock yang dipotong dan dimasak 
+---------------------------------------------------------
+Borscht
+---------------------------------------------------------
+Milk tea
+---------------------------------------------------------
+Okay! Mari coba sekali lagi!<@>
+---------------------------------------------------------
+Tunggu dulu... Eh, Apa...? Somehow... Entah bagaimana ... Aku terbiasa untuk itu, agak...<@>
+---------------------------------------------------------
+Ah! satu ini harus menjadi keberuntungan! selamat! mungkin Kau akan mendapatkan beberapa pendapatan kasual!@>
+---------------------------------------------------------
+Ah! Aku dapat Borscht juga! Satu ini nasib baik! Anda mungkin mendapatkan Material langka ... hanya mungkin!!<@>
+---------------------------------------------------------
+Oh, yang satu ini pasti keberuntungan kecil! mungkin ingin menyelesaikan misi tanpa berkeringat!<@>
+---------------------------------------------------------

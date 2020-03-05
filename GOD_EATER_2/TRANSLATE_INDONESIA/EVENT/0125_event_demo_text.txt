@@ -1,0 +1,40 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0009
+===============================================================
+[00000172:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Gil
+---------------------------------------------------------
+Ini terpoles dengan baik, sepertinya... Ini bisa menjadi 
+God Arc yang cocok untukmu<@>
+---------------------------------------------------------
+... Bagaimana God Arc-nya? Jika kamu melihat apapun, 
+pergi temui aku saja<@>
+---------------------------------------------------------
+Aku ingin memperkuatnya sampai maksimal
+---------------------------------------------------------
+Jujur saja, ini tidak bisa melakukan banyak hal seperti 
+ini
+---------------------------------------------------------
+Baiklah, Akan kuberikan yang terbaik juga... Jadi aku 
+dapat memenuhi harapanmu... Tidak, akan kutunjukan 
+sesuatu diatas harapanmu<@>
+---------------------------------------------------------
+Akan kuurus sisanya... Baiklah, serahkan sisanya saja 
+padaku Akan kuhubungi kau saat sudah selesai menyelidiki 
+bahan-bahannya<@>
+---------------------------------------------------------
+Hah, berhentilah memberitahuku hal hal aneh lagi... 
+Tetapi, maksimal yah... Terdengar menarik<@>
+---------------------------------------------------------
+Hah, kau pasti cenderung bicara hal-hal luar biasa... 
+Jika kau sudah bilang begitu, Aku tidak akan diam saja<@>
+---------------------------------------------------------

@@ -1,0 +1,98 @@
+NAMA:event_scr_text
+ENCODING:UTF-8
+CRLF:\n
+ID:
+TYPE:
+JUMLAH_STRING:0035
+===============================================================
+[00000276:00000512:00002015:00066133:00000250:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Sudah lama sejak saat itu
+---------------------------------------------------------
+Menemani Rachel, Lalu.... Yah, Kurasa tidak akan selesai
+---------------------------------------------------------
+Ya, Misi telah diperbarui
+---------------------------------------------------------
+Aku telah diundang secara resmi sebagai anggota Blood
+---------------------------------------------------------
+Apalagi, Kau juga telah berubah
+---------------------------------------------------------
+Aku akan masuk, Ciel Alencon
+---------------------------------------------------------
+Aku Mr. Ciel Alanson yang berafiliasi dengan
+departemen Teknologi mikronasi saat ini
+---------------------------------------------------------
+Sama seperti Kapten Julius,
+Aku memberinya kemampuan di panti asuhan "Magnolia Compass"
+---------------------------------------------------------
+kami telah menerima edukasi spesial dasar bertempur Jadi,
+aku ingin bekerja sebagai pembuat taktik dan
+strategi di masa depan.
+---------------------------------------------------------
+..... itu saja
+---------------------------------------------------------
+Selamat datang di Blood, Ciel
+---------------------------------------------------------
+Sekarang, Kandidat untuk Blood sudah lengkap
+---------------------------------------------------------
+Gunakanlah "kekuatan Blood" Untuk melindungi
+dan membimbing umat manusia.
+---------------------------------------------------------
+
+---------------------------------------------------------
+Mulai dari sekarang blood akan fokus
+ke koordinasi secara taktikal
+---------------------------------------------------------
+Untuk menyatukan komando,
+aku ingin kamu mengumpulkan para Blood dan menunjuk salah
+satu dari mereka sebagai Wakil kapten.
+---------------------------------------------------------
+Dan aku tidak akan ragu ragu lagi dan akan bangun sebagai
+"Kekuatan Blood".
+---------------------------------------------------------
+Kulihat kau memenuhi syarat sebagai Wakil Kapten
+---------------------------------------------------------
+Bisakah kau melakukannya Wakil Kapten ?
+---------------------------------------------------------
+Wow, Wakil Kapten! Terima Kasih
+---------------------------------------------------------
+Nah, Nana pasti setuju,
+Sedangkan Romeo pasti tidak dapat diandalkan
+---------------------------------------------------------
+Berisik! Seperti kau lebih baik dariku saja! 
+---------------------------------------------------------
+Seperti kataku barusan,
+Kamu terlalu jauh dari musuh
+Apa itu berarti cakupan daerahnya luas
+---------------------------------------------------------
+Aku tidak akan berterimakasih pada babi bodoh!
+Umumnya, apa kau tidak sadar bahwa itu mengganggu
+semua orang?
+---------------------------------------------------------
+Kalian Siapa ?
+---------------------------------------------------------
+Bukan aku
+---------------------------------------------------------
+Berisik! Bodoh!
+---------------------------------------------------------
+Kegelisahan pasti ada di tim,
+tapi aku yakin kamu dapat melakukannya
+---------------------------------------------------------
+.... Ciel!
+---------------------------------------------------------
+Sebagai konsensus pada wakil kapten dan Blood
+---------------------------------------------------------
+Aku mengerti
+---------------------------------------------------------
+Kalian juga, seperti itu
+---------------------------------------------------------
+Meski dalam medan perang, Aku akan menuruti perintahmu
+---------------------------------------------------------
+Sekali lagi, Terima kasih wakil Kapten
+---------------------------------------------------------
+Sampai jumpa lagi
+---------------------------------------------------------

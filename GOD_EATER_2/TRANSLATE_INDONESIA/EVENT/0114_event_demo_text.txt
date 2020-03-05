@@ -1,0 +1,21 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0003
+===============================================================
+[00000148:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Hibari
+---------------------------------------------------------
+Ini manggilan darurat! Aragami yang tiba-tiba muncul 
+mencegat unit Erina dan Emil di perjalanan!<@>
+---------------------------------------------------------
+Mereka terpisah dan terkepung Aragami! Tolong datang tuk 
+menyelamatkan mereka sekarang juga!<@>
+---------------------------------------------------------

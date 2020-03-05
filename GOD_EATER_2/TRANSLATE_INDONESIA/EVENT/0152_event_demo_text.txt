@@ -1,0 +1,33 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0008
+===============================================================
+[00000168:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Canon
+---------------------------------------------------------
+Pelatih... Ada sesuatu yang menggangguku<@>
+---------------------------------------------------------
+Belum lama ini, tapi aku tidak bisa menembak peluru
+pemulihan. Aku berakhir menembak beberapa peluru yang sama
+sekali berbeda...<@>
+---------------------------------------------------------
+Mungkin God Arc ku rusak...<@>
+---------------------------------------------------------
+Apa Licca sudah memeriksanya?
+---------------------------------------------------------
+Mungkin itu hal yang biasa?
+---------------------------------------------------------
+Aku sudah memeriksanya, tapi tidak ada masalah serius...
+Bukan hal yang biasa juga...<@>
+---------------------------------------------------------
+Aku sangat menyesal tapi aku akan meminta saranmu setelah
+misi kita, jika hal yang sama terjadi lagi<@>
+---------------------------------------------------------

@@ -1,0 +1,49 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0017
+===============================================================
+[00000204:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Nana
+---------------------------------------------------------
+hei kapten ! aku ingin tau, untuk skrg apakah aku punya waktu？
+---------------------------------------------------------
+ah, apa tempat ini aman ? cerita yg sangat detail akan tiba, bisakah kamu meluangkan waktumu?
+---------------------------------------------------------
+syukurlah ! kalo gitu sini sini !
+---------------------------------------------------------
+apa kamu datang membawa sesuatu?
+---------------------------------------------------------
+meskipun sedikit
+---------------------------------------------------------
+aku mngerti! ketika aku punya waktu luang panggil saja！
+---------------------------------------------------------
+tunggu bntar
+---------------------------------------------------------
+krna itulah aku meminta bantuan Licca untuk membuatnya Stun Grenade
+yang sangat indah dan lebih indah!!
+---------------------------------------------------------
+memang, aku tdk bisa mencobanya disini jadi stlah aku telah menyelesaikan misi aku akan mencobanya di 
+luar...
+---------------------------------------------------------
+hore ! ayo ayo ! aku akan pergi dan mempersiapkannya dulu
+---------------------------------------------------------
+yup ! ayo ayo ! baiklah aku juga
+---------------------------------------------------------
+ayo pergi
+---------------------------------------------------------
+lain kali aja
+---------------------------------------------------------
+eh, ga jadi pergi？
+---------------------------------------------------------
+ada sesuatu yg ingin kutanyakan padamu kapten, hubungi aku kalo punya waktu luang ya !
+---------------------------------------------------------
+ah udah siap ? kalo udah ayo kita berangkat !
+---------------------------------------------------------

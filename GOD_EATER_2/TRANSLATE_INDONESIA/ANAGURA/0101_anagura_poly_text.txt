@@ -1,0 +1,324 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0127
+===============================================================
+[00000644:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+Jangan mengunjungiku saat waktu istirahat
+...Itu yang tertulis
+---------------------------------------------------------
+Capybara
+---------------------------------------------------------
+Krauk krauk
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+Saya yakin...itu hanya imajinasi saja...
+---------------------------------------------------------
+Saya tidak berfikir...kalau dia akan tumbuh besar...
+---------------------------------------------------------
+Emil
+---------------------------------------------------------
+Saya sudah mendengarnya...cerita tentang kalian...
+Sekarang saya...benar benar terkesan luar biasa！
+---------------------------------------------------------
+Perasaan yang kuat pada teman teman... saya berpikir kalian
+adalah pahlawan keadilan！ Ayo bertarung bersama
+sampai saatnya menghancurkan kekegalapan！
+---------------------------------------------------------
+Erina
+---------------------------------------------------------
+Sejak Neng Nana kembali、anagura jadi lebih berisik
+Ha~...bukanya saya membenci hal seperti ini...
+---------------------------------------------------------
+Gill
+---------------------------------------------------------
+Mereka、apa yang mereka ributkan...
+Sudah jelas、kalau mahluk hidup akan tumbuh besar
+---------------------------------------------------------
+Dia tumbuh besar adalah suatu hal yang membahagiakan
+---------------------------------------------------------
+Haruomi
+---------------------------------------------------------
+Hahaha、
+Iyah gawat~ saat mengajak satsuki chan makan bareng
+dia menolaknya dengan  senyuman dingin
+---------------------------------------------------------
+Yah、sudah sejak lama tidak melihat senyumanya dingin
+seperti itu Lebih baik aku tidak mendekatinya...
+---------------------------------------------------------
+Hibari
+---------------------------------------------------------
+Dari Friar、perintah kembali sudah diberikan
+Sepertinya nana ingin pemeriksaan medis
+---------------------------------------------------------
+Urusan nana sudah selesai...itukah yang kau maksud
+Apa kamu tahu sesuatu？
+---------------------------------------------------------
+Ada misi baru untuk team Blood
+---------------------------------------------------------
+Julius
+---------------------------------------------------------
+Berhubungan dengan pemeriksaan medis、dan diputuskan
+untuk sementara neng Nana dipindahkan ke Friar
+---------------------------------------------------------
+Semua anggota Blood、menuju ke Friar
+Hanya saja...Nana berpesan、tunggu sebentar katanya
+---------------------------------------------------------
+Pokoknya begitu aku selesai、saya akan kembali ke Friar
+Setiap Anggota 、katakan pada yang lain agar segera
+bersiap siap
+---------------------------------------------------------
+Kouta
+---------------------------------------------------------
+Apa kalian akan kembali、ke Friar？ kalau diaini kalian
+tidak perlu khawatir、dan beristirahatlah！
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Saya juga、ingin membuat masakan yang lezat！ Itu sebabnya,
+misi untuk mengumpulkan bahan、apa anda bisa membantuku？
+---------------------------------------------------------
+Sungguh！？terimakasih banyak muach！
+---------------------------------------------------------
+Kalau sudah terlambat、Julius pasti marah...
+Kalau ada banyak waktu、tolong bantuku！
+---------------------------------------------------------
+Dengan senang hati
+---------------------------------------------------------
+sekarang sedikit...
+---------------------------------------------------------
+Kalau ada、saya ingin neng rika mencobanya Gak usah
+malu malu, yah...Tapi yah、neng Rika benar benar luar biasa！
+---------------------------------------------------------
+Saya menggunakan、semua bahan yang tidak terpakai！
+Setelah itu、saya mendapatkan banyak saran
+---------------------------------------------------------
+Kalau bisa、sebelum kembali ke Friar...
+Tentang misi pengumpulan bahan itu、maukah kamu membantuku？
+---------------------------------------------------------
+Kalau begitu、selesaikan dengan cepat！
+---------------------------------------------------------
+Licca
+---------------------------------------------------------
+Dr. Sasaki、saya minta bahan tambahan untuk penelitian
+Kamu serius melakukanya kan...
+---------------------------------------------------------
+Huh...aya khawatir
+Nanti akan ku tanya lagi
+---------------------------------------------------------
+Romeo
+---------------------------------------------------------
+itu apa...entah bagaimana、itu tumbuh besar...？
+
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+Hql seperti itu、tidak mungkin terjadi
+Anak ini bertubuh mungil、jadi tidak mungkin tumbuh besar...
+---------------------------------------------------------
+Ta、tapi、dilihat dari dekat！
+Jelas lebih besar dari sebelumnya！
+---------------------------------------------------------
+...sa、saya hanya sedikit lelah
+Sedikit istirahat、pasti akan kembali pulih...
+---------------------------------------------------------
+Mutsumi
+---------------------------------------------------------
+Katanya anda kembali ke Friar
+Saya membuat nasi kotak untuk kalian、silahkan kalau anda mau
+---------------------------------------------------------
+Sakaki
+---------------------------------------------------------
+Gawat...kalau gak salah、neng Rika meminta
+Bahan tambahan untuk penelitian...
+---------------------------------------------------------
+Kalau mulai sekarang、Telat gak yah...
+Kalau minta maaf、apa dia akan memaafkan ku...
+---------------------------------------------------------
+Satsuki
+---------------------------------------------------------
+Aku tidak ingin pergi、kepertemuan ini...
+Apa saya harus diam diam membatalkanya...
+---------------------------------------------------------
+Yuno
+---------------------------------------------------------
+Sat-su-ki
+Saya pikir、jangan melakukan hal seenaknya
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Coba lihat file lain
+---------------------------------------------------------
+Semuanya tertulis dalam bahasa rusia<@>
+---------------------------------------------------------
+Itu terlihat seperti katalog majalah model
+Saya tidak tahu karna semua tertulis dalam bahasa rusia<@>
+---------------------------------------------------------
+Ini seperti file teks
+Tapi saya tidak bisa membukanya karna terkunci<@>
+---------------------------------------------------------
+Модный　журнал
+---------------------------------------------------------
+Дневник
+---------------------------------------------------------
+Berhenti mencari 
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Saya tidak melakukan apa apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Coba lihat arsip
+---------------------------------------------------------
+Saya tidak melakukan apa apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Coba file lain
+---------------------------------------------------------
+Ada banyak file tentak taktik penyerangan<@>
+---------------------------------------------------------
+"Peluru sinyal"saat sedang misi、untuk memberi tahu pada teman
+Perintahkan saat menggunakan item<@>
+---------------------------------------------------------
+Kisaran pengaruh "Bullet signal" ada dua jenis "Wide area signals" dan "Narrow Range signal"<@>
+---------------------------------------------------------
+"Wide area signal" untuk semua anggota yang berpartisipasi dalam misi
+"Narrow area signal" hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+Ada 4 jenis"Peluru sinyal"yang bisa digunakan<@>
+---------------------------------------------------------
+"Sinyal area luas：semua anggota""Sinyal area sempit：
+anggota siaga" "Sinyal area sempit：serangan pada musuh"
+"Sinyal area sempit：Set"<@>
+---------------------------------------------------------
+Untuk informasi lebih lanjut bisa di check di,
+"Database"untuk jadi referensi<@>
+---------------------------------------------------------
+"Control Unit" diaktifkan dengan "Burst Skill"<@>
+---------------------------------------------------------
+"Kemampuan Burst"kemampuan yang berfungsi saat keadaan Burst
+Ini adalah kemampuan khusus <@>
+---------------------------------------------------------
+Dan juga、"Control Unit"dengan keterampilan yang dipasang
+didalamya Oleh sebab itu、kemampuannya bisa berubah <@>
+---------------------------------------------------------
+Saya tidak bisa membukanya、karna saya tidak punya
+izin untuk itu<@>
+---------------------------------------------------------
+Panduan taktik：Peluru sinyal
+---------------------------------------------------------
+Panduan taktik：Control Unit
+---------------------------------------------------------
+ＮＯ　ＮＡＭＥ
+---------------------------------------------------------
+Berhenti mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Coba lihat file lain
+---------------------------------------------------------
+File file itu diatur agar mudah dilihat<@>
+---------------------------------------------------------
+"Avatar"Dengan Pertukaran"Kartu Avatar"
+Teman dapat berpartisipasi dalam misi kapan saja<@>
+---------------------------------------------------------
+"Kartu Avatar"ada dua cara untuk bertukar salah satu
+caranya adalah secara manual dengan bermain"multiplayer"<@>
+---------------------------------------------------------
+Cara lainya adalah"lewat penukaran kartu"
+Hingga 3 kartu dapat ditukar sekaligus<@>
+---------------------------------------------------------
+"Avatar Card"dapat diperbarui dengan bertarung lawan yang
+sama Atau dengan"Multiplayer"dan"pertukaran kartu"<@>
+---------------------------------------------------------
+Sebagai imbalan atas tugas yang dilakukan oleh pihak lain
+"Bahan koleksi Avatar"dapat diperoleh<@>
+---------------------------------------------------------
+Info bullet<@>
+---------------------------------------------------------
+"Peluru pemulihan"peluru untuk memulihkan kekuakekuatan
+fisik anda akan tetapi、anda tidak bisa menggunakan
+pada diri anda sendiri<@>
+---------------------------------------------------------
+Untuk Bullet dengan sifat yang sangat istimewa
+penggunaan God arc terbatas<@>
+---------------------------------------------------------
+Hanya satu bagian、ada foto Tsubaki yang masih muda dengan
+lindow dan sakuya bersama <@>
+---------------------------------------------------------
+Yang lainya hanya foto yang relatif baru<@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Bullet
+---------------------------------------------------------
+Sebuah foto
+---------------------------------------------------------
+Berhenti mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+Saya lihat tapi
+Layar nya rusak sulit dilihat<@>
+---------------------------------------------------------
+Apa yang kamu lihat？<@>
+---------------------------------------------------------
+Setiap file terkunci
+Saya tidak bisa melihatnya<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Coba file lain
+---------------------------------------------------------
+Semuanya
+---------------------------------------------------------
+Apakah Anda akan membeli sesuatu?
+---------------------------------------------------------
+Yuno
+---------------------------------------------------------
+Satsuki, bagaimana jadwal selanjutnya?
+---------------------------------------------------------
+Satsuki
+---------------------------------------------------------
+Besok pagi, bertemu dengan orang-orang markas Friar
+Setelah itu, kami juga akan pergi ke pangkalan-pangkalan
+di berbagai tempat
+---------------------------------------------------------
+Huh...belakangan ini、apa anda tidak terlalu berkerja keras？
+Kalau anda ambruk、tidak ada pegantinya
+---------------------------------------------------------
+Ya ... tapi, apa yang bisa saya lakukan sekarang
+Saya ingin melakukannya sekarang...
+---------------------------------------------------------

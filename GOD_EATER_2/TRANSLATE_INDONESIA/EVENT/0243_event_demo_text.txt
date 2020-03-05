@@ -1,0 +1,48 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0013
+===============================================================
+[00000188:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Licca
+---------------------------------------------------------
+Pasti sulit bagimu hari ini, kerja bagus<@>
+---------------------------------------------------------
+Bagaimana menurutmu bekerja sebagai God Eater? 
+kau suka?<@>
+---------------------------------------------------------
+Aku sungguh menyukainya
+---------------------------------------------------------
+Aku tak membenci pekerjaanku, aku menyukainya
+---------------------------------------------------------
+hmmm...<@>
+---------------------------------------------------------
+Tak seperti insinyur sepertiku, God Eater tak bisa 
+memilih pekerjaannya<@>
+---------------------------------------------------------
+Kebanyakan dari mereka dipaksa dengan tes kecocokan...
+ itu menggangguku, merela senang atau tidak<@>
+---------------------------------------------------------
+Bagaimana denganmu?
+---------------------------------------------------------
+Girang?
+---------------------------------------------------------
+Aku.. yah, aku senang ketika aku sadar, aku sudah ada di
+ pekerjaan ini, dan aku menyukainya<@>
+---------------------------------------------------------
+Since childhood, the lab and the workshop have been my 
+playground and the microscopic river gun has been my 
+toy
+Sejak kecil, lab dan bengkel telah menjadi tempat mainku,
+dan pistol mikroskopik P-chan
+ jadi mainanku<@>
+---------------------------------------------------------
+Dan aku tumbuh seperti aku yang sekarang... ahahah!<@>
+---------------------------------------------------------

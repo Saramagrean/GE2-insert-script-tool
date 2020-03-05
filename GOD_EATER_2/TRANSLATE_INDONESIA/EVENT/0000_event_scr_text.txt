@@ -1,0 +1,49 @@
+NAMA:event_scr_text
+ENCODING:UTF-8
+CRLF:\n
+ID:
+TYPE:
+JUMLAH_STRING:0014
+===============================================================
+[00000192:00000512:00002015:00066133:00000250:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Santai Saja
+---------------------------------------------------------
+kau telah terpilih untuk berada disini
+---------------------------------------------------------
+Sekarang kamu akan menerima tes penyesuaian
+sebagai God Eater
+---------------------------------------------------------
+Kamu tidak perlu cemas,
+Itu hanya tes biasa
+---------------------------------------------------------
+Karena Kamu.......
+Adalah orang yang dipilih sebagai God Eater
+---------------------------------------------------------
+Semoga kamu diberkahi
+---------------------------------------------------------
+Apakah akan gagal?
+---------------------------------------------------------
+Tidak, Lihatlah lagi
+---------------------------------------------------------
+Fuh..... Sama seperti saat kau sedang
+Dibaptis oleh pendeta
+---------------------------------------------------------
+Selamat......
+Sekarang kamu resmi menjadi God Eater
+---------------------------------------------------------
+Dan tentang "Kekuatan blood" lebih lanjut,
+Akan ditugaskan untuk "Blood"
+---------------------------------------------------------
+Blood Akan melampaui God Eater, Yang terpilih.....
+untuk menjadi seorang legenda yang akan baru
+---------------------------------------------------------
+Tapi pertama-tama.....
+Beristirahatlah dulu
+---------------------------------------------------------
+Aku mengharapkanmu
+---------------------------------------------------------

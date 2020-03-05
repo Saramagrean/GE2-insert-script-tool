@@ -1,0 +1,51 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0015
+===============================================================
+[00000196:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Fran
+---------------------------------------------------------
+Permintaan penyelamatan di Channel trbuka! aku akan
+mengirim panggilan!<@>
+---------------------------------------------------------
+Panggilan Darurat
+---------------------------------------------------------
+Ini Basis Satelit II berbicara! kami menkonfirmasi sebuah
+respon yang diduga spesies invasif, 30km di utara-timur
+laut dari Tower pengintai<@>
+---------------------------------------------------------
+Sepertinya itu membawa beberapa aragami normal, kami butuh
+bantuan secepatnya!<@>
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+itu spesies invasif!<@>
+---------------------------------------------------------
+Panggilan darurat kepada Blood! Potensial Respons dari
+Spesies Invasif mendekat, Roger ganti!<@>
+---------------------------------------------------------
+Lokasinya hampir sama dngan permintaan bantuan barusan.
+tolong bantu mereka jg saat berhdpan dngn spesies invasif!<@>
+---------------------------------------------------------
+Romeo
+---------------------------------------------------------
+Kita harus bergegas! Tidak adakah orang yg bisa mengatasi
+spesies invasif disana!?<@>
+---------------------------------------------------------
+Julius
+---------------------------------------------------------
+Ah,dngan kata lain. Sekarang wktunya kita tnjukkan kemampuan
+kita berhadapan dngan spesies invasif! Blood, berangkat!<@>
+---------------------------------------------------------
+Ayo Blood
+---------------------------------------------------------
+Kuylah berangkat!<@>
+---------------------------------------------------------

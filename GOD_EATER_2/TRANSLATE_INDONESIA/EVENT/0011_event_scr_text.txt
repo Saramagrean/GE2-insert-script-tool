@@ -1,0 +1,66 @@
+NAMA:event_scr_text
+ENCODING:UTF-8
+CRLF:\n
+ID:
+TYPE:
+JUMLAH_STRING:0020
+===============================================================
+[00000216:00000512:00002015:00066133:00000250:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Saat ini, Freier melarang untuk keluar ruangan tanpa alasan,
+yang menyebabkan "red rain" 
+---------------------------------------------------------
+Haha, anak baik adalah hari hujan
+kamu tidak bisa keluar 
+---------------------------------------------------------
+..... Hujan merah bukan yang terakhir 
+---------------------------------------------------------
+Aku berada di jangkauan Far East,
+selama aku tiba di Far East Branch..... 
+---------------------------------------------------------
+Red rain adalah salah satu yang terjatuh saat misi
+mendamping penjaga kuil?
+Jika terkena hujan merah, dampaknya apa fatal? 
+---------------------------------------------------------
+Apa itu, bukankah itu Kokusha..... Kokusha......
+---------------------------------------------------------
+"Black disease" .....
+---------------------------------------------------------
+Penyakit yang berkembang dengan probabilitas tinggi
+dengan menyentuh hujan merah itulah black disease 
+---------------------------------------------------------
+Di tahap ini, pengobatan yang efektid belum di terapkan
+dan mortality rate ketika timbul adalah..... 
+---------------------------------------------------------
+Bisa dikatakan 100% 
+---------------------------------------------------------
+ahh..... aku harus basah mmpssh 
+---------------------------------------------------------
+Aku sakut, dan tidak punga selera makan 
+---------------------------------------------------------
+saat ini,
+Frei mengalami hujan merah di bagian selatan Far East 
+---------------------------------------------------------
+Saat ini,
+Frei mengalami "hujan merah" di bagian selatan Far East 
+---------------------------------------------------------
+Rachel, aku ingin memberitahumu lebih cepat tapi...
+apa tujuan sebenarnya aku datang di Far East 
+---------------------------------------------------------
+Seperti yang saya katakan, director Gurem,
+operasi God machibe soldier dan Blood, saudariku 
+---------------------------------------------------------
+Yah, tidak apa-apa, tapi ..... 
+---------------------------------------------------------
+Apa pun keinginan para godfather,
+Divibe Machube Soldier harus menerima..... 
+---------------------------------------------------------
+Ya, Anda benar, saudariku, biarkan merka bekerha keras ... 
+---------------------------------------------------------
+Oh? nampaknya Anda dapat melihat Far Eastern Branch lagi,
+saudariku, anda lihat 
+---------------------------------------------------------

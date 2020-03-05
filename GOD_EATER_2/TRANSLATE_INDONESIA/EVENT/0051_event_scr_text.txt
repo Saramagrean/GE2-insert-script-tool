@@ -1,0 +1,76 @@
+NAMA:event_scr_text
+ENCODING:UTF-8
+CRLF:\n
+ID:
+TYPE:
+JUMLAH_STRING:0022
+===============================================================
+[00000224:00000512:00002015:00066133:00000250:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Bagaimana denganmu,
+sekian lama meninggalkan cabang Far East?
+---------------------------------------------------------
+3 Tahun lagi... Tidak, ini pertama kalinya dalam 2 tahun...
+ketika Kota mengambil alih sebagai kapten, kurasa,
+sejak saat itu
+---------------------------------------------------------
+Fasilitas dalam cabang, Sebuah cerita dari pohon spiral... 
+---------------------------------------------------------
+Ups, Sepertinya mereka berdua telah masuk
+---------------------------------------------------------
+Permisi, untuk apa ini... ah! Apa?
+---------------------------------------------------------
+Lindow! Apa?
+---------------------------------------------------------
+Setelah sekian lama,
+sudahkah kau melakukannya dengan baik, kapten
+---------------------------------------------------------
+Tidak! Sakit sekali!
+Aku melakukannya dengan benar! Apa?
+---------------------------------------------------------
+Oh, Kamu kapten dari Blood...
+Aku mendengar rumor dari Dr. Sakaki, dan juga,
+mereka adalah pria yang luar biasa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Cabang Fenrir Far East, Perlengkapan Amemiya Gentian
+milik pasukan Support "Cradle" itulah permintaanku untukmu
+---------------------------------------------------------
+Dulu dia melayani Cabang Far East sebagai
+kapten unit pertama, Dia adalah mantan kapten Kota
+---------------------------------------------------------
+Sebagai kekuatan pendukung sekarang kami akan
+melakukan survey dan strategi penaklukan aragami di
+seluruh dunia dan mendukung kegiatan pengungsi
+---------------------------------------------------------
+Nah, mari kita berbisnis sekarang.
+Bukankah harusnya saat ini kamu memanggil 2 orang lagi...
+Lindow Kun
+---------------------------------------------------------
+Untuk kalian berdua, Aku ingin kamu memburu aragami
+jenis baru "Kyuubi" yang dulu kami kejar bersama "Cradle" 
+---------------------------------------------------------
+Aragami ini juga disebut "Aragami Berdarah Murni"...
+Kepala cabang Sakaki!
+---------------------------------------------------------
+Hmm? Apa?
+---------------------------------------------------------
+Aku ingin meninggalkan penjelasan lebih rinci tentang
+"Kyuubi" untuk Soma, kupikir aku juga tidak mengerti
+---------------------------------------------------------
+Lindows juga seperti biasa Yah Yah tentu,
+Tampaknya akan baik untuk mengembangkannya bersama sama
+---------------------------------------------------------
+Kamu harusnya kamu mengundang semuanya dan menyambut
+semua orang sampai kau siap untuk pengarahan
+---------------------------------------------------------
+Tidak apa apa, Manajer Cabang
+---------------------------------------------------------
+Baiklah, Untuk kalian berdua itu adalah waktu
+yang sangat lama, Senang bertemu denganmu!
+---------------------------------------------------------

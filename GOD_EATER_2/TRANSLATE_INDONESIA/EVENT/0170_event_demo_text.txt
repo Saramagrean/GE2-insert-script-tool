@@ -1,0 +1,48 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0015
+===============================================================
+[00000196:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Julius
+---------------------------------------------------------
+Ah...Kerja yang bagus saat uji kecocokan<@>
+---------------------------------------------------------
+Bagus sekali hingga tidak ada yang rusak<@>
+---------------------------------------------------------
+Sini, duduklah bro<@>
+---------------------------------------------------------
+Ini adalah tempat paling nyaman di "Friar" aku selalu
+kemari untuk menenangkan diriku saat aku punya waktu...<@>
+---------------------------------------------------------
+Ini tempat yang bagus
+---------------------------------------------------------
+Dan siapa dirimu?
+---------------------------------------------------------
+Nah kau baru menyebutkan itu,
+Aku belum memberitahumu namaku<@>
+---------------------------------------------------------
+Aku Julius Visconti<@>
+---------------------------------------------------------
+Aku adalah kapten "Blood" dari Teknologi Departemen
+Pengembangan Yang ditugaskan untukmu dari sekarang<@>
+---------------------------------------------------------
+Tidak perlu takut Mari tetap bersama mulai dari
+sekarang<@>
+---------------------------------------------------------
+Yah sekarang...<@>
+---------------------------------------------------------
+beristirahatlah lalu berkelilinglah di "Friar"
+sesukamu<@>
+---------------------------------------------------------
+Kita akan bertemu nanti<@>
+---------------------------------------------------------
+Memang, aku suka disini<@>
+---------------------------------------------------------

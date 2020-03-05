@@ -1,0 +1,1309 @@
+NAMA:npc_call_outline_clear
+ENCODING:UTF-8
+CRLF:\n
+ID:
+TYPE:yobi
+JUMLAH_STRING:0260
+===============================================================
+[00003248:00000056:00001999:01311061:00000255:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+[0000]
+Let Alisa partake in the free mission
+to deepen your bond with her
+
+Satellite bases are on the increase
+apparently thanks to Alisa's proposal
+Seeing how she takes up the job for the civillians' sake
+all by herself without any complaints, Kouta feels like
+she is acting as "the branch director's vesse
+---------------------------------------------------------
+[0000]
+Alisa, arranging the  
+preparations to sweep the area of 
+Aragami around the area of the satellite wreckage, is driven by duty and as
+
+leader will take responsibility to go to the area and take a second look. 
+It is impossible 
+now for the inhabitants to return to the area,
+I will do my best to keep the current situation in hand as much as I can
+---------------------------------------------------------
+[0000]
+Let Alisa partake in the free mission
+to deepen your bond with her
+
+Alisa finally got her Blood Arts awaken
+She is overjoyed that she is able to
+fight on par with Invasive Species 
+In order to help her
+Let's work with her more in the future
+---------------------------------------------------------
+[0000]
+Alisa accepted a mission to subjugate Aragami at the old dam,
+but it seems that some problem emerged
+Go and ask Alisa about it in detail
+
+Alisa is bad with cleaning her room
+She was keen on doing better next time
+but apparently she shows little confidence, unlike her usual self
+You now see Alisa in a new light
+---------------------------------------------------------
+[0000]
+Regarding the construction of the satellite.
+It seems we need to cooperate and ensure materials and mankind's hope.
+Go talk to Alisa ensuring materials and keep the construction schedule on time. There are not enough people to help with the construction.
+---------------------------------------------------------
+[0000]
+It seems there have been rare species sightings around the satellite 
+Alisa is concerned that the satellite is in danger
+Ready, let's go with Alisa to the satellite
+
+If the rare species is seen, 
+There is no fear of being attacked.Alisa seems to have received a generous reward from residents for thus mission.
+I feel that my bond with Alisa has deepened significantly
+---------------------------------------------------------
+[0000]
+
+---------------------------------------------------------
+[0000]
+
+---------------------------------------------------------
+[0000]
+
+---------------------------------------------------------
+[0000]
+
+---------------------------------------------------------
+[0000]
+
+---------------------------------------------------------
+[0000]
+
+---------------------------------------------------------
+[0000]
+
+---------------------------------------------------------
+[0000]
+
+---------------------------------------------------------
+[0000]
+
+---------------------------------------------------------
+[0000]
+
+---------------------------------------------------------
+[0000]
+
+---------------------------------------------------------
+[0000]
+
+---------------------------------------------------------
+[0000]
+
+---------------------------------------------------------
+[0000]
+
+---------------------------------------------------------
+[0001]
+Ciel wants to report the findings of the "Blood Bullet" which was found previously by the maintenance team.
+
+The Blood Bullet is a module found to possess a "certain property" due to a mutation.
+
+Ciel has a special feeling about it, so she has decided to study it side by side with the maintenance team.
+---------------------------------------------------------
+[0001]
+In order to understand more, it seems that
+Ciel has tested Bullet Editing with every Gun Barrel.
+She now appears wanting to progress onto inspecting the variations of the Blood Bullet.
+
+The test results confirmed great success
+in Blood Bullet editing, Improving the
+field of sensitivity in the battlefield.
+---------------------------------------------------------
+[0001]
+Ciel's Blood Bullet development has made some progress but
+It seems like she's being stuck.
+Let's confirm it with Ciel.
+
+With Ciel's research, the Blood Bullet's
+Mutation Module extraction succeeded
+Blood Bullet modification is now possible.
+We promised that from now on, we will continue on the research together.
+---------------------------------------------------------
+[0001]
+Free mission: accompany Ciel Let's deepen ties Ciel who moved in to the Far East, the keeper of the capybara Has been responsible for the said animal yet It still haven't got accustomed to her. Everyone knew that the two were incompatible.
+---------------------------------------------------------
+[0001]
+For the improvement of tactical and combat strategy,
+Ciel is researching for reference material
+
+She couldn't find anything.
+Let's hear what Ciel has to say.
+Ciel, who wants to know more about the captain, said
+「If I could breakdown the analysis......」
+Those words she uttered
+Felt serious as I thought.
+It feels like my bonds with Ciel has deepened.
+---------------------------------------------------------
+[0001]
+
+---------------------------------------------------------
+[0001]
+
+---------------------------------------------------------
+[0001]
+
+---------------------------------------------------------
+[0001]
+
+---------------------------------------------------------
+[0001]
+
+---------------------------------------------------------
+[0001]
+
+---------------------------------------------------------
+[0001]
+
+---------------------------------------------------------
+[0001]
+
+---------------------------------------------------------
+[0001]
+
+---------------------------------------------------------
+[0001]
+
+---------------------------------------------------------
+[0001]
+
+---------------------------------------------------------
+[0001]
+
+---------------------------------------------------------
+[0001]
+
+---------------------------------------------------------
+[0001]
+
+---------------------------------------------------------
+[0001]
+
+---------------------------------------------------------
+[0002]
+Let's accompany Kigurumi in a free mission
+to deepen our ties
+
+In order to uncover Kigurumi's identity in which,
+up until now has been shrouded in mystery, It seems
+Kota and the others finally started their move
+---------------------------------------------------------
+[0002]
+Free Mission: Accompany Kigurumi
+Let us deepen our bonds
+
+Kigurumi reveals not a single emotion to others
+We managed to obtain a magazine he/she was reading,
+but we still could figure out whether Kigurumi
+was a dog-lover or a cat-lover.
+---------------------------------------------------------
+[0002]
+Free mission is allowed to accompany Kigurumi 
+Let's deepen ties
+
+At the suggestion of Kota,  to the surrounding person
+Kikikomi  became performing the survey
+If you collect the witness, I'm sure  something seen should
+While I think so
+---------------------------------------------------------
+[0002]
+Let Kigurumi partake in the free mission with you
+to deepen your bond with them
+
+You gathered more information from Mitsumi, Emil and Fran
+but the mystery about Kigurumi merely intensified all the more
+Your investigation went back to square one
+and you were in nothing but a puzzle
+---------------------------------------------------------
+[0002]
+Let Kigurumi partake in the free mission with you
+to deepen your bond with them
+
+Thanks to Emil's efforts (?) to expose Kigurumi's 
+identity, Kigurumi's head part was removed
+and yet it was completely empty inside
+---------------------------------------------------------
+[0002]
+Let Kigurumi partake in the free mission
+to deepen your bond with them
+
+An operation called "Easter Rabbit" began
+Next time it seems that
+they will use brute force to expose Kigurumi's identity
+Loosk like Kouta and his team are getting everything ready
+---------------------------------------------------------
+[0002]
+Let Kigurumi partake in the free mission
+to deepen your bond with them
+
+You couldn't tell who Kigurumi is
+Your operation is a complete failure
+However you got a hunch that some unbreakable
+strong bond was born between you and Kigurumi
+---------------------------------------------------------
+[0002]
+Let Kigurumi partake in the free mission
+to deepen your bond with them
+
+As you keep going on missions with Kigurumi
+you got a hunch that your bond will be deepened further
+---------------------------------------------------------
+[0002]
+Let Kigurumi partake in the free mission
+to deepen your bond with them
+
+As you keep going on missions with Kigurumi
+you also resolved their bad impression with Kota and the others
+You got a hunch that your bond with Kigurumi was greatly deepened
+---------------------------------------------------------
+[0002]
+
+---------------------------------------------------------
+[0002]
+
+---------------------------------------------------------
+[0002]
+
+---------------------------------------------------------
+[0002]
+
+---------------------------------------------------------
+[0002]
+
+---------------------------------------------------------
+[0002]
+
+---------------------------------------------------------
+[0002]
+
+---------------------------------------------------------
+[0002]
+
+---------------------------------------------------------
+[0002]
+
+---------------------------------------------------------
+[0002]
+
+---------------------------------------------------------
+[0002]
+
+---------------------------------------------------------
+[0003]
+Emil is wounded from an Aragami raid. He appears to have been collecting repair materials for the outer settlements' walls. Confirm all the details with Emil.
+It seems that the materials are needed for repairs.
+Its time to thank him for his work , with a beer that has been made thats good quality
+---------------------------------------------------------
+[0003]
+Let's accompany Emil in a free mission
+to deepen our bond
+Emil call trap and stun grenade
+「Coward's Weapon」and felt
+hesitant to use them
+But look like he'll use them positively from now
+---------------------------------------------------------
+[0003]
+Emil who has studied how to use traps
+wants to test out some of them in actual combat.
+Finish your preperations and head over to Emil.
+
+In response to Emil's request
+You hit him with the force from your whole body.
+You feel something awaken inside him.
+You expect great growth now that Emil has
+changed his ways.
+---------------------------------------------------------
+[0003]
+Let's accompany Emil in a free mission
+to deepen our bond
+
+Now i knew Emil name his
+God Arc「Polarstern」
+He found out something,
+and it's very unimportant .
+---------------------------------------------------------
+[0003]
+Emil joins you on the free mission
+ Strengthen your bonds with him.
+
+Like wasabi as a topping on sushi, Emil get's fired up
+It seems like the extreme emotion is an expression of his strong determination.
+ look forward to seeing his growth.
+---------------------------------------------------------
+[0003]
+Emil who has been put in charge of Satelite Immigration Escort Duty
+seems quite nervous....will he be okay...
+
+Having safely completed the mission,
+Emil seems to have felt his own growth.
+He wants to be like the "Northern Star" who guides the people,
+That is his dream and also the origin of the name given to his God Arc.
+You feel your bond with Emil has deepened greatly.
+---------------------------------------------------------
+[0003]
+Placed on Transport Guard duty, Emil
+feigns a calm composure and yet his face
+shows no sign of calm complexion.
+Go and see how he is holding up.
+
+Emil has grown greatly, aqcuiring new abilitites.
+His battle has only just begun, and will continue from now.
+You feel your bond with Emil has deepened greatly.
+---------------------------------------------------------
+[0003]
+
+---------------------------------------------------------
+[0003]
+
+---------------------------------------------------------
+[0003]
+
+---------------------------------------------------------
+[0003]
+
+---------------------------------------------------------
+[0003]
+
+---------------------------------------------------------
+[0003]
+
+---------------------------------------------------------
+[0003]
+
+---------------------------------------------------------
+[0003]
+
+---------------------------------------------------------
+[0003]
+
+---------------------------------------------------------
+[0003]
+
+---------------------------------------------------------
+[0003]
+
+---------------------------------------------------------
+[0003]
+
+---------------------------------------------------------
+[0003]
+
+---------------------------------------------------------
+[0004]
+Let's accompany Erina in a free mission
+to deepen our bond
+
+The surly word Erina left behind
+「……not bad」
+probably is her honest feeling
+However, Erina expression still stiff
+---------------------------------------------------------
+[0004]
+Erina seems to have something to ask for.
+Let's listen to her story in detail.
+
+In order not to become a burden for Captain Kota and the rest of the Far East Branch,
+Erina is exerting effort in becoming mature. 
+「I'd like to see even just a bit of your combat style for reference.」
+ Erina's facial expression while asking me was a bit soft.
+---------------------------------------------------------
+[0004]
+Immediately, Erina is seems like to ask the cooperation of the Mission
+Is ready, we will heading to the place of Erina
+
+I heard the story of a brother who martyrdom three years ago from Erina
+Soma also seemed to feel the responsibility now to brother's death
+To excessive concern for Erina
+That she he himself is puzzled
+At the request of Erina, on the next mission Soma was supposed to accompany
+---------------------------------------------------------
+[0004]
+It seems that you will be going on a mission with Soma
+During your previous conversation, you made a promise to accompany him.
+Finish your preperationsand head over to where Erina is.
+
+Even though there was a difference in opinions with Soma
+You felt a glimpse of Erina's growth as a God Arc user.
+---------------------------------------------------------
+[0004]
+Let Erina partake in the free mission
+to deepen your bond with her
+
+Erina prided herself on being a Far East God Eater
+so it seems she has harboured a strong sense
+of rivalry against Blood
+Now that all the ill feelings are resolved
+she is going to call you her "Senior"
+---------------------------------------------------------
+[0004]
+You allowed Erina to accompany you on the free mission
+Try to deepen your bonds with her.
+
+Even though you overlooked it, 
+At last Erina was able to manifest her Blood Arts.
+To fully master the Blood Arts, 
+It seems she will continue her training.
+---------------------------------------------------------
+[0004]
+You allowed Erina to accompany you on the free mission
+Try to deepen your bonds with her.
+
+Overjoyed at being able to master her Blood Arts this time around
+To elavate  her skills, without delay she headed to the training room to continue her training.
+Now, you feel you have come to understand Erina.
+---------------------------------------------------------
+[0004]
+Erina is looking for someone to accompany
+her so as to confirm the signal of what might be
+an Inducive Type near the Satellite.
+Get ready, and head to where Erina is.
+
+Despite the dangerous situation,
+Erina managed to remain calm and assess the situation, Protecting Emil successfully.
+I can now clearly see her improvement in being a God Eater.
+It felt like my bonds with Erina has deepened.
+---------------------------------------------------------
+[0004]
+
+---------------------------------------------------------
+[0004]
+
+---------------------------------------------------------
+[0004]
+
+---------------------------------------------------------
+[0004]
+
+---------------------------------------------------------
+[0004]
+
+---------------------------------------------------------
+[0004]
+
+---------------------------------------------------------
+[0004]
+
+---------------------------------------------------------
+[0004]
+
+---------------------------------------------------------
+[0004]
+
+---------------------------------------------------------
+[0004]
+
+---------------------------------------------------------
+[0004]
+
+---------------------------------------------------------
+[0004]
+
+---------------------------------------------------------
+[0005]
+Lately, Gil is reviewing his God Arc , he seems to feel like something is off. After talking with with Licca, Gil agree to cooperate and go ahead with God Arc adjustment Go gather materials with  Gill to readjust his God Arc.
+---------------------------------------------------------
+[0005]
+The materials needed to tune you God Arc
+have been listed
+Go and confirm with Gil
+
+He was also pleased with the tuning of the God Arc
+It seems he will lend a hand in developing a personal 
+God Arc for you next time.
+Think about the weapon you would like to have tuned for next time.
+---------------------------------------------------------
+[0005]
+Once you have decided on a weapon to be tuned, 
+go over and tell Gil.
+
+To tune your God Arc
+Something called 'Inducive Wave Body Reception'
+is a special component that is needed.
+Soon, this necessary material will requested of you.
+---------------------------------------------------------
+[0005]
+The list of required materials to create a "Inductive Wave Receptor" appears to be complete. Confirm with Gil. We get a low density of receptors Inducive wave. It will strengthen the use of the kurogane equipment 
+---------------------------------------------------------
+[0005]
+Tuning with the "Low Density Inducive Wave Receptor" is completed. Wanting to do an on-site inspection of the Kurogane equipment, you should equip the tuned God Arc and meet up with Gil. Through verification Kurogane equipment to tuning the God Art is Gill seems cooperate not mind waiting until you have contacted Gill
+---------------------------------------------------------
+[0005]
+The materials needed to tune your
+God Arc have been listed.
+Go and confirm this with Gil.
+
+You recieved the 'High Density Inducive Wave Receptor' from Gil
+By using this, you should be able to strengthen
+the 'Kurogane Gear' further.
+---------------------------------------------------------
+[0005]
+Tuning with the "High Density Inducive Wave Receptor" is completed. Wanting to do an on-site inspection of the Kurogane equipment, you should equip the tuned God Arc and meet up with Gil.Through verification of Kurogane equipment, Gil is once again seems cooperate with us tuning of the God Arc, do not mind waiting until contact Gill
+---------------------------------------------------------
+[0005]
+The materials needed to tune your
+God Arc have been listed.
+Go and confirm this with Gil.
+
+GIl has also found a new objective,
+and has started on his path towards it.
+With this the first phase of the God Arc tuning is complete.
+From now on use it with great care.
+---------------------------------------------------------
+[0005]
+It seem Gil wants to go on the mission with you.
+Go talk to hi .
+
+Through tuning many God Arcs,
+Gil seems to feels a 'relationship with humans'.
+Your bond with Gil has deepened greatly.
+---------------------------------------------------------
+[0005]
+
+---------------------------------------------------------
+[0005]
+
+---------------------------------------------------------
+[0005]
+
+---------------------------------------------------------
+[0005]
+
+---------------------------------------------------------
+[0005]
+
+---------------------------------------------------------
+[0005]
+
+---------------------------------------------------------
+[0005]
+
+---------------------------------------------------------
+[0005]
+
+---------------------------------------------------------
+[0005]
+
+---------------------------------------------------------
+[0005]
+
+---------------------------------------------------------
+[0005]
+
+---------------------------------------------------------
+[0006]
+With some sort of plan in mind, you
+hear a rumor that Instructor Kanon is looking for you.
+Head over to Kanon and hear what she has to say.
+
+Although she is a user of an old-model barrel gun, 
+there is much instability in her shooting skill and she also views this as a problem.
+The most pressing issue is how to fix her accidentally firing the gun...
+---------------------------------------------------------
+[0006]
+Kanon joins you on the free mission.
+Strengthen your bonds with her.
+
+During her time as a new recruit, Kanon was part of the 'Defense Unit'
+Because of her bad compatability she was banned
+from the Oracle Reserve. That may be the reason
+she is always indecisive.
+---------------------------------------------------------
+[0006]
+Once the verdict on whether Kanon's Oracle Reserve ban
+is lifted or not is out, go and interview her.
+
+Because of Recovery orbs, the effect of a misfire is slightly smaller
+Licca also gave her approval for the use of the
+Oracle Reserve, resulting in a very happy Kanon.
+Expect great growth from Kanon from now on.
+---------------------------------------------------------
+[0006]
+Let Canon partake in the free mission
+to deepen your bond with her
+
+Since receiving the guidance from Coach
+it seems that Canon's performance got improved leaps and bounds
+She found out the role of a combat medic
+There is a spark in Canon's eyes
+---------------------------------------------------------
+[0006]
+Kanon joins you on the free mission.
+Strengthen your bonds with her.
+
+The recovery orb suddenly got stuck in the barrel
+Kanon succumbed to anxiety..
+However, that allowed the manifestation
+of the Blood Bullet.
+You can expect even greater growth from her.
+---------------------------------------------------------
+[0006]
+Kanon joins you on the free mission.
+Strengthen your bonds with her.
+
+Kanon talks about how she sees her greatest contribution
+is having blown away Aragami.
+Because of that strong will, she was able to 
+manifest her Super Steam-powered Blood Bullet.
+That seems to be just how she is.
+You feel your bond with Kanon has deepened greatly.
+---------------------------------------------------------
+[0006]
+
+---------------------------------------------------------
+[0006]
+
+---------------------------------------------------------
+[0006]
+
+---------------------------------------------------------
+[0006]
+
+---------------------------------------------------------
+[0006]
+
+---------------------------------------------------------
+[0006]
+
+---------------------------------------------------------
+[0006]
+
+---------------------------------------------------------
+[0006]
+
+---------------------------------------------------------
+[0006]
+
+---------------------------------------------------------
+[0006]
+
+---------------------------------------------------------
+[0006]
+
+---------------------------------------------------------
+[0006]
+
+---------------------------------------------------------
+[0006]
+
+---------------------------------------------------------
+[0006]
+
+---------------------------------------------------------
+[0007]
+Kota joins you on the free mission.
+Strengthen your bonds with him.
+
+After the mission, you grab a bite at the lounge.
+Since Mutsumi was assigned to the Far East Branch,
+the lounge has gotten quite lively.
+It seems that he will show you all the 
+'Good Spots' around the Far East Branch.
+---------------------------------------------------------
+[0007]
+You allowed Kota to accompnay you on the free mission
+Try and deepen your bonds with him.
+
+Over the course of a few years, thanks to comms. technology
+The survival rate for God Arc users increased exponentially,
+in addition they were also able to  aqcuire much new information.
+Over at Unit 1 it seems they are having problems with this,
+I wonder if they'll be okay?
+---------------------------------------------------------
+[0007]
+There have been confimed sightings of Aragami 
+around the Far East Branch area, Kota is currently
+looking for someone to help him in a subjugation mission.
+Finish your preperations and head over to Kota.
+
+The exterior residential distract that extends around
+the Far East Branch is apparently where Kota's family
+live. As Kota talks of his home, you can see how proud he is of it.
+---------------------------------------------------------
+[0007]
+Let Kota partake in the free mission
+to deepen your bond with him
+
+Unable to stop the quabble between Erina and Emil
+Kota lost his confidence
+as their captain
+but he acknowledged their own quirks
+and he is finding a way to manage 1st unit little by little
+---------------------------------------------------------
+[0007]
+It seems that something is wrong with Kota's bullets,
+he is requesting support.
+Head over to Kota to see what is going on.
+
+It seems the root of the problem was something 
+to do with the Blood Bullet manifestation.
+Even though it was an old model, he didn't 
+spare any effort in dealing with it. Seeing Kota like that, you
+feel you saw his pride as a God Arc user.
+---------------------------------------------------------
+[0007]
+You allowed Kota to accompany you on the free mission.
+Try to deepen your bonds with him.
+
+As the captain of Unit 1, alongside working, 
+You notice that Kota is also endevouring to solve 
+problems in the exterior residential district.
+When you look at him it becomes clear that
+he really loves this place.
+You feel you bond with Kota has deepened greatly.
+---------------------------------------------------------
+[0007]
+
+---------------------------------------------------------
+[0007]
+
+---------------------------------------------------------
+[0007]
+
+---------------------------------------------------------
+[0007]
+
+---------------------------------------------------------
+[0007]
+
+---------------------------------------------------------
+[0007]
+
+---------------------------------------------------------
+[0007]
+
+---------------------------------------------------------
+[0007]
+
+---------------------------------------------------------
+[0007]
+
+---------------------------------------------------------
+[0007]
+
+---------------------------------------------------------
+[0007]
+
+---------------------------------------------------------
+[0007]
+
+---------------------------------------------------------
+[0007]
+
+---------------------------------------------------------
+[0007]
+
+---------------------------------------------------------
+[0008]
+While continuing her culinary research, Nana
+who previously created a fake-straweberry pill, exceeded expectations
+with the creation of a new recovery pill.
+Go to Nana and check out what she made.
+
+The food sampling ended with great success due
+rare component, 'Don't-worry-be-happy-enizer'
+It seems Nana's confidence has increased again.
+It seems like her creative work will advance just fine.
+---------------------------------------------------------
+[0008]
+It seems like Nana has another new creation
+and she wants to unveil it straight away
+Go to Nana and check out what she has made.
+
+She has perfected the 'Nana Deluxe Trap'
+which uses Aragami's favourite food stuffed into it.
+She has become quite competant in handling traps as well.
+It seems like her creative work will continue just fine.
+---------------------------------------------------------
+[0008]
+You allowed Nana to accompany you on the free mission.
+Try to deepen your bond with her.
+
+Cramed with every SEAL selected food item
+the 'Nana Deluxe Health Ration' became a huge
+hit in every branch after gaining support from many
+of the females.
+---------------------------------------------------------
+[0008]
+Nana has made yet another new creation
+and she wants to unveil it straight away
+Go to Nana and check out what she has made.
+
+To lure out Golden Gboro-Gboro the 
+'Nana Deluxe Trap Mk.II'
+It ended in a great success (?!) as it
+managed to lure out a large number of Gboro-Gboro....
+---------------------------------------------------------
+[0008]
+You allowed Nana to accompany you on the free mission.
+Try to deepen your bond with her.
+
+Since a time forgotten to memories of the past,
+since waking up to the 'Power of Blood', little by little
+she begins to remember it.
+You can see Nana's facial expression light up as she talks about it.
+---------------------------------------------------------
+[0008]
+It seems Nana has another creation for unveiling.
+Go to Nana and check out what she has made.
+
+A multicoloured large flower flutters under the night sky, 
+it was named the 'Fluttering Grenade'.
+With it in hand, as a 'mark of gratitude' Nana
+expresses a whole hearted smile.
+You feel your bond with Nana has deepened greatly.
+---------------------------------------------------------
+[0008]
+
+---------------------------------------------------------
+[0008]
+
+---------------------------------------------------------
+[0008]
+
+---------------------------------------------------------
+[0008]
+
+---------------------------------------------------------
+[0008]
+
+---------------------------------------------------------
+[0008]
+
+---------------------------------------------------------
+[0008]
+
+---------------------------------------------------------
+[0008]
+
+---------------------------------------------------------
+[0008]
+
+---------------------------------------------------------
+[0008]
+
+---------------------------------------------------------
+[0008]
+
+---------------------------------------------------------
+[0008]
+
+---------------------------------------------------------
+[0008]
+
+---------------------------------------------------------
+[0008]
+
+---------------------------------------------------------
+[0009]
+The test results of the prototype
+link support device show that it seems they
+were able to pinpoint some of the problems.
+Head over to Licca to get the details.
+
+The necessary materials were safely gathered
+To advance to the next testing phase, Licca
+starts on the improvements to the prototype.
+Wait until the prototype improvements are finished.
+---------------------------------------------------------
+[0009]
+It seems the prototype enhancements have been completed.
+Licca wants to test out the deivice straight away.
+Finish your preperations and head over to Licca.
+
+The prototype was originally part of Licca's 
+father's research but when he died, 
+Licca took over the research, aiming for a more practical use
+in the field.
+It seems her research will continue just fine.
+---------------------------------------------------------
+[0009]
+Licca is requesting help for testing the adjusted prototype
+after taking onboard the previous results.
+
+You were forcefully brought along to a compatability test
+Licca is concerned about the happiness of the God Eaters
+who are forced to live on the battlefield. It is exactly because of that
+that Licca places her faith on God Arc maintenance and 
+link support devices.
+---------------------------------------------------------
+[0009]
+Licca is requesting help for testing the adjusted prototype
+after taking onboard the previous results.
+
+According to Licca the final inspection ended in a great success.
+If the research and budget gets approval from headquarters,
+Licca aims to move the research for the link support device
+to the stage where it can be used by the general public.
+---------------------------------------------------------
+[0009]
+After the results from the previous final insepction, 
+Licca worked all night on the link support device
+and furthered her research.
+Head over to Licca to hear what she has to say.
+
+It seems she was finally able to complete
+the link support device. It seems that you can
+create it at the terminal. Many different variations
+have also been prepared. Licca seems to be filled
+with pride.
+---------------------------------------------------------
+[0009]
+Before handing in the research documents to HQ R&D department, 
+Licca has something she wants you to help with.
+
+Licca recieved a letter from HQ R&D inviting her to work there, 
+however she declined the proposal,
+and chose to continue working at the Far East Branch of her own
+violition.
+Filled with a new sense of determination, you could see the spark 
+in her eyes.
+You feel your bond with Licca has deepened greatly.
+---------------------------------------------------------
+[0009]
+
+---------------------------------------------------------
+[0009]
+
+---------------------------------------------------------
+[0009]
+
+---------------------------------------------------------
+[0009]
+
+---------------------------------------------------------
+[0009]
+
+---------------------------------------------------------
+[0009]
+
+---------------------------------------------------------
+[0009]
+
+---------------------------------------------------------
+[0009]
+
+---------------------------------------------------------
+[0009]
+
+---------------------------------------------------------
+[0009]
+
+---------------------------------------------------------
+[0009]
+
+---------------------------------------------------------
+[0009]
+
+---------------------------------------------------------
+[0009]
+
+---------------------------------------------------------
+[0009]
+
+---------------------------------------------------------
+[0010]
+Let Lindow partake in the free mission
+to deepen your bond with him
+
+You became Lindow's teacher
+on Blood Arts at his suggestion
+He seems awfully excited
+---------------------------------------------------------
+[0010]
+It seems Lindow wants to take a class on Blood Arts immediately.
+Finish your preperations, and tell him that class is about to start.
+
+Lindow believes that Blood Arts are
+the "Key to a new world".
+It seems he will continue the class on Blood Arts for a while.
+---------------------------------------------------------
+[0010]
+Let Lindow partake in the free mission
+to deepen your bond with him
+
+Lindow was bad with paperworks
+but he wasn't all that busy either
+You were asked to help him writing the immigration plan
+and ended up accompanying until evening
+---------------------------------------------------------
+[0010]
+Let Lindow partake in the free mission
+to deepen your bond with him
+
+As Lindow is bringing up his child
+he realised that
+"Teaching itself is a way to learn"
+At times he is the teacher, at times he is taught, they'd mature together
+He tells you, that alone is enough for him
+You got the hunch that your bond with Lindow has been greatly deepend
+---------------------------------------------------------
+[0010]
+
+---------------------------------------------------------
+[0010]
+
+---------------------------------------------------------
+[0010]
+
+---------------------------------------------------------
+[0010]
+
+---------------------------------------------------------
+[0010]
+
+---------------------------------------------------------
+[0010]
+
+---------------------------------------------------------
+[0010]
+
+---------------------------------------------------------
+[0010]
+
+---------------------------------------------------------
+[0010]
+
+---------------------------------------------------------
+[0010]
+
+---------------------------------------------------------
+[0010]
+
+---------------------------------------------------------
+[0010]
+
+---------------------------------------------------------
+[0010]
+
+---------------------------------------------------------
+[0010]
+
+---------------------------------------------------------
+[0010]
+
+---------------------------------------------------------
+[0010]
+
+---------------------------------------------------------
+[0011]
+It seems that Soma is seeking some help
+with a mission to retrieve samplings for his research
+Get yourself ready, and head for Soma's place
+
+Apparently Soma lost his comrade
+in Sunken Grid three years ago
+As he left the place, you could see some sadness in his eyes
+---------------------------------------------------------
+[0011]
+Let Soma partake in the free mission
+to deepen your bond with him
+
+He told you about his father
+who advocated Aegis project
+It seems he will tell you the rest next time
+---------------------------------------------------------
+[0011]
+The previously listed Aggregation Pheromone effectiveness
+test needs requires an assistant.
+Finish your preperations and head over to Soma.
+
+Soma told me the continuation of the talk about his father.
+He was a great but lonely man, therefore
+Soma choose not to follow his failed father and 
+chose to trust his 'friends' and walk beside them.
+---------------------------------------------------------
+[0011]
+Let Soma partake in the free mission
+to deepen your bond with him
+
+Soma's research seems to be going well
+You now realized
+that he is carrying on many grand researches  
+striving for a new future for humankind 
+---------------------------------------------------------
+[0011]
+For the goal of collecting the Aragami materials used in experiments
+it seems Soma is looking for a helper
+Get everything ready and prepared and head over to Soma.
+
+The necessary materials for the experiment seemed to have been safely gathered
+To produce results, he was up to challenge the Aragami as many times as needed.
+You felt the pride of a researcher through Soma's attitude.
+---------------------------------------------------------
+[0011]
+For research it seems many Aragami materials are needed.
+It seems Soma is looking for someone to help in his collection operations.
+Get everything you need prepared and head over to where Soma is.
+
+Soma's research has only just begun.
+As he gazes at the moon,
+you can sense something akin to determination in his eyes.
+You feel your bond with Soma has deepened greatly.
+---------------------------------------------------------
+[0011]
+
+---------------------------------------------------------
+[0011]
+
+---------------------------------------------------------
+[0011]
+
+---------------------------------------------------------
+[0011]
+
+---------------------------------------------------------
+[0011]
+
+---------------------------------------------------------
+[0011]
+
+---------------------------------------------------------
+[0011]
+
+---------------------------------------------------------
+[0011]
+
+---------------------------------------------------------
+[0011]
+
+---------------------------------------------------------
+[0011]
+
+---------------------------------------------------------
+[0011]
+
+---------------------------------------------------------
+[0011]
+
+---------------------------------------------------------
+[0011]
+
+---------------------------------------------------------
+[0011]
+
+---------------------------------------------------------
+[0012]
+Haruomi seems to be looking for
+someone To join him relax.
+Let's listen to what Haruomi has to say
+
+Shockingly, Haruomi is planning to take
+a knee-high model with us into a mission.
+For now let's wait for him to contact me.
+---------------------------------------------------------
+[0012]
+A rumor about Haruomi bringing an
+Unfamiliar God Eater has spread
+Let's see what Haruomi would say
+
+Carie Yue came from the Singapore branch for a vacation.
+Carry out the mission with the three of you
+By sharing more about his fetish,
+I felt that our bond has deepened.
+---------------------------------------------------------
+[0012]
+Haruomi seems to be looking for someone to
+talk to about his wise words.
+Let's listen to what Haruomi has to say.
+
+
+"Unrevealing outfits are hot", says Haruomi.
+And now he plans on taking a model with
+Unrevealing outfit into a mission
+For now let's wait for him to contact me.
+---------------------------------------------------------
+[0012]
+A rumor about Haruomi bringing an
+Unfamiliar God Eater has spread
+Let's see what Haruomi has to say
+
+Camille Rembrandt came from the Marseille branch,
+and was on an escort mission of goods transport.
+Perform the mission with Camille Rembrandt.
+Haruomi also seemed to be delighted.
+---------------------------------------------------------
+[0012]
+It seems like Haruomi is searching for
+Someone who would listen to him
+Let's listen to what he has to say
+
+"Our next goal are stockingless legs"
+Says Haruomi with a straight face.
+he's search for a model with all of his might.
+For now let's wait for him to contact me.
+---------------------------------------------------------
+[0012]
+A rumor about Haruomi bringing an
+Unknown God Eater has spread
+Let's see what Haruomi would say
+
+Ines Almeida came from the Rio de Janeiro branch
+In order to carry out a mission.
+Haruomi seems delighted.
+---------------------------------------------------------
+[0012]
+From everything he had experienced up until now, as if he had come to understand something, Haruomi made an unusually calm expression.
+Ask Haruomi for a detailed account of what happened.
+
+Haruomi recited "The world is an endless cycle" 
+while denying this, his heart already knew the truth.
+Next time exactly who will he bring?
+---------------------------------------------------------
+[0012]
+Haruomi's preparing for the next planned mission
+Does this mean that he has found a new model?
+Let's listen to to what Haruomi has to say.
+
+Haruomi's final model is none other than Kanon.
+Now his journey of his love for legs continues.
+I felt that my bonds with Haruomi has greatly deepened.
+---------------------------------------------------------
+[0012]
+
+---------------------------------------------------------
+[0012]
+
+---------------------------------------------------------
+[0012]
+
+---------------------------------------------------------
+[0012]
+
+---------------------------------------------------------
+[0012]
+
+---------------------------------------------------------
+[0012]
+
+---------------------------------------------------------
+[0012]
+
+---------------------------------------------------------
+[0012]
+
+---------------------------------------------------------
+[0012]
+
+---------------------------------------------------------
+[0012]
+
+---------------------------------------------------------
+[0012]
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+---------------------------------------------------------
+[0012]
+
+---------------------------------------------------------

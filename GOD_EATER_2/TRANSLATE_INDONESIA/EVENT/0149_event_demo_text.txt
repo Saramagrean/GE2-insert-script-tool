@@ -1,0 +1,59 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0019
+===============================================================
+[00000212:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Canon
+---------------------------------------------------------
+Jadi, terima kasih untuk wawancara kali ini, Tuan Instruktur
+<@>
+---------------------------------------------------------
+...dan, Licca<@>
+---------------------------------------------------------
+Licca
+---------------------------------------------------------
+Baik, Aku akan mengawasimu dalam misi hari ini<@>
+---------------------------------------------------------
+Y, Ya Apa itu...?<@>
+---------------------------------------------------------
+Jika saya melepas laranganmu menggunakan Oracle
+Reserve... Apakah kau pantas?<@>
+---------------------------------------------------------
+Eeeh!? Aku diperbolehkan menggunakan Oracle Reverse?<@>
+---------------------------------------------------------
+Jangan terburu-buru, akan ada ujian terlebih dahulu
+---------------------------------------------------------
+Akan bergantung pada hasil ujianmu
+---------------------------------------------------------
+Aku, aku akan melakukan yang terbaik! Aku bersumpah untuk
+mencurahkan semuanya yang kumiliko dan berusaha dengan
+keras!<@>
+---------------------------------------------------------
+Uh, tantang ini... Mau kah kau memberi tips atau
+sesuatu...?<@>
+---------------------------------------------------------
+Kau bisa berkonsentrasi dengan recovery bullets
+---------------------------------------------------------
+Mari fokus mendukung timmu daripada menyerang
+---------------------------------------------------------
+Aku mengerti...! 
+---------------------------------------------------------
+Mengerti! Aku akan menjaga dari belakang, terutama
+menembakkan recovery bullets, kurasa!<@>
+---------------------------------------------------------
+Dengan begitu, tidak akan ada yang salah Kanon, Aku akan
+menghibur dirimu<@>
+---------------------------------------------------------
+Te... Terima kasih Untuk perhatian terhadap
+diriku...!<@>
+---------------------------------------------------------
+Aku akan melakukannya! Aku akan menunjukkannya<@>
+---------------------------------------------------------

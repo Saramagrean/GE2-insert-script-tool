@@ -1,0 +1,356 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0140
+===============================================================
+[00000696:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+Tidak bisa masuk karena tidak memiliki wewenang 
+---------------------------------------------------------
+
+---------------------------------------------------------
+Tidak bisa masuk karena tidak memiliki wewenang 
+---------------------------------------------------------
+
+---------------------------------------------------------
+Tidak bisa masuk karena tidak memiliki wewenang 
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+Kapten,ayo kita berbicara
+……Kita punya kewajiban untuk mengetahui kebenarannya,blood
+---------------------------------------------------------
+Alisa
+---------------------------------------------------------
+Sepertinya serangkaian kejadian awan merah juga meningkat belakangan ini……
+Bersamanya juga,kasus black plague juga meningkat……
+---------------------------------------------------------
+
+---------------------------------------------------------
+(Ternyata aku sedang makan malam)
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+Rachel dan leah……
+sangat bagus..peneliti yang menabjubkan
+---------------------------------------------------------
+Disamping itu,keduanya tampak dekat satu sama lain……
+Itu memberikaknku kebaikan bahkan orang yang tidak teridentifikasi
+Tampak seperti itu
+---------------------------------------------------------
+Kita berdua..sudah lama yah……
+---------------------------------------------------------
+Ayo mulai,kapten……
+Apa kau siap？<@>
+---------------------------------------------------------
+Kapten,ayo berbicara
+……Kita punya kewajiban untuk mengetahui kebenarannya
+---------------------------------------------------------
+Emil
+---------------------------------------------------------
+Dr.leah..aku tidak tau apa yang terjadi dengannya……
+Bagaimana pun,sudah jelas bahwa ia bertarung dengan sesuatu
+---------------------------------------------------------
+Dan dia membutuhkan pertolongan sekarang！
+Kau blood..berikan cahaya harapan
+---------------------------------------------------------
+Erina
+---------------------------------------------------------
+Entah kenapa,seluruh far east menjadi gelisah……
+Tidak ada pilihan lain lagi,tapi……
+---------------------------------------------------------
+Fran
+---------------------------------------------------------
+Saat aku masih tetap di friar...Ada selusin pasien black plague
+Aku menyaksikannya dibawa ke perawatan intensif
+---------------------------------------------------------
+Bagaimana pun juga,belum ada yang keluar dari ruang rumah sakit
+Karena dibawah perawatan...aku pikir itu agak kejauhan……
+---------------------------------------------------------
+Gill
+---------------------------------------------------------
+Akhinya,itu komplain……<@>
+---------------------------------------------------------
+Dr.rachel dan...julius
+Apa yang sedang kau pikirkan……<@>
+---------------------------------------------------------
+Apakah yang kau maksud..pasien black plague
+Skill kontrol kuil shinto……？
+---------------------------------------------------------
+Haruomi
+---------------------------------------------------------
+Jadi,kita bekerja seperti biasa
+Untuk sekarang,tidak
+---------------------------------------------------------
+Hibari
+---------------------------------------------------------
+Dr.leah sedang menunggu
+Silahkan menuju ke ruang rumah sakit sesegera mungkin saat kau siap
+---------------------------------------------------------
+Blood punya misi baru
+Maafkan aku karena sudah mendengar kejadian itu
+---------------------------------------------------------
+kanon
+---------------------------------------------------------
+Jika god machine soldier aktif……
+Apakah pekerjaan kita...akan hilang？
+---------------------------------------------------------
+Rachel
+---------------------------------------------------------
+Keluargaku hanyala rachel……
+---------------------------------------------------------
+Aku tak bisa menahannya lagi
+---------------------------------------------------------
+Tidak ada yang tau intensi rachel……
+Tak ada alasan untuk mengetahuinya……
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+……Leah,biarkan aku bertanya
+
+---------------------------------------------------------
+Sekarang ini,pengembangan dari divine soldier dan
+Penelitian tentang black plague,sedang diurus...kan？
+---------------------------------------------------------
+Yeah,seperti dugaanmu,Ciel
+
+---------------------------------------------------------
+Friar
+Fasilitas untuk pengembangan dan produksi jinja soldier……
+---------------------------------------------------------
+……pasien black plague menderita,mungkin dalam beberapa bentuk
+Itu telah digunakan untuk mengontrol god machine soldier
+---------------------------------------------------------
+……！
+Seperti yang kuduga……
+---------------------------------------------------------
+Aku belum diberitau tentang bentuk ini
+Mungkin saja……
+---------------------------------------------------------
+……Mengerti
+Professor leah,makasih
+---------------------------------------------------------
+Kapten,akan kuceritakan cerita dari dr.sakaki
+Sepertinya blod telah memasuki misinya..jadi mari kesana duluan
+---------------------------------------------------------
+Terima kasih sudah berbicara denganku
+Beristirahatlah,Dr.leah……
+---------------------------------------------------------
+Yeah……
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Dr.leah sedang ditemani oleh dr.rachel dalam waktu yang lama
+Karena satu-satunya keluargaku……<@>
+---------------------------------------------------------
+Ya,itu tak berhenti...kan?……
+Tapi……
+---------------------------------------------------------
+Hari ini adalah kebenarannya..aku harap menemukannya
+Aku merasa agak..aku tidak ingin tau……
+---------------------------------------------------------
+Mutsumi
+---------------------------------------------------------
+Walau terbur-buru,tak apa kan？
+---------------------------------------------------------
+Dr,sakaki
+---------------------------------------------------------
+Ciel melapor padaku？
+……Tentu saja,itu agak tidak terduga
+---------------------------------------------------------
+Aku mengertu aku akan maju kedepan kapan saja
+Cara mengatasinya...itu bentuk yang diterima dari laporan ciel
+---------------------------------------------------------
+Dr.leah meminta interview lagi
+……Dimanapun,ekspresinya berbeda dari sebelumnya
+---------------------------------------------------------
+Saat  kau siap,maukah kau menuju ruang rumah sakit？<@>
+---------------------------------------------------------
+Satsuki
+---------------------------------------------------------
+Oh,wajah serius macam apa itu？
+……Yah kan?
+
+---------------------------------------------------------
+Jika kau tau sesuatu yang penting,maukah kau memberi tauku？
+Aku akan menunggu kepastianmu
+---------------------------------------------------------
+Gimana？
+Aku terkejut...……
+---------------------------------------------------------
+Apa-apaan dengan wajah serius itu？
+……Yah,kurasa tidak
+
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Semuanya tertulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Itu terlihat seperti majalah model atau katalog
+Aku tidak tau karena tertulis dalam bahasa rusia<@>
+---------------------------------------------------------
+Terlihat seperti file berteks
+Aku tidak bisa melihatnya karena tersembunyi<@>
+---------------------------------------------------------
+Модный　журнал
+---------------------------------------------------------
+Дневник
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Jangan lakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Liat berkasnya
+---------------------------------------------------------
+Jangan lakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Terdapat banyak taktik dalam file terkait<@>
+---------------------------------------------------------
+"Signal Bullet" mengacu pada item yang digunakan untuk memberikan instruksi kepada kawan dalam misi<@>
+---------------------------------------------------------
+Kisaran pengaruh "Bullet signal" ada dua jenis "Wide area signals" dan "Narrow Range signal"<@>
+---------------------------------------------------------
+"Wide area signal" untuk semua anggota yang berpartisipasi dalam misi
+"Narrow area signal" hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+Terdapat 4 jenis "peluru signal" yang dapat digunakan<@>
+---------------------------------------------------------
+Signal ber-area lebar : Set aggregate  Signal ber-area sempit : set
+Signal berjarak lebar : Set                      Signal berjarak pendek : Mencari serangan musuh<@>
+---------------------------------------------------------
+Untuk informasi lebih detail silahkan liat database<@>
+---------------------------------------------------------
+"Control Unit" diaktifkan dengan "Burst Skill"<@>
+---------------------------------------------------------
+"Burst skill" menunjukan efel saat dalam burst
+Adalah sebuah skill special<@>
+---------------------------------------------------------
+Juga tergantung pada "control unit" dan skill yang terpasang didalamnya maka Title akan berubah<@>
+---------------------------------------------------------
+Aku tidak bisa membukanya karena tidak
+memiliki izin<@>
+---------------------------------------------------------
+Petunjuk taktis senior : peluru signal
+---------------------------------------------------------
+Petunjuk taktis lebih lanjut : Kontrol unit
+---------------------------------------------------------
+ＮＯ　ＮＡＭＥ
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Filenya tersusun rapi 
+Mudah untuk melihatnya<@>
+---------------------------------------------------------
+Dengan "kartu avatar" tukar dengan "avatar"
+teman yang akan bisa berpartisipasi 
+dalam misi kapan saja
+<@>
+---------------------------------------------------------
+Terdapat 2 cata dalam bertukar "kartu avatar"
+Cara pertama secara manual bertukar
+saat "Multiplayer"<@>
+---------------------------------------------------------
+Cara yang lain adalah dengan "Perukaran kartu langsung"
+Batas 3 kartu yang dapat ditukar secara bersamaan<@>
+---------------------------------------------------------
+"Kartu avatar" dapat diupdate dengan teman yang sama
+Dengan "Multiplayer" atau "Redemption card exchange"<@>
+---------------------------------------------------------
+Sebagai imbalan karena menyelesaikan tugas<dengan anggota lain
+"Material avatar" bisa diambil<@>
+---------------------------------------------------------
+Memo bullet<@>
+---------------------------------------------------------
+Rebounding bullet adalah bullet dengan efek untuk memulihkan kekuatan teman.
+Namun, tidak memiliki efek bagi orang yang menembak<@>
+---------------------------------------------------------
+Untuk Bullet dengan sifat yang sangat istimewa
+penggunaan God arc terbatas<@>
+---------------------------------------------------------
+Hanya ada satu potongan,dengan Tsubaki dan Lindow waktu kecil
+Ada juga foto bersama sakuya<@>
+---------------------------------------------------------
+Foto yang lain relatif baru<@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Bullet
+---------------------------------------------------------
+Foto
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Aku telah memulainya
+Tapi tampilannya rusak dan sulit dilihat<@>
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Semua file terkunci
+Aku tidak bisa melihatnya<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Damian
+---------------------------------------------------------
+pusing gua……何があっても、冷静さを失うなよ
+熱くなるたびに、頭から大事な何かが蒸発しちまうからな
+---------------------------------------------------------
+Yorozuya
+---------------------------------------------------------
+Apakah kau ingin membeli sesuatu？
+---------------------------------------------------------
+Yuno
+---------------------------------------------------------
+Tiba-tiba,semuanya tampak terburu-buru,tapi……
+Apa yang terjadi？<@>
+---------------------------------------------------------
+Leah,tampaknya aku akhirnya termodulisasi<@>
+---------------------------------------------------------
+Sepertinya tak seperti itu<@>
+---------------------------------------------------------

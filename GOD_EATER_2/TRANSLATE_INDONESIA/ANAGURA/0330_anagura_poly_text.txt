@@ -1,0 +1,95 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0032
+===============================================================
+[00000264:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Gill
+---------------------------------------------------------
+Aku meminta Rikka untuk membuat daftar materi yang diperlukan untuk penyesuaian God Arc
+Materi yang ingin aku tanyakan kepadamu dikumpulkan bersama secara terpisah ... ...
+---------------------------------------------------------
+Apa boleh?
+kamu akan sibuk, mengisi waktu luang untuk ini ......
+---------------------------------------------------------
+Biasa saja...... aku terbantu, kemudian beri tahu aku ketika kamu sudah siap
+---------------------------------------------------------
+Haha ... terima kasih.
+Kemudian beri tahu aku ketika kamu siap
+---------------------------------------------------------
+untuk temanku
+---------------------------------------------------------
+untuk Gill
+---------------------------------------------------------
+Apakah sudah siap?
+permintaan materi darimu...... 
+---------------------------------------------------------
+Tidak mungkin, apakah mereka sudah berkumpul?
+---------------------------------------------------------
+Tidak, tidak perlu terburu-buru.
+Bahkan saat bertugas, kamu hanya harus mengambilnya
+---------------------------------------------------------
+sudah berkumpul
+---------------------------------------------------------
+Maaf, belum ...
+---------------------------------------------------------
+Katakan padaku bahan yang diperlukan
+---------------------------------------------------------
+seperti yang diharapkan... boleh aku mengambilnya?
+---------------------------------------------------------
+Terima kasih ...... aku baru saja selesai mengumpulkan ini
+God arc dapat disesuaikan dengan ini ...
+---------------------------------------------------------
+aku akan memberikannya kepada Rikka sekaligus.
+
+---------------------------------------------------------
+Oh, tidak apa-apa.
+Katakan padaku kalau kamu siap
+---------------------------------------------------------
+Tentu saja?
+---------------------------------------------------------
+Tunggu sebentar
+---------------------------------------------------------
+
+...... Tidak, ini belum cukup
+
+---------------------------------------------------------
+"Hunger Fang" dan "Flame Fang" mereka ada di satu aragami
+beritahu aku kalau kamu sudah mendapatkan semuanya
+---------------------------------------------------------
+Jika kamu berada di terminal
+tolong kembalikan itu ...... Senang bertemu denganmu.
+---------------------------------------------------------
+Ada kontak dari Rikka.
+Sepertinya ada laporan tentang God Arc yang meminta penyesuaian
+---------------------------------------------------------
+...... aku berpikir untuk bertanya dari tempat ini
+OK, apakah kamu akan pergi?
+---------------------------------------------------------
+Itu benar ...... aku juga memikirkanmu, tapi ...
+aku kira kamu mengubah tanggalnya
+---------------------------------------------------------
+Aku akan pergi denganmu!
+---------------------------------------------------------
+Sekarang sedikit ... ...
+---------------------------------------------------------
+aku bisa keluar kapan saja selama kamu tidak keberatan.
+Apa yang kamu lakukan?
+---------------------------------------------------------
+Kenapa, kamu tidak pergi?
+---------------------------------------------------------
+Rikka sedang mengerjakan God Arc yang aku minta untuk disesuaikan
+Katakan padaku kapan selesainya.
+---------------------------------------------------------
+Baiklah, ayo pergi
+---------------------------------------------------------
+Kalau begitu, ketika kamu selesai, silakan hubungi lagi
+aku akan menunggu.
+---------------------------------------------------------

@@ -1,0 +1,53 @@
+NAMA:event_scr_text
+ENCODING:UTF-8
+CRLF:\n
+ID:
+TYPE:
+JUMLAH_STRING:0019
+===============================================================
+[00000212:00000512:00002015:00066133:00000250:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+ Semuanya... aku....
+---------------------------------------------------------
+kau mendapat waktu liburanmu secara sewenang-wenang
+---------------------------------------------------------
+Ini pinjaman uang... Jangan pernah melakukannya lagi
+---------------------------------------------------------
+Hari ini adalah langkah yang baik aku mohon kepadamu dengan ketentuan ini
+---------------------------------------------------------
+Hei, Gil, aku selalu khawatir tentang senior Romeo, aku sudah bilang kalau masalah itu sudah berlalu
+---------------------------------------------------------
+kesini, kemarilah! Tanpa senior Romeo, mereka sama sekali tidak bisa melakukan apa-apa, sulit juga untuk 
+melakukannya
+---------------------------------------------------------
+Aku mengerti. Ayo kita kembali ke rumah dengan bergembira!
+---------------------------------------------------------
+Oh itu benar sekali!itu Janji karena kau kembali, terima 
+kasih!
+---------------------------------------------------------
+janji? apa-apaan itu?
+---------------------------------------------------------
+Aku berjanji kepadamu! Ini 8 potong ayam!
+---------------------------------------------------------
+Jangan melebihinya secara diam-diam ! Itu cuma 5 potong
+---------------------------------------------------------
+Setelah itu, aku mulai ingat!!
+---------------------------------------------------------
+Hei, lakukan segera mungkin
+---------------------------------------------------------
+Aku akhirnya akan kembali ke rumah
+---------------------------------------------------------
+yeah...
+---------------------------------------------------------
+Nah, bagaimana kalau kau mengambilnya 7 potong?
+---------------------------------------------------------
+Hanya untuk Nana?
+---------------------------------------------------------
+Senior... itu agak...
+---------------------------------------------------------
+Maafkan aku...
+---------------------------------------------------------

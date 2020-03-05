@@ -1,0 +1,96 @@
+NAMA:event_scr_text
+ENCODING:UTF-8
+CRLF:\n
+ID:
+TYPE:
+JUMLAH_STRING:0029
+===============================================================
+[00000252:00000512:00002015:00066133:00000250:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+ Oh, saya minta maaf sudah memanggil anda ...
+---------------------------------------------------------
+Tuan Kujo
+---------------------------------------------------------
+Oh, tidak ... ... Oh, saya kira saya lebih suka sesuatu 
+untuk saya...?
+---------------------------------------------------------
+Kerendahan hati Anda .... Mr. Kujo seperti seorang teknisi 
+yang merupakan salah satu prajurit wanita di Fenrir
+---------------------------------------------------------
+Sebaliknya, Kakak saya dan saya selalu mengganggu Anda 
+...
+---------------------------------------------------------
+Tidak, tidak ini kehendak ... ... hanya persaingan yang baik 
+dengan cara memiliki anda
+---------------------------------------------------------
+Tidak! Itu keras kepala sekali ... bukan apa-apa ... ...
+---------------------------------------------------------
+Huh ... ... Ini istimewa, saya punya sesuatu yang ingin saya 
+tunjukkan, jadi jika Anda berkenan, bisakah Anda datang ke 
+mari?
+---------------------------------------------------------
+Hah! Haha ... ...
+---------------------------------------------------------
+Senang ... ini Ha! Apa? ini Peralatan pengontrol biologis 
+dari God Machine Soldier ...
+---------------------------------------------------------
+Seperti yang diharapkan, Tuan Kujo!saya berharap saya bisa 
+menggunakan teknologi kontrol otonom Anda yang maju ... ... 
+Ini ... ...
+---------------------------------------------------------
+Ini ... ... jawaban yang saya kejar sendiri .... Ini 
+adalah sesuatu yang berhubungan dengan Bias Faktor Blood 
+...?
+---------------------------------------------------------
+Ya, efek fenomena responsif dan hasil penelitian yang 
+diperoleh dari Far East.dari keduanya, dan telah tercapai
+---------------------------------------------------------
+Untuk detail terperinci nanti, saat Anda melihat 
+dokumen-dokumen ini... ...
+---------------------------------------------------------
+Bisakah Anda mengambil alih bidang ini?
+---------------------------------------------------------
+Tidak ada yang perlu diambil alih ... tidak ada masalah di 
+sini ... ... Tidak, tapi ... ...
+---------------------------------------------------------
+Tapi apa?
+---------------------------------------------------------
+Seperti yang Anda tahu, saya dalam posisi utk menghadapi 
+kakak Anda,Mengapa Anda mau bekerja sama dengan saya seperti 
+itu?
+---------------------------------------------------------
+Apakah saya harus menjawab hal frustasi seperti itu ... 
+...?
+---------------------------------------------------------
+Tidak, itu ... ... itu, itu ... ...
+---------------------------------------------------------
+.... maka, hanya ada satu syarat tapi bukan diri saya 
+sendiri, tolong tinggalkan yang Anda kembangkan
+---------------------------------------------------------
+Teknologi yg baik akan datang ke dunia, tapi saudariku 
+ditinggalkan sendirian ...Aku tidak ingin dibenci jika aku 
+bisa melakukannya
+---------------------------------------------------------
+Maaf, saya terlalu menyesal ...
+---------------------------------------------------------
+Tidak, saya mengerti dengan baik! Sikap serius terhadap 
+penelitian Anda.Kasih sayang utk saudarimu, keduanya 
+kukagumi!
+---------------------------------------------------------
+Tuan Kujo ... ... Terima kasih! Saya akan menampilkan semua 
+data di sini, saya akan menyerahkannya!
+---------------------------------------------------------
+Kami berjanji selalu saling melindungi ... Dr. Rachel, itu 
+saja, bahwa jika Anda tidak keberatan, Anda bisa mendekati 
+kesini ... ...
+---------------------------------------------------------
+Um ....
+---------------------------------------------------------
+Ya Apakah anda mengatakan sesuatu?
+---------------------------------------------------------
+Tidak ... ... tidak ada ...
+---------------------------------------------------------

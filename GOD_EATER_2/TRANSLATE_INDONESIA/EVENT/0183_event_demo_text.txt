@@ -1,0 +1,27 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0005
+===============================================================
+[00000156:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Gil
+---------------------------------------------------------
+wakil kapten. Tentang saat kau pergi menyelamatkan ciel
+kenapa kau bisa bertindak sebodoh itu?<@>
+---------------------------------------------------------
+jangan pernah pergi sendirian dasar ceroboh... bisa saja
+kau mati saat itu, dan pikirkan juga bagaimana nasib
+orang yg kautinggalkan setelah kau mati<@>
+---------------------------------------------------------
+aku tdak akan mndptkan apapun dari sifatmu itu hanya seperti
+kau befikir "aku akan baik saja walau sendirian"<@>
+---------------------------------------------------------
+maaf,aku pasti terdengar seperti ngomel. Sampai jumpa@>
+---------------------------------------------------------

@@ -1,0 +1,29 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0008
+===============================================================
+[00000168:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Haruomi
+---------------------------------------------------------
+Yo, apa yang terjadi? ...... Mungkin kamu datang untuk mengajakku minum?
+---------------------------------------------------------
+Aku senang kamu melakukannya! aku juga telah bekerja keras sampai hari ini
+---------------------------------------------------------
+...... oleh karena itu, mau pergi? Mulai sekarang
+---------------------------------------------------------
+Ups, sudah datang kah! Baiklah, aku akan memperlakukanmu semampuku! Baiklah, ayo pergi!
+---------------------------------------------------------
+Ups ... itu benar, persiapan diperlukan untuk semuanya  kalau begitu tunggu.
+---------------------------------------------------------
+apakah senpai bisa menyembuhkannya
+---------------------------------------------------------
+Sekarang sedikit ......
+---------------------------------------------------------

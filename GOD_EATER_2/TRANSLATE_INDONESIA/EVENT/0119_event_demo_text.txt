@@ -1,0 +1,47 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0015
+===============================================================
+[00000196:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Licca
+---------------------------------------------------------
+maaf. sudah menunggu, tada sudah selesai.
+---------------------------------------------------------
+Gil
+---------------------------------------------------------
+itu sunggu sangat cepat<@>
+---------------------------------------------------------
+istirahatlah sekarang, jika kamu rasa kamu kelelahan setelah 
+mengerjakan semua ini <@>
+---------------------------------------------------------
+ayo kita coba segera <@>
+---------------------------------------------------------
+Will you come with me?
+---------------------------------------------------------
+baiklah!
+---------------------------------------------------------
+itu sebuah kehormatan bagiku!
+---------------------------------------------------------
+jika kau mau,aku akan pergi disaat kamu siap?<@>
+---------------------------------------------------------
+kemudian,pastikan kamu membuat laporan secara khusus tentang 
+itu, karna perasaanku enggak enak tentang itu, jangan 
+lupa<@>
+---------------------------------------------------------
+aku mengerti, yerima kasih<@>
+---------------------------------------------------------
+selanjutnya, beritahu aku kalau kausudah sudah siap ,aku 
+akan menunggu<@>
+---------------------------------------------------------
+Ah, terima kasih<@>
+---------------------------------------------------------
+Ah, sebuah kehormatan untukku<@>
+---------------------------------------------------------

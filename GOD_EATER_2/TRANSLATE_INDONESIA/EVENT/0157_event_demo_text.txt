@@ -1,0 +1,84 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0025
+===============================================================
+[00000236:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Kouta
+---------------------------------------------------------
+Mutsumi, bisakah kau membuatkan makanan seperti biasa kepada
+kami ?<@>
+---------------------------------------------------------
+Mutsumi
+---------------------------------------------------------
+oke bang ! makanan dengan porsi yang besar seperti biasanya
+kan bang ?<@>
+---------------------------------------------------------
+Yup ! percepat yak neng !<@>
+---------------------------------------------------------
+Dia namanya Mutsumi, dia bekerja sebagai koki disini dan dia
+selalu membuat banyak makanan yg lezat<@>
+---------------------------------------------------------
+Dulu sebelum dia jadi koki disini, makanan disini terasa
+hambar, hanya Jagung Raksasa dan Rempah-rempah dari Kebun
+yang kami makan<@>
+---------------------------------------------------------
+Waktu demi waktu, datanglah Neng Mutsumi dan dia dijadikan
+koki karena pandai memasak dan saat itu pulalah makanan
+disini enak sangat serasa makanan di restoran cuk :')<@>
+---------------------------------------------------------
+Si neng meskipun masih kecil tapi dia sangat luar biasa !
+---------------------------------------------------------
+Ane ga sabar pengen nyobain makanannya lagi !
+---------------------------------------------------------
+Silahkan ! Makanannya udah siap bang, maaf nunggu lama nih
+karena lagi ngeracik bumbunya dulu<@>
+---------------------------------------------------------
+Akhirnya mateng juga ! ayo kita makan dengan cepat ! <@>
+---------------------------------------------------------
+Gimana rasanya ? enak kan !?<@>
+---------------------------------------------------------
+Uuh Ajib sangat !
+---------------------------------------------------------
+hmmm lumayan sih
+---------------------------------------------------------
+Masih ada banyak tempat selain di sini di "Far East" ini,
+dan aku sungguh ingin menunjukannya kepada kalian<@>
+---------------------------------------------------------
+Jadi ane mohon untuk ngasih tau semua yang ada di "Far East"
+ini ke ente, oke ?<@>
+---------------------------------------------------------
+Hehehe, kau tidak akan mendapatkan apapun kembali sekalipun
+kau memujiku<@>
+---------------------------------------------------------
+Tidak tidak ! aku mengatakan yang sebenarnya ko ! kalo
+tempat ini mulai sangat ramai ketika neng Mutsumi jadi koki
+disini<@>
+---------------------------------------------------------
+Semua orang pun mengatakan hal yang sama, katanya di sini
+sangat enak dan sangat nyaman buat berasantai<@>
+---------------------------------------------------------
+Hehehe makasih ! sepertinya aku akan mengasih Diskon buatmu
+bang!<@>
+---------------------------------------------------------
+aku pikir mungkin bakalan langsung dikerjain, ga peduli mau
+cepet mau enak mau porsi yang gede ! Neng Mutsumi selalu
+melakukannya dengan baik !<@>
+---------------------------------------------------------
+Semuanya selalu sibuk, jadi aku membiarkan mereka makan
+dengan lahap dulu dan menghiburnya<@>
+---------------------------------------------------------
+Dan Harus kau ketahui ! makan dengan banyak itu bisa membuat
+lemak diperutmu bertambah ! aku pun pusing kalo kebanyakan
+makan tapi itu bisa mempulihkan tenaga kita ko<@>
+---------------------------------------------------------
+Eh aku kira kau tidak seperti itu, tapi hei ! kita ga
+kebagian jatah makanan enak dong !?<@>
+---------------------------------------------------------

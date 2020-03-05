@@ -1,0 +1,339 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0132
+===============================================================
+[00000664:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+"Kau tidak diperbolehkan masuk karena telah dinyatakan keluar" 
+……Tertulis seperti itu 
+---------------------------------------------------------
+
+---------------------------------------------------------
+Tidak bisa masuk karena tidak memiliki wewenang 
+---------------------------------------------------------
+
+---------------------------------------------------------
+Tidak bisa masuk karena tidak memiliki wewenang 
+---------------------------------------------------------
+
+---------------------------------------------------------
+"Untuk mereka yang menggunakan laboratorium
+---------------------------------------------------------
+Alisa
+---------------------------------------------------------
+Tentu saya,kekuatan bertarung freia sangat kuat
+Sepertinya benda itu dapat memperluas hampir seluruh
+area saat produksi massal god machine berakhir……
+---------------------------------------------------------
+Asuna
+---------------------------------------------------------
+Mulai sekarang kau akan selalu bersama tsuneyo-chan
+Tapi,aku belum bisa melakukannya cukup lama   ……
+---------------------------------------------------------
+Kalbi
+---------------------------------------------------------
+Kapibala
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+Dr.Leah telah tiba di markas fenrir
+Tapi...Dalam hal ini,mereka yang menetap di
+far east……
+---------------------------------------------------------
+Rachel
+---------------------------------------------------------
+Tidak,ciel..ini aku
+Ini pilihan pertamaku..aku memutuskannya
+---------------------------------------------------------
+……Baiklah
+---------------------------------------------------------
+Ciel..dan kau juga……
+……Terima kasih
+---------------------------------------------------------
+Emil
+---------------------------------------------------------
+Untuk menebus dosaku,Dr.Leah
+Sekali lagi,coba kau lempar dirinya dalam pertarungan……
+---------------------------------------------------------
+Kawanku!Aku juga tidak merasa malu sebagai kesatria
+Mari lakukan bersama！
+---------------------------------------------------------
+Erina
+---------------------------------------------------------
+Tentu saya,jika kau melihat tampilannya
+melalui cara ini……
+Aku rasa kau takkan peduli dengan konten
+dari tentara god machine
+---------------------------------------------------------
+Fran
+---------------------------------------------------------
+Orang-orang yang membantu friar
+---------------------------------------------------------
+Tentu..sekarang dibalik insiden yang besar
+Sepertinya kau menjadi saksi……
+---------------------------------------------------------
+Gill
+---------------------------------------------------------
+Beberapa saat yang lalu,aku bertanya pada Dr.Sakaki
+Sepertinya keadaan yuno sudah berubah secara tiba-tiba……
+---------------------------------------------------------
+Yang bisa kita lakukan adalah percaya pada Dr.Sakaki
+Menunggu dan tetap menunggu……
+---------------------------------------------------------
+Haruomi
+---------------------------------------------------------
+Dr.Leah..hati-hati
+Apakah aku akan tetap menjadi temanmu?
+---------------------------------------------------------
+Rachel
+---------------------------------------------------------
+Er...maaf
+Mungkin agak kasar tapi,siapa dia？
+---------------------------------------------------------
+……
+---------------------------------------------------------
+Hibari
+---------------------------------------------------------
+Ketua cabang Sakaki melihat grafik pasiennya
+Sepertinya ini bukan kondisi yang bagus……<@>
+---------------------------------------------------------
+Misi baru telah tiba pada Blood
+---------------------------------------------------------
+Kota
+---------------------------------------------------------
+Yuno dan semuanya,aku harap kalian 
+lekas sembuh……
+---------------------------------------------------------
+Oh,ketua cabang sakaki memanggil
+Tentu,aku bilang padamu untuk tinggal
+Dilaboratorium
+---------------------------------------------------------
+Rachel
+---------------------------------------------------------
+
+Tiba dimarkas
+Ini tentang rachel dan friar..akan kuceritakan 
+Semuanya
+---------------------------------------------------------
+Itu tidak tetap pada dokumen markas……
+Meskipun tetap saja mungkin terpotong sebagai
+kata-kata penuh delusi
+---------------------------------------------------------
+Mulai sekarang aku mungkin akan merepotkan kalian
+Terima kasih..aku harap kita bisa bertemu lagi
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Aku juga peduli soal Julius
+Pasien yang akan membawa mereka
+Apakah itu  baik-baik saja？
+---------------------------------------------------------
+Yuna dan Asuna juga
+Aku berharap semuanya menjadi lebih baik……
+---------------------------------------------------------
+Perawat
+---------------------------------------------------------
+Aku mengerti perasaan kalian tapi saat berkunjung
+Tolong harap tenang……
+---------------------------------------------------------
+Mutsumi
+---------------------------------------------------------
+Para pasien khawatir……
+---------------------------------------------------------
+Sakaki
+---------------------------------------------------------
+Aku juga khawatir soal Yuno……
+Mari kita beristirahat sejenak dulu,oke？
+---------------------------------------------------------
+Datang juga kau..mari langsung saja
+---------------------------------------------------------
+Sejarah nasional Ungo kian memburuk
+Itu...secepatnya takkan jadi kasus masa lalu
+---------------------------------------------------------
+Apakah Yuno sudah ditolong？
+---------------------------------------------------------
+Baiklah……
+---------------------------------------------------------
+Tidak...nafas dan detak masih stabil
+Meskipun fakta bahwa kondisi penyakit ini jauh 
+hebat dari pasien lain
+---------------------------------------------------------
+Dan...aku belum bisa menyimpulkannya
+Reaksi yang menarik pada tubuhnya
+---------------------------------------------------------
+Itu yang akan kuberitahu pada kalian semua..aku akan
+menyelidikinya lebih lanjut lagi
+Mungkin..aku akan mengetahui identitasnya……
+---------------------------------------------------------
+Satsuki
+---------------------------------------------------------
+Pada saat ini,aku mengutuk ketidak bergunaanku……
+Yuno……
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Semuanya tertulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Itu terlihat seperti majalah model atau katalog
+Aku tidak tau karena tertulis dalam bahasa rusia<@>
+---------------------------------------------------------
+Terlihat seperti file berteks
+Aku tidak bisa melihatnya karena tersembunyi<@>
+---------------------------------------------------------
+Модный　журнал
+---------------------------------------------------------
+Дневник
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Jangan lakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Liat berkasnya
+---------------------------------------------------------
+Jangan lakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Terdapat banyak taktik dalam file terkait<@>
+---------------------------------------------------------
+"Signal Bullet" mengacu pada item yang digunakan untuk memberikan instruksi kepada kawan dalam misi<@>
+---------------------------------------------------------
+Kisaran pengaruh "Bullet signal" ada dua jenis "Wide area signals" dan "Narrow Range signal"<@>
+---------------------------------------------------------
+"Wide area signal" untuk semua anggota yang berpartisipasi dalam misi
+"Narrow area signal" hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+Terdapat 4 jenis "peluru signal" yang dapat digunakan<@>
+---------------------------------------------------------
+"Wide-area Signal: all hands set", "Narrow-Band Signal: Menunggu penyebaran,"
+"narrow-band signal: Mencari serangan musuh," "narrow-band signal: Set"<@>
+---------------------------------------------------------
+Untuk informasi lebih detail silahkan liat database<@>
+---------------------------------------------------------
+"Control Unit" diaktifkan dengan "Burst Skill"<@>
+---------------------------------------------------------
+"Burst skill" menunjukan efel saat dalam burst
+Adalah sebuah skill special<@>
+---------------------------------------------------------
+Juga tergantung pada "control unit" dan skill yang terpasang didalamnya maka Title akan berubah<@>
+---------------------------------------------------------
+Aku tidak bisa membukanya karena tidak
+memiliki izin<@>
+---------------------------------------------------------
+Petunjuk taktis senior : peluru signal
+---------------------------------------------------------
+Petunjuk taktis lebih lanjut : Kontrol unit
+---------------------------------------------------------
+ＮＯ　ＮＡＭＥ
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Filenya tersusun rapi 
+Mudah untuk melihatnya<@>
+---------------------------------------------------------
+Dengan "kartu avatar" tukar dengan "avatar"
+teman yang akan bisa berpartisipasi 
+dalam misi kapan saja
+<@>
+---------------------------------------------------------
+Terdapat 2 cata dalam bertukar "kartu avatar"
+Cara pertama secara manual bertukar
+saat "Multiplayer"<@>
+---------------------------------------------------------
+Cara yang lain adalah dengan "Perukaran kartu langsung"
+Batas 3 kartu yang dapat ditukar secara bersamaan<@>
+---------------------------------------------------------
+"Kartu avatar" dapat diupdate dengan teman yang sama
+Dengan "Multiplayer" atau "Redemption card exchange"<@>
+---------------------------------------------------------
+Sebagai imbalan karena menyelesaikan tugas<dengan anggota lain
+"Material avatar" bisa diambil<@>
+---------------------------------------------------------
+Memo bullet<@>
+---------------------------------------------------------
+Rebounding bullet adalah bullet dengan efek untuk memulihkan kekuatan teman.
+Namun, tidak memiliki efek bagi orang yang menembak<@>
+---------------------------------------------------------
+Untuk Bullet dengan sifat yang sangat istimewa
+penggunaan God arc terbatas<@>
+---------------------------------------------------------
+Hanya ada satu potongan,dengan Tsubaki dan Lindow waktu kecil
+Ada juga foto bersama sakuya<@>
+---------------------------------------------------------
+Foto yang lain relatif baru<@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Bullet
+---------------------------------------------------------
+Foto
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Aku telah memulainya
+Tapi tampilannya rusak dan sulit dilihat<@>
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Semua file terkunci
+Aku tidak bisa melihatnya<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Yorozuya
+---------------------------------------------------------
+Apakah kau ingin membeli sesuatu？
+---------------------------------------------------------
+Yuno
+---------------------------------------------------------
+Ah,mereka datang……
+Terima kasih……
+---------------------------------------------------------
+Tidak apa-apa,hanya sedikit pusing……
+Jangan khawatir……
+---------------------------------------------------------

@@ -1,0 +1,51 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0014
+===============================================================
+[00000192:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Kouta
+---------------------------------------------------------
+Hibari ! aku mengandalkanmu Hari ini !<@>
+---------------------------------------------------------
+Hibari
+---------------------------------------------------------
+Tentu saja ! aku mengandalkan mu juga Kouta-san, Mungkin
+hari ini kamu akan melakukan yang terbaik buat kita<@>
+---------------------------------------------------------
+Kita bisa kembali ke Anagura dengan sehat wal'afiat,
+dikarenakan Hibari menjadi "Support" dimisi kita ini<@>
+---------------------------------------------------------
+Itu sudah menjadi tugasku untuk melalukan "Back-Up", itu
+untuk menunjukan seberapa kuat kalian setelah selesai
+melaksanakn misi<@>
+---------------------------------------------------------
+Kalau tidak salah, katanya terjadi suatu kesalahan lagi saat
+tim Unit-1 melakukan misi tanpa sepengetahuanku.. apakah itu
+benar Kouta-san ?<@>
+---------------------------------------------------------
+Huh? oh tentu saja itu tidak benar ! tenang saja!<@>
+---------------------------------------------------------
+Sesuatu apa yang telah terjadi ?
+---------------------------------------------------------
+lagi ?
+---------------------------------------------------------
+Hey tunggu ! sekarang kan bukannya waktu yang tepat untuk
+mendapatkan misi ?<@>
+---------------------------------------------------------
+Mungkin jika kau senyum kepadaku aku akan baik-baik
+saja<@>
+---------------------------------------------------------
+Serius aku baik-baik saja ! karena aku kapten dari tim
+Unit-1 aku akan berhati-hati saat misi !<@>
+---------------------------------------------------------
+oke.. ini akan membutuhkan waktu yang sangat lama, jadi aku
+akan memberitahumu jika terjadi seuatu disana<@>
+---------------------------------------------------------

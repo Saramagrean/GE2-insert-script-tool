@@ -1,0 +1,30 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0006
+===============================================================
+[00000160:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Alisa
+---------------------------------------------------------
+terima kasih Tuhan materialnya tepat waktu...! <@>
+---------------------------------------------------------
+banyak orang yg tidak punya tujuan datang kesini karena 
+mengetahui desas desus tentang konstruksi satelit base<@>
+---------------------------------------------------------
+pertumbuhan populasi tidak lah masalah,tapi ada juga sesuatu 
+yg bagus ,kita mempunyai lebih pekerja seperti yg 
+dilihat,dan sistem menjadi lebih layak...<@>
+---------------------------------------------------------
+terimakasih kepadanya,konstruksi dari tempat perlindungan 
+dan pabrik menjadi lebih cepat selesai ,betulkan? <@>
+---------------------------------------------------------
+...sebenarnya,jika tempat ini jadi/"kota/aku ingin sekali 
+mengunjuginya,tanpa membawa jinki...!<@>
+---------------------------------------------------------

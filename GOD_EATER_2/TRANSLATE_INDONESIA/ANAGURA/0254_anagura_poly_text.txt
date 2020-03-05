@@ -1,0 +1,324 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0140
+===============================================================
+[00000696:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+"Tidak ada entri untuk masuk karena sudah keluar"
+Itulah yang tertulis ......
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas saat ini, aku tidak bisa masuk ruangan ini
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas saat ini, aku tidak bisa masuk ruangan ini
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas saat ini, aku tidak bisa masuk ruangan ini
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas saat ini, aku tidak bisa masuk ruangan ini
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas saat ini, aku tidak bisa masuk ruangan ini
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas saat ini, aku tidak bisa masuk ruangan ini
+---------------------------------------------------------
+
+---------------------------------------------------------
+(Nampaknya itu makanan)
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+Licca-san belajar tentang struktur dan perawatan God Arc
+---------------------------------------------------------
+Aku juga memiliki beberapa pengetahuan ......
+Kisah seorang insinyur profesional sangat menarik dan itu menjadi cita rasa
+---------------------------------------------------------
+Emil
+---------------------------------------------------------
+Licca-san juga belajar tentang mekanisme God Arc
+dan seperti yang diharapkan, ada hal-hal yang hanya diketahui oleh teknisi ....
+Itu adalah konten yang sangat padat
+---------------------------------------------------------
+Benar, kamu juga penasaran kan? itulah rivalku
+---------------------------------------------------------
+Baiklah, transfer dari Emil
+---------------------------------------------------------
+Cerita macam apa itu?
+---------------------------------------------------------
+Aku juga ingin mendengarnya
+---------------------------------------------------------
+Bagaimanapun juga, Cerita hari ini sangat menarik
+---------------------------------------------------------
+Er ... oh ... ya ....
+---------------------------------------------------------
+Dengan kata lain, Licca-kun juga seorang ksatria
+Ha ha ha ha hasu :v
+---------------------------------------------------------
+Erina
+---------------------------------------------------------
+Mengundang Licca sebagai pengajar proposal Ciel
+Aku mengadakan kelompok belajar "Shinto machine"
+---------------------------------------------------------
+Eer.......t, tentu saja! ......
+---------------------------------------------------------
+Konten serumit itu
+Sudah jelas aku tidak tahu
+---------------------------------------------------------
+Er......t,  tidak terlalu buruk, walaupun aku seperti ini, aku juga suka belajar!
+---------------------------------------------------------
+Maaf
+Aku berbohong sedikit ......
+---------------------------------------------------------
+Apa kamu mengerti isinya?
+---------------------------------------------------------
+Tidak biasanya
+---------------------------------------------------------
+Franz
+---------------------------------------------------------
+Aku berpikir lagi, Far Eastern branch sangat sederhana juga ya
+Dibandingkan dengan cabang yang dekat dengan markas besar, mustahil untuk berpikir......
+---------------------------------------------------------
+Ketika aku di Friar, aku punya waktu untuk berpikir begitu
+Tapi sekarang......
+---------------------------------------------------------
+Ini adalah pertanyaan yang sangat sederhana ......
+---------------------------------------------------------
+...... Ya, aku pikir dia tertarik
+---------------------------------------------------------
+Apa kamu ingin kembali ke markas?
+---------------------------------------------------------
+Apa kamu menyukai Far East Branch?
+---------------------------------------------------------
+Gill
+---------------------------------------------------------
+Aku bertanya kepada Dr. Leah tentang situasi kantor pusat ......
+---------------------------------------------------------
+Dr Rachel dan Julius, mereka mengorbakan nyawanya untuk menghentikan hujan merah......
+Skenario itu tampaknya berniat untuk mempublikasikan insiden itu
+---------------------------------------------------------
+Propaganda dilakukan untuk saat ini, dibuat oleh orang dari markas......Jangan pedulikan itu
+---------------------------------------------------------
+Hibari
+---------------------------------------------------------
+Blood mempunyai tugas baru
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Aku meminjam buku Soma dan aku membacanya
+Bakekok!!! aku tidak mengerti sama sekali isinya!
+---------------------------------------------------------
+Hal-hal apa yang kamu pikirkan tentang "ilmuwan"? aku sering berpikir itu, tapi
+aku tidak mengerti sama sekali!
+---------------------------------------------------------
+Petugas Friar
+---------------------------------------------------------
+Akhirnya ia mendapat pesan dari kantor pusat untuk memesan bahan
+Aku tahu mereka sibuk, tapi sudah beberapa hari sejak aku memintanya ......
+---------------------------------------------------------
+Tentu saja, saya menolaknya dengan hati-hati
+Jika kamu mengirim material tambahan, tolong ubah ke basis satelit
+---------------------------------------------------------
+Petugas Friar
+---------------------------------------------------------
+Terima kasih atas penerimaan material dari Far East
+Sekarang, pekerjaan renovasi berjalan dengan lancar
+---------------------------------------------------------
+Petugas Friar
+---------------------------------------------------------
+Saat ini, Friar membatalkan penerbangan karena semua perawatan dan pemeriksaan kapal sedang berlangsung
+---------------------------------------------------------
+Karena kami diizinkan masuk Friar,
+Saat kamu menggunakannya silakan proses di sini
+---------------------------------------------------------
+Pergi ke Friar
+---------------------------------------------------------
+Tetap disini
+---------------------------------------------------------
+Apa Anda kembali ke Far East Branch?
+---------------------------------------------------------
+Kembali
+---------------------------------------------------------
+Tetap disini
+---------------------------------------------------------
+Licca
+---------------------------------------------------------
+Dia mengatakan bahwa dia ingin membuat kelompok belajar God Arc untuk Ciel
+Baru saja, dimana pembicaraan memasuki tahapnya
+---------------------------------------------------------
+Aku tidak bermaksud untuk mengatakan cerita yang sulit
+Pertanyaan Ciel selalu tajam dan bersemangat setiap saat
+---------------------------------------------------------
+Berkat itu, pada akhirnya, Erina dan Emil dapat bersama-sama,
+aku bahagia......
+---------------------------------------------------------
+Aku tidak pandai mengajar banyak orang
+seperti ini!
+---------------------------------------------------------
+Mutsumi
+---------------------------------------------------------
+Bagaimana ini......aku membuatnya terlalu banyak kemarin
+Bahan yang tersisa sangat sedikit ......
+---------------------------------------------------------
+......Bagaimana lagi, ayo kita bersabar tidak makan apa-apa minggu ini
+---------------------------------------------------------
+
+---------------------------------------------------------
+What do you see?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Look another file
+---------------------------------------------------------
+Semua ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini seperti majalah mode atau katalog
+aku tidak tahu juga, karena semuanya ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini seperti file teks
+Aku tidak bisa memeriksanya karena terkunci<@>
+---------------------------------------------------------
+Модный　журнал
+---------------------------------------------------------
+Дневник
+---------------------------------------------------------
+Berhenti mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+What do you see?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Do nothing
+---------------------------------------------------------
+
+---------------------------------------------------------
+What do you see?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Look a Archive
+---------------------------------------------------------
+Do nothing
+---------------------------------------------------------
+
+---------------------------------------------------------
+What do you see?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Look another file
+---------------------------------------------------------
+Ada banyak taktik terkait dengan file<@>
+---------------------------------------------------------
+"Signal Bullet" mengacu pada item yang digunakan untuk memberikan instruksi kepada kawan dalam misi<@>
+---------------------------------------------------------
+Kisaran pengaruh "Bullet signal" ada dua jenis "Wide area signals" dan "Narrow Range signal"<@>
+---------------------------------------------------------
+"Wide area signal" untuk semua anggota yang berpartisipasi dalam misi
+"Narrow area signal" hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+Ada 4 jenis "signal bullet" yang bisa digunakan<@>
+---------------------------------------------------------
+"Wide-area Signal: all hands set", "Narrow-Band Signal: Menunggu penyebaran,"
+"narrow-band signal: Mencari serangan musuh," "narrow-band signal: Set"<@>
+---------------------------------------------------------
+Lebih detail, tentang signal bullet lihat " database"<@>
+---------------------------------------------------------
+"Control Unit" diaktifkan dengan "Burst Skill"<@>
+---------------------------------------------------------
+" Burst skill" adalah skill special yang hanya aktif ketika dalam burst mode<@>
+---------------------------------------------------------
+Juga tergantung pada "control unit" dan skill yang terpasang didalamnya maka Title akan berubah<@>
+---------------------------------------------------------
+Aku tidak bisa membukanya karena aku tidak punya izin<@>
+---------------------------------------------------------
+Advanced tactics teaching: signal bullets
+---------------------------------------------------------
+Advanced tactics teaching: control unit
+---------------------------------------------------------
+ＮＯ　ＮＡＭＥ
+---------------------------------------------------------
+Stop searching
+---------------------------------------------------------
+
+---------------------------------------------------------
+What do you see?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Look another file
+---------------------------------------------------------
+File sudah diatur sehingga mudah dicari<@>
+---------------------------------------------------------
+"Avatar" adalah teman yang dapat berpartisipasi dalam misi setiap saat melalui pertukaran "Avatar Card"<@>
+---------------------------------------------------------
+Ada dua cara untuk mengganti "Avatar Card" Salah satunya adalah dengan mengubahnya secara manual
+di "Multiplayer"<@>
+---------------------------------------------------------
+Dan jumlah maksimum kartu yang dapat ditukar sekaligus dengan "passing card exchange" hingga 3 kartu<@>
+---------------------------------------------------------
+"Avatar card" dapat diperbarui dengan bertukar dengan lawan yang sama dan "Multiplayer" atau
+"passing card exchange"<@>
+---------------------------------------------------------
+Sebagai imbalan karena menyelesaikan tugas<dengan anggota lain
+"Material avatar" bisa diambil<@>
+---------------------------------------------------------
+Blood memo<@>
+---------------------------------------------------------
+"Rebounding bullet" adalah bullet dengan efek untuk memulihkan kekuatan teman.
+Namun, tidak memiliki efek bagi orang yang menembak<@>
+---------------------------------------------------------
+Untuk Bullet dengan sifat yang sangat istimewa
+penggunaan God arc terbatas<@>
+---------------------------------------------------------
+Hanya ada satu bagian, ada gambar-gambar camelia kecil, gentian dan Sakuya bersama<@>
+---------------------------------------------------------
+Dan yang lainnya adalah foto baru<@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Bullet
+---------------------------------------------------------
+Photo
+---------------------------------------------------------
+Stop searching
+---------------------------------------------------------
+
+---------------------------------------------------------
+Sudah mulai tapi susah untuk dilihat karena layarnya rusak<@>
+---------------------------------------------------------
+What do you see?<@>
+---------------------------------------------------------
+File terkunci dan tidak bisa dilihat<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Look another file
+---------------------------------------------------------
+Kigurumi
+---------------------------------------------------------
+……
+---------------------------------------------------------
+Yorozuya00Apa anda ingin membeli sesuatu?
+---------------------------------------------------------
+Apa anda ingin membeli sesuatu?
+---------------------------------------------------------

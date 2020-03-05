@@ -1,0 +1,35 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0009
+===============================================================
+[00000172:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Nana
+---------------------------------------------------------
+Kerja bagus, Captain<@>
+---------------------------------------------------------
+Maksudku, Gboro-Gboro yang berkumpul lebih dari yang kita harapkan! dengan ini eksperimen kita dinyatakan Oke Oce <@>
+---------------------------------------------------------
+yah 'oke oce' maksudku...
+---------------------------------------------------------
+Yang datang bukan jenis Golden...
+---------------------------------------------------------
+Dr. Sakaki memuji kita, katanya "Ini memberi kita petunjuk untuk
+ mempelajari ekologi Aragami"<@>
+---------------------------------------------------------
+Baiklah, Aku merasa bersemangat sekarang! aku
+ akan berusaha yang terbaik untuk selanjutnya~<@>
+---------------------------------------------------------
+Lebih banyak Aragami dari yang kita harapkan, jadi ini lebih
+ berhasil daripada biasanya kan? <@>
+---------------------------------------------------------
+Tentang itu... hahah... aku akan berusaha untuk
+ meningkatkannya mulai sekarang<@>
+---------------------------------------------------------

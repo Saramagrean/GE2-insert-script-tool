@@ -1,0 +1,268 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0110
+===============================================================
+[00000576:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+"Tidak ada entri untuk masuk karena sudah keluar"
+tertulis seperti itu ......
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas saat ini di ruangan ini
+aku tidak bisa masuk
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas saat ini, di ruangan ini
+aku tidak bisa masuk
+---------------------------------------------------------
+Asuna
+---------------------------------------------------------
+Oh, oh,  ......
+---------------------------------------------------------
+Kalbi
+---------------------------------------------------------
+Kalbi~
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+Hanya untuk membuat singularitas yang hilang, sekali lagi
+Fenomena alam yang benar-benar baru yang disebut "hujan merah" telah lahir
+---------------------------------------------------------
+Dunia ini memiliki "keinginan" yang kuat
+Apakah seharusnya mencoba untuk mendapatkan "pertemuan akhir" ......
+---------------------------------------------------------
+Emil
+---------------------------------------------------------
+Muu
+Maaf, ini Polar Suttin ......
+---------------------------------------------------------
+Erina
+---------------------------------------------------------
+Tentu saja, Oscar mungkin telah memaksakan sedikit ......
+---------------------------------------------------------
+Gillbert
+---------------------------------------------------------
+Tidak ada cara untuk menghentikan "hujan merah" bagi kita
+Jika demikian, hanya ada satu hal yang bisa ......
+---------------------------------------------------------
+Perawatan blackpague sehingga bisa maju sedikit ... ....
+aku akan melakukan sebanyak yang aku bisa
+---------------------------------------------------------
+Haruomi
+---------------------------------------------------------
+Bersiaplah setelah masalah Friar selesai
+aku ingin minuman yang baik disiapkan sekarang ...
+---------------------------------------------------------
+Hibari
+---------------------------------------------------------
+Misi baru Blood telah tiba
+---------------------------------------------------------
+Kanon
+---------------------------------------------------------
+Semua orang di Blood, yang terlihat brilian ... ...
+Apa yang terjadi?
+---------------------------------------------------------
+Kouta
+---------------------------------------------------------
+Bagaimana Yuno muncul, bagaimana caranya?
+aku khawatir .....
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+"End gathering" dan "singularity" ... ... Aku benar-benar tidak mengerti ... ...
+Hal ini tentu lebih baik untuk pigmen hitam Yuno untuk menyembuhkannya
+---------------------------------------------------------
+Hmm ...... Bahkan di akhir bab sebelumnya, aku berhasil entah bagaimana
+... ... Ya! aku merasa seperti aku berhasil melakukan sesuatu saat ini juga
+---------------------------------------------------------
+perawat
+---------------------------------------------------------
+Jika kamu berkunjung, silakan pergi ke kamar rumah sakit di sebelah kiri kamu
+Yah, diam-diam ......
+---------------------------------------------------------
+Licca
+---------------------------------------------------------
+Memang ... ... Baik Emil maupun Erina
+Itu adalah langkah sebelum mesin GodArc rusak, berusaha keras.
+---------------------------------------------------------
+Mutsumi
+---------------------------------------------------------
+Yuno, tidak apa-apa ...?
+---------------------------------------------------------
+Sakaki
+---------------------------------------------------------
+Yuno masih dalam proses
+Setelah aku tahu sesuatu, aku akan melaporkan lagi
+---------------------------------------------------------
+Satsuki
+---------------------------------------------------------
+Apakah kamu tahu sesuatu?
+...... Hei, untuk saat ini, rahasianya adalah buah pir!
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Semua ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti majalah mode atau katalog
+aku tidak tahu karena semuanya ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti file teks
+aku tidak bisa melihatnya karena terkunci<@>
+---------------------------------------------------------
+Модный　журнал
+---------------------------------------------------------
+Дневник
+---------------------------------------------------------
+Berhentilah mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+aku tidak melakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Tonton arsipnya
+---------------------------------------------------------
+aku tidak melakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Ada banyak taktik terkait file<@>
+---------------------------------------------------------
+"Signal Bullet" mengacu pada item yang digunakan untuk memberikan instruksi kepada kawan dalam misi<@>
+---------------------------------------------------------
+Kisaran pengaruh "Bullet signal" ada dua jenis "Wide area signals" dan "Narrow Range signal"<@>
+---------------------------------------------------------
+"Wide area signal" untuk semua anggota yang berpartisipasi dalam misi
+"Narrow area signal" hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+Ada 4 jenis "sinyal peluru" yang bisa digunakan<@>
+---------------------------------------------------------
+"Wide-area Signal: all hands set", "Narrow-Band Signal: Menunggu penyebaran,"
+"narrow-band signal: Mencari serangan musuh," "narrow-band signal: Set"<@>
+---------------------------------------------------------
+Untuk informasi rinci tentang masing-masing sinyal, lihat "Database"<@>
+---------------------------------------------------------
+"Control Unit" diaktifkan dengan "Burst Skill"<@>
+---------------------------------------------------------
+"Keterampilan meledak" menunjukkan efeknya hanya selama ledakan
+Ini adalah keterampilan khusus<@>
+---------------------------------------------------------
+Juga, "unit kontrol" dan keterampilan yang terpasang di dalamnya
+Judul berubah sesuai dengan<@>
+---------------------------------------------------------
+aku tidak bisa membukanya karena aku tidak punya izin<@>
+---------------------------------------------------------
+Panduan taktis senior: sinyal peluru
+---------------------------------------------------------
+Panduan taktis lanjutan: Unit kontrol
+---------------------------------------------------------
+ＮＯ　ＮＡＭＥ
+---------------------------------------------------------
+Berhentilah mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+File-file tersebut diatur
+Sangat mudah untuk dilihat<@>
+---------------------------------------------------------
+Dengan "kartu avatar" bertukar dengan "avatar"
+Itu adalah teman yang dapat berpartisipasi dalam misi kapan saja<@>
+---------------------------------------------------------
+Ada dua cara untuk bertukar "Avatar Card"
+Salah satu caranya adalah secara manual bertukar di "Multiplayer"<@>
+---------------------------------------------------------
+Lainnya adalah "pertukaran kartu yang lewat"
+Hingga 3 kartu dapat ditukar sekaligus<@>
+---------------------------------------------------------
+"Avatar card" dapat diperbarui dengan bertukar dengan lawan yang sama
+Dengan melakukan "Multiplayer" atau "Penukaran kartu penukaran"<@>
+---------------------------------------------------------
+Sebagai imbalan atas tugas yang dilakukan dengan pihak lain
+"Bahan koleksi Avatar" dapat diperoleh<@>
+---------------------------------------------------------
+Memo jepit<@>
+---------------------------------------------------------
+"Rebounding bullet" adalah peluru yang memiliki efek mengembalikan kekuatan fisik kamu
+Namun, itu tidak berhasil untuk orang yang menembak sendiri<@>
+---------------------------------------------------------
+
+Untuk Bullet dengan sifat yang sangat istimewa
+Mesin Tuhan dapat digunakan terbatas<@>
+---------------------------------------------------------
+Hanya satu bagian, ada Tsubaki + Lindow dan Ada gambar Sakuya bersama<@>
+---------------------------------------------------------
+Yang lainnya adalah foto yang relatif baru<@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Bullet
+---------------------------------------------------------
+Sebuah foto
+---------------------------------------------------------
+Berhentilah mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+aku mulai, tapi
+Layar rusak dan sulit dilihat<@>
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Setiap file terkunci
+aku tidak bisa melihatnya<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Kigrumi
+---------------------------------------------------------
+…………
+---------------------------------------------------------
+si amang jaga warung
+---------------------------------------------------------
+Apakah kamu akan membeli sesuatu?
+---------------------------------------------------------
+Yuno
+---------------------------------------------------------
+Asuna tampaknya sedikit demam ......
+Silakan berbaring, berikan itu
+---------------------------------------------------------

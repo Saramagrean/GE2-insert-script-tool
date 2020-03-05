@@ -1,0 +1,86 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0029
+===============================================================
+[00000252:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Ciel
+---------------------------------------------------------
+Depan dari sini, untuk meningkatkan pertempuran keefektifan
+para anggota, akan lebih baik penekanannya menyerang dari
+jarak jauh, saya pikir bagus < @ >
+---------------------------------------------------------
+Ngomong-ngomong ... Apakah Anda yakin akan memodifikasi
+Blood Bullets?<@>
+---------------------------------------------------------
+Saya mengerti itu
+---------------------------------------------------------
+Ini terlalu rumit jadi saya hampir tidak...
+---------------------------------------------------------
+Mungkin itu karena kerumitan modifikasi Blood Bullets bahwa
+banyak God Eater cenderung menahan diri untuk tidak
+melakukannya jadi... Tapi itu teknik yang luar biasa!<@>
+---------------------------------------------------------
+Perubahan lintasan dan perilaku, dalam posisi berdiri
+kemungkinan akan menjadi serangan jarak jauh cairan, dan
+kemudian Anda memberi kami banyak pilihans ... < @ >
+---------------------------------------------------------
+Dengan mengubah properti, dan kontrol kekuasaan lebih lanjut
+dan jangkauan, ... untuk meningkatkan efisiensi pemulihan
+sekutu < @ >
+---------------------------------------------------------
+Ah... Salah saya, saya terbawa entah bagaimana... < @
+>
+---------------------------------------------------------
+Tidak apa-apa, silakan
+---------------------------------------------------------
+Anda yakin suka memodifikasi Blood Bullets
+---------------------------------------------------------
+Dan dimana itu ... < @ >
+---------------------------------------------------------
+Jika, ... Saya akan melakukan seolah-olah ada waktu < @ >
+---------------------------------------------------------
+Ini ... < @ >
+---------------------------------------------------------
+... Aku ingin tahu apakah kamu tidak keberatan ikut
+denganku uji lapangan peluru yang saya buat ... itu<@>
+---------------------------------------------------------
+Bagaimana kita akan mengujinya?
+---------------------------------------------------------
+Baik-baik saja oleh saya
+---------------------------------------------------------
+Ter ... Terima kasih banyak! Aku sangat
+senang...<@>
+---------------------------------------------------------
+Jika memungkinkan, saya ingin mengujinya segera... Tapi
+saya ingin tahu ... jika Anda siap untuk pergi?<@>
+---------------------------------------------------------
+Saya baik kapan saja!
+---------------------------------------------------------
+Tahan sebentar.
+---------------------------------------------------------
+Itu memang benar!
+---------------------------------------------------------
+Itu benar .. mengerti
+---------------------------------------------------------
+...Ya! <@>
+---------------------------------------------------------
+Ya, saya menyukainya...<@>
+---------------------------------------------------------
+Tidak, itu ... tidak terlalu sulit! Biarkan yang lain
+melihat tindakan ... Um, lihat, sulit untuk melihat sendiri
+meskipun...
+---------------------------------------------------------
+OK! Tenang!
+---------------------------------------------------------
+Saya akan menantikannya!<@>
+---------------------------------------------------------
+Okay! Thank you very much<@>
+---------------------------------------------------------

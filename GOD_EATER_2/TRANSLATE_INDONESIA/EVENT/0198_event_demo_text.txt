@@ -1,0 +1,77 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0027
+===============================================================
+[00000244:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Nana
+---------------------------------------------------------
+Ah, bisakah kau meluangkan waktu untukku sebentar? <@>
+---------------------------------------------------------
+Aku terus mengawasi Mutsumi saat dia memasak, dan ketika dia
+sudah selesai memasak...<@>
+---------------------------------------------------------
+"Kau bisa menghidangkan sisa makanan bagaimanapun kau
+ingin"<@>
+---------------------------------------------------------
+tentang apa yang dikatakannya padaku... ini pertama kalinya
+aku mencoba memasak<@>
+---------------------------------------------------------
+...Dan inilah! mahakarya!<@>
+---------------------------------------------------------
+Kupikir aku harus membagikan kesenangan ini! silahkan!<@>
+---------------------------------------------------------
+I...ini...?
+---------------------------------------------------------
+opo iki...
+---------------------------------------------------------
+Aku mencampurkan rasa Stroberi dengan yang manis-manis,
+dicampur dengan ration... dan itulah yang aku ingat untuk
+beberapa alasan<@>
+---------------------------------------------------------
+Sekarang, cobalah... ayo!<@>
+---------------------------------------------------------
+Pesan
+---------------------------------------------------------
+Anda telah diracuni! Stamina anda menurun drastis!<@>
+---------------------------------------------------------
+Jadi...gimana?<@>
+---------------------------------------------------------
+Entah kenapa... Aku keringatan padahal diem
+doang...
+---------------------------------------------------------
+Rasanya... rasa ngantuk.. ntahlah...
+---------------------------------------------------------
+...Anda telah pulih dari efek buruk<@>
+---------------------------------------------------------
+Umm... oh ya, itu tak jauh beda dari rasa yang
+kuciptakan!<@>
+---------------------------------------------------------
+Terasa provokatif, dan manisnya nusuk... kayak gitu<@>
+---------------------------------------------------------
+Ini jangan dibikin item dah, mati semua ntar
+---------------------------------------------------------
+Gimana kalo konsultasi ke Licca?
+---------------------------------------------------------
+Baiklah! ntar aku coba mampir ke Licca<@>
+---------------------------------------------------------
+Makasih! aku merasa percaya diri sekarang okay sampai
+nanti<@>
+---------------------------------------------------------
+23
+---------------------------------------------------------
+... 
+---------------------------------------------------------
+Eh, jadi... orang-orang bilang obat-obatan rasanya
+pahit... Pasti itu ada hubungannya dengan item kan?<@>
+---------------------------------------------------------
+Eh, jadi Licca juga pintar memasak? baiklah, tahan bentar ,
+aku akan memberinya sedikit sampel makananku...<@>
+---------------------------------------------------------

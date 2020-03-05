@@ -1,0 +1,75 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0029
+===============================================================
+[00000252:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Yousuke
+---------------------------------------------------------
+Hey disini,kak Alisa! kami sedang menunggumu..!<@>
+---------------------------------------------------------
+Alisa
+---------------------------------------------------------
+ada apa....?<@>
+---------------------------------------------------------
+Daichi
+---------------------------------------------------------
+kami ingin kakak disini lebih lama,disaat seperti ini  bisas aja  datang para invasif spesies...
+tidak apa apa dengan kakak kan...?<@>
+---------------------------------------------------------
+tapi, mereka tidak ada kan<@>
+---------------------------------------------------------
+Munakata Kunio
+---------------------------------------------------------
+siapa yang tau jika para invasif kembali datang lagi pokoknya, kakak harus disini dulu malam ini<@>
+---------------------------------------------------------
+
+Yousuke, rumah mu adalah tempat yang bagus untuk pergi, benar?<@>
+---------------------------------------------------------
+Yeah, kami siap!<@>
+---------------------------------------------------------
+itu akan menjadi sedikit absurd! kita disini bukan untuk bermain main...<@>
+---------------------------------------------------------
+Ikue
+---------------------------------------------------------
+Oh geez, itu hanya berbelit-belit!<@>
+---------------------------------------------------------
+jika ulang tahun mu besok, bukan itu Apa gunanya jika tamu kehormatan kita tidak datang!<@>
+---------------------------------------------------------
+Eh...!?<@>
+---------------------------------------------------------
+itulah kenapa, misi pertahanan melawan invasif spesies yang tidak terlihat berlangsung hingga besok...<@>
+---------------------------------------------------------
+kita seharusnya berfikir keras untuk membuat seseorang sibuk untuk mati seperti kakak akan datang!<@>
+---------------------------------------------------------
+kita seharusnya berfikir keras untuk membuat seseorang sibuk
+untuk mati seperti kakak akan datang semuanya...<@>
+---------------------------------------------------------
+tentang besok... bagaimana harus aku menyambut mereka...<@>
+---------------------------------------------------------
+aku akan ledakan tangisanku dan tidak bisa untuk bicara apapun aku yakin...<@>
+---------------------------------------------------------
+bagaiamana kalau aku yang berbicara di tempatmu sebagai gantinya?
+---------------------------------------------------------
+lakukan seperti biasa seperti melaporkan hasil misi
+---------------------------------------------------------
+aku harus bisa merawat orang orang, dan mereka yang telah merawatku...
+seperti bagaimana semuanya dari satelite base dan kamu yang membantuku keluar<@>
+---------------------------------------------------------
+dan seperti itu juga...<@>
+---------------------------------------------------------
+kita terus membuat mimpi menjadi kenyataan...<@>
+---------------------------------------------------------
+aku sangat bahagia jika suatu hari nanti aku bisa menjadi asisten mu<@>
+---------------------------------------------------------
+Ah, itu bagus! aku akan mendukungmu<@>
+---------------------------------------------------------
+i-itu persis seperti keahlianku...!<@>
+---------------------------------------------------------

@@ -1,0 +1,44 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0012
+===============================================================
+[00000184:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Alisa 
+---------------------------------------------------------
+Permisi. Apakah Kamu bisa menemaniku bertugas sekarang?
+Tampaknya ada informasi penampakan yang berurutan
+dari Aragami di sekitar satelit 
+---------------------------------------------------------
+Terlepas dari itu, reaksi Aragami belum ditemukan
+sama sekali ... Mungkin Aragami dengan kemampuan baru muncul 
+---------------------------------------------------------
+Sebenarnya, aku kira itu harus diserahkan kepada Brad
+Tampaknya semua orang  di satelit ingin aku keluar ... 
+---------------------------------------------------------
+Aku hanya bisa meminta Padamu ......
+Tolong! 
+---------------------------------------------------------
+Ya terima kasih! 
+---------------------------------------------------------
+Ayo cepat 
+---------------------------------------------------------
+Persiapan selesai 
+---------------------------------------------------------
+Apakah Kamu ingin mengkonfirmasi detail misi lagi? 
+---------------------------------------------------------
+Bisakah Kamu memberi tahu ku jika Kamu kembali dari misi?
+aku ingin mengajak mu bekerja sama mengenai suatu hal
+---------------------------------------------------------
+Apakah kamu sudah siap?Aku akan menunggu, 
+tolong beri tahu aku segera setelah disetel 
+---------------------------------------------------------
+OkeKalau begitu, aku menunggu 
+---------------------------------------------------------

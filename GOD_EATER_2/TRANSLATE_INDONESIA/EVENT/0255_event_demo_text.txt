@@ -1,0 +1,31 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0008
+===============================================================
+[00000168:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Soma
+---------------------------------------------------------
+Ini cerita 3 tahun yang lalu<@>
+---------------------------------------------------------
+Aku kehilangan teman disini, Saat itu... Ia pria yang baik, selalu memikirkan tentang
+keadaan saudara perempuannya.<@>
+---------------------------------------------------------
+Di akhir selalu ada penyesalan
+---------------------------------------------------------
+Sangat menyakitkan jika kehilangan teman
+---------------------------------------------------------
+Bahkan meskipun selalu dihadapkan dengan kematian, jika berpisah dengan teman ...
+Kau tidak pernah terbiasa, bagaimanapun itu... <@>
+---------------------------------------------------------
+Yeah... Tepat... <@>
+---------------------------------------------------------
+Yeah... kau benar... <@>
+---------------------------------------------------------

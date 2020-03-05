@@ -1,0 +1,51 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0014
+===============================================================
+[00000192:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Canon
+---------------------------------------------------------
+Bagaimana tesnya, Aku penasaran? Aku berencana untuk
+berupaya tapi ...<@>
+---------------------------------------------------------
+Licca
+---------------------------------------------------------
+Dalam kasus recovery bullets, kau berhasil dalam tes Oracle
+Reserve Personally, Aku bilang tidak akan ada masalah dengan
+alignment<@>
+---------------------------------------------------------
+Kalau begitu, kita baik-baik saja
+---------------------------------------------------------
+Benar, sekarang aman untuk berada di atas larangan
+---------------------------------------------------------
+Kemudian, kemudian...! Kita baik untuk pergi
+sekarang!?<@>
+---------------------------------------------------------
+Te... Terima kasih banyak! Pelatih! Licca!<@>
+---------------------------------------------------------
+Aku sangat bersyukur... Aku penasaran ketika kamu
+mengatakan, "Mulai besok, kau tidak perlu datang
+lagi"...<@>
+---------------------------------------------------------
+Semuanya menguasai Oracle Reserve dengan baik, kecuali
+Aku... Aku bahkan mendapat julukan aneh, seperti "straw
+employee" dan semacamnya...<@>
+---------------------------------------------------------
+...Kau baik-baik saja?<@>
+---------------------------------------------------------
+Permisi! Saya ingin menghubungi keluarga saya!<@>
+---------------------------------------------------------
+Sebuah bantuan dengan recovery bullets, semuanya akan
+menjadi baik-baik saja terlepas dari kebiasaan
+buruknya...<@>
+---------------------------------------------------------
+Teruskan, "Pelatih"!<@>
+---------------------------------------------------------

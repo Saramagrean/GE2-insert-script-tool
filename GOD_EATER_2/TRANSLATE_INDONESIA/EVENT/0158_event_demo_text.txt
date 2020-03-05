@@ -1,0 +1,57 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0017
+===============================================================
+[00000204:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Kouta
+---------------------------------------------------------
+Mari kita serahkan tentang Pertukaran Resmi antara Cabang
+Far East dan Friar ke Dr.Sakaki, dan Selain itu...<@>
+---------------------------------------------------------
+Kita akan bersosialisi satu sama lain dilantai yang sama,
+jadi aku harap kita berkumpul !<@>
+---------------------------------------------------------
+Senang bisa bertemu denganmu, Kapten Fujiki Kouta dari Unite
+ke-1<@>
+---------------------------------------------------------
+Yes, Sir 1st Unit Captain of Far East Branch
+---------------------------------------------------------
+oke.. baiklah !<@>
+---------------------------------------------------------
+Eh, aku ingin bertanya padamu satu hal !<@>
+---------------------------------------------------------
+Berhenti memanggilku Kapten, karena sebutan itu tidak enak
+didengar olehku !<@>
+---------------------------------------------------------
+Pertama-tama, bagaimana dengan sebutan [ente dan ane] saja ?
+<@>
+---------------------------------------------------------
+kalo ane sih oke oke aja
+---------------------------------------------------------
+Mohon Kerja Samanya
+---------------------------------------------------------
+mantap ! itu yang ane inginkan ! setelah misi enaknya makan
+loh, makanan kami mantap dah pokoknya<@>
+---------------------------------------------------------
+Baiklah ! ente ane teraktir ! Mari kita akhiri misi ini
+dengan cepat dan Makan !<@>
+---------------------------------------------------------
+Mantap ! itu baru yang namanya semangat !<@>
+---------------------------------------------------------
+ah... mereka memanggilku kapten kadang sih, tapi oi ! hal
+begituan jangan terlalu dipikirin<@>
+---------------------------------------------------------
+Ketika orang-orang memanggilmu dengan panggilan gelar
+lengkapmu "Kepala Letnan dari Spesial Force Blood" itu pasti
+terasa tidak nyaman kan ?<@>
+---------------------------------------------------------
+aku senang ! mari kita selalu seperti itu !<@>
+---------------------------------------------------------

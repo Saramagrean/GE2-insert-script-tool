@@ -1,0 +1,62 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0017
+===============================================================
+[00000204:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+tim cradel
+---------------------------------------------------------
+...jadi, sebenarnya kami tidak ingin kamu ke luar dari 
+pangkalan satelit. Tugas kami adalah melindungimu, dan, kamu 
+tahu...<@>
+---------------------------------------------------------
+Munakata Kunio
+---------------------------------------------------------
+jangan meminta kami untuk meningkatkan 
+pekerjaanmu!!...<@>
+---------------------------------------------------------
+jika kamu bisa berhenti pergi keluar untuk mencari material 
+dan segala macam benda tanpa permisi...<@>
+---------------------------------------------------------
+jadi selanjunya, kami tidak ingin banyak melindungimu. jika 
+kami menunggu material disediakan,kami tidak akan bisa 
+menyelesaikan alatnya!!<@>
+---------------------------------------------------------
+Alisa
+---------------------------------------------------------
+permisi,aku sudah diberitahu tentang situasinya.
+---------------------------------------------------------
+tapi dengan hormat , tolong kurangi kebiasaan keluarmu 
+hingga bom peningnya diberikan kepada para pengawas...<@>
+---------------------------------------------------------
+apa?!, alat mahal seperti itu diberikan kepada satelit?aku 
+kira entah berapa tahun lagi akan diberikan kesini <@>
+---------------------------------------------------------
+dalam keadaan normal, itu benar. tapi mungkin, tidak terlalu 
+banyak<@>
+---------------------------------------------------------
+ha,apakah itu <@>
+---------------------------------------------------------
+sungguh, kamu sesuatu...!<@>
+---------------------------------------------------------
+jadi,setelah kau berbicara begitu,kami akan 
+mendengarkannya,jangan melakukan sesuatu yang besar,mungkin 
+nanti akan berakhir dengan pengawasan Markas!!<@>
+---------------------------------------------------------
+kamu harus berterima kasih kepada apa yang telah dia lakukan 
+,meskipun itu hal hal kecil<@>
+---------------------------------------------------------
+jadi,aku rasa kita harus mengatur pengambilan beberapa 
+material dari fasilitas lama sebelum bom pening 
+datang...<@>
+---------------------------------------------------------
+a-aku minta maaf ! karena aku memintamu kesini tapi aku yang 
+terlambat :'v...<@>
+---------------------------------------------------------

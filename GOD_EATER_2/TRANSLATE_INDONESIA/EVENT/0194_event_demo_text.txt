@@ -1,0 +1,72 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0029
+===============================================================
+[00000252:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Haruomi
+---------------------------------------------------------
+...itu saja, hanya untuk mengambil yang menurutmu baik dan kemudian simpan sampai misi selesai...<@>
+---------------------------------------------------------
+Canon
+---------------------------------------------------------
+tapi jika aku tidak bisa menggerakan tubuhku, apakah aku akan mati ?<@>
+---------------------------------------------------------
+Uuuuh, Aku nyerah...<@>
+---------------------------------------------------------
+...Uh, oke! hey cepat datang kesini !<@>
+---------------------------------------------------------
+mungkin Kau nanti akan mengerti, kau disini sebagai Wakil Kapten Blood<@>
+---------------------------------------------------------
+Ah, maafkan aku...<@>
+---------------------------------------------------------
+Gadis ini yang paling cantik di tim unit-4, namanya Daiba Kanon<@>
+---------------------------------------------------------
+Eh.. Um, aku tidak seperti itu, aku hanya org biasa, perkenalkan namaku Daiba Kanon<@>
+---------------------------------------------------------
+Yup, semuanya dah bagus.. kau cukup menarik, aku yakin itu<@>
+---------------------------------------------------------
+baiklah skrg, aku tidak bermaksud berbuat apa-apa kpada mu Kanon, tapi...<@>
+---------------------------------------------------------
+yang satu ini ! dia akan menjadi pembingbingmu mulai sekarang !<@>
+---------------------------------------------------------
+Apa!?<@>
+---------------------------------------------------------
+Perhatikan baik-baik, kamu harus meminta kedapa pembingbingmu untuk belajar Blood-Style
+dan cara menembak dengan benar ! kamu pasti bisa<@>
+---------------------------------------------------------
+Ta-Tapi ! apa kamu sudah siap jadi pembingbingku ?<@>
+---------------------------------------------------------
+Sigh...<@>
+---------------------------------------------------------
+Aku sudah kehabisan materi untuk mengajarkanmu<@>
+---------------------------------------------------------
+jadi, apa yang terjadi dengan bumi ini..?
+---------------------------------------------------------
+Jika kau bisa melewati "Buck" kepadaku...
+---------------------------------------------------------
+Okay, Aku mengandalkanmu !<@>
+---------------------------------------------------------
+Um...<@>
+---------------------------------------------------------
+satu hal lagi, aku itu selalu mengikuti siapapun, tapi Haru sudah mengatakan begitu apa boleh buat...<@>
+---------------------------------------------------------
+ya setidaknya aku bisa ngasih bbrapa saran...
+---------------------------------------------------------
+Itu yg aku harapkan...
+---------------------------------------------------------
+Ba-Baik...!<@>
+---------------------------------------------------------
+Um, lalu...!<@>
+---------------------------------------------------------
+mulai dari sekarang dan seterusnya aku akan mengikutimu pembimbing<@>
+---------------------------------------------------------
+Aku tidak berkompten, tapi aku senang bisa diajari olehmu!<@>
+---------------------------------------------------------

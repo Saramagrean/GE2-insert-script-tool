@@ -1,0 +1,92 @@
+NAMA:event_scr_text
+ENCODING:UTF-8
+CRLF:\n
+ID:
+TYPE:
+JUMLAH_STRING:0033
+===============================================================
+[00000268:00000512:00002015:00066133:00000250:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+ Tidak ada petunjuk sama sekali ... ...
+---------------------------------------------------------
+Selain itu, beberapa Aragami sedang menuju ke kesana! Saat 
+ini akumeminta dukungan dari unit pertama ... ...
+---------------------------------------------------------
+Semua anggota, ambil setiap tindakan evakuasi! Bahkan jika 
+itu akan berlerai! Kembalilah ke cabang Far East!
+---------------------------------------------------------
+Nana! kau sudah diberitahu oleh Profesor Rachel untuk tidak 
+memaksakan dirimu, kan?
+---------------------------------------------------------
+Nana! kau sudah diberitahu oleh Profesor Rachel untuk tidak 
+memaksakan dirimu, kan?
+---------------------------------------------------------
+Aku akan membukakan jalann-ya! Nana kau sendiri, kau 
+pergilah melarikan diri!
+---------------------------------------------------------
+Lari...? Hanya aku saja .....?
+---------------------------------------------------------
+Nana ... ... kamu sendirian pergilah ... melarikan diri ... 
+...
+---------------------------------------------------------
+Ibu ...?
+---------------------------------------------------------
+Apakah kau baik-baik saja? ada apa?
+---------------------------------------------------------
+Menjadi
+---------------------------------------------------------
+Aku Terkepung!
+---------------------------------------------------------
+Bodoh! Seharusnya tidak ada bayangan atau bentuknya dulu 
+sampai saat yang lalu!
+---------------------------------------------------------
+Hei, operator! Apa yang sedang terjadi!
+---------------------------------------------------------
+Wow ... aku tidak mengerti!
+---------------------------------------------------------
+Namun, dari titik itu, dikonfirmasikan adanya gelombang 
+bidang gerhana yang kuat ... ...
+---------------------------------------------------------
+Aragami, menuju kesana ... ...
+---------------------------------------------------------
+..... Kami berkumpul!
+---------------------------------------------------------
+Tidak apa-apa ... ... bagaimana kau ...
+---------------------------------------------------------
+Petit ... ... cum ... ... Kudo Oh Oh!
+---------------------------------------------------------
+Kau memanggilku... ...
+---------------------------------------------------------
+Kau memanggilku... ...
+---------------------------------------------------------
+..... Ini salahku
+---------------------------------------------------------
+Karena aku, semuanya ...dan.. Ibu ... ...!
+---------------------------------------------------------
+Nana!Ada Apa?
+---------------------------------------------------------
+Ini ... ... gangguan dari gelombang detak jantungnya... 
+...!
+---------------------------------------------------------
+Tidak mungkin ... ...
+---------------------------------------------------------
+Blood/ CE / B1 mengkonfirmasi gelombang medan gerhana yang 
+kuat! Selanjutnya, Aragami semakin berkumpul!
+---------------------------------------------------------
+Apakah itu Blood of Power ...? Larilah... ..
+---------------------------------------------------------
+Terhadap Blood dari unit pertama! Penarikan aman! ..... Itu 
+masih hidup! Apa?
+---------------------------------------------------------
+Itu dia! Tapi Nana ... ...!
+---------------------------------------------------------
+Kirim informasi lokasi, mungkin tidak dia datang ke tempat 
+sejauh itu?
+---------------------------------------------------------
+Oh, itu mungkin! Tolonglah, terima kasih! Support wakil 
+kapten, dan segera evakuasi Nana!
+---------------------------------------------------------

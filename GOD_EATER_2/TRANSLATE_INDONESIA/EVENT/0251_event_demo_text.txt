@@ -1,0 +1,78 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0029
+===============================================================
+[00000252:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Lindow
+---------------------------------------------------------
+Jujur, Aku tidak cocok untuk<@>pekerjaan kantor dan semacamnya<@>
+---------------------------------------------------------
+Semua tentang saya adalah untuk membuat keputusan yang tepat, atau bagaimana 
+cara terampuh membunuh aragami, Seperti itu....<@>
+---------------------------------------------------------
+Fran
+---------------------------------------------------------
+Oh, Lindow Dr. Sakaki sedang mencarimu.....<@>
+---------------------------------------------------------
+Ah, ok katakan saja aku akan datang<@>
+---------------------------------------------------------
+Eh..... Dimengerti aku akan memberitahukannya<@>
+---------------------------------------------------------
+Eh, Apa itu?<@>
+---------------------------------------------------------
+Oh, Ya.... itu tentang pekerjaan kantor<@>
+---------------------------------------------------------
+Tugas seperti komunikasi atau menandatangani laporan sangat membosankan<@>
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Ah, Hai Lindow<@>
+---------------------------------------------------------
+Hai, maaf karena selalu menganggu kaptenmu tiap waktu<@>
+---------------------------------------------------------
+Tidak, kapten kita tidak akan merasa terganggu<@>
+---------------------------------------------------------
+Baik, Akan kulanjutkan<@>
+---------------------------------------------------------
+Kemudian<@>
+---------------------------------------------------------
+Hm? Ada yang salah?<@>
+---------------------------------------------------------
+kau begitu populer
+---------------------------------------------------------
+Kau tampak sibuk
+---------------------------------------------------------
+Hm.... untuk hari ini, apa yang harus kulakukan.....<@>
+---------------------------------------------------------
+Itu dia, mendengarkan soma yang menganalisis kyuubi..... lalu
+Mengemasi rencana ekspedisi dengan Dr.
+Sakaki.....<@>
+---------------------------------------------------------
+Alisa
+---------------------------------------------------------
+Lindow, hari ini adalah tenggat waktu rencana imigrasi untuk
+pangkalan satelit<@>
+---------------------------------------------------------
+Tentang itu...<@>
+---------------------------------------------------------
+Apakah kau meminta soma berhenti menuliskannya di tempatmu seperti
+sebelumnya?<@>
+---------------------------------------------------------
+Tentu saja tidak! Aku mendengarmu dengan keras dan jelas, Ms. Alisa!
+<@>
+---------------------------------------------------------
+Uh..... apa kau senggang nanti?<@>
+---------------------------------------------------------
+Seperti yang kau lihat, bahkan jika saya populer, sekarang saya cuma pria tua, 
+dan bahkan telah menikah<@>
+---------------------------------------------------------
+Oh,yah.....<@>
+---------------------------------------------------------

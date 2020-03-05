@@ -1,0 +1,248 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0103
+===============================================================
+[00000548:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+Dengan otoritas saat ini, aku tidak bisa masuk keruangan ini
+---------------------------------------------------------
+
+---------------------------------------------------------
+Tertulis...."Visitation abandonment"
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas saat ini, aku tidak bisa masuk keruangan ini
+---------------------------------------------------------
+Kalbi
+---------------------------------------------------------
+Kyuru?
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+Takut hujan merah yang menutup jalan untuk pergi....
+semuanya tidak sabar
+---------------------------------------------------------
+Pangkalan satelit lebih dekat ke sini
+Sepertinya ada laporan penampakan Romeo
+---------------------------------------------------------
+Namun, mari kita menjemputnya karena terjadinya hujan merah,
+Ada situasi yang tidak terus mendekat
+---------------------------------------------------------
+Juga, aku khawatir tentang batas faktor bias yang tidak seimbang
+Jika seperti ini kamu tidak dapat kembali, Sudah waktunya mengatakan bahwa itu adalah aragami.....
+---------------------------------------------------------
+...... Dalam kasus terburuk, memiliki kit administrasi sederhana dan pakaian pelindung
+mungkin ada, yang perlu untuk dijemput,
+---------------------------------------------------------
+Emile
+---------------------------------------------------------
+Awan merah..... Jika kamu turun ke bumi
+Sesuatu untuk memangsa polar Sterne kami.....
+---------------------------------------------------------
+Erina
+---------------------------------------------------------
+Sampai saat ini, belum pernah hujan seperti itu
+yah, Tidak ada gunanya menangis!
+---------------------------------------------------------
+Gil
+---------------------------------------------------------
+....cepat, ayo jemput dia
+Begitu hujan naik
+---------------------------------------------------------
+Haruomi
+---------------------------------------------------------
+Ngomong-ngomong aku tidak sabar, Secara terpisah hujannya tidak akan berhenti
+aku tidak punya pilihan selain menunggu dengan sabar
+---------------------------------------------------------
+Khawatir tentang itu, aku telah memutuskan apa yang bisa ku lakukan setelah semua ini
+---------------------------------------------------------
+Hibari
+---------------------------------------------------------
+Dengan terjadinya hujan merah, Situasi di mana pencarian sulit dilanjutkan...
+Oh, dia sepertinya punya cerita
+---------------------------------------------------------
+Blood memiliki tugas baru
+---------------------------------------------------------
+Kouta
+---------------------------------------------------------
+Hujan merah, jika kamu tidak melakukan sesuatu, ini akan gawat
+Ini buruk, apakah semua orang hidup di bawah tanah...
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Romeo-senpai, Kuharap dia bisa berlindung di suatu tempat dengan aman....
+---------------------------------------------------------
+Mutsumi
+---------------------------------------------------------
+Ketika hujan merah turun, aku mencoba untuk tidak melihat keluar
+....seperti itu, menakutkan
+---------------------------------------------------------
+Sakaki
+---------------------------------------------------------
+Mengenai menghentikan hujan merah, aku harus melanjutkan penelitian dengan serius
+Misi distribusi dan hukuman, Ini adalah hambatan besar di setiap aktivitas.....
+---------------------------------------------------------
+Satsuki
+---------------------------------------------------------
+Um, bagaimana keadaan sekarang God machine solder?
+Pada saat seperti itu, menurutku bukankah akan berubah
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Semua ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti majalah mode atau katalog
+Aku tidak mengerti karena semuanya ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti teks file
+Dikunci dan tidak dapat dilihat<@>
+---------------------------------------------------------
+　
+---------------------------------------------------------
+
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka terminal
+---------------------------------------------------------
+tidak melakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka terminal
+---------------------------------------------------------
+Lihat arsip
+---------------------------------------------------------
+tidak melakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Ada banyak file terkait taktis<@>
+---------------------------------------------------------
+"Signal bullet" digunakan ketika memberikan instruksi kepada seorang teman dalam misi<@>
+---------------------------------------------------------
+Kisaran pengaruh "Signal Bullet" ada dua jenis "Wide area signal" dan "Narrow range signal"<@>
+---------------------------------------------------------
+"Wide-area signals" diperuntukan bagi semua anggota yang berpartisipasi dalam misi
+"Narrow-area signal" hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+Ada 4 jenis "signal bullet" yang bisa digunakan<@>
+---------------------------------------------------------
+"Wide-area signal: general meeting" "Shrinking field signal: spread standby"
+"Narrow range signal: search enemy assault" "Shrinking Domain Signal: Collection"<@>
+---------------------------------------------------------
+Lihat "Database" untuk informasi rinci tentang setiap signal<@>
+---------------------------------------------------------
+"Control unit" dilengkapi dengan "Burst skill"<@>
+---------------------------------------------------------
+"Burst skill" yaitu keterampilan khusus, menunjukkan efeknya hanya selama burst aktif<@>
+---------------------------------------------------------
+Juga, keterampilan yang terpasang pada "Control unit" berubah sesuai dengan title<@>
+---------------------------------------------------------
+Aku tidak bisa membukanya karena tidak memiliki izin<@>
+---------------------------------------------------------
+Panduan taktis senior: signal bullet
+---------------------------------------------------------
+Panduan taktis lanjutan: kontrol unit
+---------------------------------------------------------
+ＮＯ　ＮＡＭＥ
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+File-file tersebut diatur
+agar mudah untuk dilihat<@>
+---------------------------------------------------------
+Dengan "Avatar card" bertukar dengan "Avatar"
+teman yang dapat berpartisipasi dalam misi kapan saja<@>
+---------------------------------------------------------
+Ada dua cara untuk bertukar "Avatar Card"
+Salah satu caranya adalah secara manual bertukar di "Multiplayer"<@>
+---------------------------------------------------------
+Satunya lagi adalah "Exchange of passing cards"
+Hingga 3 kartu dapat ditukar sekaligus<@>
+---------------------------------------------------------
+"Avatar card" dapat diperbarui dengan bertukar dengan sesama teman
+Dengan melakukan "Multiplayer" atau "Redemption card exchange"<@>
+---------------------------------------------------------
+Sebagai imbalan atas tugas yang dilakukan dengan pihak lain
+[Avatar collection material] dapat diperoleh<@>
+---------------------------------------------------------
+Bullet memo<@>
+---------------------------------------------------------
+"Rebounding bullet" adalah peluru yang memiliki efek mengembalikan kekuatan fisik Anda
+Namun, itu tidak akan bekerja untuk orang yang menembak sendiri<@>
+---------------------------------------------------------
+Untuk Bullet dengan sifat yang sangat istimewa
+God machine dapat digunakan terbatas<@>
+---------------------------------------------------------
+disatu bagian, ada sedikit gambar Tsubaki dan Lindow bersama Sakuya<@>
+---------------------------------------------------------
+Yang lainnya adalah foto yang relatif baru<@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Bullet
+---------------------------------------------------------
+foto
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Saya mulai, tapi
+Layar rusak dan sulit dilihat<@>
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Aku tidak bisa melihatnya
+Setiap file terkunci<@>
+---------------------------------------------------------
+Buka terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Yoshiya
+---------------------------------------------------------
+Apakah kamu ingin membeli sesuatu?
+---------------------------------------------------------
+Yuno
+---------------------------------------------------------
+Red rain....
+aku ingin tahu apakah orang-orang di basis satelit sudah mengungsi dengan aman.....
+---------------------------------------------------------

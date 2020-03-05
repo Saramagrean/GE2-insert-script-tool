@@ -1,0 +1,33 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0008
+===============================================================
+[00000168:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Nana
+---------------------------------------------------------
+Bagaimana?
+Apa Jebakan ciptaan Nana efektif?<@>
+---------------------------------------------------------
+Cukup meyakinkan.
+---------------------------------------------------------
+Aku tak terlalu mengerti
+---------------------------------------------------------
+Kita terbiasa mengatur jebakan dengan bantuan Blood Arts 
+yang makin kuat! Sugoi! <@>
+---------------------------------------------------------
+Jadi, dalam waktu dekat aku akan menciptakan sesuatu jika aku dapat ide
+aku berharap padamu!
+
+---------------------------------------------------------
+Yeah yeah, itu kesalahan yang umum <@>
+---------------------------------------------------------
+Tunggu, sepertinya kau tak hati-hati, kenapa?
+---------------------------------------------------------

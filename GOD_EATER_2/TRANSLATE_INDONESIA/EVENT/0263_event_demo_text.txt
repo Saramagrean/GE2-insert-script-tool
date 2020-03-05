@@ -1,0 +1,28 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0005
+===============================================================
+[00000156:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Soma
+---------------------------------------------------------
+Dimasa lalu, Manusia mempunyai teknologi untuk pergi ke 
+bulan. Saat Aragami muncul, semua itu menghilang...<@>
+---------------------------------------------------------
+Aku membayangkan bahwa kita harus tetap berjuang di 
+pertempuran, di planet ini yang telah dikuasai oleh 
+Aragami<@>
+---------------------------------------------------------
+kemudian... dengan membangun hal hal yang dapat kita 
+bangun... aku percaya kita dapat membuka jalan menuju masa 
+depan<@>
+---------------------------------------------------------
+...Ayoo<@>
+---------------------------------------------------------

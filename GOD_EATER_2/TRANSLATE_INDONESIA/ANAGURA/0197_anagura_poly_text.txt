@@ -1,0 +1,316 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0128
+===============================================================
+[00000648:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+"Tidak ada entri untuk masuk karena sudah keluar"
+Tertulis seperti itu ...... 
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas saat ini di ruangan ini
+Aku tidak bisa masuk 
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas saat ini, di ruangan ini
+Aku tidak bisa masuk 
+---------------------------------------------------------
+Alisa 
+---------------------------------------------------------
+Itu adalah jenis udara ketika "Arc project"
+Dalam situasi yang tak terlihat, semua orang jatuh ke dalam kegelisahan dan kebingungan ... ...
+---------------------------------------------------------
+Tapi percayalah satu sama lain,saling membantu, untuk menyelesaikanya...
+Tentunya, kita menyebutnya "ikatan"
+---------------------------------------------------------
+Asuna
+---------------------------------------------------------
+Karena aku sudah mengendap-ngendap secara perlahan kepadamu...
+Kali ini aku akan belajar dengan baik!
+---------------------------------------------------------
+Kalbi
+---------------------------------------------------------
+Kyurukyuru
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+Sekarang, Kamu dapat mengunjungi Asuna
+Apakah sudah dikepalai kapten?Emil
+---------------------------------------------------------
+Emil
+---------------------------------------------------------
+Apa yang dilakukan para God Soldiers untuk memahami hati orang...!
+Sebagai pedang bagi mereka yang tidak memiliki taring, kita masih belum dewasa...
+---------------------------------------------------------
+Elina
+---------------------------------------------------------
+"Arc Planning"...?
+Saat itu, Aku tidak tahu apa-apa...
+---------------------------------------------------------
+Pastinya, di suatu tempat di lobi asrama...Aku telah dibatalkan
+Karena aku lemah, aku hanya mengingat tentang itu...
+---------------------------------------------------------
+Fran
+---------------------------------------------------------
+Konflik antara pendukung Freya dan lawannya sepertinya akan terjadi
+Bahkan jika Kamu benar-benar dapat memusnahkan Aragami...
+---------------------------------------------------------
+Gill
+---------------------------------------------------------
+Dr Leah, pergi ke markas besar...
+...Suasana yang tenang, jauh lebih tenang dari sebelumnya
+---------------------------------------------------------
+Haruomi
+---------------------------------------------------------
+Yahh...
+Seperti yang diperkirakan ini akan menjadi sedikit...
+---------------------------------------------------------
+Orang yang mendukung Friar dan mereka yang tidak mendukung, pertempuran dimulai
+Untuk itu, Kita juga diusir
+---------------------------------------------------------
+Oh... Begitu kita melihat God Machine
+Beberapa orang berkata "Keluar!"...
+---------------------------------------------------------
+Apa yang terjadi?
+---------------------------------------------------------
+Sepertinya sulit
+---------------------------------------------------------
+Hibari
+---------------------------------------------------------
+Yuno dan Asuna sedang menunggu Bagaimana kalau pergi berkunjung?
+---------------------------------------------------------
+Blood memiliki tugas baru
+---------------------------------------------------------
+Canon
+---------------------------------------------------------
+Tuan Haru! Apakah tugas sebelumnya baik-baik saja?!
+Jika saja ada yang bisa aku bantu...
+---------------------------------------------------------
+Haru
+---------------------------------------------------------
+Nah, itu adalah penindasan kerusuhan di kota
+Aku harap jika kamu bisa mengajakku beberapa saat...
+---------------------------------------------------------
+Kouta
+---------------------------------------------------------
+Sekarang, Dunia ini terus berlanjut...
+---------------------------------------------------------
+"End gathering" yang dimulai dengan "Arc plan"...
+Itu membawaku ke bulan ... berkat "Shio"
+---------------------------------------------------------
+Karena itu, Aku akan memastikan itu akan terjadi dan kebaikannya
+Saya pikir saya harus mewarisinya...
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Hei, orang-orang yang setuju dengan Julius meningkat...
+Orang-orang sepertinya memiliki seseorang yang ingin kembali ke Friar...<@>
+---------------------------------------------------------
+Aku tidak tahu apa-apa sekarang...Perawat
+---------------------------------------------------------
+Perawat
+---------------------------------------------------------
+Jika Kamu ingin berkunjung, silakan pergi ke kamar rumah sakit di sebelah kirimu
+---------------------------------------------------------
+Mutsumi
+---------------------------------------------------------
+...... Hmm, kapan saja
+Hanya lupa untuk makan, jangan lupakan itu!
+---------------------------------------------------------
+Sakaki
+---------------------------------------------------------
+Aku kira itu sudah tiga tahun yang lalu… Orang lain di sini adalah "Shio"
+Gadis-gadis itu hidup
+---------------------------------------------------------
+Itu adalah anak yang menyelamatkan dunia ini dengan mengorbankan dirinya...
+Menurutku ada suatu tempat, dimana kau bisa berkomunikasi dengan julis
+---------------------------------------------------------
+Tapi... Ini bukan hal yang baik untuk bertahan sendirian
+Kita harus memiliki banyak alat untuk memahami, jadi
+---------------------------------------------------------
+Satsuki
+---------------------------------------------------------
+Jika kapten juga di rumah sakit
+Kau tidak akan melakukan apa apa ha ??
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat ?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Semua ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti majalah fashion atau katalog
+Aku tidak tahu karena semuanya ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti file teks
+Aku tidak bisa melihatnya karena terkunci<@>
+---------------------------------------------------------
+Модный　журнал
+---------------------------------------------------------
+Дневник
+---------------------------------------------------------
+Berhentilah mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Aku tidak melakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat arsipnya
+---------------------------------------------------------
+Aku tidak melakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Ada banyak taktik terkait dalam file<@>
+---------------------------------------------------------
+"Signal Bullet" mengacu pada item yang digunakan untuk memberikan instruksi kepada kawan dalam misi<@>
+---------------------------------------------------------
+Kisaran pengaruh "Bullet signal" ada dua jenis "Wide area signals" dan "Narrow Range signal"<@>
+---------------------------------------------------------
+"Wide area signal" untuk semua anggota yang berpartisipasi dalam misi
+"Narrow area signal" hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+Ada 4 jenis "singnal bullet" yang bisa digunakan<@>
+---------------------------------------------------------
+"Wide-area Signal: all hands set", "Narrow-Band Signal: Menunggu penyebaran,"
+"narrow-band signal: Mencari serangan musuh," "narrow-band signal: Set"<@>
+---------------------------------------------------------
+Untuk informasi rinci tentang masing-masing sinyal, lihat "Database"<@>
+---------------------------------------------------------
+"Control Unit" diaktifkan dengan "Burst Skill"<@>
+---------------------------------------------------------
+"Burst skill" menunjukkan efek skill hanya saat "burst" mode
+Ini adalah keahlian khusus<@>
+---------------------------------------------------------
+Juga tergantung pada "control unit" dan skill yang terpasang didalamnya maka Title akan berubah<@>
+---------------------------------------------------------
+Aku tidak bisa membukanya karena Aku tidak punya izin<@>
+---------------------------------------------------------
+Petunjuk taktis lanjutan: Signal bullet
+---------------------------------------------------------
+Panduan taktis lanjutan: Control unit
+---------------------------------------------------------
+ＮＯ　ＮＡＭＥ
+---------------------------------------------------------
+Berhentilah mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+File-file tersebut teratur
+Sangat mudah untuk dilihat<@>
+---------------------------------------------------------
+Dengan "Avatar card" bertukar dengan "Avatar"
+Itu adalah teman yang dapat berpartisipasi dalam misi kapan saja<@>
+---------------------------------------------------------
+Ada dua cara untuk bertukar "Avatar Card"
+Salah satu caranya adalah secara manual bertukar di "Multiplayer"<@>Cara lain adalah "Exchange of passing cards"
+Hingga 3 kartu dapat ditukar sekaligus<@>
+---------------------------------------------------------
+Cara lain adalah "Exchange of passing cards"
+Hingga 3 kartu dapat ditukar sekaligus<@>
+---------------------------------------------------------
+"Avatar card" dapat diperbarui dengan bertukar dengan lawan yang sama
+Dengan melakukan "Multiplayer" atau "Redemption card exchange"<@>
+---------------------------------------------------------
+Sebagai imbalan karena menyelesaikan tugas<dengan anggota lain
+"Material avatar" bisa diambil<@>
+---------------------------------------------------------
+Bullet Memo
+---------------------------------------------------------
+"Rebounding bullet" adalah peluru yang memiliki efek mengembalikan kekuatan fisikmu
+Namun, itu tidak berhasil untuk orang yang menembak sendiri<@>
+---------------------------------------------------------
+Untuk Bullet dengan sifat yang sangat istimewa
+penggunaan God arc terbatas<@>
+---------------------------------------------------------
+Hanya Sekejap, Tsubaki dan lindow bersama
+Ada gambar bersama Sakuya<@>
+---------------------------------------------------------
+Yang lainnya adalah foto yang relatif baru<@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Bullet
+---------------------------------------------------------
+Sebuah foto
+---------------------------------------------------------
+Berhentilah mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+Aku mulai, tapi
+Layarnya rusak dan sulit dilihat<@>
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Setiap file terkunci
+Aku tidak bisa melihatnya<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Damian
+---------------------------------------------------------
+Misi berikutnya, jika ada lawan 3 Rarvana...
+Hati-hati, banyak handset terganggu oleh pendengaran mereka
+---------------------------------------------------------
+Jika suara pertempuran dirasakan, itu akan membawamu ke pertempuran yang sulit dalam waktu singkat
+Jika Kamu memiliki keterampilan "mute", Kamu akan lebih mudah bertarung
+---------------------------------------------------------
+Aku ingin mengambil God Machine dengan Atribut Es dan mengalahkannya satu persatu
+Jika Kamu mempunyai apapun untuk membantuku, katakan saja
+---------------------------------------------------------
+Baiklah, bisakah kamu menggunakan LSD (Link Support Device) dengan baik?
+Jika kamu dalam masalah, aku akan meminjamkan kekuatanku kapanpun!
+---------------------------------------------------------
+Yorozuya
+---------------------------------------------------------
+Apakah Kamu akan membeli sesuatu?
+---------------------------------------------------------
+Yuno
+---------------------------------------------------------
+Karena aku terkena black plague, aku bisa membantu orang orang
+Beberapa orang berpikiran seperti itu...
+---------------------------------------------------------
+Tapi, cara menggunakan orang seperti itu...
+---------------------------------------------------------
+...
+---------------------------------------------------------

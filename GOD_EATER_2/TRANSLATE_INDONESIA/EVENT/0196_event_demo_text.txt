@@ -1,0 +1,55 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0018
+===============================================================
+[00000208:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Gil
+---------------------------------------------------------
+Vice-Captain, aku ingin ngomong sesuatu padamu<@>
+---------------------------------------------------------
+Ini masalahku, jadi aku yang harus mengatasinya... gausah
+ikut campur<@>
+---------------------------------------------------------
+Aku ingin membantu temanku, gitu aja
+---------------------------------------------------------
+Jangan pergi sendiri, berat kamu gak akan kuat, kuy bareng
+saja
+---------------------------------------------------------
+Haruomi
+---------------------------------------------------------
+Hey, maafkan aku ikut campur! Vice-Captainmu terlibat juga
+karena aku<@>
+---------------------------------------------------------
+Haru...！<@>
+---------------------------------------------------------
+Gil, Kuy berangkat, tiga orang ini aja<@>
+---------------------------------------------------------
+Walaupun kau memaksaku untuk tak melakukannya...!<@>
+---------------------------------------------------------
+Hey, Gil<@>
+---------------------------------------------------------
+Gini deh, Aku berbagi masalah juga kan? lagipula, jika aku
+berangkat sendiri, kau tak akan cuma diam melihatku tanpa
+ngomong apapun...kan?<@>
+---------------------------------------------------------
+...<@>
+---------------------------------------------------------
+Ga...<@>
+---------------------------------------------------------
+...Maaf aku ga ngira bakal gini...<@>
+---------------------------------------------------------
+Gapapa, kita kan teman seperjuangan bulu manuk.. ya kan
+Vice-Captain?<@>
+---------------------------------------------------------
+Hilih, lu aja bulu manuk, aku mah ogah...!<@>
+---------------------------------------------------------
+Hidup atau mati tetap ada urusannya ama kau...!<@>
+---------------------------------------------------------

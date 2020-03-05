@@ -1,0 +1,72 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0022
+===============================================================
+[00000224:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Grem
+---------------------------------------------------------
+Oh, mungkin kau sudah mendengarnya tapi kapten Julius
+Visconti sudah berhenti sebagai kapten dari Blood.<@>
+---------------------------------------------------------
+dia akan membantu penelitian god arch soldier milik dokter
+rachel dan dia juga akan membantu dalam produksi massal dari
+DEMAS di friar<@>
+---------------------------------------------------------
+mulai sekarang friar akan berkomitmen dlam manufacturing
+demas jadi kami akan menghentikan semua yang berhubungan
+dengan God Eaters untuk sementara<@>
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+kau maksud... pemecatan?<@>
+---------------------------------------------------------
+semua yg berhubungan dengan God eater akan ditransfer
+sementara ke branch lain ,kalian semua akan tinggal bersama
+di Far East branch sperti yang ditetapkan <@>
+---------------------------------------------------------
+cukup patuhi instuksinya hingga pemberitahuan lebih
+lanjut<@>
+---------------------------------------------------------
+kau lah yang akan menjadi kapten selanjutnya. ok, dalam
+kasus ini, coba lah tidak membuat masalah pada kami ok,?<@>
+---------------------------------------------------------
+ok cukup, sekarang kalian bisa pergi<@>
+---------------------------------------------------------
+apa lagi, kau masih punya pertanyaan? berapa anggaran
+produksi masal dari DEMAS ...<@>
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+bukan itu kapten! Dia tidak akan ikut dengan kita?<@>
+---------------------------------------------------------
+bukan kah aku sudah memberi tahumu? misi barunya sekarang
+adalah meneliti dan mengembangkan DEMAS<@>
+---------------------------------------------------------
+Guru Rachel...apa?
+---------------------------------------------------------
+tentu saja kami sudah mendapatkan persetujuan kalau blood
+akan ditransfer dia bilangbkalau dia akan melihat
+perkembangan kalian di far east<@>
+---------------------------------------------------------
+ok, jika kalian ingin tau kenapa kalian di terlantarkan
+tanyakan sendiri pada orang yang mengetahui alasannya,benar?<@>
+---------------------------------------------------------
+Gil
+---------------------------------------------------------
+apa yang kau maksud...!<@>
+---------------------------------------------------------
+dimengerti<@>
+---------------------------------------------------------
+kami akan mengikuti perintah dari Direktur Graem, kami
+hargai kalau kau sudah merawat kami<@>
+---------------------------------------------------------
+...Hmph, kita sudahi sampai disini<@>
+---------------------------------------------------------

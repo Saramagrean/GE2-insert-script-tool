@@ -1,0 +1,308 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0122
+===============================================================
+[00000624:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+"Tidak ada entri masuk karena sudah keluar"
+Beberapa menulis bahwa ......
+---------------------------------------------------------
+
+---------------------------------------------------------
+Saat ini otoritas di ruangan ini
+Saya tidak bisa masuk
+---------------------------------------------------------
+
+---------------------------------------------------------
+Saat ini otoritas di ruangan ini
+Anda tidak bisa masuk
+---------------------------------------------------------
+
+---------------------------------------------------------
+Saat ini otoritas di ruangan ini
+Saya tidak bisa masuk
+---------------------------------------------------------
+Calvi
+---------------------------------------------------------
+Kurururu ~
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+Kapten, permintaan itu dikirim untuk
+Spesies sensitif baru, seperti yang dikonfirmasi...
+---------------------------------------------------------
+Bahkan jika "hujan merah" tidak datang, spesies sensitif
+Sepertinya sudah ditetapkan sebagai salah satu spesies Aragami
+
+---------------------------------------------------------
+Gill
+---------------------------------------------------------
+Apalah itu Aragami sensitif atau normal
+Berjuanglah seperti biasa ... kamu hanya kalah, bukan?
+---------------------------------------------------------
+Ya... Seperti kata Gil
+Ayo pergi, kapten!
+---------------------------------------------------------
+Emile
+---------------------------------------------------------
+Teh besar berdiri di atas teh yang diseduh Mutsumi!
+Di Timur Jauh, itu mungkin tanda ... Keberuntungan yang dapat diambil! ?
+---------------------------------------------------------
+Hari ini, aku yakin bisa mengalahkan Aragami
+Mari menuju misi bersama sebelum keberuntungan habis!
+---------------------------------------------------------
+Elina
+---------------------------------------------------------
+Ini God Arc ku, tapi aku ingin tahu kenapa berguncang ketika meluncur
+Aku rasa kestabilannya menurun ...... Bolehkah aku melihatnya?
+---------------------------------------------------------
+Licca
+---------------------------------------------------------
+Ya, tinggalkan aku!
+Aku pikir kau bisa menyelesaikan tugas penyesuaian berikutnya?
+---------------------------------------------------------
+Gill
+---------------------------------------------------------
+Aku sudah tenang dari sebelumnya...
+Ini kesempatan besar, untukmu belajar berbagai keterampilan ......
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Ok, ayo belajar memasak bersama!
+Lucu sekali!
+---------------------------------------------------------
+Haha, aku tidak berpikir kalau memasak itu peranku ... ...
+Yah haruskah kita tertarik dulu ...?
+---------------------------------------------------------
+Haruomi
+---------------------------------------------------------
+Aku menemukan seorang gadis cantik di tim peneliti, jadi aku mencoba memanggilnya
+Dan kemudian, pria itu datang mendekat seperti pacarnya
+---------------------------------------------------------
+Kau seharusnya tidak memberikannya kepada gadisku!” Akan dipukuli
+Tidak ... Tidak, aku harus menilai semuanya dan menilainya.
+
+---------------------------------------------------------
+Hibari
+---------------------------------------------------------
+Brad memiliki tugas baru
+---------------------------------------------------------
+Terima kasih atas penaklukan spesies sensitif yang baru ditemukan
+Sepertinya itu varian dari Sariel ... ...
+---------------------------------------------------------
+Kami telah menerima beberapa laporan yang tidak bisa dijelaskan dari tim peneliti
+Tanpa gagal, silakan bersiap-siap
+---------------------------------------------------------
+Kami mengharapkan keberuntungan perangmu
+---------------------------------------------------------
+Kanon
+---------------------------------------------------------
+Meski hujan merah telah berhenti, spesies sensitif masih tumbuh...
+Sepertinya, tidak ada cara selain bertarung seperti orang gila......
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Oh, Kapten!
+
+---------------------------------------------------------
+Alisa mengira dia sedang memasak
+Kenapa kamu tidak mencoba untuk makan bersama?
+---------------------------------------------------------
+Ya! Aku tak sabar untuk
+Um, untuk masakan Alisa!
+---------------------------------------------------------
+Nah kenapa?
+Um, apa masakan Alisa?
+---------------------------------------------------------
+Cobalah memakannya.
+---------------------------------------------------------
+Aku tidak mau mencobanya.
+---------------------------------------------------------
+Pejabat Freya
+---------------------------------------------------------
+Hari ini, Freya tidak bisa masuk kapal karena pemadaman listrik
+
+---------------------------------------------------------
+Licca
+---------------------------------------------------------
+Baru-baru ini Ellina diminta untuk mengordinasikan God Arc dengan baik
+Aku agak senang ... ... sebelumnya, karena itu jenisnya tidak berat seperti penyesuaian halus
+---------------------------------------------------------
+Mutsumi
+---------------------------------------------------------
+Bahan makanan, bumbu buatan sendiri, juga perlengkapan pengisian!
+Yang harus kita lakukan adalah menunggu resep yang akan dibuat oleh semua orang
+---------------------------------------------------------
+Semuanya, aku bertanya-tanya tentang yang mereka pikirkan
+Tuan Nana, ku harap tidak memikirkan hal aneh lainnya ....
+---------------------------------------------------------
+Sakaki
+---------------------------------------------------------
+Pasangan dinding baja aragami, untuk metode operasi yang lebih efisien
+Aku telah berkonsultasi dengan Dr. Soma
+---------------------------------------------------------
+Yah, tapi kebencian Soma mengajarkan ... ...
+Itu akan berubah jika aku mengubahnya
+---------------------------------------------------------
+Soma
+---------------------------------------------------------
+Upps...... Semua berjalan lancar, tapi sesuatu yang buruk datang
+Hei sekarang, maaf ...... Jangan diikat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka terminal
+---------------------------------------------------------
+Lihat berkas lain
+---------------------------------------------------------
+Semua ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti majalah gaya atau katalog
+Aku tidak tahu karena semuanya ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti berkas tulisan
+Aku tidak bisa melihatnya karena terkunci<@>
+---------------------------------------------------------
+　
+---------------------------------------------------------
+
+---------------------------------------------------------
+Berhentilah mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka terminal
+---------------------------------------------------------
+Aku tidak melakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka terminal
+---------------------------------------------------------
+Lihat arsip
+---------------------------------------------------------
+Aku tidak melakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka terminal
+---------------------------------------------------------
+Lihat berkas lain
+---------------------------------------------------------
+Ada banyak taktik terkait berkas<@>
+---------------------------------------------------------
+"Peluru Sinyal" adalah misi, melawan sekutu
+Ucapkan barang-barang yang kau gunakan saat memberikan instruksi<@>
+---------------------------------------------------------
+Kisaran pengaruh "sinyal peluru" adalah dua jenis "sinyal area luas" dan "sinyal jangkauan sempit"<@>
+---------------------------------------------------------
+"Sinyal area luas" adalah semua anggota yang berpartisipasi dalam misi
+"Sinyal area sempit" hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+Ada empat jenis "sinyal peluru" yang bisa digunakan<@>
+---------------------------------------------------------
+"Sinyal area jauh: agregat set" "sinyal area sempit: menunggu penyebaran"
+"Sinyal jangkauan sempit: cari serangan musuh" "sinyal area sempit: set"<@>
+---------------------------------------------------------
+Untuk informasi rinci tentang masing-masing sinyal, lihat "Pusat Data"<@>
+---------------------------------------------------------
+"Unit Kontrol" dilengkapi dengan "keterampilan meledak"<@>
+---------------------------------------------------------
+"Keterampilan meledak" menunjukkan efeknya hanya selama ledakan
+Ini adalah keterampilan khusus<@>
+---------------------------------------------------------
+Juga, "unit kontrol" dan keterampilan yang terpasang di dalamnya
+Berubah sesuai dengan judul<@>
+---------------------------------------------------------
+Saya tidak bisa membukanya karena aku tidak punya izin<@>
+---------------------------------------------------------
+Panduan taktis senior: sinyal peluru
+---------------------------------------------------------
+Panduan taktis lanjutan: Unit kontrol
+---------------------------------------------------------
+TIDAK ADA NAMA
+---------------------------------------------------------
+Berhentilah mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka terminal
+---------------------------------------------------------
+Lihat berkas lain
+---------------------------------------------------------
+Berkas-berkas tersebut diatur
+Sangat mudah untuk dilihat<@>
+---------------------------------------------------------
+Untuk bertukar "kartu avatar" dengan "avatar"
+Itu adalah teman yang dapat berpartisipasi dalam misi kapan saja<@>
+---------------------------------------------------------
+Ada dua cara untuk bertukar "Avatar Card"
+Salah satu caranya adalah secara manual bertukar di "Multipemain"<@>
+---------------------------------------------------------
+Cara lainnya adalah "lewat penukaran kartu"
+Tiga kartu dapat ditukar sekaligus<@>
+---------------------------------------------------------
+"Avatar card" dapat diperbarui dengan mengganti lawan yang sama
+Dengan melakukan "Multipemain" atau "lewat penukaran kartu"<@>
+---------------------------------------------------------
+Sebagai hadiah misi yang dilakukan dengan pemain lain
+"Bahan koleksi Avatar" dapat diperoleh<@>
+---------------------------------------------------------
+catatan Barrett<@>
+---------------------------------------------------------
+"Rebounding bullet" adalah peluru yang memiliki efek mengembalikan kekuatan fisik Anda
+Namun, itu tidak berhasil untuk orang yang menembak sendiri<@>
+---------------------------------------------------------
+Karena Barrett dengan sifat yang sangat istimewa
+God Arc dapat digunakan terbatas<@>
+---------------------------------------------------------
+Hanya satu bagian, dengan sedikit kamelia dan gentian
+Ada foto lama saat bersama Sakuya<@>
+---------------------------------------------------------
+Yang lainnya adalah foto yang relatif baru<@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Barrett
+---------------------------------------------------------
+Foto
+---------------------------------------------------------
+Berhentilah mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+Saya mulai, tapi
+Sulit untuk melihatnya di layar yang rusak<@>
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Setiap berkas terkunci
+Aku tidak bisa melihatnya<@>
+---------------------------------------------------------
+Buka terminal
+---------------------------------------------------------
+Lihat berkas lain
+---------------------------------------------------------
+Joshua
+---------------------------------------------------------
+Apakah Anda akan membeli sesuatu?
+---------------------------------------------------------

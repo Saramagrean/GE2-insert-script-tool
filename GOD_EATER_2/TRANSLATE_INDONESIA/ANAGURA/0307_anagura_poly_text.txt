@@ -1,0 +1,30 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0007
+===============================================================
+[00000164:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Ciel 
+---------------------------------------------------------
+Ini adalah "Blood Bullet" yang aku jelaskan sebelumnya,
+tetapi juga untuk kelompok pemeliharaan Terima kasih atas kerja samamu, aku sudah tahu banyak hal 
+---------------------------------------------------------
+Mulai sekarang, aku pikir laporan itu 
+Bisakah aku punya sedikit waktu? 
+---------------------------------------------------------
+Karena ada juga cerita, maukah kamu pindah tempat 
+---------------------------------------------------------
+Oh, jadi tidak masalah jika itu nyaman untukmu .... 
+Aku menunggu 
+---------------------------------------------------------
+Aku ingin Kamu memberi tahu ku 
+---------------------------------------------------------
+Tunggu sebentar 
+---------------------------------------------------------

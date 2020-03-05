@@ -1,0 +1,68 @@
+NAMA:event_scr_text
+ENCODING:UTF-8
+CRLF:\n
+ID:
+TYPE:
+JUMLAH_STRING:0023
+===============================================================
+[00000228:00000512:00002015:00066133:00000250:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Serius..... orang ini adalah orang yang guguh..... 
+---------------------------------------------------------
+
+---------------------------------------------------------
+Kejar! Aku datang! 
+---------------------------------------------------------
+Wakil kapten.....! 
+---------------------------------------------------------
+Aku juga..... melakukan inj..... 
+---------------------------------------------------------
+Orang penting..... hanya kehilangan 
+---------------------------------------------------------
+.....Tidak setuju! 
+---------------------------------------------------------
+Menyerah disini... ini ide yang buruk   
+---------------------------------------------------------
+Itu benar, Gil 
+---------------------------------------------------------
+sangat..... bagus 
+---------------------------------------------------------
+Kate..... 
+---------------------------------------------------------
+Apa yangvKate katakan, Aku pikir hanya sedikit...
+yang aku mengerti 
+---------------------------------------------------------
+Orang ini mendukungku ... dan aku ingin mendukungnya .....
+---------------------------------------------------------
+Jadi..... 
+---------------------------------------------------------
+Berikan itu! 
+---------------------------------------------------------
+Kate..... karena aku bukanlah orang yang suci atau apalah
+itu,mungkin aku tidak punya perasaan terlihat untuk Gil 
+---------------------------------------------------------
+Jadi, meski bukan aku,  tidak begitu juga .....
+ketika aku menjafu penjahat dan berjalan melewati
+beberapa rintangan 
+---------------------------------------------------------
+Terlepas dari perkataan Gil...
+yah, aku tidak bisa mentoleransi kehilanganmu.....
+sudah berhenti untuk waktu yang lama 
+---------------------------------------------------------
+Tapi, Kate... terimkasih untuk orang yang selalu mentap
+dan berjalan kedepan,Gil 
+---------------------------------------------------------
+Aku tidak akan merokok untuk waktu yang lama.....
+aku akan mulai berjalan 
+---------------------------------------------------------
+Bukankah ini bagus Kate?...
+yah... tolong tunggu dan bersabar (ini ujian :v) 
+---------------------------------------------------------
+Ok 
+---------------------------------------------------------
+Hei, kembali ke rumah 
+---------------------------------------------------------

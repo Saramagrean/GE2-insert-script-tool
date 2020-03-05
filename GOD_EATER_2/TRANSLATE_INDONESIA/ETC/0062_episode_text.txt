@@ -1,0 +1,196 @@
+NAMA:episode_text
+ENCODING:UTF-16LE
+CRLF:\n
+ID:
+TYPE:yobi
+JUMLAH_STRING:0052
+===============================================================
+[00000752:00000056:00001999:00065910:00000256:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+[0001]
+Go on missions together ｱ times
+---------------------------------------------------------
+[0101]
+Congratulations!
+You've cleared all of ｱ's episodes
+---------------------------------------------------------
+[0102]
+ｱ can now activate Link Burst
+up to "Level 3".
+---------------------------------------------------------
+[0103]
+ｱ has learned to use Blood Arts.
+---------------------------------------------------------
+[0104]
+ｱ's Blood Arts have become stronger.
+---------------------------------------------------------
+[0105]
+ｱ has learned to use the Status Effect
+Cure Bullet.
+---------------------------------------------------------
+[0106]
+You have received 12 different bullets
+created by ｱ.
+You can access them from the terminal's "Bullet Manage" menu.
+---------------------------------------------------------
+[0107]
+You are now able to perform Bullet Edit
+on Blood Bullets.
+---------------------------------------------------------
+[0108]
+ｱ's God Arc has been upgraded and gained a new skill.
+---------------------------------------------------------
+[0109]
+ｱ is now able to use Stun Grenades
+during missions.
+---------------------------------------------------------
+[0110]
+ｱ is now able to guard during missions.
+---------------------------------------------------------
+[0111]
+ｱ is now able to use "OG: Restore Post" during missions.
+---------------------------------------------------------
+[0112]
+ｱ can now activate a "Link Burst"
+during missions.
+---------------------------------------------------------
+[0113]
+You have received "Low Density Inducive Wave Receptor" from Gil.
+You can now also create "Low Density Inducive Wave Receptor" from
+"Craft Materials".
+---------------------------------------------------------
+[0114]
+You have received "High Density Inducive Wave Receptor" from Gil.
+You can now also create "High Density Inducive Wave Receptor" from
+"Craft Materials".
+---------------------------------------------------------
+[0115]
+ｱ is now able to use "Oracle Reserve".
+---------------------------------------------------------
+[0116]
+ｱ has learned to use the Blood Bullet, "Wide-Area Recovery Bullet".
+---------------------------------------------------------
+[0117]
+ｱ has learned to use the Status Effect,
+Cure Bullet.
+---------------------------------------------------------
+[0118]
+ｱ has learned to use the Blood Bullet,
+"Release Blast Bullet".
+---------------------------------------------------------
+[0119]
+ｱ is now able to use a new powerful bullet.
+---------------------------------------------------------
+[0120]
+ｱ is now able to use "Traps" during missions.
+---------------------------------------------------------
+[0121]
+You have received a "Long Life Charm" from ｱ.
+---------------------------------------------------------
+[0122]
+You have received the Link Support Device
+"Ice Element Attack↑20% 5～10" from ｱ.
+---------------------------------------------------------
+[0123]
+You can now create Link Support Devices
+via the Terminal's "Craft" menu.
+---------------------------------------------------------
+[0124]
+ｱ has learned to use the Blood Bullet, "Recovery Support Bullet".
+---------------------------------------------------------
+[0125]
+ｱ has learned to use the Blood Bullet, "Inflict Bind Bullet".
+---------------------------------------------------------
+[0126]
+ｱ has learned to use the Blood Bullet, "Pierce Snipe Bullet".
+---------------------------------------------------------
+[0127]
+ｱ has learned to use the Blood Bullet, "Pierce Blast Bullet".
+---------------------------------------------------------
+[0128]
+"ｱ has learned to use the Blood Bullet, "Pronged Tracking Bullet".
+---------------------------------------------------------
+[0129]
+ｱ's God Arc has been upgraded and gained the new skill,
+"Strengthen Burst Passing Bullet".
+---------------------------------------------------------
+[0130]
+ｱ's God Arc has been upgraded and gained the new skill,
+"Dearest" and "Blade Attack↑ [B]".
+---------------------------------------------------------
+[0131]
+ｱ's God Arc has been upgraded and gained the new skill,
+"Athelete" and "Stamina↑M".
+---------------------------------------------------------
+[0132]
+ｱ's God Arc has been upgraded and gained the new skill,
+"Health↑M".
+---------------------------------------------------------
+[0133]
+ｱ's God Arc has been upgraded and gained the new skill,
+"Burst Duration↑" and "Gun Attack↑ [B]".
+---------------------------------------------------------
+[0134]
+You have received the Link Support Device,
+"Prototype Device" from Licca.
+---------------------------------------------------------
+[0135]
+You can now use "Equip Upgrade" with your currently
+used "RANK 1" "Kurogane Close-range Weapon".
+---------------------------------------------------------
+[0136]
+If you don't have a "RANK 1" "Kurogane Weapon",
+you can purchase from the "General Store" or from
+the Friar's "Vending Machine".
+---------------------------------------------------------
+[0137]
+In order to use the "Shirogane God Arc", you will 
+need to use the "High Grade Composite Core" and
+upgrade your God Arc to "RANK 5" via "Equip Upgrade".
+---------------------------------------------------------
+[0138]
+38
+---------------------------------------------------------
+[0201]
+Alisa
+---------------------------------------------------------
+[0202]
+Ciel
+---------------------------------------------------------
+[0203]
+Kigurumi
+---------------------------------------------------------
+[0204]
+Emil
+---------------------------------------------------------
+[0205]
+Erina
+---------------------------------------------------------
+[0206]
+Gil
+---------------------------------------------------------
+[0207]
+Kanon
+---------------------------------------------------------
+[0208]
+Kota
+---------------------------------------------------------
+[0209]
+Nana
+---------------------------------------------------------
+[0210]
+Licca
+---------------------------------------------------------
+[0211]
+Lindow
+---------------------------------------------------------
+[0212]
+Soma
+---------------------------------------------------------
+[0213]
+Haruomi
+---------------------------------------------------------

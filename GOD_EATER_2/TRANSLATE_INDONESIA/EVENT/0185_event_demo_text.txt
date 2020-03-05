@@ -1,0 +1,93 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0030
+===============================================================
+[00000256:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Emil
+---------------------------------------------------------
+Oh, ternyata kamu selamat datang!<@>
+---------------------------------------------------------
+Erina
+---------------------------------------------------------
+kau adalah wakil kapten dari blood bukan?
+Perkenalkan namaku Erina der Vogelweid<@>
+---------------------------------------------------------
+kami adalah god eater unit pertama dari Far East
+Branch...<@>
+---------------------------------------------------------
+apa yang kau pikirkan tentang far east? Friar memang elegan
+,tapi tempat ini juga mempunyai keunikannya sendiri, aku
+benar<@>
+---------------------------------------------------------
+bau dari minyak dan tanah memang menyengat sih disini
+meskipun begitu,mereka bersungguh sungguh ingin menyampaikan
+semangat bekerja mereka untuk para pemimpinnya<@>
+---------------------------------------------------------
+selanjutnya, secangkir teh hitam sudah ada dihadapan kalian
+dan kalian bisa merasakan wanginya secara bersamaan
+sekarang<@>
+---------------------------------------------------------
+...Ah, aku melindungi kereka, dan sebagai gantinya mereka
+juga melindungiku<@>
+---------------------------------------------------------
+Emil, lau sangat berisik bangsad >:( !<@>
+---------------------------------------------------------
+Ugh, apa masalahmya emang, Erina kita harus bisa memperdalam
+hubungan pertemanan kita demgan semua orang yang ada di far
+east ini kau tau...<@>
+---------------------------------------------------------
+memangnya kau tidak lihat ha kalau aku sekerang sedang
+berbicara!<@>
+---------------------------------------------------------
+benar! orang yang disebelah ku ini namanya Erina<@>
+---------------------------------------------------------
+dia adalah adik perempuan temanku, namanya adalah Eric der
+Vogelweid...<@>
+---------------------------------------------------------
+kau juga bisa menganggapnya seperti adikku,
+Emil von Strasbourg<@>
+---------------------------------------------------------
+siapa juga yang sudih jadi adikmu ha!<@>
+---------------------------------------------------------
+Kota
+---------------------------------------------------------
+Oh, kalian disini ternyata Emil, Erina, kita mendapatkan
+misi sekarang...<@>
+---------------------------------------------------------
+dih, mereka bertengkar lagi...<@>
+---------------------------------------------------------
+aku sungguh minta maaf<@>
+---------------------------------------------------------
+mereka adalah Erina dan Emil, member unit pertama yang udah
+pernah kau temui sebelumnya mungkin itu si emil<@>
+---------------------------------------------------------
+hubungan mereka tidak seburuk itu sih sebenarnyaa. Tapi ya
+seperti yang kau liat, begitulah kebiasaan mereka berdua...<@>
+---------------------------------------------------------
+Uh, jika kau ada saran untuk mereka berdua ,langsung saja
+katakan pada mereka<@>
+---------------------------------------------------------
+Hey, bisakah kau tidak menggaguku ketika aku bersama dia<@>
+---------------------------------------------------------
+baiklah, aku tau, ayo kita bersama mulai sekarang<@>
+---------------------------------------------------------
+aku akan melakukan yang terbaik
+---------------------------------------------------------
+ayo bersama
+---------------------------------------------------------
+tentu saja!<@>
+---------------------------------------------------------
+baiklah rivalku, ayo kita selesaikan di Far East ini masalah
+kita, bersama atau tidak,aku akan mengincar yang tertinggi!
+<@>
+---------------------------------------------------------
+...senang bertemu dengan mu<@>
+---------------------------------------------------------

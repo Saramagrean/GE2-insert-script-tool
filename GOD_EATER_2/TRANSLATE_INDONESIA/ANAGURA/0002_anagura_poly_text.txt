@@ -1,0 +1,335 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0124
+===============================================================
+[00000632:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+Dengan otoritas saat ini, aku tidak memiliki izin masuk ke ruangan ini
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas saat ini, aku tidak memiliki izin masuk ke ruangan ini
+---------------------------------------------------------
+Fran
+---------------------------------------------------------
+Apakah kau cukup beristirahat?
+"Misi pelatihan dasar" telah diberikan untuk mu
+---------------------------------------------------------
+Tes penyesuaian "God Eater" dan "Blood" berhasil dilakukan,
+Terimakasih atas dedikasinya, perkenalkan namaku "Fran" seorang Operator
+---------------------------------------------------------
+Pertama-tama karna kau telah lolos uji tes penyesuaian,
+kau akan diberikan izin kewenangan menggunakan Data Base
+---------------------------------------------------------
+Dan sepertinya , Mulai sekarang kau adalah calon anggota
+"Blood" , aku akan selalu mendukung mu , mohon bantuannya terima kasih
+---------------------------------------------------------
+Kerja bagus,
+apakah ada yang bisa ku bantu？
+---------------------------------------------------------
+God Eater, juga dikenal sebagai "God machine use" 
+Ini adalah satu-satunya alat yang mampu mengalahkan 'Aragami',
+musuh yang mengancam umat manusia
+---------------------------------------------------------
+Kau juga akan berperan aktif sebagai anggota
+.... aku mengharapkan nya
+---------------------------------------------------------
+Bahkan di antara God Eater, beberapa memiliki kecocokan
+dengan faktor khusus yang tidak biasa ...
+itu adalah unit elit dari penggunaan mesin tuhan
+---------------------------------------------------------
+Untuk lebih jelasnya, kau dapat menelusuri dari "Terminal"
+pada keterangan "basis data", silakan periksa
+---------------------------------------------------------
+Dalam "Data Base", berbagai hal di dunia ini dijelaskan
+Jika kau menemukan sesuatu yang tidak dikenal, pastinya
+merupakan ide yang bagus untuk menggunakan "Data base"
+---------------------------------------------------------
+"Data Base" ada di sisi kanan mu 
+Silakan akses dari "Terminal
+---------------------------------------------------------
+Kau tidak dapat mengeluarkan misi sampai faktor
+permasalahan dapat kau selesaikan
+Sampai ketemu lagi di "Friar" ....
+---------------------------------------------------------
+Itu benar ... di sekitar "taman", mengapa kau tidak
+melakukannya perlahan? Jika kau tersesat lagi,
+jangan ragu untuk bertanya pada ku
+---------------------------------------------------------
+Apa itu God Eater ?
+---------------------------------------------------------
+Apa itu Blood ?
+---------------------------------------------------------
+Apa itu Data Base ?
+---------------------------------------------------------
+Baiklah aku mengerti
+---------------------------------------------------------
+Apakah kau cukup beristirahat?
+"Misi pelatihan dasar" telah diberikan untuk mu
+---------------------------------------------------------
+Tentu saja,
+Harap jangan ragu untuk memberi tahu kami kapan kau
+membutuhkannya
+---------------------------------------------------------
+Untuk menerima pesanan
+---------------------------------------------------------
+Apa itu misi ?
+---------------------------------------------------------
+Tolong beri tahu aku alur tentang misi
+---------------------------------------------------------
+Aku akan segera menemuimu
+---------------------------------------------------------
+Serang Aragami dengan mesin Jinki dan selamat ...
+Ini adalah misi utama " Mesin Jinki"
+---------------------------------------------------------
+Mari kita mulai dengan teknik pertempuran dasar,
+Sangat penting untuk mengulangi pelatihan sampai
+kau yakin
+---------------------------------------------------------
+Pertama, tolong Lihat pesan misi
+ku, operator berhubungan dengan pesanan misi
+---------------------------------------------------------
+Selanjutnya ...Keluar dari gerbang dan jalankan misinya. Setelah menyelesaikan misi dengan sukses,
+berbagai remunerasi akan ditawarkan setelah kau kembali
+---------------------------------------------------------
+Menggunakan hadiah itu, Untuk memperkuat peralatan di terminal ,
+melengkapi senjata dan Mempersiapkan pertempuran berikutnya. Ini merupakan sesuatu yang dasar
+---------------------------------------------------------
+Ada "gerbang sortie" di ujung terminal tepat di belakang
+terminal Silakan menyelinap kesana ,
+dan tunjukkan kebolehan mu
+---------------------------------------------------------
+Apakah persiapan diperlukan?
+Mengubah peralatan dll dapat dilakukan di terminal
+---------------------------------------------------------
+Misi pelatihan dasar dikeluarkan untuk mu,
+Pelajari keterampilan bertarung dasar di pusat pelatihan
+---------------------------------------------------------
+Petugas Friar
+---------------------------------------------------------
+Hei, bagaimana kabarmu?
+---------------------------------------------------------
+Jika kau ingin menerima pesanan misi, itu tepat di depanmu
+ketika kau menaiki tangga Ada operator di konter,
+jadi bicaralah padanya.
+---------------------------------------------------------
+Oh, lakukan yang terbaik di pelatihan!
+---------------------------------------------------------
+Aku ingin dapat tugas segera
+---------------------------------------------------------
+Baiklah, sampai jumpa
+---------------------------------------------------------
+Oh, kau pasti pendatang baru "Blood"
+kau bisa pergi ke "taman" atau "lantai tinggi
+ dengan lift di depan mu
+---------------------------------------------------------
+Di taman mewah yang dikelilingi oleh tanaman hijau dan air
+Semua orang menggunakan-nya untuk beristirahat
+---------------------------------------------------------
+Lantai tempat fasilitas penting berkumpul
+Ada ruang kantor direktur, dan kemudian sebuah laboratorium,
+itu merupakan zona pusat
+---------------------------------------------------------
+Oh, lakukan yang terbaik di pelatihan
+---------------------------------------------------------
+Apa itu Taman?
+---------------------------------------------------------
+Lantai tinggi?
+---------------------------------------------------------
+Aku akan segera menemuimu
+---------------------------------------------------------
+Petugas Friar
+---------------------------------------------------------
+Jika kau menerima pesanan misi,
+silakan keluar dari gerbang rahasia!
+ke Lift segera ada di gerbang sortie
+---------------------------------------------------------
+"Pengguna mesin dewa"  baru ... Oh!
+kau pasti kandidat untuk anggota "Blood", bukan?
+---------------------------------------------------------
+Pertama-tama, silakan bicara dengan operator di konter
+Berbagai panduan dan pesanan misi tersedia untuk mu!
+---------------------------------------------------------
+Kerja bagus !
+---------------------------------------------------------
+Mereka yang baru datang sering tersesat ...
+Untuk pergi ke kompartemen lain,
+silakan naik lift di bawah!
+---------------------------------------------------------
+Petugas Friar
+---------------------------------------------------------
+Untuk sementara, di sini "Friar" adalah rumah mu
+Tolong pikir kembali bahwa pejabat kami adalah anggota
+keluarga yang bergantung pada mereka
+---------------------------------------------------------
+Oh! kau pasti kandidat baru!
+Selamat datang di "Friar",
+benteng bergerak yang dibanggakan oleh "Fenrir"
+---------------------------------------------------------
+Agar kau menjadi anggota Blood ,
+dengan tulus, aku akan selalu mendukung mu!
+---------------------------------------------------------
+Pernahkah kau melihat bagian dalam Friar kembali?
+Ini akan menjadi fasilitas yang hebat!
+karna semuanya bergerak
+---------------------------------------------------------
+Namun, lebih baik untuk memilih tempat yang datar,
+tetapi jika itu adalah tempat yang bergelombang ,
+tentu nya memabukkan, bukan ...
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat ？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Semua ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti mode majalah atau katalog aku tidak
+mengerti karena semuanya ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti file teks
+Aku tidak bisa melihatnya karena terkunci<@>
+---------------------------------------------------------
+Модный　журнал
+---------------------------------------------------------
+Дневник
+---------------------------------------------------------
+Berhenti mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Aku tidak melakukan apa pun
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Tonton Arsip nya
+---------------------------------------------------------
+Aku tidak melakukan apapun
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Ada banyak taktik terkait di file<@>
+---------------------------------------------------------
+"Signal Bullet" mengacu pada item yang digunakan untuk memberikan instruksi kepada kawan dalam misi<@>
+---------------------------------------------------------
+Kisaran pengaruh "Bullet signal" ada dua jenis "Wide area signals" dan "Narrow Range signal"<@>
+---------------------------------------------------------
+"Wide area signal" untuk semua anggota yang berpartisipasi dalam misi
+"Narrow area signal" hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+Ada 4 jenis "Bullet signal" yang bisa digunakan<@>
+---------------------------------------------------------
+"Wide-area Signal: all hands set", "Narrow-Band Signal: Menunggu penyebaran,"
+"narrow-band signal: Mencari serangan musuh," "narrow-band signal: Set"<@>
+---------------------------------------------------------
+Untuk informasi rinci tentang masing-masing sinyal,
+lihat di "Data base"<@>
+---------------------------------------------------------
+"Control Unit" diaktifkan dengan "Burst Skill"<@>
+---------------------------------------------------------
+"Keterampilan meledak" menunjukkan efeknya hanya selama
+ledakan Ini adalah keterampilan khusus<@>
+---------------------------------------------------------
+Juga tergantung pada "control unit" dan skill yang terpasang didalamnya maka Title akan berubah<@>
+---------------------------------------------------------
+Aku tidak bisa membukanya karena tidak memiliki izin<@>
+---------------------------------------------------------
+Guide tactical senior: signal bullet
+---------------------------------------------------------
+Guide tactical advanced: control unit
+---------------------------------------------------------
+ＮＯ　ＮＡＭＥ
+---------------------------------------------------------
+Berhenti mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat ?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+File-file tersebut diatur hingga
+Sangat mudah untuk dilihat
+<@>
+---------------------------------------------------------
+Dengan " avatar Card" bertukar dengan "avatar" teman yang
+lain agar dapat berpartisipasi dalam misi kapan saja<@>
+---------------------------------------------------------
+Ada dua cara untuk bertukar "Avatar Card"
+Salah satunya adalah  bertukar lewat "Multiplayer"<@>
+---------------------------------------------------------
+Pertukaran Avatar Card Lainnya adalah
+"Exchange card through"
+Hingga tiga kartu dapat ditukar sekaligus <@>
+---------------------------------------------------------
+"Avatar card" dapat diperbarui dengan cara melakukan
+misi yang sama Dengan melakukan "Multipemain"
+atau "Penukaran kartu penukaran"<@>
+---------------------------------------------------------
+Sebagai imbalan karena menyelesaikan tugas<dengan anggota lain
+"Material avatar" bisa diambil<@>
+---------------------------------------------------------
+Memo<@>
+---------------------------------------------------------
+"Rebounding bullet" adalah peluru yang memiliki efek
+mengembalikan kekuatan fisik mu Namun, itu tidak berhasil
+untuk orang yang menembak sendiri<@>
+---------------------------------------------------------
+Untuk Bullet dengan sifat yang sangat istimewa
+penggunaan God arc terbatas<@>
+---------------------------------------------------------
+Terdapat Foto Tsubaki dan
+Ada juga gambar Sakuya bersama Lindow<@>
+---------------------------------------------------------
+Yang lainnya adalah foto yang relatif baru<@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Barret
+---------------------------------------------------------
+Foto
+---------------------------------------------------------
+Berhenti mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+aku melihat sesuatu, Namun
+Layar nya rusak dan sulit untuk diketahui<@>
+---------------------------------------------------------
+Apa yang kau lihat ?<@>
+---------------------------------------------------------
+Setiap file terkunci
+Aku tidak bisa melihatnya<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------

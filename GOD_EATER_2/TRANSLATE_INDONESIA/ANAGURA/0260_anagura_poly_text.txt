@@ -1,0 +1,283 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0120
+===============================================================
+[00000616:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+"Tidak ada entri untuk masuk karena sudah keluar"
+Itulah yang tertulis ......
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas saat ini, aku tidak bisa masuk ruangan ini
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas saat ini, aku tidak bisa masuk ruangan ini
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas saat ini, aku tidak bisa masuk ruangan ini
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas saat ini, aku tidak bisa masuk ruangan ini
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas saat ini, aku tidak bisa masuk ruangan ini
+---------------------------------------------------------
+Alisa
+---------------------------------------------------------
+Tampaknya pesan dari tim investigasi berhenti tepat setelah melaporkan penemuan sopir taksi......
+Di sekitarnya, pulsa medan eksentrik abnormal juga telah dikonfirmasi
+---------------------------------------------------------
+Selama bertarung dengan Kyuubi...... entah kenapa dia terlihat marah pada sesuatu
+---------------------------------------------------------
+Jangan lengah, ayo semuanya lawan
+---------------------------------------------------------
+Kalbi
+---------------------------------------------------------
+Kyuru?
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+Kyuubi telah menembus garis pertahanan satu demi satu
+Tampaknya dia berhasil mendorong maju ke arah Far East sejauh ini ...
+---------------------------------------------------------
+Jika kamu membiarkannya berjalan seperti apa adanya, akan ada bahaya di daerah perumahan luar
+Kapten, ayo kita periksa ....!
+---------------------------------------------------------
+Emil
+---------------------------------------------------------
+Sama seperti waktu itu, kamu datang seperti penjaga kesatria!
+Tidak heran, dewi keadilan tersenyum padamu setiap saat!
+---------------------------------------------------------
+Melawan ancaman, dan melindungi temanku yang tercinta ......
+dan akan dilindungi oleh Ksatria dan keadilan......
+---------------------------------------------------------
+...... Sekarang, waktunya!
+Jangan takut, kamu sebaiknya bertarung dengan segenap kekuatanmu!
+---------------------------------------------------------
+Erina
+---------------------------------------------------------
+Seperti Emil yang terus membacot tentang kstaria, goblok sekali dia......
+sebaiknya berdoa sajalah agar dia waras
+---------------------------------------------------------
+Semuanya, tidak apa apa? sekarang kita kembali ke Far East
+---------------------------------------------------------
+Gill
+---------------------------------------------------------
+Tim survei yang menemukan Kyuubi tampaknya telah melapor laporan yang aneh.......
+Apa pun itu, aku merasa seperti kelelahan, aku merasa seperti kehilangan hidup ku......
+---------------------------------------------------------
+Lagipula, data untuk Aragami ini masih kurang...... Kapten, seperti biasanya, ayo kita lakukan
+---------------------------------------------------------
+Hibari
+---------------------------------------------------------
+Laporan baru tentang Kyuubi telah tiba!
+Tujuannya saat ini sedang menuju Far East Branch ......
+---------------------------------------------------------
+Tim survei mengundurkan diri dari pertempuran, setelah pesan berhenti tepat setelah melaporkan
+Saat ini mereka sedang terluka, dan sedang dalam perawatan medis
+---------------------------------------------------------
+Aku belum mendengar banyak dari mereka ......
+Tampaknya mereka memiliki kemampuan khusus yang tidak ditemukan pada orang biasa
+---------------------------------------------------------
+Tolong berhati-hati
+---------------------------------------------------------
+Semoga beruntung, tentang beladiri nya
+---------------------------------------------------------
+Kyuubi baru siap ditaklukan, 
+Apa kamu siap......
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Aragami apapun, jika kita yang melawannya...... pasti baik baik saja
+---------------------------------------------------------
+Uh ...... Pertama-tama, jangan panik, kamu harus serius dengan roti oden!
+baiklah, ayo
+---------------------------------------------------------
+Petugas Friar
+---------------------------------------------------------
+Dalam persiapan untuk pertempuran dengan Kyuubi, semua staf Friar sementara
+telah dievakuasi
+---------------------------------------------------------
+Kita tidak bisa masuk ke Friar, tolong mengertilah
+---------------------------------------------------------
+Lindow
+---------------------------------------------------------
+Akhirnya sampai juga...... aku benar-benar capek menunggu
+Tetapi, mutan ini, aku juga melihat orang yang bermasalah
+---------------------------------------------------------
+Nah, tampaknya kamu juga mengharapkan sel oracle retro yang berharga juga
+Baiklah! cepat, ayo kita pergi!
+---------------------------------------------------------
+Mutsumi
+---------------------------------------------------------
+Tenang, Blood didampingi tim dari Cradle...... Jadi bertarunglah seperti biasanya, dan pastikan kembali
+---------------------------------------------------------
+Sakaki
+---------------------------------------------------------
+Aragami dulu ternodai oleh dunia luar......
+Tidak mungkin, kamu menemukan variant secepat itu......
+---------------------------------------------------------
+Sel oracle Retro lebih dari yang kita duga......
+Mungkin mudah untuk menerima pengaruh dunia luar
+---------------------------------------------------------
+Soma
+---------------------------------------------------------
+Aragami jenis Kyuubi mendekati Far East
+---------------------------------------------------------
+Pada saat itu, pulsa medan eksentrik terdeteksi ...
+Sepertinya ada beberapa relevansi ...
+---------------------------------------------------------
+
+---------------------------------------------------------
+What do you see?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Look another file
+---------------------------------------------------------
+Semua ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini seperti majalah mode atau katalog
+aku tidak tahu juga, karena semuanya ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini seperti file teks
+Aku tidak bisa memeriksanya karena terkunci<@>
+---------------------------------------------------------
+Модный　журнал
+---------------------------------------------------------
+Дневник
+---------------------------------------------------------
+Berhenti mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+What do you see?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Do nothing
+---------------------------------------------------------
+
+---------------------------------------------------------
+What do you see?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Look a Archive
+---------------------------------------------------------
+Do nothing
+---------------------------------------------------------
+
+---------------------------------------------------------
+What do you see?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Look another file
+---------------------------------------------------------
+Ada banyak taktik terkait dengan file<@>
+---------------------------------------------------------
+"Signal Bullet" mengacu pada item yang digunakan untuk memberikan instruksi kepada kawan dalam misi<@>
+---------------------------------------------------------
+Kisaran pengaruh "Bullet signal" ada dua jenis "Wide area signals" dan "Narrow Range signal"<@>
+---------------------------------------------------------
+"Wide area signal" untuk semua anggota yang berpartisipasi dalam misi
+"Narrow area signal" hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+Ada 4 jenis "signal bullet" yang bisa digunakan<@>
+---------------------------------------------------------
+"Wide-area Signal: all hands set", "Narrow-Band Signal: Menunggu penyebaran,"
+"narrow-band signal: Mencari serangan musuh," "narrow-band signal: Set"<@>
+---------------------------------------------------------
+Lebih detail, tentang signal bullet lihat " database"<@>
+---------------------------------------------------------
+"Control Unit" diaktifkan dengan "Burst Skill"<@>
+---------------------------------------------------------
+" Burst skill" adalah skill special yang hanya aktif ketika dalam burst mode<@>
+---------------------------------------------------------
+Juga tergantung pada "control unit" dan skill yang terpasang didalamnya maka Title akan berubah<@>
+---------------------------------------------------------
+Aku tidak bisa membukanya karena aku tidak punya izin<@>
+---------------------------------------------------------
+Advanced tactics teaching: signal bullets
+---------------------------------------------------------
+Advanced tactics teaching: control unit
+---------------------------------------------------------
+ＮＯ　ＮＡＭＥ
+---------------------------------------------------------
+Stop searching
+---------------------------------------------------------
+
+---------------------------------------------------------
+What do you see?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Look another file
+---------------------------------------------------------
+File sudah diatur sehingga mudah dicari<@>
+---------------------------------------------------------
+"Avatar" adalah teman yang dapat berpartisipasi dalam misi setiap saat melalui pertukaran "Avatar Card"<@>
+---------------------------------------------------------
+Ada dua cara untuk mengganti "Avatar Card" Salah satunya adalah dengan mengubahnya secara
+manual di "Multiplayer"<@>
+---------------------------------------------------------
+Dan jumlah maksimum kartu yang dapat ditukar sekaligus dengan
+"passing card exchange" hingga 3 kartu<@>
+---------------------------------------------------------
+"Avatar card" dapat diperbarui dengan bertukar dengan lawan yang sama dan
+"Multiplayer" atau "passing card exchange"<@>
+---------------------------------------------------------
+Sebagai imbalan karena menyelesaikan tugas<dengan anggota lain
+"Material avatar" bisa diambil<@>
+---------------------------------------------------------
+Blood memo<@>
+---------------------------------------------------------
+"Rebounding bullet" adalah bullet dengan efek untuk memulihkan kekuatan teman.
+Namun, tidak memiliki efek bagi orang yang menembak<@>
+---------------------------------------------------------
+Untuk Bullet dengan sifat yang sangat istimewa
+penggunaan God arc terbatas<@>
+---------------------------------------------------------
+Hanya ada satu bagian, ada gambar-gambar camelia kecil, gentian dan Sakuya bersama<@>
+---------------------------------------------------------
+Dan yang lainnya adalah foto baru<@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Bullet
+---------------------------------------------------------
+Photo
+---------------------------------------------------------
+Stop searching
+---------------------------------------------------------
+
+---------------------------------------------------------
+Sudah mulai tapi susah untuk dilihat karena layarnya rusak<@>
+---------------------------------------------------------
+What do you see?<@>
+---------------------------------------------------------
+File terkunci dan tidak bisa dilihat<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Look another file
+---------------------------------------------------------
+Yorozuya
+---------------------------------------------------------
+Apa anda ingin membeli sesuatu?
+---------------------------------------------------------

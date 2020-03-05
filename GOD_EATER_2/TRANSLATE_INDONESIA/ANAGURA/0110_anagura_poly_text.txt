@@ -1,0 +1,310 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0127
+===============================================================
+[00000644:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+Aku tidak dapat masuk ke ruangan ini Dengan otoritasku saat ini
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritasku  saat ini, aku tidak dapat masuk ke ruangan ini
+ 
+---------------------------------------------------------
+Arisa
+---------------------------------------------------------
+Karena pengaruh "hujan merah" dan "spesies sensitif", pembangunan pangkalan satelit
+ tidak berjalan dengan baik
+---------------------------------------------------------
+Sebaliknya, jika dua masalah itu bisa diselesaikan maka kita bisa melanjutkan rencana
+ini dengan baik ... ....
+---------------------------------------------------------
+Untuk itu, aku senang bahwa kami dapat bekerja sama satu sama lain
+---------------------------------------------------------
+Asuna
+---------------------------------------------------------
+Hari ini, aku memberitahumu untuk menghajar orang jahat
+yang membuatku takut, tetapi semua orang membantu say
+---------------------------------------------------------
+Dalam mimpiku aku juga berjuang bersama!, tapi....
+---------------------------------------------------------
+Calvi
+---------------------------------------------------------
+Kurururu ~
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+Karena kondisi tim  penembak jitu semakin memburuk, saya meminta tune-up pada tim pemeliharaan, tapi ....
+---------------------------------------------------------
+Saya menjadi lebih baik dari sebelumnya berkat
+Tim perawatan dari"Far East branch", mereka benar-benar  orang baik
+
+---------------------------------------------------------
+Emile
+---------------------------------------------------------
+Ada sesuatu yang tidak cocok!
+Elina harus bersikap seperti Elinna!, ....
+---------------------------------------------------------
+Sebaliknya,  aku tidak bisa menceritakanya jika itu ternyata  itu membuatnya marah ......
+---------------------------------------------------------
+Elina
+---------------------------------------------------------
+Jarak yang lebih dekat lebih baik daripada jarak jauh
+Bagaimana kau tahu hal-hal seperti itu Emil
+---------------------------------------------------------
+Tentu saja, karena saya berlatih berlatih Spear sepanjang waktu
+Saya mengakui bahwa senjata sedang diculik ... ...
+---------------------------------------------------------
+Kelemahan ada untuk diatasi
+Jika aku menyerah dari awal, aku tidak akan menjadi kuat selama sisa hidupku
+---------------------------------------------------------
+Gill
+---------------------------------------------------------
+Romeo ......
+Aku ingin tahu tentang perasaan diam
+---------------------------------------------------------
+Aku berharap ada yang salah ... ...
+---------------------------------------------------------
+Hibari
+---------------------------------------------------------
+Blood memiliki tugas baru
+---------------------------------------------------------
+Canon
+---------------------------------------------------------
+Arisa... dibandingkan sebelumnya
+aku merasakan kau sedikit dewasa
+---------------------------------------------------------
+aju tidak akan kalah, aku akan menjadi dewasa!
+---------------------------------------------------------
+Kouta
+---------------------------------------------------------
+Hei, apakah kau berjalan bersama Alisa  ke sebuah pangkalan satelit?
+aku mendengar sesuatu tentang berbagai kesulitan ....
+---------------------------------------------------------
+Alisa
+---------------------------------------------------------
+Semuanya datang dengan rintangan
+,
+aku tidak akan melanjutkan sesuatu sebelum aku peduli akan hal itu
+---------------------------------------------------------
+Haha, kelihatannya seperti dulu
+aku merasa lega
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Yah ...... senior Romeo, bukankah kau menyesal?
+ tentang Misi waktu yang lalu... ...
+---------------------------------------------------------
+Mungkin karena kau memikirkan sesuatu ......
+---------------------------------------------------------
+perawat
+---------------------------------------------------------
+Di kamar rumah sakit ini, orang dengan limfoma hitam akan sembuh
+---------------------------------------------------------
+Karena kamu mungkin terinfeksi  black plague jika kamu  melakukan kontak dengan orang yang
+terkena dampak, Harap perhatikan dengan sungguh-sungguh
+---------------------------------------------------------
+Licca
+---------------------------------------------------------
+Dr Sakaki! Jangan gunakan bahan penelitian tanpa izin
+!!
+---------------------------------------------------------
+Dr Sakaki
+---------------------------------------------------------
+Maaf maaf, ada sesuatu yang inginku selidiki sedikit ... ...
+untuk kedepanya aku akan berhati-hati 
+---------------------------------------------------------
+Sudah……
+---------------------------------------------------------
+Romeo
+---------------------------------------------------------
+Ini sesuatu yang luar biasa baru-baru ini!
+Sekarang, aku merasa seperti  bisa melakukannya
+---------------------------------------------------------
+Apakah itu spesies sensitif??   Aragami apa pun yang keluar
+Dengan sword busterku, rasanya seperti satu tembakan？
+---------------------------------------------------------
+Mari berharap untuk iMisi selanjutnya adalah membunuh belalang!
+---------------------------------------------------------
+Mutsumi
+---------------------------------------------------------
+Yah ... apakah itu karena pikiran?
+Saya merasa bahwa jumlah beras capybara meningkat dari hari ke hari ......
+---------------------------------------------------------
+Dr Sakaki
+---------------------------------------------------------
+Rikka baru saja meenyuruhku untuk berhati-hati, aku ingin meminta maaf padanya
+Jika kau berkonsentrasi pada penelitian, kau tidak akan dapat melihat sekitarnya ...
+---------------------------------------------------------
+Mari kita berasumsi bahwa Licca juga akan mengumpulkan material yang ia inginkan.
+---------------------------------------------------------
+Satsuki
+---------------------------------------------------------
+Kenapa harus markas besar ......
+aku kira hanya ada pecundang di tempat seperti itu
+---------------------------------------------------------
+Apa itu "mempertimbangkan kerjasama" jika kau  hanya menghibur saya?
+Hah ... ... aku hanya kedinginan hanya dengan mengingat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Semua file ini ditulis dengan bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti majalah  atau katalog
+aku tidak tahu karena semuanya ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti file teks
+ aku tidak bisa melihatnya karena terkunci<@>
+---------------------------------------------------------
+Модный　журнал
+---------------------------------------------------------
+Дневник
+---------------------------------------------------------
+Berhenti Melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Tidak ada
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Tonton arsip
+---------------------------------------------------------
+Tidak ada
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Ada banyak file terkait taktik disini<@>
+---------------------------------------------------------
+"Signal Bullet" mengacu pada item yang digunakan untuk memberikan instruksi kepada kawan dalam misi<@>
+---------------------------------------------------------
+Kisaran pengaruh "Bullet signal" ada dua jenis "Wide area signals" dan "Narrow Range signal"<@>
+---------------------------------------------------------
+"Wide area signal" untuk semua anggota yang berpartisipasi dalam misi
+"Narrow area signal" hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+Ada 4 jenis "Bullet signal" yang bisa digunakan<@>
+---------------------------------------------------------
+"Wide-area Signal: all hands set", "Narrow-Band Signal: Menunggu penyebaran,"
+"narrow-band signal: Mencari serangan musuh," "narrow-band signal: Set"<@>
+---------------------------------------------------------
+Untuk informasi rinci tentang masing-masing sinyal, lihat "Database"<@>
+---------------------------------------------------------
+"Control Unit" diaktifkan dengan "Burst Skill"<@>
+---------------------------------------------------------
+"Burst skill" menunjukkan efeknya hanya selama ledakan
+Ini adalah skill khusus<@>
+---------------------------------------------------------
+Juga tergantung pada "control unit" dan skill yang terpasang didalamnya maka Title akan berubah<@>
+---------------------------------------------------------
+Aku tidak bisa membukanya karena saya tidak punya izin<@>
+---------------------------------------------------------
+Panduan taktis senior: signal bullet
+---------------------------------------------------------
+Panduan taktis lanjutan: Control unit
+---------------------------------------------------------
+ＮＯ　ＮＡＭＥ
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+File-file tersebut diatur
+Sangat mudah untuk dilihat<@>
+---------------------------------------------------------
+Dengan "Avatar Card" bertukar dengan "avatar"
+ lain dengan teman yang dapat berpartisipasi dalam misi kapan saja<@>
+---------------------------------------------------------
+Ada dua cara untuk bertukar "Avatar Card"
+Salah satu caranya adalah secara manual bertukar di "Multiplayer"<@>
+---------------------------------------------------------
+Lainnya adalah dengan "exchange of passing cards" yang dapat menukar avatar card
+Hingga 3 kartu dapat ditukar sekaligus<@>
+---------------------------------------------------------
+"Avatar card" dapat diperbarui dengan bertukar dengan lawan yang sama
+Dengan melakukan "Multiplayer" atau "Exchange redemption"<@>
+---------------------------------------------------------
+Sebagai imbalan karena menyelesaikan tugas<dengan anggota lain
+"Material avatar" bisa diambil<@>
+---------------------------------------------------------
+Memo Bullet<@>
+---------------------------------------------------------
+"Rebounding bullet" adalah peluru yang memiliki efek mengembalikan kekuatan fisik Anda
+Namun, itu tidak berhasil untuk orang yang menembak sendiri<@>
+---------------------------------------------------------
+Untuk Bullet dengan sifat yang sangat istimewa
+penggunaan God arc terbatas<@>
+---------------------------------------------------------
+Hanya satu tempat, dengan sedikit kamelia dan gentian
+Ada gambar Sakuya bersama<@>
+---------------------------------------------------------
+Yang lainnya adalah foto yang relatif baru<@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Bullet
+---------------------------------------------------------
+Foto
+---------------------------------------------------------
+Berhenti Melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Saya mulai, tapi
+Layar mulai  rusak dan sulit dilihat<@>
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Setiap file terkunci aku tidak dapat melihatnya<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Yoshiya
+---------------------------------------------------------
+Kau ingin membeli sesuatu?
+---------------------------------------------------------
+Yuno
+---------------------------------------------------------
+Oh, aku dengar itu! Kamu membunuh spesies sensitif!
+Di tempat tujuan, kontak juga tiba di sini ... ...
+---------------------------------------------------------
+Meskipun aku sudah mendengar sejak lama ...
+Blood benar-benar wow
+---------------------------------------------------------

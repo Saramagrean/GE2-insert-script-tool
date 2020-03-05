@@ -1,0 +1,57 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0016
+===============================================================
+[00000200:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Licca
+---------------------------------------------------------
+Selamat datang kemnali! Aku tidak terlalu berharap ini akan
+berhasil. <@>
+---------------------------------------------------------
+Apakah ini tidak tergoyahkan?
+---------------------------------------------------------
+Aku tertipu...?
+---------------------------------------------------------
+Mungkin inilah kebenarannya.
+---------------------------------------------------------
+Semenjak kita tidak bisa mengujinya pada orang lain,
+kemungkinan akan gagal, jadi aku siap menyerah
+tapi...
+---------------------------------------------------------
+Sangat mengagumkan, bukan?<@>
+---------------------------------------------------------
+Nah, sejak kau kembali, Aku telah sedikit memriksamu
+---------------------------------------------------------
+Bahkan jika kau berkata kau memiliki kemampuan 「Awakening」
+dengan blood, ...yang menjadi katalis, yang seperti
+asumsi luas<@>
+---------------------------------------------------------
+Jika begitu kali ini, ketika kau menggunakan dan
+menginvestigasi fungsi asli Link support device, Aku akan
+membantumu meningkatkannya<@>
+---------------------------------------------------------
+Untuk sementara, Aku membutuhkan mu mengumpulkan material
+sebagai sebuah permintaan...bisakah aku
+mengandalkanmu?<@>
+---------------------------------------------------------
+Mari kita lakukan!
+---------------------------------------------------------
+Kita harus menyelesaikannya dahulu, Kurasa
+---------------------------------------------------------
+Kau menyelamatkanku<@> terimakasih, Aku melohat
+kemungkinannya<@>
+---------------------------------------------------------
+Umm, Kau terlihat termotivasi!<@>
+---------------------------------------------------------
+Aku akan mencoba dan menjalankan rencana untuk tahap
+selanjutnya, jadi beberapa saat Aku ingin kau datang dan
+bicara padaku lagi Okay!
+---------------------------------------------------------

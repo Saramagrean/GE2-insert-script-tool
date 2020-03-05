@@ -1,0 +1,64 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0020
+===============================================================
+[00000216:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Erina
+---------------------------------------------------------
+Emil peri ke Licca untuk memperbaiki God Arc-nya. Dia 
+menangis meski Aku memberitahunya itu akan diperbaiki. Dia 
+sangat berlebihan! <@>
+---------------------------------------------------------
+Bahkan ketika Aku bertarung sendirian, dia terus-terusan, 
+"God Arc-ku, God Arc-ku"... Siapa sangka ia bisa menjadi 
+begitu menyedihkan, kan<@>
+---------------------------------------------------------
+Aku menahannya
+---------------------------------------------------------
+Daripada melarikan diri, ini alasan kau dipanggil untuk 
+bantuan?
+---------------------------------------------------------
+Dalam situasi seperti itu, itu cuma kiasan Film yang bisa 
+orang tusukkan di tengah musuh dan melarikan diri dengan 
+mulus<@>
+---------------------------------------------------------
+Emil berada di tempat persembunyiannya, Aku akan 
+melindunginya sampai bala bantuan sampai, Itu yang bisa 
+kulakukan...
+---------------------------------------------------------
+Jika Emil dalam Sepatuku, Ia akan melakukan yang sama<@>
+---------------------------------------------------------
+Erina, itu sisi Dewasa mu
+---------------------------------------------------------
+Kau sudah dewasa, Erina!
+---------------------------------------------------------
+Eh...?<@>
+---------------------------------------------------------
+He, hey...<@>
+---------------------------------------------------------
+...Apa yang baru saja kau katakan? Katakan lagi?<@>
+---------------------------------------------------------
+Okay, Gimana kalau kita ambil satu gigitan?
+---------------------------------------------------------
+Bagus, Beristirahatlah
+---------------------------------------------------------
+Agh, kenapa kau! kenapa kau tak bisa mengatakannya 
+padaku?<@>
+---------------------------------------------------------
+...Um<@>
+---------------------------------------------------------
+Lagipula, Ini masih bagus! <@>
+---------------------------------------------------------
+Aku akan terus melakukannya agar suatu hari Aku bisa setara 
+denganmu...<@>
+---------------------------------------------------------
+Aku akan berada dalam asuhanmu sampai saat itu!<@>
+---------------------------------------------------------

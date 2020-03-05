@@ -1,0 +1,97 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0034
+===============================================================
+[00000272:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Kota
+---------------------------------------------------------
+kelinci bangsad ,meskipun misinya susah kelinci bangsad itu 
+tetap tidak mau membuka kostumnya itu ...<@>
+---------------------------------------------------------
+Erina
+---------------------------------------------------------
+apalagi mereka sangat kuat...<@>
+---------------------------------------------------------
+Harus ada beberapa pembukaan ketika mereka tidak 
+bertarung
+---------------------------------------------------------
+kita harus membuatnya tidur supaya bisa membuka kostum 
+itu
+---------------------------------------------------------
+Oh yeah, itu benar! aku suka dengan cara blood befikir 
+hehe<@>
+---------------------------------------------------------
+...yeah, dari semua kegagalan itu kita harus cepat 
+menemukan jawabannya benar
+---------------------------------------------------------
+sebagai contoh, gender nya sekarang itu apa cewek /cowok 
+kah? 
+---------------------------------------------------------
+itu benar Erina! baiklah! I'm going to grab hold of their 
+tails...!<@>
+---------------------------------------------------------
+jadi kita sekarang butuh bukti fisik dan jika kita punya 
+bukti itu mungkin kita bisa tau apa gender dari si kelinci 
+bangsad itu...<@>
+---------------------------------------------------------
+yang kau maksud itu ce-celana daleman...!?<@>
+---------------------------------------------------------
+apa yang kau katakan, kapten itu tidak mungkin kita bisa 
+ngambil dalemannya!<@>
+---------------------------------------------------------
+aku tau, didalam wc!<@>
+---------------------------------------------------------
+itu dia ayo kita ikuti dia ke wc!<@>
+---------------------------------------------------------
+Haha
+---------------------------------------------------------
+Errr...!?<@>
+---------------------------------------------------------
+Ah... tidak, saat ini... <@>
+---------------------------------------------------------
+kami tidak bermaksud, memata matai setiap orang yang ingin 
+ke wc , itu sangat gila...<@>
+---------------------------------------------------------
+...itu ,kamu ingin memberikan laporan kepada 
+seseorang?<@>
+---------------------------------------------------------
+... apa aku selamat ?
+---------------------------------------------------------
+Aaa... ini ! ? <@>
+---------------------------------------------------------
+lihat dimeninggal kan majalahnya... dengan ini kita bisa 
+tau apakah dia cewek atau cowok !<@>
+---------------------------------------------------------
+tahan dulu! bisa saja itu jebakan!<@>
+---------------------------------------------------------
+ya , ini sangat mencurigakan ... 
+---------------------------------------------------------
+aku datang<@>
+---------------------------------------------------------
+ini dia!?<@>
+---------------------------------------------------------
+"apa yang peliharaan mu rasakan"...!<@>
+---------------------------------------------------------
+kenakau kelinci bangsad...!
+---------------------------------------------------------
+dia seorang cowok?
+---------------------------------------------------------
+atau, seorang cewek...?
+---------------------------------------------------------
+tidak baik... sekarang aku mengerti sedikit demi 
+sedikit...! <@>
+---------------------------------------------------------
+aku maksud, apa apaan ini "apa yang dirasakan hewan 
+peliharaan mu" bahkan!<@>
+---------------------------------------------------------
+aku tidak bisa bilang kalau dia itu anjing atau 
+kucing!<@>
+---------------------------------------------------------

@@ -1,0 +1,77 @@
+NAMA:event_scr_text
+ENCODING:UTF-8
+CRLF:\n
+ID:
+TYPE:
+JUMLAH_STRING:0020
+===============================================================
+[00000216:00000512:00002015:00066133:00000250:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Ini adalah pangkalan satelit, orang-orang yang tidak bisa
+tinggal di "Anagura" hidup sendiri dan tinggal
+di lingkungan terpencil 
+---------------------------------------------------------
+Aku datang pertama kalinga sperti ini.....
+akupun tahu berita dari TV, tapi..... 
+---------------------------------------------------------
+Populasi manusia di dunia pasti meningkat sedikit demi
+sedikit, karena berkat Fenrir... Tapu meskipun 
+---------------------------------------------------------
+Ini juga berlaku dari Fenrir bahwa kita yang meninggalkan
+orang yang ada disini dan dan tidak menyebutkan orang
+disini akan dipotong 
+---------------------------------------------------------
+Armor Aragami dari dinding luar ...
+Fenrir Mark menyimpan makanan .....
+Apakah fasilitas ini disediakan dan dipelihara oleh Fenrir? 
+---------------------------------------------------------
+Kamu kapten Blood bukan? aku punya sesuatu yang ingin saya
+tanyakan sedikit tentang Frei 
+---------------------------------------------------------
+Berapa banyak satelit seperti disini yang dapat kamu buat
+dengan biaya pembuatan benteng dan bergerak seperti
+tank mainan itu? 
+---------------------------------------------------------
+Selain itu, hanya ayah Yuno dan orang-orang dari
+Far East Branch yang mengulurkan tangan mereka 
+orang-orang disini 
+---------------------------------------------------------
+Hanya ada sedikit dukungan dari kantor pusat,
+ketika Far East Branch mengalami kesusahan kenapa
+markas pusat itu diam saja? 
+---------------------------------------------------------
+Terima kasih atas pendapatnya...
+aku berjanji akan menangani ini sebisa mungkin 
+---------------------------------------------------------
+Maaf, aku kehilangan delapan,
+tapi itu menurun setelah bertemu denganmu 
+---------------------------------------------------------
+Kamu juga mengharapkan itu juga, bukan? 
+---------------------------------------------------------
+Oh, Satsuki!
+semua orang di Blood! 
+---------------------------------------------------------
+Inj...? 
+---------------------------------------------------------
+Semuanya dipengaruhi oleh cuaca hitam,
+tidak ada infeksi udara tetapi infeksi kontak,
+ia memiliki infektivitas yang kuat  
+---------------------------------------------------------
+Semakin sering kamu pergi ke belakang,
+semakin berat pasien.
+Aku berharal menemukan obat sesegera mungkin 
+---------------------------------------------------------
+Hei, apakah kamu menyesal? 
+---------------------------------------------------------
+Maaf, tunggu sebentar 
+---------------------------------------------------------
+Aku akan bergabung dengamu nanti Satsuki,
+Terimakasih semuanya 
+---------------------------------------------------------
+Aku bertanya-tanya sejauh mana aku membaca...
+Ah, halaman berikutnya malah terbalik (kan kamvret) 
+---------------------------------------------------------

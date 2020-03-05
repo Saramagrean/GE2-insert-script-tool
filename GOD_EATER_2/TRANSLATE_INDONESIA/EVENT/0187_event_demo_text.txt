@@ -1,0 +1,30 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0005
+===============================================================
+[00000156:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Ciel
+---------------------------------------------------------
+Membawa keluar properti via "Kekuatan Tekad" adalah
+Blood... Blood Bullets...<@>
+---------------------------------------------------------
+Jika kita bisa memeriksa struktur Blood Bullet ini secara
+detail Aku percaya kita bisa memperluas prospek taktik
+kedepannya<@>
+---------------------------------------------------------
+Aku merasa...bersemangat! bekerjasama denganmu... dengan
+orang-orang Blood... dan semua orang dari Far East
+branch...<@>
+---------------------------------------------------------
+Aku akan berusaha keras dengan penelitian Blood
+Bullets... Aku ingin membuat diriku berguna...untuk
+semuanya!<@>
+---------------------------------------------------------

@@ -1,0 +1,46 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0014
+===============================================================
+[00000192:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Erina
+---------------------------------------------------------
+Seperti yang aku katakan sebelumnya, aku akan pergi ke misi dengan Soma sekarang. Bersama ...... 
+kamu bisa datang？
+---------------------------------------------------------
+Aku ingin melakukan itu meskipun, ... aku ingat pekerjaanku sebelumnya dengan Soma, aku pasti akan 
+berdiri
+---------------------------------------------------------
+Bukannya aku tidak suka itu, Ketika saya mengingat pekerjaan saya sebelumnya dengan Soma, saya hanya 
+harus berdiri
+---------------------------------------------------------
+Jika aku mengeluarkan kekuatan bahu aku sedikit lagi？
+---------------------------------------------------------
+Aku tidak menyukai Soma
+---------------------------------------------------------
+Aku bisa bertarung dengan benar ...... Jika mengerti, itu mungkin sedikit berbeda
+---------------------------------------------------------
+Aku mendengar bahwa Soma akan bergabung di situs, tidak ada pilihan selain khawatir di sini, kamu 
+harus pergi dulu！
+---------------------------------------------------------
+Yah! Apa? Sudah, tolong katakan itu! aku akan menghubungi Soma, jadi kamu bisa menyelesaikannya 
+dengan cepat
+---------------------------------------------------------
+Mari kita pergi！
+---------------------------------------------------------
+Sebenarnya, ada hal yang buruk ......
+---------------------------------------------------------
+Apa yang terjadi? Gerbang sortie bukan yang ini？
+---------------------------------------------------------
+Ada misi dengan Soma segera ketika aku kembali ... jadi aku menemaninya dan memintanya
+---------------------------------------------------------
+Tolong beri tahu aku ketika kamu punya waktu. aku akan menunggu.
+---------------------------------------------------------

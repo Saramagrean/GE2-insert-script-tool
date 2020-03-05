@@ -1,0 +1,41 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0012
+===============================================================
+[00000184:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Kanon
+---------------------------------------------------------
+Instruktur sensei!
+---------------------------------------------------------
+Ano, termasuk konfirmasi di masa mendatang aku pikir perlu untuk melakukan wawancara dll, tapi 
+bagaimana pendapat anda?
+---------------------------------------------------------
+Haru-san mengatakan kepadaku bahwa itu tidak perlu, tapi ... aku pikir perlu ada wawancara untuk 
+mengenalku!
+---------------------------------------------------------
+Sama seperti kita punya rencana untuk pergi ke misi, jika kamu mengkonfirmasi hasil wawancara dengan 
+tugas itu, itu adalah dua burung dengan satu batu!
+---------------------------------------------------------
+Terima kasih banyak dan mohon kerja samanya
+---------------------------------------------------------
+Maaf, saya minta maaf! Sudah kubilang ini sudah berlalu ......
+---------------------------------------------------------
+Uh, baiklah, jika ada waktu aku senang jika aku bisa melakukannya
+---------------------------------------------------------
+...... kalau begutu, mau coba?
+---------------------------------------------------------
+Sekarang sedikit ... ...
+---------------------------------------------------------
+Itu ... ... apakah itu tidak nyaman untukmu?
+---------------------------------------------------------
+Instruktur sensei! Dapatkah saya meminta Anda sedikit konsultasi, jika saya sudah kembali dari 
+misi?
+---------------------------------------------------------

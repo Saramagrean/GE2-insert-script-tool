@@ -1,0 +1,67 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0019
+===============================================================
+[00000212:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Satsuki
+---------------------------------------------------------
+Kapten<@>
+---------------------------------------------------------
+Bolehkah aku berbicara denganmu? tidak akan lama kok<@>
+---------------------------------------------------------
+Ini tentang hari itu, tentang penelitianku yang 
+direbut<@>
+---------------------------------------------------------
+Aku dapat sedikit informasi<@>
+---------------------------------------------------------
+Lebih tepatnya,  pasien di Friar tidak sedang disembuhkan 
+..... ini hanya sekedar pemikiranku<@>
+---------------------------------------------------------
+Bagaimana bisa?<@>
+---------------------------------------------------------
+Pertama, Mari kita berbicara tentang catatan pengiriman 
+suplai medis Sejak rumah sakit didirikan, 
+Mereka bahkan tidak mengisi kembali obat sakit kepala yang habis<@>
+---------------------------------------------------------
+Lalu, mereka memperkerjakan doktor dan suster akan tetapi 
+semua staff dipindahkan ke HQ maupun ke cabang 
+lain.<@>
+---------------------------------------------------------
+Singkatnya, Sekarang tidak ada dokter di Friar..... 
+Ah.....<@>
+---------------------------------------------------------
+Tepatnya ada 2 orang, Doktor perempuan..... 
+Tapi aku tidak tahu jika kamu memanggil mereka dokter<@>
+---------------------------------------------------------
+Aneh, kan? Kita tidak tahu apa tujuan mereka 
+Entah mengapa mereka mengambil pasien yang mengidap penyakit 
+laba-laba hitam<@>
+---------------------------------------------------------
+Apakah itu aksi politik? Apapun itu, mungkin sangat besar<@>
+---------------------------------------------------------
+.....Disisi lain, hanya itu informasi yang kudapat<@>
+---------------------------------------------------------
+Ah, Tolong jaga rahasia ini dari Yuno dia akan melarikan diri 
+saat ia menjadi serius, gadis itu.....<@>
+---------------------------------------------------------
+Terima kasih kalau begitu, jika ada sesuatu lagi, aku bergantung 
+padamu<@>
+---------------------------------------------------------
+Oh, Aku lupa! Aku dapat info ini dari Fran! Seorang Operator di 
+Friar!<@>
+---------------------------------------------------------
+Entah mengapa, Friar tampak mencurigakan, dan ia menetapkan hatinya untuk
+itu bahwa Dr. Sakaki membawanya ke Far East 
+Branch?@>
+---------------------------------------------------------
+Fran ingin bertemu denganmu jadi kunjungilah ia, Ia 
+berkata begitu<@>
+---------------------------------------------------------

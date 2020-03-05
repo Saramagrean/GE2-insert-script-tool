@@ -1,0 +1,340 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0137
+===============================================================
+[00000684:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+Tertulis...
+"Dilarang memasuki ruangan ketika sedang bepergian"
+---------------------------------------------------------
+
+---------------------------------------------------------
+Aku tidak bisa memasuki ruangan dengan otoritas saat ini
+---------------------------------------------------------
+
+---------------------------------------------------------
+Anda tidak bisa memasuki ruangan dengan otoritas saat ini
+---------------------------------------------------------
+
+---------------------------------------------------------
+Aku tidak bisa memasuki ruangan dengan otoritas saat ini
+---------------------------------------------------------
+Alisa
+---------------------------------------------------------
+Aku kembali... tapi, saya ingin tidak ada orang yang datang
+Karena di sini kebijakan aktivitas Cradle dimodifikasi
+---------------------------------------------------------
+Itu tidak membantu... Um, aku minta maaf
+Semuanya, mohon kerja samanya
+---------------------------------------------------------
+Pencarian di situs kandidat satelit telah dilakukan
+Sejumlah Aragami besar dikonfirmasi di sekitar situs kandidat
+---------------------------------------------------------
+Angka yang kecil, tetapi unit satu adalah kesatuan yang kuat
+Aku ingin kau meminjamkan kekuatan semua orang...
+---------------------------------------------------------
+Aku menerima permintaan Hibari
+... Terima kasih!
+---------------------------------------------------------
+Cappy
+---------------------------------------------------------
+Curie?
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+Cradle kembali ke Far East
+Orang macam apa mereka ... ...
+---------------------------------------------------------
+Emile
+---------------------------------------------------------
+Teh favorit ku sudah habis!
+Aku tidak bisa mengawali hari tanpa itu...
+---------------------------------------------------------
+Aku menghubungi orang tuaku agar mengirim sesuatu untukmu... Tidak, tunggu?
+Memohonlah kepada Dr Sakaki untuk bisa tetap di sini??
+---------------------------------------------------------
+Elina
+---------------------------------------------------------
+Tentu saja, Emil, ini? hanya tentang cara memasukkan teh
+Ini, Kelas super? ya
+---------------------------------------------------------
+Elina
+---------------------------------------------------------
+Sesuatu, meskipun ini sedikit sakit? tapi...
+Mari kita belajar mmasukkan teh kepada kang Emil
+---------------------------------------------------------
+Gill
+---------------------------------------------------------
+Beberapa waktu lalu, terkait dengan Nana
+Aku memakan hidangan Alisa?
+---------------------------------------------------------
+Tidak?? Tidak apa-apa
+Setiap orang memiliki satu atau dua kesalahan??
+---------------------------------------------------------
+Hibari
+---------------------------------------------------------
+Dari Cradle, permintaan mendesak telah sampai untuk Blood
+---------------------------------------------------------
+Ini menempati situs kandidat satelit
+Urovoros Silakan menuju ke arah Falling Seeds
+---------------------------------------------------------
+Aku berdoa untuk Martial Arts
+---------------------------------------------------------
+Kouta
+---------------------------------------------------------
+Tidak kah kau berpikir,, Mbak Yuno Jadi semakin Dewasa?
+Ini seperti hanya ada satu perubahan bagiku, Tapi ini luar biasa-
+---------------------------------------------------------
+Aku, lebih?? Seperti kapten??
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Selanjutnya adalah Cradle dan misinya-
+Saya harus menunjukkan kepada senpai yang terbaik!
+---------------------------------------------------------
+Pejabat Friar
+---------------------------------------------------------
+Untuk pemulihan awal Friar, semua orang sangat ingin
+Saya menggerakkan tangan saya
+---------------------------------------------------------
+Sekali lagi, saya suka melihat orang-orang bekerja
+---------------------------------------------------------
+Pejabat Friar
+---------------------------------------------------------
+Sedikit-sedikit,?? hari hari tenang terus berlanjut
+Ini seperti sebuah kebohonan yang terjadi??
+---------------------------------------------------------
+Pejabat Friar
+---------------------------------------------------------
+Saat ini, Friar membatalkan penerbangan karena perawatan dan pemeriksaan kapan sdg berlangsung
+
+---------------------------------------------------------
+Karena kami diizinkan masuk Friar
+Saat anda menggunakannya, silahkan proses di sini
+---------------------------------------------------------
+Pergi ke Friar
+---------------------------------------------------------
+Aku tidak akan pergi
+---------------------------------------------------------
+Bisakah Anda kembali ke cabang Far East?
+---------------------------------------------------------
+Kembali
+---------------------------------------------------------
+Belum
+---------------------------------------------------------
+Dr Sakaki
+---------------------------------------------------------
+Karena kerjasama Dr. Soma, ada kemajuan dalam hasil penelitian
+Jadwal kegiatan Cradle akan segera diganti
+---------------------------------------------------------
+Hingga saat ini, setiap individu telah dimintai untuk bekerja, tapi?
+Penting untuk meminta semua orang berkumpul dan berbicara tentang masa depan
+---------------------------------------------------------
+Beberapa dari kalian ingin memperkenalkan diri kepada Anda
+Sampai saat itu ..... Silakan menunggunya
+---------------------------------------------------------
+Satsuki
+---------------------------------------------------------
+Dari satu bulan yang lalu, seluruh dunia menyiarkan?? popularitas Yuno
+Aku mendapatkannya juga, aku menarik sana dan sini
+---------------------------------------------------------
+Oh, aku di pangkalan satelit sekarang
+Pola yang muncul itu?? sepertinya semua orang benar-benar menghilang
+---------------------------------------------------------
+Hmm, apa yang aku tanyakan di pangkalan satelit pada waktu itu??
+Minta mereka melakukan lebih dari itu?? Sungguh? Terima kasih
+---------------------------------------------------------
+?? Oh! Ini bukan polanya sama sekali!
+Ya, aku akan terus berharap padamu???
+---------------------------------------------------------
+Soma
+---------------------------------------------------------
+Ngomong-ngomong, kamu tetap akan melakukannya?
+Aku tidak menjelaskan detail kegiatan Cradle secara rinci
+---------------------------------------------------------
+Apakah Kamu tahu pangkalan satelit?
+??Kami sedang membangun fasilitas dan operasi pendukung
+---------------------------------------------------------
+Masih ada beberapa sekarang? tetapi lebih baik meningkatkan dan mempertahankannya
+Itu adalah tujuan kita??
+---------------------------------------------------------
+Hanya saja?? Situs kandidat dari pangkalan kondisinya ketat??
+Aku ingin mengamankan sebanyak mungkin tempat untuk situs kandidat
+---------------------------------------------------------
+Jika kamu mau meminjamkan kekuatanmu? itu akan membantu
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Semua ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti majalah fashion atau katalog
+Aku tidak tahu karena semuanya ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti file teks
+Aku tidak bisa melihatnya karena terkunci<@>
+---------------------------------------------------------
+?????????????
+---------------------------------------------------------
+???????
+---------------------------------------------------------
+Berhentilah mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka terminal
+---------------------------------------------------------
+Aku tidak melakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka terminal
+---------------------------------------------------------
+Lihat arsipnya
+---------------------------------------------------------
+Aku tidak melakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Ada banyak taktik terkait file<@>
+---------------------------------------------------------
+"Signal bullet" adalah misi, melawan sekutu
+Sebutkann hal-hal yang Anda gunakan saat memberikan instruksi<@>
+---------------------------------------------------------
+Instruksi "signal bullet" ada dua jenis "wide area signal" dan "narrow range signal"<@>
+---------------------------------------------------------
+"Wide area signal" adalah semua anggota yang berpartisipasi dalam misi
+"Narrow range signal" hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+Ada 4 jenis "singnal bullet" yang bisa digunakan<@>
+---------------------------------------------------------
+"Wide-area signal: agregat set" "narrow-area signal: menunggu penyebaran"
+"Narrow range signal: cari serangan musuh" "narrow area signal: set"<@>
+---------------------------------------------------------
+Untuk informasi rinci tentang masing-masing sinyal, lihat "Database"<@>
+---------------------------------------------------------
+"Unit Control" dilengkapi dengan "Burst skill"<@>
+---------------------------------------------------------
+"Burst Skill" menunjukkan efeknya hanya selama Burst
+Ini adalah keterampilan khusus<@>
+---------------------------------------------------------
+Juga, "unit control" dan skill yang terpasang di dalamnya
+Judul berubah sesuai dengan<@>
+---------------------------------------------------------
+Aku tidak bisa membukanya karena aku tidak punya izin<@>
+---------------------------------------------------------
+Panduan taktis lanjutan: Signal Bullet
+---------------------------------------------------------
+Panduan taktis lanjutan: Unit Control
+---------------------------------------------------------
+???????
+---------------------------------------------------------
+Berhentilah mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+File-file tersebut teratur
+Sangat mudah untuk dilihat<@>
+---------------------------------------------------------
+Dengan ?Avatar card? bertukar dengan ?Avatar?
+Itu adalah teman yang dapat berpartisipasi dalam misi kapan saja<@>
+---------------------------------------------------------
+Ada dua cara untuk bertukar ?Avatar Card?
+Salah satu caranya adalah secara manual bertukar di "Multiplayer"<@>
+---------------------------------------------------------
+Cara lain adalah "Exchange of passing cards"
+Hingga 3 kartu dapat ditukar sekaligus<@>
+---------------------------------------------------------
+?Avatar card? dapat diperbarui dengan bertukar dengan lawan yang sama
+Dengan melakukan "Multiplayer" atau "Redemption card exchange"<@>
+---------------------------------------------------------
+Sebagai upah atas kerja rodi yang dilakukan dengan pihak lain
+"Avatar collection material" dapat diperoleh<@>
+---------------------------------------------------------
+Bullet Memo<@>
+---------------------------------------------------------
+"Rebounding bullet" adalah peluru yang memiliki efek mengembalikan kekuatan fisikmu
+Namun, itu tidak berhasil untuk orang yang menembak sendiri<@>
+---------------------------------------------------------
+Untuk Bullet dengan sifat yang sangat istimewa
+Penggunaan God machine terbatas<@>
+---------------------------------------------------------
+Hanya Sekejap, Tsubaki dan lindow bersama
+Ada gambar bersama Sakuya<@>
+---------------------------------------------------------
+Yang lainnya adalah foto yang relatif baru<@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Bullet
+---------------------------------------------------------
+Sebuah foto
+---------------------------------------------------------
+Berhentilah mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+Aku mulai, tapi?
+Layar rusak dan sulit dilihat<@>
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Setiap file terkunci
+Aku tidak bisa melihatnya<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Kigurumi
+---------------------------------------------------------
+??!
+---------------------------------------------------------
+Yoshiya
+---------------------------------------------------------
+Apakah Kamu akan membeli sesuatu?
+---------------------------------------------------------
+Bebeb Yuno
+---------------------------------------------------------
+?? Sekali lagi, aku ingin mengucapkan terima kasih
+Aku datang ke sini hari ini...
+---------------------------------------------------------
+Terima kasih, semua anggota Blood
+Berkatmu, kehidupan banyak orang telah diselamatkan??
+---------------------------------------------------------
+Mulai sekarang, aku juga bergabung dengan semua orang??
+Aku ingin menyampaikan apa yang aku bisa untuk dunia ini
+---------------------------------------------------------
+Mulai sekarang?? Selalu bersama
+Mari lindungi sisi ini??
+---------------------------------------------------------

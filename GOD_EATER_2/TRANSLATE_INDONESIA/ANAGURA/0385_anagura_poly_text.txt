@@ -1,0 +1,45 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0016
+===============================================================
+[00000200:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Soma
+---------------------------------------------------------
+Oh, kamu datangMaaf berhenti bicara, tapi ...
+---------------------------------------------------------
+Bisakah kamu bekerja sama dalam mengumpulkan material Aragami yang digunakan untuk eksperimen
+---------------------------------------------------------
+Sel oracle retro menggantikan sel Oracle biasaAku sedang menyelidiki proses subordinasi ... ...
+---------------------------------------------------------
+Tidak, dalam beberapa minggu terakhiraku terus mengulang percobaan yang sama ......
+---------------------------------------------------------
+Eksperimen seperti apa?
+---------------------------------------------------------
+Apa sekarang kamu akan memulai eksperimen nya?
+---------------------------------------------------------
+Sebelum aku mendapat data yang aku pikir sudah cukup bagusBahannya sudah habis.
+---------------------------------------------------------
+Percobaannya gagal ......aku juga harus pergi mengumpulkan
+---------------------------------------------------------
+...... maaf
+---------------------------------------------------------
+Sudah siap, aku mengerti .......Tolong beri aku suara lagi.
+---------------------------------------------------------
+Aku akan membantumu
+---------------------------------------------------------
+Tolong tunggu sebentar.
+---------------------------------------------------------
+Hmm ...?Apa kamu ingin memeriksa isi dari misi ini?
+---------------------------------------------------------
+Misi sudah dimulai...... pergilah dan hati-hati
+---------------------------------------------------------
+......baiklah, ayo pergi!
+---------------------------------------------------------

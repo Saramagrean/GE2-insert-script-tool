@@ -1,0 +1,74 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0024
+===============================================================
+[00000232:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Kanon
+---------------------------------------------------------
+Dulu, Aku berada di "Defense Unit". Aku adalah seorang
+blunderer perekrutan baru, tapi semuanya telah
+menolongku.<@>
+---------------------------------------------------------
+Jadi aku mencoba yang terbaik, tetapi Defense Unit sudah
+penuh dan perekrutan terus menerus terjadi...<@>
+---------------------------------------------------------
+Tak sadar, Aku menjadi veteran. Aku...<@>
+---------------------------------------------------------
+Jadi, kau adalah seorang veteran ?...
+---------------------------------------------------------
+Kau tak terlihat seperti veteran...
+---------------------------------------------------------
+...Wakti tidaka akan menunggu<@>
+---------------------------------------------------------
+Haru kadang mengingatkanku tidak bagus menjadi pemula
+selamanya<@>
+---------------------------------------------------------
+Apa yang biasanya 4th Unit lakukan?
+---------------------------------------------------------
+Tidak akan masalah jika anggotanya cuma berdua?
+---------------------------------------------------------
+Sebagai unit hit-and-run, kami 4th unit menangani operasi
+pengintaian dengan personil terbatas, itu
+terlalu...<@>
+---------------------------------------------------------
+Tentu, itulah masalahnya!<@>
+---------------------------------------------------------
+Aku memiliki sesuatu yang harus kupenuhi<@>
+---------------------------------------------------------
+4th unit hanya ada dua orang, dan aku masih meminta orang
+bertahan...<@>
+---------------------------------------------------------
+Aku membutuhkan fitur baru Blast guns untuk memecahkan
+status quo... Aku memerlukan Oracle Reserse yang daya
+tembaknya sama dengan beberapa orang<@>
+---------------------------------------------------------
+Tapi kemudian, kecocokan ku dengan God Arc sangat rendah
+sehingga Licca melarangku menggunakannya...<@>
+---------------------------------------------------------
+Aku sangat membutuhkannya! Jika ini adalah permintaan
+Pelatih Licca tidak bisa bilang tidak, kan!?<@>
+---------------------------------------------------------
+Baik, Aku akan menanyakannya...
+---------------------------------------------------------
+Aku akan melakukannya, tapi jangan berharap banyak
+---------------------------------------------------------
+Terima kasih!<@>
+---------------------------------------------------------
+Ah, tolong rahasiakan dari Haru karena aku ingin
+mengejutkannya...<@>
+---------------------------------------------------------
+Baiklah, waktunya misi! Belajar dari misi sebelumnya dan
+membawa peluru all-out!<@>
+---------------------------------------------------------
+Benar...<@>
+---------------------------------------------------------
+Aku ingin mengatakannya, tetapi...<@>
+---------------------------------------------------------

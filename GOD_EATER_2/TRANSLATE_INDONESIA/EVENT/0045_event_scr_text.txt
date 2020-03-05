@@ -1,0 +1,65 @@
+NAMA:event_scr_text
+ENCODING:UTF-8
+CRLF:\n
+ID:
+TYPE:
+JUMLAH_STRING:0022
+===============================================================
+[00000224:00000512:00002015:00066133:00000250:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+ Apakah kamu yg melakukannya ....?
+---------------------------------------------------------
+Profesor Rachel ... ...
+---------------------------------------------------------
+Ini ...!
+---------------------------------------------------------
+Makan malam ... ...
+---------------------------------------------------------
+Pengumpulan akhir berjalan dengan sangat baik ... ... Tidak 
+ada alam manusia di sana ...
+---------------------------------------------------------
+Mudah-mudahan, kupikir dan kau yang tumbuh dengan tangan yg 
+asin ... ...
+---------------------------------------------------------
+Kamu sudah melakukan perbuatan yang baik ... ... Kamu jauh 
+dari orang tuamu... ...
+---------------------------------------------------------
+Aku ingin kalian agar mengambil waktu untuk libur... ... 
+Selamat malam, Blood.. ...
+---------------------------------------------------------
+Mari kita bertemu lagi di "pemerintahan yang baru" ...
+---------------------------------------------------------
+Anakku Julius ... ... akan bangun segera ...
+---------------------------------------------------------
+Fyuh, hei, ini sudah pagi ... Anakku... semua temanmu sedang 
+menunggu ... ...
+---------------------------------------------------------
+Selamat pagi, Anakku Julius ... ...
+---------------------------------------------------------
+Ini adalah awal dari dunia baru
+---------------------------------------------------------
+Apa maksudmu...Julius...?
+---------------------------------------------------------
+Kau pasti bohong .... kan ....
+---------------------------------------------------------
+Julius ... ...?
+---------------------------------------------------------
+Bisakah kau mendengar Kami Blood unit?
+---------------------------------------------------------
+Dr Sakaki! Ada apa?
+---------------------------------------------------------
+Aku mengkonfirmasi gangguan besar dari pulse medan 
+eksentrik! Sekarang waktunya mundur!
+---------------------------------------------------------
+Pulse medan yang tidak seimbang ini ... sangat mirip dengan 
+pola prediksi "Pengakhir" ... ...
+---------------------------------------------------------
+Mungkin ada lebih banyak rahmat sampai selesai. Mari kita 
+kembali dan memperbaiki diri,itu ide yang bagus, bukan?
+---------------------------------------------------------
+Kapten! Mari kembali ke cabang Far East!
+---------------------------------------------------------

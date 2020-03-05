@@ -1,0 +1,312 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0124
+===============================================================
+[00000632:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+"Karena saya keluar, saya tidak memiliki izin untuk masuk."
+tertulis seperti itu ......
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas di ruangan saat ini
+Saya tidak dapat masuk
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas di ruangan saat ini
+Saya tidak dapat masuk
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas di ruangan saat ini
+Saya tidak dapat masuk
+---------------------------------------------------------
+Alisa
+---------------------------------------------------------
+Pilihan situs kandidat satelit juga meningkat sedikit demi sedikit,
+Hanya terdapat satu masalah, masalah muncul ...
+---------------------------------------------------------
+Untuk konstruksi dan pemeliharaan pangkalan satelit
+Dengan segala cara, penghalang Aragami cenderung tidak memadai
+---------------------------------------------------------
+Kami diminta untuk mencari bantuan dari cabang-cabang dan kelompok pendukung Far East
+Sulit untuk mengejar ketinggalan.
+---------------------------------------------------------
+Kalbi
+---------------------------------------------------------
+Kari? 
+---------------------------------------------------------
+Emil
+---------------------------------------------------------
+Seorang kapten yang cenderung sibuk, peduli pada kami
+Bagaimana saya bisa mengatur tiket perjalanan!
+---------------------------------------------------------
+Bahkan jika perjalanannya agak biasa ...
+Mari nikmati malam yang merupakan kebanggaan Emil sampai akhir!
+---------------------------------------------------------
+Kota
+---------------------------------------------------------
+Aku mendengar smuanya, Emil
+---------------------------------------------------------
+Erina
+---------------------------------------------------------
+Aku belum pernah mendengar bahwa kapten merencanakan rencana perjalanan
+Namun, "tur satelit" itu...
+---------------------------------------------------------
+...... Mungkin sedikit menyenangkan
+---------------------------------------------------------
+Gill
+---------------------------------------------------------
+Tentu saja ... ... sebagai basis satelit yang meningkat, penghalang Aragami,
+Material, sel Oracle pendek ... atau lebih
+---------------------------------------------------------
+Cara memproduksi sel Oracle secara massal lebih efisien ku pikir seperti itu,
+tetapi itu tidak berfungsi dengan baik
+---------------------------------------------------------
+Haruomi
+---------------------------------------------------------
+Aku sepertinya puas dengan ketel jenis apa saja Ini adalah liburan pertama yang ku derita selama
+bertahun-tahun, aku bertanya-tanya apakah aku akan perlahan mengembangkan sayap saya ... ...
+---------------------------------------------------------
+Kota
+---------------------------------------------------------
+Haru, apa yang kamu bicarakan!
+Kami sedang bekerja, semoga berhasil!
+---------------------------------------------------------
+Apa? ...... Baru-baru ini, telingaku semakin tuli
+Yah, aku ingin minum teh ......
+---------------------------------------------------------
+Kanon
+---------------------------------------------------------
+Saya bisa bepergian dengan Anda ... ... itu menyenangkan!
+Apa yang harus dilakukan sekarang atau apa yang harus dipersiapkan
+---------------------------------------------------------
+Mm, pakaian, permen ... ... apakah ada pemandian?
+Tentu saja ... ... God arc diperlukan, bukan?
+---------------------------------------------------------
+Kota
+---------------------------------------------------------
+Setiap orang bekerja lebih dari yang aku harapkan.
+Aku akan memberikan tiket perjalanan sebagai bukti penghargaan dan permintaan maaf dari kapten
+---------------------------------------------------------
+Aku tidak bisa membiarkan kamu mengambil waktu.
+Jika Anda benar-benar menikmati liburan Anda, itu akan sangat menyenangkan!
+---------------------------------------------------------
+Erina
+---------------------------------------------------------
+Tapi Kapten ...... "Tour Satelit" ini
+itu mengatakan bahwa tidak terlalu menarik ....
+---------------------------------------------------------
+Bodoh, lihat baik-baik "bookmark bagus ini"!
+"God machine menggunakan perencanaan hotel secara berturut-turut" ... ... Apakah kamu menulisnya?
+---------------------------------------------------------
+Baiklah!
+Karena aku dan Haruomi memiliki rencana terbaik yang ku pikir dalam semalam!
+---------------------------------------------------------
+Er ... ... Rencana ini dipikirkan oleh kapten! Apa?
+Aku tidak percaya itu ....
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Baru-baru ini, aku khawatir di sekitar perut
+Aku cukup olahraga untuk makan ... ...
+---------------------------------------------------------
+Seperti yang diharapkan
+Aku bertanya-tanya apakah tugas kecil muncul sebelum tugas sebenarnya belum keluar
+---------------------------------------------------------
+...... Tapi pada akhirnya aku lapar!
+karena punggungku, aku tidak bisa mengubah perutku ...
+---------------------------------------------------------
+Licca
+---------------------------------------------------------
+Orang-orang yang berbakti pada pengembangan teknologi meninggalkan pekerjaan mendetail bagi para
+insinyur lain namun Dr. Sakaki mengatakan kepadaku bahwa itu bukan hal yang baik
+---------------------------------------------------------
+Saya pikir itu benar dan saya tidak percaya teknologi lain
+Saya tidak berpikir begitu ... ... Mungkin saya belum ingin meninggalkan cabang ini
+---------------------------------------------------------
+Namun, memang benar bahwa tangan tidak benar-benar berputar ... ...
+Aku ingin tahu apakah aku harus menyerahkannya kepada seseorang, aku harus mengingatnya di masa depan
+---------------------------------------------------------
+Lindow
+---------------------------------------------------------
+Pada kegiatan masa depan Kongou ......
+Saya berkonsultasi dengan manajer cabang Sakaki
+---------------------------------------------------------
+Mengenai anggaran, itu akan menjadi sesuatu ......
+Masalah utamanya adalah mengamankan persediaan dan orang-orang berbakat, bukan?
+---------------------------------------------------------
+Mutsumi
+---------------------------------------------------------
+Minggu depan, semua orang harus merencanakan perjalanan
+Yah, aku cemburu
+---------------------------------------------------------
+Jika Anda bertanya kepada kota, maukah Anda membawa ku?
+---------------------------------------------------------
+Dr. Sakaki
+---------------------------------------------------------
+Yang paling penting adalah penduduk dan orang yang bekerja.
+Ini sangat sederhana
+---------------------------------------------------------
+Dengarkan cerita orang dan ceritakan kepada pemikiran yang lain
+... Hanya itu saja.
+---------------------------------------------------------
+Ulangi dengan hati-hati sampai emosi Anda tiba ...
+Itu yang terbaik ... ... Ini hal yang cukup sulit.
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Semua ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti type majalah atau katalog
+Aku tidak tahu karena semuanya ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti file teks
+Aku tidak bisa melihatnya karena terkunci<@>
+---------------------------------------------------------
+Модный　журнал
+---------------------------------------------------------
+Дневник
+---------------------------------------------------------
+Berhentilah mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Saya tidak melakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Tonton arsipnya
+---------------------------------------------------------
+Saya tidak melakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat? <@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Ada banyak taktik terkait di file<@>
+---------------------------------------------------------
+"Signal Bullet" mengacu pada item yang digunakan untuk memberikan instruksi kepada kawan dalam misi<@>
+---------------------------------------------------------
+Kisaran pengaruh "Bullet signal" ada dua jenis "Wide area signals" dan "Narrow Range signal"<@>
+---------------------------------------------------------
+"Wide area signal" untuk semua anggota yang berpartisipasi dalam misi
+"Narrow area signal" hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+Ada 4 jenis "signal bullet" yang bisa digunakan<@>
+---------------------------------------------------------
+"Wide-area Signal: all hands set", "Narrow-Band Signal: Menunggu penyebaran,"
+"narrow-band signal: Mencari serangan musuh," "narrow-band signal: Set"<@>
+---------------------------------------------------------
+Untuk informasi rinci tentang masing-masing sinyal, lihat "Database"<@>
+---------------------------------------------------------
+"Control Unit" diaktifkan dengan "Burst Skill"<@>
+---------------------------------------------------------
+"Keterampilan eksplosif" adalah keterampilan khusus menunjukkan efek ledakan saja
+<@>
+---------------------------------------------------------
+Juga tergantung pada "control unit" dan skill yang terpasang didalamnya maka Title akan berubah<@>
+---------------------------------------------------------
+Saya tidak bisa membukanya karena saya tidak punya izin<@>
+---------------------------------------------------------
+Panduan taktis senior: signal bullet
+---------------------------------------------------------
+Panduan taktis lanjutan: Unit kontrol
+---------------------------------------------------------
+ＮＯ　ＮＡＭＥ
+---------------------------------------------------------
+Berhentilah mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat? <@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+File-file tersebut diatur supaya
+mudah untuk dilihat<@>
+---------------------------------------------------------
+Jika Anda bertukar "Avatar Card" untuk "Avatar"
+Seorang teman supaya temanmu dapat berpartisipasi dalam misi kapan saja<@>
+---------------------------------------------------------
+Ada dua cara untuk bertukar "Avatar Card"
+Yang pertama adalah secara manual yaitu bertukar saat "Multiplayer"<@>
+---------------------------------------------------------
+Cara yang ke dua adalah "pertukaran kartu yang lewat"
+Dengan cara ini anda dapat menukar 3 kartu sekaligus<@>
+---------------------------------------------------------
+"Avatar card" dapat diperbarui dengan bertukar dengan partner yang sama
+Dengan melakukan "Multiplayer" atau "Penukaran avatar card"<@>
+---------------------------------------------------------
+ 
+Sebagai kompensasi untuk bekerja dengan orang lain
+"Material costum" dapat diperoleh<@>
+---------------------------------------------------------
+Blood memo<@>
+---------------------------------------------------------
+"Rebounding bullet" adalah peluru yang memiliki efek mengembalikan kekuatan fisik Anda
+Namun, itu tidak berefek untuk orang yang menembakkan peluru itu sendiri<@>
+---------------------------------------------------------
+Untuk Bullet dengan sifat yang sangat istimewa
+penggunaan God arc terbatas<@>
+---------------------------------------------------------
+Satu-satunya bagian,Foto tsubaki bersama  Sakuya<@>
+---------------------------------------------------------
+Yang lainnya adalah foto yang relatif baru<@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Bullet
+---------------------------------------------------------
+Foto
+---------------------------------------------------------
+Berhentilah mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+Saya mulai, 
+Namun layar rusak dan sulit dilihat<@>
+---------------------------------------------------------
+Apa yang kamu lihat? <@>
+---------------------------------------------------------
+Setiap file terkunci
+Saya tidak bisa melihatnya<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Yorozuya
+---------------------------------------------------------
+Apakah Anda akan membeli sesuatu?
+---------------------------------------------------------

@@ -1,0 +1,121 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0051
+===============================================================
+[00000340:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Nana
+---------------------------------------------------------
+Hey, kamu tahu...
+---------------------------------------------------------
+Bisakah kita... Menghentikan Devouring Apocalypse 
+?<@>
+---------------------------------------------------------
+Gil
+---------------------------------------------------------
+Apa maksudmu?<@>
+---------------------------------------------------------
+Devouring Apocalypse... Sesuatu di luar nalar... Apakah mungkin 
+menghentikannya?...<@>
+---------------------------------------------------------
+Walaupun begitu, Aku masih mempercayai semuanya
+---------------------------------------------------------
+Aku hanya tidak bisa...menyerah begitu saja
+---------------------------------------------------------
+Yuno
+---------------------------------------------------------
+Sangat luar biasa...<@>
+---------------------------------------------------------
+Sejujurnya, Aku merasa takut seperti saat pengalaman bertarungku pertama kali, terlepas dari jiwa kebebasanku ...<@>
+---------------------------------------------------------
+Kau, God Eaters, harus merasakannya setiap saat... I 
+mengerti hanya untuk sekarang...<@>
+---------------------------------------------------------
+Meskipun, itu hanya seperti apa yang kapten katakan<@>
+---------------------------------------------------------
+Aku tidak akan menyerah ... Aku percaya pada semua orang, dan Aku ... ingin berjuang dengan kalian semua<@>
+---------------------------------------------------------
+Aku mengerti, bagaimana seharusnya...<@>
+---------------------------------------------------------
+Sejak waktu sulit diingat manusia telah menghadapi musuh kuat ... dan kami selalu berhasil menahan mereka<@>
+---------------------------------------------------------
+Hei, ingat saat Julius mengatakan pada saat kami berada di tempat praktek<@>
+---------------------------------------------------------
+Sebuah "will" menyatukan umat manusia...<@>
+---------------------------------------------------------
+Betul... Itu adalah "will" yang menyatukan kita...<@>
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+Yeah... Ayo akhiri Devouring Apocalypse dengan 
+tangan kita sendiri...<@>
+---------------------------------------------------------
+21
+---------------------------------------------------------
+Tidak hanya itu.<@>
+---------------------------------------------------------
+Bukan hanya itu.
+---------------------------------------------------------
+Masih ada.
+---------------------------------------------------------
+Ini bukan hanya hal itu.<@>
+---------------------------------------------------------
+Bukan hanya dirimu<@>
+---------------------------------------------------------
+Bukan hanya itu<@>
+---------------------------------------------------------
+Ini bukan hanya hal itu.<@>
+---------------------------------------------------------
+Ini bukan hanya hal itu.<@>
+---------------------------------------------------------
+Bukan hanya itu <@>
+---------------------------------------------------------
+Ini bukan hanya hal itu.<@>
+---------------------------------------------------------
+Bukan hanya itu <@>
+---------------------------------------------------------
+Ini bukan hanya hal itu.<@>
+---------------------------------------------------------
+Bukan hanya itu .<@>
+---------------------------------------------------------
+Bukan hanya benda itu.<@>
+---------------------------------------------------------
+Bukan hanya benda itu.<@>
+---------------------------------------------------------
+Kami akan kembali... bersama Julius<@>
+---------------------------------------------------------
+Biarkan kami pulang... bersama Julius<@>
+---------------------------------------------------------
+Mari bawa kembali Julius..... bersama kami<@>
+---------------------------------------------------------
+Kami akan kembali... dengan Julius<@>
+---------------------------------------------------------
+Pergi kembali...bersama dengan Julius
+---------------------------------------------------------
+Aku akan pulang...dengan Julis.<@>
+---------------------------------------------------------
+Aku akan Pulang.....dengan Julius. (Pria atau Lainnya) 
+<@>
+---------------------------------------------------------
+Aku akan pulang...bersama dengan Julius.<@>
+---------------------------------------------------------
+Aku akan kembali pulang.....bersama dengan Julius. <@>
+---------------------------------------------------------
+Ayo kembali ... Dengan Julius <@>
+---------------------------------------------------------
+Aku akan kembali pulang.....bersama Julius. <@> 
+---------------------------------------------------------
+Pergi kembali ... Bersama dengan Julius
+---------------------------------------------------------
+Kami telah kembali... dengan Julius juga<@>
+---------------------------------------------------------
+Kami akan kembali... bersama dengan Julius (other girl 
+voices)<@>
+---------------------------------------------------------

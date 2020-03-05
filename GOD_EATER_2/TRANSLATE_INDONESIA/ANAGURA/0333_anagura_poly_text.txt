@@ -1,0 +1,62 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0020
+===============================================================
+[00000216:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Gill
+---------------------------------------------------------
+Yo, bagaimana kabarmu? apa kamu bisa mengupgrade "kurogane sword"?
+---------------------------------------------------------
+Pertama, siapkan "Kurogane proximity weapon" sebelum mengupgrade......
+akan menjadi "kurogane short-blade type" dan "kurogane long-sword type"
+---------------------------------------------------------
+"Sensitivity wave receptor" cukup rumit ... ... sebagai senjata yang diperkuat
+Tampaknya itu tidak akan menyebabkan fenomena sensitif seperti yang diharapkan
+---------------------------------------------------------
+Jika kamu bisa menyiapkan "kurogane proximity weapon"...... Ini hanya untuk "memperkuat"
+senjata menggunakan "Sensitivity Wave Receptor"
+---------------------------------------------------------
+Jika kamu kehilangan "sensitivity wave receptor" ... , kamu dapat membuatnya kembali
+Jika dibuat, itu sudah terdaftar dalam daftar "komposisi material" dari terminal
+---------------------------------------------------------
+Oh, dan ... jika kamu selesai membuatnya dengan aman
+Equip God Arc dan datang kepada saya.
+---------------------------------------------------------
+Tidak, aku tidak keberatan, lanjutkanlah dengan cepat, aku akan menunggu
+---------------------------------------------------------
+Di upgrade kan
+---------------------------------------------------------
+Aku tidak tahu cara mengupgrade nya 
+---------------------------------------------------------
+Maaf, belum ...
+---------------------------------------------------------
+Benar... apakah kamu bisa meng upgrade God Arc itu?
+aku juga ingin memeriksa kinerja dengan mataku sendiri ......
+---------------------------------------------------------
+Rupanya, itu berjalan dengan baik. Jika kamu tidak keberatan ......
+Bisakah kamu menunjukkan kegunaannya?
+---------------------------------------------------------
+Jadi begitu......
+Katakan padaku kapan kamu siap
+---------------------------------------------------------
+Dengan senang hati
+---------------------------------------------------------
+Sekarang sedikit ......
+---------------------------------------------------------
+Ada apa, kamu tidak pergi?
+---------------------------------------------------------
+Setelah misi selesai ......
+Katakan padaku kapan waktunya habis.
+---------------------------------------------------------
+OK, apakah kamu akan pergi?
+---------------------------------------------------------
+Kalau begitu, ketika kamu selesai, silakan hubungi lagi, aku akan menunggu.
+---------------------------------------------------------

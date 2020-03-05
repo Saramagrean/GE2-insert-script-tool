@@ -1,0 +1,42 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0011
+===============================================================
+[00000180:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Erina
+---------------------------------------------------------
+Senpai! Senpai! Apa kau lihat? Sungguh kau harus melihatnya 
+sekarang?!<@>
+---------------------------------------------------------
+Aku melihatnya
+---------------------------------------------------------
+Aku tak melihatnya
+---------------------------------------------------------
+Itu...putih?
+---------------------------------------------------------
+Aku harus membuat Blood Art-ku lebih kuat! Setiap seranganku 
+keluar bersama Oracle akan seperti, "doba~a!" <@>
+---------------------------------------------------------
+Aaah, dalam kasus ini, kau tak diterima! Aku merasakan itu, 
+Jika kau telah lupa, maka kau tak punya cukup pemahaman soal 
+itu ... <@>
+---------------------------------------------------------
+Baiklah, Aku pergi ke tempat latihan! dalam situasi ini, 
+senpai akan nyusul dan sungguh mengalahkanku kali ini, jadi 
+Aku akan bersiap!
+---------------------------------------------------------
+Aku tahu, benar! Aku tahu itu, ini bukan kesalahan lagipula! 
+<@>
+---------------------------------------------------------
+Eh~!? Ini kau lagi, senpai! <@>
+---------------------------------------------------------
+Eh? Putih? Senpai, Apa yang kau bicarakan? <@>
+---------------------------------------------------------

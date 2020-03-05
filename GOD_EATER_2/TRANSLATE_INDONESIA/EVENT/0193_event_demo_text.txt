@@ -1,0 +1,82 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0026
+===============================================================
+[00000240:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Haruomi
+---------------------------------------------------------
+Ah! Jika bukan Gil! <@>
+---------------------------------------------------------
+Gil
+---------------------------------------------------------
+Haru...?<@>
+---------------------------------------------------------
+Kau seharusnya memberitahuku bahwa kau akan datang ke Far
+East<@>
+---------------------------------------------------------
+Tidak... Aku tidak tahu kau di sini<@>
+---------------------------------------------------------
+Hah? Bukankah aku sudah memberitahumu sebelumnya...? Oh
+baiklah, aku terus berpindah dari cabang satu ke cabang
+lainnya<@>
+---------------------------------------------------------
+Benar, semenjak Glasgow, kan. Rasanya seperti waktu lama
+yang sudah lewat...<@>
+---------------------------------------------------------
+Oh benar... Kalau dipikir-pikir, Haru datang dari Far
+East...<@>
+---------------------------------------------------------
+Ah, izinkan aku memperkenalkan kepada mu, ini Haruomi Makabe
+dari unit yang sama di cabang Glasgow<@>
+---------------------------------------------------------
+Haru, ini Letnan Blood saat ini<@>
+---------------------------------------------------------
+Ah, jadi kau dari Blood! Aku dengar satu atau dua hal
+tentang dirimu! Seperti, kau cukup luar biasa, meskipun aku
+tidak tahu rinciannya<@>
+---------------------------------------------------------
+Aku Haruomi Makabe, Kapten unit ke 4 di cabang Far
+East<@>
+---------------------------------------------------------
+Nah, cabang Far East sedikit lebih lemah... Tidak seperti
+Blood tapi...<@>
+---------------------------------------------------------
+Kanon
+---------------------------------------------------------
+Haru aku akan pergi dulu untuk melapor ke Dr. Sakaki kalau
+begitu<@>
+---------------------------------------------------------
+Halo
+---------------------------------------------------------
+Sekarang, anggota tim unik unit ke 4, Kanon Daiba
+Ya...dia tidak bisa diandalkan untuk banyak hal
+tapi...<@>
+---------------------------------------------------------
+Setelah kau pergi, tak peduli tempat apa yang kau
+tinggalkan<@>
+---------------------------------------------------------
+...Lagi, aku bisa meminta pemeriksaan untuk pelecehan
+seksual?<@>
+---------------------------------------------------------
+Ya, begitulah.<@>
+---------------------------------------------------------
+Ketika merasa bersalah karena menerima, Gil, maukah kau
+memberitahuku tanpa ragu, menjadi pantas disebut
+profesional?<@>
+---------------------------------------------------------
+Haru...<@>
+---------------------------------------------------------
+Haha, hanya bercanda<@>
+---------------------------------------------------------
+Ya, aku permisi dulu<@>
+---------------------------------------------------------
+Mari kita minum-minum nanti, sampai jumpa<@>
+---------------------------------------------------------

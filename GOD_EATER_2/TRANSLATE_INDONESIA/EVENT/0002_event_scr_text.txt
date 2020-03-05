@@ -1,0 +1,34 @@
+NAMA:event_scr_text
+ENCODING:UTF-8
+CRLF:\n
+ID:
+TYPE:
+JUMLAH_STRING:0009
+===============================================================
+[00000172:00000512:00002015:00066133:00000250:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+jangan terlalu banyak bergerak, Pemula....
+---------------------------------------------------------
+Ini kesempatan yang bagus untuk menunjukanmu
+"kekuatan Blood" agar milikmu juga bangkit
+---------------------------------------------------------
+Kekuatan.... Untuk mengakhiri ini semua....!
+---------------------------------------------------------
+Keluarkan Blood Art sekarang untuk mengenai target yang jauh
+---------------------------------------------------------
+Blood Art... ?
+---------------------------------------------------------
+Kekuatan yang besar akan membalikan keadaan...
+dalam pertempuran apapun, dengan menumpahkan sedikit korban....
+---------------------------------------------------------
+Ini adalah Blood Art
+---------------------------------------------------------
+Kekuatan dari Blood ada dalam diri kita,
+Dan itu semua tergantung bagaimana kalian menggunakannya secara bijak....
+---------------------------------------------------------
+Semua, itu bergantung pada keinginanmu, jadi ingatlah, oke?
+---------------------------------------------------------

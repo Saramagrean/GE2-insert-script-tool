@@ -1,0 +1,63 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0021
+===============================================================
+[00000220:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Licca
+---------------------------------------------------------
+...aku tau itu, jadinjinkimu terasa ane sekarang?<@>
+---------------------------------------------------------
+Gil
+---------------------------------------------------------
+saat aku melihat jinki mu mengganti bentuk, itu sedikit 
+terlihat tidak nyaman apa ini baik baik saja??, tapi 
+masalahnya keseimbangan beratnya ...<@>
+---------------------------------------------------------
+itu seperti... semuanya cenderung berat kedapan untuk 
+menyetelnya mungkin akan susah...<@>
+---------------------------------------------------------
+baiklah , ayo kita ciba sebisa kita<@>
+---------------------------------------------------------
+kita perlu mengubah frame dalamnya, beersama menggunakan
+mekanisme ini. untuk meringankan keseimbangan depannya, kita
+harus atur kekuatan perlawanan saat aktifkan blood art.<@>
+---------------------------------------------------------
+Mhm... kita butuh banyak material...<@>
+---------------------------------------------------------
+aku lihat...<@>
+---------------------------------------------------------
+biarkan aku membantumu!
+---------------------------------------------------------
+aku tertarik untuk mengaturnya
+---------------------------------------------------------
+Okay, sudah diputuskan!<@>
+---------------------------------------------------------
+material dasar sangat diperlukan sekarang demi
+keamanan gil<@>
+---------------------------------------------------------
+dimengerti
+---------------------------------------------------------
+kesalahanku, aku butuh kau untuk membantuku hingga selesai 
+aku mengandalkan mu, okay<@>
+---------------------------------------------------------
+Uh... tidak,aku tidak bermaksud untuk...<@>
+---------------------------------------------------------
+Ah tidak...<@>
+---------------------------------------------------------
+terimakasih, aku mengandalkanmu<@>
+---------------------------------------------------------
+Hehe, semangat tentang itu... Oh yeah kenapankau tidak 
+membantuku saja mengatur jinkinya ?<@>
+---------------------------------------------------------
+apa kita baik?<@>
+---------------------------------------------------------
+Ah, tentu saja...aku mengandalkanmu<@>
+---------------------------------------------------------

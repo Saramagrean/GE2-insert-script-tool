@@ -1,0 +1,55 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0015
+===============================================================
+[00000196:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Kouta
+---------------------------------------------------------
+Keluargaku tinggal tidak jauh diluar wilayah ini, dan mereka
+pun hidup disana<@>
+---------------------------------------------------------
+Ente ga bakalan tau kalo rumah ane tepat ada disudut
+sana!<@>
+---------------------------------------------------------
+...dan juga, ente tau gak ? orang tua ane itu menakutkan
+! saat masih kecil ane sering kena marah ama ibu ane<@>
+---------------------------------------------------------
+Apa tempatnya bagus ?
+---------------------------------------------------------
+Kampung halamannya indah ya
+---------------------------------------------------------
+Tentang tempat yang kau bicarakan tadi aku jadi berfikir
+mempunyai teman yang dekat
+---------------------------------------------------------
+pada saat mereka melakukan kampanye tentang berbagai misi,
+mereka ingin mendapatkan misi juga<@>
+---------------------------------------------------------
+...kau tau ? aku mungkin tidak akan pernah meninggalkan
+tempat ini<@>
+---------------------------------------------------------
+lagi pula keluarga ane disini, temen-temen ane pun ada
+disini.. dan temen lama ane yg lagi misi pasti bakal balik
+kesini<@>
+---------------------------------------------------------
+Jadi aku akan melindungi semuanya apapun yang terjadi
+!<@>
+---------------------------------------------------------
+ah ! apa aku mengatakan sesuatu ?<@>
+---------------------------------------------------------
+Dan, untuk sekarang dan kedepannya aku ingin bekerja sama
+denganmu ! <@>
+---------------------------------------------------------
+Oh, sesuai harapanku, kalo kita kenal pasti kita bisa saling
+memahami kan ? tidak lama lagi sepertinya aku akan
+memperkenalkanmu ke keluarga ku.
+---------------------------------------------------------
+Itulah yang aku pikirkan saat ini, kan ? 
+---------------------------------------------------------

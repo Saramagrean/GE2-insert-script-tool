@@ -1,0 +1,1540 @@
+######### GE2
+[Indicator_Musen_Name]
+#					   W     H
+FontScale			= 1.00,	1.00
+
+#					   R    G    B    A
+TextColor			= 8, 8, 8, 255		# 無線名前
+
+[Indicator_Musen]
+#					   W     H
+FontScale			= 0.64,	0.64
+
+#					   R    G    B    A
+TextColor			= 8, 8, 8, 255		# 無線セリフ 緊急度：低(現在黒)
+TextColor3			= 240, 240, 240, 255		# 無線セリフ 緊急度：高(現在白)
+
+[Vita_Indicator_Musen]
+#					   W     H
+FontScale			= 0.54,	0.54
+
+#					   R    G    B    A
+TextColor			= 8, 8, 8, 255		# 無線セリフ 緊急度：低(現在黒)
+TextColor3			= 240, 240, 240, 255		# 無線セリフ 緊急度：高(現在白)
+
+
+[Indicator_Map_EnemyName]
+#					   W     H
+FontScale			= 0.68,	0.68
+
+#					   R    G    B    A
+TextColor			= 240, 240, 240, 255		# アラガミ名
+[OracleViewer_5]
+#			   W     H
+FontScale	= 0.68,	0.68
+
+#		   R    G    B    A
+Text	= 255, 255, 231, 255	# 三角メニューの設定切り替え部分
+
+[OracleViewer_4]
+#			   W     H
+FontScale	= 0.68,	0.68
+
+#		  R    G    B    A
+Disable	= 198, 183, 146, 255	# 三角メニューの項目名 Enableと共通
+Select	= 64, 64, 64, 255		# 三角メニューの項目名
+
+[OracleAtelier_3]
+#			   W     H
+FontScale	= 0.72,	0.72
+
+#		   R    G    B    A
+Text	= 240, 240, 240, 255		# 装備不可内容文
+
+[OracleEditer_Gun]
+#			   W     H
+FontScale	= 0.68,	0.68
+
+#			   R    G    B    A
+Text	= 255, 255, 231, 255	# 銃種
+
+# オラクルエディタ3D扇型弾発射角度インジケータ
+#
+
+[OracleEditer_3D_fan_color]
+#    R    G    B    A
+FunLine = 255, 0, 255, 255 # 扇の枠線カラー
+FunH =   0, 0, 255, 128 # 扇：水平面カラー
+FunV = 255, 0, 0, 128 # 扇：垂直面カラー
+
+########GEB
+########セーブデータインポート
+
+[Save_Data_Import_Help]
+#			   W     H
+FontScale	= 0.66,	0.66
+
+#			   R    G    B    A
+Help		= 224, 224, 224, 255
+
+
+[Save_Data_Import_Menu_Tab_1]
+#			   W     H
+FontScale	= 0.53,	0.66
+
+#			   R    G    B    A
+Disable		= 100, 100, 100, 255
+Enable		= 224, 224, 224, 255
+Select		= 8, 8, 8, 255
+Enter		= 8, 8, 8, 255
+
+
+[Save_Data_Import_Menu_Tab_2]
+#			   W     H
+FontScale	= 0.66,	0.66
+
+#			   R    G    B    A
+Disable		= 100, 100, 100, 255
+Enable		= 224, 224, 224, 255
+Select		= 8, 8, 8, 255
+Enter		= 8, 8, 8, 255
+
+
+[Save_Data_Import_Information]
+#			   W     H
+FontScale	= 0.66,	0.66
+
+#			   R    G    B    A
+Text		= 224, 224, 224, 255
+
+
+[Save_Data_Import_Information_Item]
+#			   W     H
+FontScale	= 0.6,	0.6
+
+#			   R    G    B    A
+Text		= 42, 192, 182, 255
+
+
+[Save_Data_Import_OK]
+#			   W     H
+FontScale	= 0.70,	0.70
+
+#			   R    G    B    A
+Enable	= 238, 238, 202, 255
+Select	= 8, 8, 8, 255
+Enter	= 238, 238, 202, 255
+
+
+[Save_Data_Import_Index]
+#			   W     H
+FontScale	= 0.8,	0.8
+
+#			   R    G    B    A
+Text	= 238, 238, 202, 255
+Text_Shadow	= 8, 8, 8, 255
+
+
+
+
+
+########セーブデータスロット
+
+[Save_Data_Slot_CodeName]
+#			   W     H
+FontScale	= 0.75,	0.75
+
+#			   R    G    B    A
+Disable		= 128, 24, 24, 255		#GE2 
+Enable		= 90, 25, 25, 255		#GE2
+#Disable		= 128, 24, 24, 255
+#Enable		= 255, 96, 96, 255
+
+[Save_Data_Slot_Name]
+#			   W     H
+FontScale	= 0.75,	0.8
+
+#			   R    G    B    A
+Disable		= 96, 96, 96, 255
+Enable		= 90, 25, 25, 255		#GE2 
+#Enable		= 224, 224, 224, 255
+
+[Save_Data_Slot_Class]
+#			   W     H
+FontScale	= 0.64,	0.64
+
+#			   R    G    B    A
+Disable		= 125, 121, 105, 255
+Enable		= 90, 25, 25, 255		#GE2 
+#Enable		= 250, 242, 210, 255
+
+[Save_Data_Slot_Money]
+#			   W     H
+FontScale	= 0.72,	0.72
+
+#			   R    G    B    A
+Disable		= 125, 121, 105, 255
+Enable		= 81, 41, 41, 255		#GE2 
+#Enable		= 240, 232, 200, 255
+
+[Save_Data_Slot_Story]
+#			   W     H
+FontScale	= 0.68,	0.68
+
+#			   R    G    B    A
+Disable		= 125, 121, 105, 255
+Enable		= 198, 183, 146, 255		#GE2 
+#Enable		= 240, 232, 200, 255
+
+
+[Save_Data_Window_InfoText]
+#			   W     H
+FontScale	= 0.72,	0.72
+
+#			   R    G    B    A
+Text		= 242, 242, 242, 255
+
+[Save_Data_Tab_YN]
+#			   W     H
+FontScale	= 0.72,	0.72
+
+#			   R    G    B    A
+Enable		= 224, 224, 224, 255
+Select		= 8, 8, 8, 255
+
+[Save_Data_Slot_SaveDay]
+#			   W     H
+FontScale	= 0.66,	0.66
+
+#			   R    G    B    A
+Disable		= 96, 96, 96, 255
+Enable		= 81, 41, 41, 255		#GE2 
+#Enable		= 192, 192, 192, 255
+
+
+[Save_Data_Slot_BrokenData]
+#			   W     H
+FontScale	= 0.7,	0.7
+
+#			   R    G    B    A
+Text		= 242, 242, 242, 255
+Disable		= 128, 128, 128, 255
+
+
+[Save_Data_Slot_NewData]
+#			   W     H
+FontScale	= 0.7,	0.7
+
+#			   R    G    B    A
+Text		= 242, 242, 242, 255
+Disable		= 128, 128, 128, 255
+
+
+
+
+
+[Default]
+
+#					   W     H
+FontScale			= 0.7,	0.7
+
+#					   R    G    B    A
+TitleColor			= 180, 246, 92, 255		# 見出し
+TextColor			= 240, 240, 240, 255		# 本文
+EnableColor			= 240, 240, 240, 255		# 選択可能項目
+DisableColor		= 128, 128, 128, 128		# 選択不可項目
+SelectColor			= 32, 32, 32, 255			# 項目選択中
+
+
+[Dialogue]
+
+#					   W     H
+FontScale			= 0.7,	0.72
+
+#					   R    G    B    A
+TitleColor			= 180, 246, 92, 255		# 見出し
+TextColor			= 240, 240, 240, 255		# 本文
+EnableColor			= 240, 240, 240, 255		# 選択可能項目
+DisableColor		= 128, 128, 128, 128		# 選択不可項目
+SelectColor			= 32, 32, 32, 255			# 項目選択中
+
+
+[Indicator_Ticker]
+
+#					   W     H
+FontScale			= 0.68,	0.68
+
+#					   R    G    B    A
+TextColor			= 240, 240, 240, 255		# 本文
+
+[Vita_Indicator_Ticker]
+
+#					   W     H
+FontScale			= 0.58,	0.58
+
+#					   R    G    B    A
+TextColor			= 240, 240, 240, 255		# 本文
+
+[Indicator_Ticker_Item]
+
+#					   W     H
+FontScale			= 0.7,	0.7
+
+#					   R    G    B    A
+TextColor			= 240, 240, 240, 255		# アイテム名
+#TextColor			= 240, 234, 188, 255		# アイテム名
+#TextColor			= 240, 240, 240, 255		# アイテム名
+#TextColor			= 144, 242, 204, 255		# アイテム名
+
+[Vita_Indicator_Ticker_Item]
+
+#					   W     H
+FontScale			= 0.6,	0.6
+
+#					   R    G    B    A
+TextColor			= 240, 240, 240, 255		# アイテム名
+
+
+[Indicator_OracleSlot]
+
+#					   W     H
+FontScale			= 0.62,	0.62
+
+#				   R    G    B    A
+#TextColor		= 242, 242, 242, 255		# 本文
+TextColor		= 8, 8, 8, 255		# 本文 GE2色
+DisableColor	= 120, 120, 120, 255		# 選択不可
+Disable			= 242, 242, 242, 255		# 受け渡す/アラガミ濃縮弾の名前 Enable
+Error			= 230, 222, 189, 255		# 警告
+
+[Vita_Indicator_OracleSlot]
+
+#					   W     H
+FontScale			= 0.52,	0.58
+
+#				   R    G    B    A
+TextColor		= 8, 8, 8, 255		# 本文 GE2色
+DisableColor	= 120, 120, 120, 255		# 選択不可
+Disable			= 242, 242, 242, 255		# 受け渡す/アラガミ濃縮弾の名前 Enable
+Error			= 230, 222, 189, 255		# 警告
+
+[Indicator_OracleSlot_Aragami]
+
+#					   W     H
+FontScale			= 0.54,	0.58
+
+#				   R    G    B    A
+Disable			= 120, 120, 120, 255		# 受け取ったアラガミ濃縮弾の名前 Disable
+Enable			= 224, 32, 32, 255		# 受け取ったアラガミ濃縮弾の名前 Enable
+
+[Vita_Indicator_OracleSlot_Aragami]
+
+#					   W     H
+FontScale			= 0.5,	0.54
+
+#				   R    G    B    A
+Disable			= 120, 120, 120, 255	# 受け取ったアラガミ濃縮弾の名前 Disable
+Enable			= 224, 32, 32, 255		# 受け取ったアラガミ濃縮弾の名前 Enable
+
+[Indicator_AragamiSlot]
+
+#					   W     H
+FontScale			= 0.58,	0.64
+
+#				   R    G    B    A
+Disable			= 242, 242, 242, 255		# アラガミバレットの名前 Disable0.58
+Enable			= 120, 120, 120, 255		# アラガミバレットの名前 Enable
+LOOP			= 242, 242, 242, 255		# アラガミバレットの名前 LOOP
+
+[Vita_Indicator_AragamiSlot]
+
+#					   W     H
+FontScale			= 0.5,	0.54
+
+#				   R    G    B    A
+Disable			= 242, 242, 242, 255		# アラガミバレットの名前 Disable
+Enable			= 120, 120, 120, 255		# アラガミバレットの名前 Enable
+LOOP			= 242, 242, 242, 255		# アラガミバレットの名前 LOOP
+
+[Indicator_PC_Name]
+
+#					   W     H
+FontScale			= 1.0,	1.0
+
+#					   R    G    B    A
+TextColor			= 8, 8, 8, 255			# PCの名前
+#TextColor			= 224, 224, 224, 255	# PCの名前
+OrderColor			= 64, 255, 192, 255		# NPC指示出し「今随伴しているかどうか」
+
+
+[Indicator_Item_Name]
+
+#					   W     H
+FontScale			= 0.8,	0.8
+
+#					   R    G    B    A
+TextColor			= 240, 240, 240, 255		# バレット/アイテムの名前
+
+[Vita_Indicator_Item_Name]
+
+#					   W     H
+FontScale			= 0.7,	0.7
+
+#					   R    G    B    A
+TextColor			= 240, 240, 240, 255		# バレット/アイテムの名前
+
+[Main_Menu]
+
+#					   W     H
+FontScale			= 0.70,	0.70
+
+#					   R    G    B    A
+EnableColor			= 245, 238, 190, 255	# Enable
+SelectColor			= 245, 238, 190, 255		# Select
+EnterColor			= 245, 238, 190, 255	# Enter
+ExpColor			= 77, 54, 54, 255		# 汎用説明テキスト用 GE2では名前設定の説明のみで使用
+#ExpColor			= 245, 238, 190, 255	# 汎用説明テキスト用
+HelpColor			= 224, 224, 224, 255	# ヘルプテキスト用
+
+
+[Character_Entry]
+
+#					   W     H
+FontScale			= 0.72,	0.72
+
+#					   R    G    B    A
+EnableColor1	= 245, 238, 190, 255		# Enable項目
+EnableColor2	= 245, 238, 190, 255	# Enable名前/コードネーム/性別/数字
+SelectColor1	= 245, 238, 190, 255	# Select項目
+SelectColor2	= 245, 238, 190, 255	# Select名前/コードネーム/性別/数字
+Entry2NameColor	= 245, 238, 190, 255	# キャラクターエントリー2用 名前/コードネーム/性別
+Entry2EnableColor1	= 245, 238, 190, 255	# キャラクターエントリー2用 Enable項目
+Entry2EnableColor2	= 245, 238, 190, 255	# キャラクターエントリー2用 Enable数字
+Entry2SelectColor1	= 245, 238, 190, 255		# キャラクターエントリー2用 Select項目
+Entry2SelectColor2	= 245, 238, 190, 255		# キャラクターエントリー2用 Select数字
+DisableColor1	= 155, 152, 120, 255	# 暗転 項目
+DisableColor2	= 150, 150, 150, 255	# 暗転 コードネーム
+
+
+[Character_Entry_Voice]
+
+#					   W     H
+FontScale			= 0.72,	0.72
+
+#					   R    G    B    A
+VoiceNumber	= 242, 242, 242, 255		# ボイスの種類通し番号
+
+
+[Character_Entry_Voice2]
+
+#					   W     H
+FontScale			= 0.58,	0.62
+
+#					   R    G    B    A
+VoiceName	= 242, 242, 242, 255		# ボイスの種類名
+
+
+
+[Result]
+
+#					   W     H
+FontScale			= 0.8,	0.8
+
+#					   R    G    B    A
+CategoryColor		= 250, 242, 210, 255		# ページの見出し
+
+
+[Result_2]
+
+#					   W     H
+FontScale			= 0.72,	0.72
+
+#					   R    G    B    A
+TextTimeColor		= 224, 224, 224, 255		# 残り時間
+ConvertItemColor	= 224, 224, 224, 255		# コンバート後のアイテム名、個数
+GoldTextColor		= 250, 242, 210, 255		# 所持金
+GoldColor			= 250, 242, 210, 255		# 所持金_数字
+ListItemColor		= 250, 242, 210, 255		# その他報酬リストのアイテム名、個数
+ListProfileColor	= 250, 242, 210, 255		# プロファイル情報項目
+
+
+[Result_3]
+
+#					   W     H
+FontScale			= 0.72,	0.72
+
+#					   R    G    B    A
+ItemColor			= 208, 204, 170, 255		# コンバート元アイテム名、個数
+ConvertExpColor		= 192, 192, 192, 255		# ○○○を以下のアイテムにコンバートしました
+
+
+[Result_4]
+
+#					   W     H
+FontScale			= 0.72,	0.72
+
+#					   R    G    B    A
+MissionItemColor	= 245, 238, 190, 255		# ミッション報酬のアイテム名
+
+
+[Result_5]
+
+#					   W     H
+FontScale			= 0.72,	0.72
+
+#				   R    G    B    A
+InfoColor		= 192, 192, 192, 255		# ランダム報酬が１つもない場合のメッセージ
+
+
+[Result_6]
+
+#					   W     H
+FontScale			= 0.60,	0.60
+
+#				   R    G    B    A
+CategoryColor	= 170, 170, 170, 255		# ランダム報酬カテゴリー
+
+
+
+[Mission_Order]
+
+#					   W     H
+FontScale			= 0.72,	0.72
+
+#						   R    G    B    A
+OrderCaptionExpColor	=  77,  54,  54, 255		# キャプション説明文
+
+
+[Mission_Order_2]
+#					   W     H
+FontScale			= 0.61,	0.61
+
+#						   R    G    B    A
+OrderRankExpColor		= 8, 8, 8, 255				# ミッション選択時に表示する"難易度"
+OrderRankEnableColor	= 214, 214, 186, 255		# 難易度リストEnable
+OrderRankDisableColor	= 214, 214, 186, 128		# 難易度リストDisable
+OrderRankSelectColor	= 8, 8, 8, 255			# 難易度リストSelect
+OrderRankEnterColor		= 8, 8, 8, 255			# 難易度リストEnter
+
+
+[Mission_Overview]
+#					   W     H
+FontScale			= 0.82,	0.82
+
+#						   R    G    B    A
+OverviewMissionColor	= 224, 224, 224, 255				# ミッション名
+
+
+[Mission_Overview_2]
+#					   W     H
+FontScale			= 0.64,	0.62
+
+#						   R    G    B    A
+OverviewMissionSubColor	= 192, 192, 192, 255				# ミッション名副題(英語)
+MissionMemberCodeNameColor	= 224, 32, 32, 255				# コードネーム
+MissionMemberCodeNameColorDisable	= 128, 16, 16, 255			# コードネームDisable
+
+
+[Mission_Overview_3]
+#					   W     H
+FontScale			= 0.70,	0.70
+
+#						   R    G    B    A
+OverviewNameColor		= 168, 170, 158, 255		# 依頼者の名前
+OverviewFieldNameColor	= 168, 170, 158, 255		# フィールドの名前
+#OverviewNameColor		= 8, 8, 8, 255				# 依頼者の名前
+OverviewTextColor		= 192, 192, 192, 255		# ミッション説明文など
+MissionMemberTypeColor	= 160, 160, 160, 255		# ミッション参加メンバーの武器タイプ情報
+MissionMemberTypeColorDisable	= 96, 96, 96, 255		# ミッション参加メンバーの武器タイプ情報Disable
+MissionMemberOkColor1	= 8, 8, 8, 255				# メンバー決定Enable
+MissionMemberOkColor2	= 8, 8, 8, 255				# メンバー決定Select
+MissionMemberOkColor3	= 8, 8, 8, 255				# メンバー決定Enter
+GrenadeTextColor		= 26, 26, 26, 255			# グレネード持ち込み可能数(1人あたり)
+MissionOrderTextColor	= 224, 224, 224, 255		# ミッションを受注します
+MissionOrderEnableColor	= 224, 224, 224, 255		# はい/いいえ　Enable
+MissionOrderSelectColor	= 8, 8, 8, 255				# はい/いいえ　Select
+MissionOrderEnterColor	= 224, 224, 224, 255		# はい/いいえ　Enter
+
+[Mission_Overview_4]
+#					   W     H
+FontScale			= 0.78,	0.78
+
+GrenadePosColor		= 120, 208, 172, 255				# グレネード持ち込み可能数　数字
+#GrenadePosColor		= 242, 48, 32, 255				# グレネード持ち込み可能数　数字
+
+
+[Mission_Overview_5]
+#					   W     H
+FontScale			= 0.62,	0.62
+MissionMemberNameColor	= 224, 224, 224, 255				# 名前
+MissionMemberNameColorDisable	= 96, 96, 96, 255				# 名前 Disable
+
+#FontScale			= 0.78,	0.78
+#MissionMemberNameColor	= 80, 80, 80, 255				# 名前
+
+
+[Mission_Overview_Info]
+#					   W     H
+FontScale			= 0.70,	0.70
+Text				= 224, 224, 224, 255				# 受注できない理由の文言のパーツ
+#Text				= 8, 0, 0, 255				# 受注できない理由の文言のパーツ
+#Text				= 242, 0, 0, 255				# 受注できない理由の文言のパーツ
+
+
+
+
+
+
+
+[Terminal]
+
+#				   W     H
+FontScale	= 0.675,	0.72
+
+#			   R    G    B    A
+HelpColor	= 77, 54, 54, 255	# ヘルプテキスト用
+TextColor	= 77, 54, 54, 255	# 売りますか？買いますか？
+EnableColor	= 77, 54, 54, 255	# はい/いいえ Enable
+SelectColor	= 77, 54, 54, 255	# はい/いいえ Select
+EnterColor	= 224, 224, 224, 255	# はい/いいえ Enter
+CommonHelp	= 224, 224, 224, 255	# ターミナル下部分にでるヘルプテキスト用 GE2
+#HelpColor	= 224, 224, 224, 255	# ヘルプテキスト用
+#TextColor	= 224, 224, 224, 255	# 売りますか？買いますか？
+#EnableColor	= 224, 224, 224, 255	# はい/いいえ Enable
+#SelectColor	= 224, 224, 224, 255	# はい/いいえ Select
+#EnterColor	= 224, 224, 224, 255	# はい/いいえ Enter
+
+
+[Terminal_Box]
+
+#				   W     H
+FontScale	= 0.6,	0.6
+
+#			   R    G    B    A
+MaxColor	= 224, 216, 192, 255	# 所持可能数Max
+
+
+[Terminal_Cap]
+#			   W     H
+FontScale	= 0.78,	0.78	#GE2
+#FontScale	= 0.675,	0.675
+
+#			   R    G    B    A
+TextColor	= 242, 236, 192, 224	# 見出し「武器工房/倉庫/セーブ」強化装備選択時のヘルプなど。
+
+
+[Terminal_Cap2]
+#			   W     H
+FontScale	= 0.78,	0.78	#GE2
+#FontScale	= 0.675,	0.675
+#			   R    G    B    A
+TextColor	= 224, 224, 224, 224	# 見出しSub階層「預ける/取り出す」など。
+
+
+[Terminal_List]
+#			   W     H
+FontScale	= 0.675,	0.72	#GE2
+
+#			   R    G    B    A
+TopDis	= 160, 160, 160, 255	# GE2トップメニューの文字 Disable
+TopEna	= 252, 234, 190, 255	# GE2 トップメニューの文字 Enable
+TopSel	= 77, 54, 54, 255	# GE2 トップメニューの文字 Select
+TopEnt	= 77, 54, 54, 255	# GE2 トップメニューの文字 Enter
+TopSus	= 8, 8, 8, 255	# GE2 トップメニューの文字 Suspend
+Disable	= 160, 160, 160, 255	# GE2 アイテムリストの文字 Disable
+Enable	= 252, 234, 190, 255	# GE2 アイテムリストの文字 Enable
+Select	= 77, 54, 54, 255	# GE2 アイテムリストの文字 Select
+Enter	= 77, 54, 54, 255	# GE2 アイテムリストの文字 Enter
+Suspend	= 8, 8, 8, 255	# GE2 アイテムリストの文字 Suspend
+Ctgry	= 240, 240, 240, 255	# GE2 カテゴリの文字
+
+DisableMax	= 224, 48, 48, 255	# GE2 アイテムリストの文字 Disable	数MAX
+EnableMax	= 248, 64, 64, 255	# GE2 アイテムリストの文字 Enable	数MAX
+SelectMax	= 248, 64, 64, 255	# GE2 アイテムリストの文字 Select	数MAX
+EnterMax	= 248, 64, 64, 255	# GE2 アイテムリストの文字 Enter	数MAX
+SuspendMax	= 248, 64, 64, 255	# GE2 アイテムリストの文字 Suspend	数MAX
+
+#GEB---------
+#TopDis	= 224, 224, 224, 255	# トップメニューの文字 Disable
+#TopEna	= 8, 8, 8, 255	# トップメニューの文字 Enable
+#TopSel	= 8, 8, 8, 255	# トップメニューの文字 Select
+#TopEnt	= 8, 8, 8, 255	# トップメニューの文字 Enter
+#TopSus	= 8, 8, 8, 255	# トップメニューの文字 Suspend
+#Disable	= 160, 160, 160, 255	# アイテムリストの文字 Disable
+#Enable	= 250, 242, 210, 255	# アイテムリストの文字 Enable
+#Select	= 250, 242, 210, 255	# アイテムリストの文字 Select
+#Enter	= 250, 242, 210, 255	# アイテムリストの文字 Enter
+#Suspend	= 250, 242, 210, 255	# アイテムリストの文字 Suspend
+#Ctgry	= 8, 8, 8, 255	# カテゴリの文字
+
+#DisableMax	= 224, 48, 48, 255	# アイテムリストの文字 Disable	数MAX
+#EnableMax	= 248, 64, 64, 255	# アイテムリストの文字 Enable	数MAX
+#SelectMax	= 248, 64, 64, 255	# アイテムリストの文字 Select	数MAX
+#EnterMax	= 248, 64, 64, 255	# アイテムリストの文字 Enter	数MAX
+#SuspendMax	= 248, 64, 64, 255	# アイテムリストの文字 Suspend	数MAX
+
+
+[Terminal_List2]
+#			   W     H
+FontScale	= 0.64,	0.64
+
+#		   R    G    B    A
+Sort	= 102, 176, 160, 255	# ソートルール
+
+
+[Terminal_List3]
+#			   W     H
+FontScale	= 0.65,	0.65
+
+#		   R    G    B    A
+HELP	= 238, 238, 202, 255	# 強化装備選択時のヘルプ
+HELP2	= 242, 32, 32, 255	# 強化できません系のヘルプ
+
+[Terminal_List_Equip_Info]
+#			   W     H
+FontScale	= 0.7,	0.7
+
+#		   R    G    B    A
+text	= 242, 32, 32, 255	# 男/女性用衣服なので装備できません
+
+[Terminal_List_Equip_Label]
+#			   W     H
+FontScale	= 0.7,	0.7
+
+#		   R    G    B    A
+Enable	= 229, 229, 229, 255	# 装備ラベル 通常時
+Select	= 77, 54, 54, 255	# 装備ラベル 選択・決定時
+[Terminal_List_Equip_Label2]
+#			   W     H
+FontScale	= 0.7,	0.7
+
+#		   R    G    B    A
+Disable	= 128, 128, 128, 255	# 装備ラベル 使用できない時
+Enable	= 229, 229, 229, 255	# 装備ラベル 通常時・選択・決定
+
+[Terminal_Equip_Label]
+#			   W     H
+FontScale	= 0.7,	0.7
+
+#		   R    G    B    A
+text	= 77, 54, 54, 255	# ラベル名変更 現在のラベル名に表示
+
+[Terminal_Mission_Order_BGM_Select]
+#			   W     H
+FontScale	= 0.64,	0.64
+
+#		   R    G    B    A
+BGM		= 224, 224, 224, 255	# ミッションBGM選択の、BGM名
+
+
+
+
+
+[Field_Menu_List]
+#			   W     H
+FontScale	= 0.675,	0.72
+
+#			   R    G    B    A
+Disable	= 128, 128, 128, 255	# フィールドメニュー項目Disable
+Enable	= 224, 224, 216, 255	# フィールドメニュー項目Enable
+Select	= 8, 8, 8, 255			# フィールドメニュー項目Select
+Enter	= 224, 224, 216, 255	# フィールドメニュー項目Enter
+Suspend	= 224, 224, 216, 255	# フィールドメニュー項目Suspend(※アナグラショップ用)
+Help	= 224, 224, 224, 255	# ヘルプテキスト用
+Text	= 224, 224, 224, 255	# テキスト用
+
+
+[Field_Menu_Location]
+#			   W     H
+FontScale	= 0.72,	0.72
+
+#			   R    G    B    A
+MapName	= 224, 224, 216, 255	# フィールドの名前
+
+
+[Field_Menu_Option_List]
+#			   W     H
+FontScale	= 0.62,	0.64
+
+#			   R    G    B    A
+Disable	= 128, 128, 128, 255	# フィールドメニュー>オプション項目Disable
+Enable	= 224, 224, 224, 255	# フィールドメニュー>オプション項目Enable
+Select	= 8, 8, 8, 255			# フィールドメニュー>オプション項目Select
+Off		= 224, 224, 224, 255	# フィールドメニュー>オプション>Offテキスト
+On		= 224, 224, 224, 255	# フィールドメニュー>オプション>Onテキスト
+#On		= 8, 8, 8, 255			# フィールドメニュー>オプション>Onテキスト
+
+
+
+[Field_Menu_PC_List]
+#			   W     H
+FontScale	= 0.70,	0.70
+
+#			   R    G    B    A
+Enable	= 242, 242, 242, 255	# フィールドメニュー>ステータス コードネーム/称号 Enable
+Select	= 8, 8, 8, 255	# フィールドメニュー>ステータス コードネーム/称号 Select
+Enter	= 242, 242, 242, 255	# フィールドメニュー>ステータス コードネーム/称号 Enter
+
+
+[Field_Menu_PC_List_Story]
+#			   W     H
+FontScale	= 0.64,	0.64
+
+#			   R    G    B    A
+Enable	= 192, 192, 192, 255	# フィールドメニュー>ステータス ストーリー進行度 Enable
+Select	= 192, 192, 192, 255	# フィールドメニュー>ステータス ストーリー進行度 Select
+Enter	= 192, 192, 192, 255	# フィールドメニュー>ステータス ストーリー進行度 Enter
+
+
+[Field_Menu_ItemName]
+#			   W     H
+FontScale	= 0.675,	0.72
+
+#			   R    G    B    A
+Name	= 242, 242, 242, 255	# フィールドメニュー>ステータス 装備中のアイテム名
+
+
+
+[Field_Menu_ItemCategory]
+#			   W     H
+FontScale	= 0.6,	0.6
+
+#			   R    G    B    A
+Category	= 192, 192, 192, 255	# フィールドメニュー>ステータス 装備中のアイテム種別
+
+[Field_Menu_ItemSkill]
+#			   W     H
+FontScale	= 0.6,	0.6
+
+#			   R    G    B    A
+Skill	= 224, 224, 192, 255	# フィールドメニュー>ステータス 装備品のスキル
+On		= 255, 255, 242, 255	# フィールドメニュー>ステータス>スキル 有効スキルの色
+Off		= 148, 148, 148, 255	# フィールドメニュー>ステータス>スキル 重複無効スキルの色
+killOff	= 242, 80, 80, 255		# フィールドメニュー>ステータス>スキル 相殺無効スキルの色
+
+
+[Field_Menu_Mission_1]
+#					   W     H
+FontScale			= 0.76,	0.76
+
+#			   R    G    B    A
+Mission		= 224, 224, 224, 255	# ミッション名
+
+
+[Field_Menu_Mission_2]
+#					   W     H
+FontScale			= 0.68,	0.68
+
+#			   R    G    B    A
+ItemName	= 192, 192, 192, 255	# 報酬アイテム名
+
+
+[Field_Menu_Mission_3]
+#					   W     H
+FontScale			= 0.64,	0.64
+
+#		   R    G    B    A
+Name	= 224, 224, 224, 255	# 討伐対象アラガミの名前
+NameOK	= 224, 24, 24, 255	# 討伐対象アラガミの名前　目標達成時
+Name_Dis	= 100, 100, 100, 255	# 討伐対象アラガミの名前　Disable
+
+[Field_Menu_Mission_4]
+#					   W     H
+FontScale			= 0.64,	0.64
+
+#			   R    G    B    A
+MissionSub	= 192, 192, 192, 255				# ミッション名副題(英語)
+
+
+[Field_Menu_Mission_5]
+#					   W     H
+FontScale			= 0.70,	0.70
+
+#		   R    G    B    A
+#Name	= 8, 8, 8, 255				# 依頼者の名前
+Name	= 168, 170, 158, 255		# 依頼者の名前
+Text	= 192, 192, 192, 255		# ミッション説明文など
+
+
+
+[Field_Menu_List_1]
+#			   W     H
+FontScale	= 0.56,	0.56
+
+#		   R    G    B    A
+Sort	= 200, 200, 200, 255	# ソートルール
+
+
+[Field_Menu_List_2]
+#			   W     H
+FontScale	= 0.70,	0.70
+
+#			   R    G    B    A
+Enable	= 242, 242, 242, 255	# アイテムリストの文字 Enable
+Select	= 242, 242, 242, 255	# アイテムリストの文字 Select
+Enter	= 242, 242, 242, 255	# アイテムリストの文字 Enter
+Suspend	= 242, 242, 242, 255	# アイテムリストの文字 Suspend
+
+EnableMax	= 248, 64, 64, 255	# アイテムリストの文字 Enable	数MAX
+SelectMax	= 248, 64, 64, 255	# アイテムリストの文字 Select	数MAX
+EnterMax	= 248, 64, 64, 255	# アイテムリストの文字 Enter	数MAX
+SuspendMax	= 248, 64, 64, 255	# アイテムリストの文字 Suspend	数MAX
+
+
+[Messege_Window_Name]
+
+#			   W     H
+FontScale	= 0.72,	0.72
+
+#		   R    G    B    A
+Name	= 218, 202, 150, 255	# メッセージウインドウ　名前
+
+
+[Messege_Window]
+
+#			   W     H
+FontScale	= 0.72,	0.72
+
+#		   R    G    B    A
+Text	= 232, 232, 232, 255	# メッセージウインドウ　セリフ
+
+
+
+[Messege_Answer]
+
+#			   W     H
+FontScale	= 0.68,	0.68
+
+#		   R    G    B    A
+Enable	= 232, 232, 232, 255	# メッセージウインドウ_選択肢 Enable
+Select	= 8, 8, 8, 255			# メッセージウインドウ_選択肢 Select
+Enter	= 250, 242, 210, 255	# メッセージウインドウ_選択肢 Enter
+
+
+
+
+[Anagura_Trg_Info]
+
+#			   W     H
+FontScale	= 0.72,	0.72
+
+#		   R    G    B    A
+Text	= 242, 236, 192, 255	# アナグラの○ボタンインフォメーション
+
+
+[Anagura_Room_Info_1]
+
+#			   W     H
+FontScale	= 0.82,	0.82
+
+#		   R    G    B    A
+Room	= 242, 236, 192, 255	# 現在地インフォメーション　部屋の名前
+
+
+[Anagura_Room_Info_2]
+
+#			   W     H
+FontScale	= 0.68,	0.62
+
+#		   R    G    B    A
+Room	= 192, 192, 192, 255	# 現在地インフォメーション　部屋の名前（英語）
+
+
+[Anagura_Elevator_1]
+
+#			   W     H
+FontScale	= 0.7,	0.7
+
+#		   R    G    B    A
+Help	= 245, 238, 190, 255	# エレベーター　フロア表示　補足説明
+
+
+
+[Anagura_Elevator_2]
+
+#			   W     H
+FontScale	= 0.66,	0.7
+
+#		   R    G    B    A
+Text	= 242, 236, 192, 255	# エレベーター　フロア表示　現在のフロア
+
+
+[Anagura_Elevator_3]
+
+#			   W     H
+FontScale	= 0.66,	0.7
+
+#		   R    G    B    A
+Disable	= 128, 128, 128, 255	# エレベーター　フロア表示　Disable
+Enable	= 224, 224, 216, 255	# エレベーター　フロア表示　Enable
+Select	= 8, 8, 8, 255			# エレベーター　フロア表示　Select
+Enter	= 224, 224, 216, 255	# エレベーター　フロア表示　Enter
+
+[Terminal_Equip_ItemName]
+#			   W     H
+FontScale	= 0.675,	0.72
+
+#			   R    G    B    A
+Name	= 77, 54, 54, 255	# GE2 フィールドメニュー>ステータス 装備中のアイテム名
+
+
+[Terminal_Equip_ItemCategory]
+#			   W     H
+FontScale	= 0.6,	0.6
+
+#			   R    G    B    A
+Category	= 241, 214, 91, 255	# GE2 フィールドメニュー>ステータス 選択中のアイテム種別
+Category2	= 77, 54, 54, 255	# GE2 フィールドメニュー>ステータス リストで装備中のアイテム種別
+
+[Terminal_Equip_List]
+#			   W     H
+FontScale	= 0.68,	0.68
+
+#			   R    G    B    A
+Disable	= 120, 120, 120, 255		# GE2 装備リストの文字 Disable
+Enable	= 252, 234, 190, 255	# GE2 装備リストの文字 Enable
+Select	= 77, 54, 54, 255		# GE2 装備リストの文字 Select
+Enter	= 77, 54, 54, 255	# GE2 装備リストの文字 Enter
+#GEB------
+#Disable	= 64, 64, 64, 128		# 装備リストの文字 Disable
+#Enable	= 250, 242, 210, 255	# 装備リストの文字 Enable
+#Select	= 250, 242, 210, 255	# 装備リストの文字 Select
+#Enter	= 250, 242, 210, 255	# 装備リストの文字 Enter
+
+
+[Bullet_Equip_List]
+#			   W     H
+FontScale	= 0.68,	0.68
+
+#			   R    G    B    A
+Disable	= 64, 64, 64, 128		# GE2 Disable
+Enable	= 224, 224, 224, 255	# GE2 Enable
+Select	= 77, 54, 54, 255		# GE2 Select
+Enter	= 77, 54, 54, 255		# GE2 Enter
+Float	= 255, 247, 227, 230	# GE2 Float
+#GEB----
+#Disable	= 64, 64, 64, 128		# Disable
+#Enable	= 250, 242, 210, 255	# Enable
+#Select	= 16, 16, 16, 255		# Select
+#Enter	= 250, 242, 210, 255	# Enter
+#Float	= 250, 242, 210, 192	# Float
+
+
+[AnaguraInfo]
+
+#					   W     H
+FontScale			= 0.7,	0.7
+
+#			   R    G    B    A
+Text		= 224, 224, 224, 255		# アナグラ内共通インフォメーション
+
+
+[OracleAtelier_1]
+#			   W     H
+FontScale	= 0.72,	0.72
+
+#		   R    G    B    A
+Name	= 250, 242, 210, 255		# バレット名/マクロ名
+
+
+[OracleAtelier_2]
+#			   W     H
+FontScale	= 0.72,	0.72
+
+#			   R    G    B    A
+Number	= 250, 242, 210, 255		# 消費OP(数字)/売却額(数字)
+
+
+
+[Network_Lobby_CodeName]	#DotGot(等倍フォント)に変更しました
+#			   W     H
+#FontScale	= 0.66,	0.66
+FontScale	= 1.00,	1.00
+
+#			   R    G    B    A
+Enable	= 238, 238, 202, 255	# ネットワークロビーCodeName_Enable
+Select	= 8, 8, 8, 255			# ネットワークロビーCodeName_Select
+Enter	= 238, 238, 202, 255	# ネットワークロビーCodeName_Enter
+Suspend	= 8, 8, 8, 255			# ネットワークロビーCodeName_Suspend
+
+
+[Network_Lobby_Story]		#DotGot(等倍フォント)に変更しました
+#			   W     H
+FontScale	= 1.00,	1.00
+#FontScale	= 0.64,	0.64
+
+#			   R    G    B    A
+Enable	= 192, 192, 192, 255	# ネットワークロビーストーリー進行度_Enable
+Select	= 8, 8, 8, 255	# ネットワークロビーストーリー進行度_Select
+Enter	= 192, 192, 192, 255	# ネットワークロビーストーリー進行度_Enter
+Suspend	= 8, 8, 8, 255	# ネットワークロビーストーリー進行度_Suspend
+
+
+[Network_Lobby_Menu]
+#			   W     H
+FontScale	= 0.70,	0.70
+
+#			   R    G    B    A
+Disable	= 192, 192, 192, 255	# ネットワークロビーメニュー_Disable
+Enable	= 238, 238, 202, 255	# ネットワークロビーメニュー_Enable
+Select	= 8, 8, 8, 255			# ネットワークロビーメニュー_Select
+Enter	= 238, 238, 202, 255	# ネットワークロビーメニュー_Enter
+YN_Text	= 238, 238, 202, 255	# ネットワークロビー「○○をキックしますか？/セッションを開始しますか？」用
+
+
+[Network_Lobby_Menu_2]
+#			   W     H
+FontScale	= 0.68,	0.68
+
+#			   R    G    B    A
+Empty	= 164, 164, 164, 255	# 募集を締め切りました
+Close	= 250, 242, 190, 255	# メンバー募集中
+
+
+[OracleEditer_1]
+#			   W     H
+FontScale	= 0.68,	0.68
+
+#			   R    G    B    A
+BulletName	= 179, 178, 178, 255	# バレット名
+
+
+[OracleEditer_2]
+#			   W     H
+FontScale	= 0.72,	0.72
+
+#			   R    G    B    A
+Gold	= 250, 242, 210, 255	# 追加金額
+Disable	= 250, 242, 210, 128	# 追加金額 Disable
+
+
+[OracleEditer_Connect]
+#			   W     H
+FontScale	= 0.64,	0.64
+
+#			   R    G    B    A
+Disable	= 0, 0, 0, 128	# 接続テキスト Disable
+Enable	= 8, 8, 8, 255	# 接続テキスト Enable
+Select	= 8, 8, 8, 255	# 接続テキスト Select
+Enter	= 8, 8, 8, 255	# 接続テキスト Enter
+Disable_0	= 242, 242, 242, 128	# 接続テキスト Disableインデント0(左端)用
+Enable_0	= 242, 242, 242, 255	# 接続テキスト Enableインデント0(左端)用
+Select_0	= 242, 242, 242, 255	# 接続テキスト Selectインデント0(左端)用
+Enter_0		= 242, 242, 242, 255	# 接続テキスト Enterインデント0(左端)用
+
+
+[OracleEditer_Cell]
+#			   W     H
+FontScale	= 0.6,	0.70
+
+#			   R    G    B    A
+Disable	= 8, 8, 8, 128	# セルの数値Disable
+Enable	= 8, 8, 8, 255	# セルの数値Enable
+Select	= 8, 8, 8, 255	# セルの数値Select
+Enter	= 8, 8, 8, 255	# セルの数値Enter
+
+
+[OracleEditer_HV]
+#			   W     H
+FontScale	= 0.67,	0.67
+
+#			   R    G    B    A
+Disable	= 195, 194, 194, 128	# 角度の数値Disable
+Enable	= 195, 194, 194, 255	# 角度の数値Enable
+Select	= 195, 194, 194, 255	# 角度の数値Select
+Enter	= 195, 194, 194, 255	# 角度の数値Enter
+
+[OracleEditer_BBChip]
+#			   W     H
+FontScale	= 0.54,	0.67
+
+#			   R    G    B    A
+Disable	= 195, 194, 194, 128	# BB名の数値Disable
+Enable	= 195, 194, 194, 255	# BB名の数値Enable
+Select	= 195, 194, 194, 255	# BB名のの数値Select
+Enter	= 195, 194, 194, 255	# BB名のの数値Enter
+
+[OracleEditer_Menu]
+#			   W     H
+FontScale	= 0.7,	0.7
+
+#			   R    G    B    A
+Disable	= 128, 128, 128, 255	# 範囲選択メニュー項目Disable
+Enable	= 77, 54, 54, 255	# 範囲選択メニュー項目Enable
+Select	= 77, 54, 54, 255	# 範囲選択メニュー項目Select
+Enter	= 77, 54, 54, 255	# 範囲選択メニュー項目Enter
+#Disable	= 128, 128, 128, 255	# 範囲選択メニュー項目Disable
+#Enable	= 242, 242, 224, 255	# 範囲選択メニュー項目Enable
+#Select	= 8, 8, 8, 255	# 範囲選択メニュー項目Select
+#Enter	= 242, 242, 224, 255	# 範囲選択メニュー項目Enter
+
+
+[OracleEditer_List_Caption]
+#			   W     H
+FontScale	= 0.7,	0.7
+
+#			   R    G    B    A
+ListCaption	= 128, 92, 92, 255	# GE2リスト種類キャプション[接続/水平/垂直/属性・サイズ/セル]
+
+[OracleEditer_List]
+#			   W     H
+FontScale	= 0.68,	0.68
+
+#			   R    G    B    A
+Disable	= 128, 128, 128, 255	# リストDisable
+Enable	= 77, 54, 54, 255	# リストEnable
+Select	= 77, 54, 54, 255	# リストSelect
+Enter	= 77, 54, 54, 255	# リストEnter
+Child_OK	= 210, 242, 142, 255	# 子接続_可
+Child_NG	= 242, 48, 32, 255	# 子接続_不可
+Text		= 77, 54, 54, 255	# セル情報系　242
+AtText		= 39, 42, 46, 255	# セル情報系 弾丸属性
+
+
+[NORN_Top_Menu]
+#			   W     H
+FontScale	= 0.675,	0.675
+
+#			   R    G    B    A
+Disable	= 198, 183, 146, 255	# GE2 ノルントップメニューの文字 Disable
+Enable	= 198, 198, 198, 255	# GE2ノルントップメニューの文字 Enable
+Select	= 77, 54, 54, 255	# GE2ノルントップメニューの文字 Select
+Enter	= 77, 54, 54, 255	# GE2ノルントップメニューの文字 Enter
+#---GEBで使用----
+	#Disable	= 224, 224, 224, 255	# ノルントップメニューの文字 Disable
+	#Enable	= 8, 8, 8, 255	# ノルントップメニューの文字 Enable
+	#Select	= 8, 8, 8, 255	# ノルントップメニューの文字 Select
+	#Enter	= 8, 8, 8, 255	# ノルントップメニューの文字 Enter
+
+
+[NORN_List]
+#			   W     H
+FontScale	= 0.625,	0.625
+
+#			   R    G    B    A
+Disable	= 120, 120, 120, 255	# GE2ノルンリストの文字 Disable
+Enable	= 211, 211, 211, 255	# GE2ノルンリストの文字 Enable
+Select	= 77, 54, 54, 255	# GE2ノルンリストの文字 Select
+Enter	= 77, 54, 54, 255	# GE2ノルンリストの文字 Enter
+#---GEBで使用----
+	#Disable	= 192, 192, 192, 255	# ノルンリストの文字 Disable
+	#Enable	= 238, 222, 182, 255	# ノルンリストの文字 Enable
+	#Select	= 8, 8, 8, 255	# ノルンリストの文字 Select
+	#Enter	= 8, 8, 8, 255	# ノルンリストの文字 Enter
+
+
+[NORN_Topic_Title]
+#			   W     H
+FontScale	= 0.75,	0.75
+
+#		   R    G    B    A
+#Title	= 8, 8, 8, 255	# ノルントピックタイトル
+Title	= 77, 54, 54, 255	# ノルントピックタイトル GE2
+
+[NORN_Topic_Text]
+#			   W     H
+FontScale	= 0.675,	0.675
+
+#		   R    G    B    A
+Default	= 38, 27, 27, 255	# GE2 ノルントピック本文デフォルト色
+	#Default	= 242, 216, 170, 255	# ノルントピック本文デフォルト色
+
+
+[Common_Text_ColorTag]
+#			   W     H
+FontScale	= 0.675,	0.72
+
+#		   R    G    B    A
+Color0	= 10, 152, 137, 255	# GE2 共通カラータグ0 「　」ハイライト
+Color1	= 195, 112, 4, 255	# GE2 共通カラータグ1 ノルンハイライト
+#Color2	= 228, 54, 38, 255		# GE2 共通カラータグ2 ミッション説明ハイライト
+Color2	= 100, 100, 255, 255		# GE2 共通カラータグ2 ミッション説明ハイライト
+
+Color3	= 165, 69, 59, 255	# GE2 共通カラータグ3 属性：火
+Color4	= 67, 145, 165, 255	# GE2 共通カラータグ4 属性：氷
+Color5	= 163, 132, 6, 255	# GE2 共通カラータグ5 属性：雷
+Color6	= 137, 67, 190, 255	# GE2 共通カラータグ6 属性：神
+Color7	= 200, 200, 200, 255		# GE2 共通カラータグ7 注意喚起用 使用箇所がわからないのでひとまず色変更
+
+#Color0	= 130, 242, 224, 255	# 共通カラータグ0 「　」ハイライト
+#Color1	= 255, 255, 255, 255	# 共通カラータグ1 ノルンハイライト
+#Color2	= 255, 54, 54, 255		# 共通カラータグ2 ミッション説明ハイライト
+#
+#Color3	= 255, 140, 128, 255	# 共通カラータグ3 属性：火
+#Color4	= 192, 242, 255, 255	# 共通カラータグ4 属性：氷
+#Color5	= 255, 242, 172, 255	# 共通カラータグ5 属性：雷
+#Color6	= 232, 206, 255, 255	# 共通カラータグ6 属性：神
+#Color7	= 255, 72, 64, 255		# 共通カラータグ7 注意喚起用
+
+#Color0	= 255, 70, 54, 255		# 共通カラータグ0 ユーザーハイライト
+
+
+
+[OracleAngle_1]
+#			   W     H
+FontScale	= 0.68,	0.68
+
+#		   R    G    B    A
+Enable	= 240, 240, 240, 255	# 現在の角度
+
+[OracleAngle_2]
+#			   W     H
+FontScale	= 0.72,	0.72
+
+#		   R    G    B    A
+Enable	= 140, 126, 87, 256	# インフォメッセージ
+
+[OracleViewer_1]
+#			   W     H
+FontScale	= 0.68,	0.68
+
+#			   R    G    B    A
+BulletName	= 228, 212, 172, 224	# バレット名
+
+[OracleViewer_2]
+#			   W     H
+FontScale	= 0.68,	0.68
+
+#		   R    G    B    A
+Text	= 224, 224, 224, 255	# ターゲットの高さ
+Red		= 255, 64, 64, 255		# "非表示"用
+
+[OracleViewer_3]
+#			   W     H
+FontScale	= 0.7,	0.7
+
+#		   R    G    B    A
+Text	= 224, 224, 224, 255	# オラクルの強制終了時ダイアログメッセージ
+
+[OracleViewer_Log]
+#			   W     H
+FontScale	= 0.62,	0.62
+
+#		   R    G    B    A
+Text	= 255, 64, 64, 255	# オラクルのエラーログメッセージ用
+
+
+
+
+
+
+[Field_Player_Name]
+#			   W     H
+FontScale	= 0.72,	0.72
+
+#		   R    G    B    A
+Player1	= 224, 224, 224, 255	# プレイヤー1カラー
+Player2	= 224, 224, 224, 255	# プレイヤー2カラー
+Player3	= 224, 224, 224, 255	# プレイヤー3カラー
+Player4	= 224, 224, 224, 255	# プレイヤー4カラー
+Shadow	= 32, 32, 32, 255	# 影
+OrderColor	= 64, 255, 192, 255		# NPC指示出し「今随伴しているかどうか」
+
+
+
+
+
+[Superimposed_Dialogue]
+#			   W     H
+FontScale	= 0.8,	0.8
+
+#			   R    G    B    A
+TextColor	= 255, 255, 255, 255		# 字幕
+Shadow		= 16, 16, 16, 150		# 字幕影色
+
+
+
+
+[NowLoading_2]
+#			   W     H
+FontScale	= 0.7,	0.7
+
+#		   R    G    B    A
+Text	= 224, 212, 162, 255	# リザルト後の他プレイヤー待ちお知らせテキスト用
+
+
+
+[Rune_KeyBoard_Key]
+#			   W     H
+FontScale	= 0.78,	0.78
+
+#		   R    G    B    A
+Text	= 232, 240, 244, 255	# ルーンキーボード キーの文字用
+UnuseText = 128, 128, 128, 255	# ルーンキーボード キーの文字用（暗転用）
+
+[Rune_KeyBoard_Window]
+#			   W     H
+FontScale	= 0.90,	0.90
+
+#		   R    G    B    A
+Text	= 0, 0, 0, 255	# ルーンキーボード テキスト入力ウインドウ
+Kouho	= 255, 255, 255, 255	# ルーンキーボード テキスト入力ウインドウ　漢字候補反転
+
+
+[Rune_KeyBoard_Title]
+#			   W     H
+FontScale	= 0.78,	0.78
+
+#		   R    G    B    A
+Text	= 192, 162, 90, 255	# ルーンキーボード 入力の場所。見出し。
+
+
+[Rune_KeyBoard_Kanji]
+#			   W     H
+FontScale	= 1.0,	1.0
+
+#		   R    G    B    A
+Text	= 224, 224, 224, 255	# ルーンキーボード 漢字
+
+
+[Rune_KeyBoard_Kanji_Select]
+#			   W     H
+FontScale	= 1.0,	1.0
+
+#		   R    G    B    A
+Text	= 224, 224, 224, 255	# ルーンキーボード 漢字 選択中
+
+
+[Rune_KeyBoard_Kanji_Number]
+#			   W     H
+FontScale	= 1.0,	1.0
+
+#		   R    G    B    A
+Text	= 224, 224, 224, 255	# ルーンキーボード 漢字候補数の数字
+
+
+
+
+
+
+[Avatar_Card_Change_Menu]
+
+#			   W     H
+FontScale	= 0.72,	0.72
+
+#		   R    G    B    A
+Text	= 242, 236, 192, 255	# アバターカード交換メニュー　△ボタンインフォメーション
+Disable	= 121, 118, 96, 255		# アバターカード交換メニュー　△ボタンインフォメーション　暗転
+
+
+[Avatar_Card_Change_Menu_Name]
+
+#			   W     H
+FontScale	= 0.8,	0.8
+
+#		   R    G    B    A
+1P	= 255, 32, 32, 255	# アバターカード交換メニュー　PCの名前1P
+2P	= 64, 192, 255, 255	# アバターカード交換メニュー　PCの名前2P
+3P	= 255,224, 96, 255	# アバターカード交換メニュー　PCの名前3P
+4P	= 160, 255, 96, 255	# アバターカード交換メニュー　PCの名前4P
+
+
+[Avatar_Card_Change_Menu_Help]
+
+#			   W     H
+FontScale	= 0.7,	0.7
+
+#		   R    G    B    A
+Help	= 242, 242, 242, 255	# アバターカードのヘルプテキスト
+Info_1	= 224, 224, 224, 255	# ティッカーテキスト
+
+
+
+
+
+##
+##フェンリルカード関連
+##
+[Avatar_Card_Index]
+#			   W     H
+FontScale	= 0.888,	0.888
+#		   R    G    B    A
+Index	= 77, 54, 54, 255		# フェンリルカード白文字
+Index_s	= 255, 255, 255, 60		# フェンリルカード影文字
+Codename= 205,  45,  45, 255		# コードネーム
+Prize	= 208, 204, 170, 255		# 報酬
+
+[Avatar_Card_List]
+#			   W     H
+FontScale	= 0.65,	0.65
+#		   R    G    B    A
+text	= 255, 255, 255, 255	# リスト項目表記用
+
+[Avatar_Card_List_Label]
+#			   W     H
+FontScale	= 0.60,	0.60
+#		   R    G    B    A
+text	= 255, 255, 255, 255	# 装備セットラベル用
+
+[Avatar_Diary_Line]
+#			   W     H
+FontScale	= 0.666,	0.666
+#		   R    G    B    A
+Date	= 255, 255, 255, 255		# 日誌の日付
+Index	= 247, 239, 206, 255		# 日誌の合成
+Gray	= 171, 171, 171, 255		# 日誌のミッション失敗
+Blue	=  64, 211, 182, 255		# 日誌のミッション成功
+Cream	= 247, 239, 206, 255		# 日誌のミッション内容
+Green	= 183, 255,  95, 255		# 日誌のミッション記録更新
+Red		= 205,  45,  45, 255		# アラガミの種別表示
+White	= 224, 224, 224, 255		# アラガミの個別表示
+
+[Avatar_Weapon_Name]
+#			   W     H
+FontScale	= 0.666,	0.666
+#		   R    G    B    A
+Weapon	= 247, 239, 206, 255		# 神機の種別
+Rate	= 247, 239, 206, 255		# ヒットレートなど
+
+[Avatar_Mission_Name]
+#			   W     H
+FontScale	= 0.666,	0.666
+#		   R    G    B    A
+Disable	= 68, 68, 68, 255		# ミッション名無効色
+Enable	= 214, 214, 189, 255		# ミッション名通常色
+Select	=   8,   8,   8, 255		# ミッション名選択色
+Rank	= 255, 255, 255, 255		# 難易度表示色など
+Code	= 198,  24,  24, 255		# コードネーム
+Equip	= 247, 239, 206, 255		# 装備名など
+Suspend	= 140, 140, 140, 255		# サスペンド時の色
+Comment	= 255,   0,   0, 255		# 説明文字
+
+[Avatar_Mission_Time]				#マルチレイヤーGIMの色乗算用指定
+#			   W     H
+FontScale	= 0.666,	0.666		#フォントサイズは関係無い予定
+#		   R    G    B    A
+Perfect	= 215,  38,	 38, 255			# ソロパーフェクト色
+Multi	= 188, 205,	 45, 255			# マルチ色
+Single	= 250, 166,	 58, 255			# シングル色
+Gray	=  68,  68,	 68, 255			# グレーアウト色
+Cream	= 214, 210, 148, 255			# 同行回数
+Burst	= 206, 141,  21, 255			# リンクバースト回数
+Aid		= 142, 209, 131, 255			# リンクエイド回数
+FF		= 228,  49,  49, 255			# フレンドファイア回数
+LGray	= 128, 128, 128, 255			# 
+Orange	= 217, 148,  21, 255			# 
+Green	= 142, 209, 131, 255			# 
+NoItem	= 242, 242, 242, 255			# NoItem	=  45,  45, 250, 255
+NoDame	= 242, 242, 242, 255			# NoDame	= 180,  50, 220, 255
+Clear	= 119, 196, 212, 255			# クリア回数表示
+Hold	= 255, 210,   0, 255			# 
+Count	= 198,  24,  24, 255			# 
+Info	= 133, 253, 192, 255			# 
+
+[Avatar_Get]
+#			   W     H
+FontScale	= 0.666,	0.666
+#		   R    G    B    A
+New		= 243, 199, 104, 255		# 「新しい神機使いが登録されました」
+Info	= 143, 201, 226, 255		# 「以下の神機使いの情報が更新されました」
+Name	=  77,  54,  54, 255		# 名前
+Index_s	=   0,   0,   0,  80		# 黒 未使用
+Codename= 198,  24,  24, 255		# コードネーム
+Prize	= 208, 204, 170, 255		# 報酬
+
+[Avatar_Get_Index]
+#			   W     H
+FontScale	= 0.78,	0.78
+#		   R    G    B    A
+Index	=  77,  54,  54, 255		# 名前
+Index_s	=   0,   0,   0,  80		# 黒

@@ -1,0 +1,78 @@
+NAMA:event_scr_text
+ENCODING:UTF-8
+CRLF:\n
+ID:
+TYPE:
+JUMLAH_STRING:0026
+===============================================================
+[00000240:00000512:00002015:00066133:00000250:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Anggota Blood baru?
+---------------------------------------------------------
+Ya, Saudari, kami berencana untuk mentransfer
+menuju Blood mulai hari ini
+---------------------------------------------------------
+Gilbert McRae ... Aku pernah mendengar itu ...
+---------------------------------------------------------
+Mungkin, di ruang rapat di kantor pusat?
+Aku ditransfer dari cabang Glasgow
+---------------------------------------------------------
+Aku ingat, "Menandai Gil"...
+Gil sang pembunuh terhebat
+---------------------------------------------------------
+Hey, Rachel....Apa perlu untuk memperkuat Blood?
+disana juga ada seorang pembunuh dan itu sudah cukup....
+---------------------------------------------------------
+Tidak, jika hanya kakak perempuanmu tidak akan cukup
+---------------------------------------------------------
+Kekuatan Blood ialah kekuatan yang akan mengasah
+Keinginan.... Keinginan yang kuat akan menjadi
+inspirasi Keinginan yang baru
+---------------------------------------------------------
+Hey, kakak, Mulai sekarang ayo melanjutkan itu
+untuk mengatasi semua masalah bersama
+---------------------------------------------------------
+Uji Coba yang diberikan ke sekelompok manusia....
+Untuk masa depan umat manusia....
+---------------------------------------------------------
+Ya, Aku tahu, Rachel....
+---------------------------------------------------------
+Itu..... Eee ......
+---------------------------------------------------------
+Jangan memukul secara tiba tiba!
+---------------------------------------------------------
+.....Aku ingin kamu untuk menjelaskan situasinya
+---------------------------------------------------------
+Aku tidak mengerti sedikitpun....
+---------------------------------------------------------
+Aku baru sadar bahwa aku ada didepannya!
+Lalu tiba tiba aku dihajar....
+---------------------------------------------------------
+Kamu adalah seorang kapten....
+---------------------------------------------------------
+Aku Gilbert McLane, Aku kesal dengan, jadi aku hajar balik saja
+---------------------------------------------------------
+meskipun kau dari mana saja, Tolong jangan semena mena
+---------------------------------------------------------
+Dia.... Sangat mudah marah....
+Itulah mengapa aku sedikit keras....
+---------------------------------------------------------
+Eh, Kekerasan itu tidak baik, Seniorku juga terlalu sibuk.
+---------------------------------------------------------
+orang yang pergi dengan cepat akan masuk lebih awal!
+---------------------------------------------------------
+Selesaikan Kasus ini tanpa pertanyaan....
+untuk memulihkan hubungan sehingga informasi pribadi
+tidak dibawa ke medan perang 
+---------------------------------------------------------
+Er! Aku tidak bisa melakukan itu!
+---------------------------------------------------------
+Kamu harus mendukung kami dengan tegas
+---------------------------------------------------------
+Itu tidak mungkin!
+Aku tidak akan melakukan apapun dengan gorila yang ganas!
+---------------------------------------------------------

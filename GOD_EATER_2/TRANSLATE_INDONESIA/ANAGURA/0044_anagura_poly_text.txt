@@ -1,0 +1,252 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0104
+===============================================================
+[00000552:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+Dengan otoritas anda saat ini,anda tidak dapat masuk ke ruangan tersebut
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+Meskipun itu tugas terakhir, saya memiliki rasa keamanan
+Bisakah saya memimpin anggota seperti itu ...
+---------------------------------------------------------
+Saya sangat menantikan bertugas bersama anda...
+
+---------------------------------------------------------
+Fran
+---------------------------------------------------------
+Frei mengubah arah menjadi "cabang Timur Jauh"
+Kami sedang melanjutkan operasi
+---------------------------------------------------------
+Ini akan memakan waktu yang cukup lama...Brad meminta anda untuk melanjutkan misi
+---------------------------------------------------------
+Gill
+---------------------------------------------------------
+Apakah ada pengembang senjata GOD ARC?
+Mereka adalah orang-orang yang belum pernah saya lihat ... ....
+---------------------------------------------------------
+Julius
+---------------------------------------------------------
+Berkat tindakan cepat Anda
+Kami dapat mengevakuasi semua warga sipil dengan selamat ... ... kami ucapkan terima kasih
+---------------------------------------------------------
+Mulai sekarang, tolong perhatikan serangan jarak jauh Goboro Guboro
+Taktik menyerang  pada jarak  sisi samping efektif
+---------------------------------------------------------
+Titik lemah Aragami juga terdapat dalam database
+Referensi bagus
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Hanya ketika berbicara dengan wakil Kapten
+Keadaan Ciel aneh, bukan
+---------------------------------------------------------
+By the way, selama waktu ini, Anda dan dua orang sedang berbicara dengan Ciel dan dia bukan?
+Apa yang sedang kamu bicarakan?
+---------------------------------------------------------
+Sialan
+---------------------------------------------------------
+Oh, terima kasih ... ...
+---------------------------------------------------------
+Petugas Friar
+---------------------------------------------------------
+Dr Kujow, peralatan eksperimen sudah siap, tapi ... ....
+---------------------------------------------------------
+Oh terima kasih.
+Kami akan periksa nanti ... ...
+---------------------------------------------------------
+Senang bertemu dengan mu,Saya minta maaf tapi
+Ini sedikit kesal, jadi sekarang ... ...
+---------------------------------------------------------
+Rachel
+---------------------------------------------------------
+Dalam waktu dekat, saya ingin bertanya sesuatu kepada anda
+---------------------------------------------------------
+Sebagai anggota Blood, tolong tunjukkan kekuatannya sampai penuh
+---------------------------------------------------------
+Petugas Friar
+---------------------------------------------------------
+Menurut laporan, tampaknya "awan awan merah" akan segera terjadi
+Ketika Anda pergi keluar, berhati-hatilah !!
+---------------------------------------------------------
+Tidak mungkin, apakah Anda tidak tahu "hujan merah"?
+---------------------------------------------------------
+Ini berbeda dari "Awan merah"
+Tidak mungkin....., apakah Anda tidak tahu "hujan merah"?
+---------------------------------------------------------
+Awan merah?Cumulonimbus?
+---------------------------------------------------------
+Cumulonimbus?
+---------------------------------------------------------
+"Hujan merah" menyebabkan infeksi parah di tubuh manusia ... ...
+Karena terdapat dalam database, Anda harus melihatnya
+---------------------------------------------------------
+Petugas Friar
+---------------------------------------------------------
+Dr Kujow adalah manajer pengembangan dalam operasi pasukan mesin tanpa awak
+---------------------------------------------------------
+Jangan memasang muka seperti itu, itu tidak membantu apapun..
+Dan skrg sepertinya akan sibuk smntara waktu
+---------------------------------------------------------
+Romeo
+---------------------------------------------------------
+Aku lelah!, Berbicara dengan Direktur, ini selalu seperti ini
+Umumnya tidak masalah apa yang Anda lakukan, itu perasaan buruk
+---------------------------------------------------------
+Julius
+---------------------------------------------------------
+Suaraku besar, Romeo
+Tanpa pelindung punggungnya ...... Lalat ini tidak akan berputar
+---------------------------------------------------------
+Yah, yah, yah, aku mengerti ... baik Kalau begitu, itu benar ......
+Jika Anda berbicara dengan suara lebih keras, apakah tidak ada masalah?
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat? <@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Semua ditulis dalam bahasa Rusia <@>
+---------------------------------------------------------
+Ini terlihat seperti majalah atau katalog
+Saya tidak mengerti karena semuanya ditulis dalam bahasa Rusia <@>
+---------------------------------------------------------
+Ini terlihat seperti file teks.... sepertinya file teks  Dikunci dan tidak dapat dilihat <@>
+---------------------------------------------------------
+Модный　журнал
+---------------------------------------------------------
+Дневник
+---------------------------------------------------------
+Berhentilah mencari...
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat? <@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Saya tidak melakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat? <@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat arsip
+---------------------------------------------------------
+Saya tidak melakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat? <@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Ada banyak file terkait taktik <@>
+---------------------------------------------------------
+"Signal Bullet" mengacu pada item yang digunakan untuk memberikan instruksi kepada kawan dalam misi<@>
+---------------------------------------------------------
+Kisaran pengaruh "Bullet signal" ada dua jenis "Wide area signals" dan "Narrow Range signal"<@>
+---------------------------------------------------------
+"Wide area signal" untuk semua anggota yang berpartisipasi dalam misi
+"Narrow area signal" hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+Ada 4 jenis "signal bullet" yang bisa digunakan <@>
+---------------------------------------------------------
+"Wide-area Signal: all hands set", "Narrow-Band Signal: Menunggu penyebaran,"
+"narrow-band signal: Mencari serangan musuh," "narrow-band signal: Set"<@>
+---------------------------------------------------------
+Untuk informasi lebih dari setiap sinyal, lihat "Database" <@>
+---------------------------------------------------------
+"Control Unit" diaktifkan dengan "Burst Skill"<@>
+---------------------------------------------------------
+"Control Unit" diaktifkan dengan "Burst Skill"<@>
+---------------------------------------------------------
+Juga tergantung pada "control unit" dan skill yang terpasang didalamnya maka Title akan berubah<@>
+---------------------------------------------------------
+Saya tidak bisa membukanya karena saya tidak punya izin <@>
+---------------------------------------------------------
+Panduan taktis lanjutan: Bullet signal
+---------------------------------------------------------
+Panduan taktis lanjutan: Unit kontrol
+---------------------------------------------------------
+ＮＯ　ＮＡＭＥ
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat? <@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+File-file tersebut diatur
+Sangat mudah untuk melihat <@>
+---------------------------------------------------------
+Dengan "kartu avatar" bertukar dengan "avatar"
+Ini tentang teman yang dapat berpartisipasi dalam misi kapan saja <@>
+---------------------------------------------------------
+Ada dua cara untuk bertukar "Avatar Card"
+Salah satu caranya adalah secara manual bertukar di "Multiplayer"<@>
+---------------------------------------------------------
+Yang lainnya adalah "pertukaran kartu yang lewat"
+Hingga 3 kartu dapat ditukar sekaligus <@>
+---------------------------------------------------------
+"Avatar card" dapat diperbarui dengan bertukar dengan lawan yang sama
+dengan melakukan "Multipemain" atau "melewati pertukaran kartu"<@>
+---------------------------------------------------------
+Sebagai imbalan karena menyelesaikan tugas<dengan anggota lain
+"Material avatar" bisa diambil<@>
+---------------------------------------------------------
+Memo Barrett <@>
+---------------------------------------------------------
+"rebounding bullet "adalah peluru yang memiliki efek memulihkan kekuatan fisik Anda
+Namun, itu tidak berfungsi untuk orang yang menembak <@>
+---------------------------------------------------------
+Untuk Bullet dengan sifat yang sangat istimewa
+penggunaan God arc terbatas<@>
+---------------------------------------------------------
+Hanya satu bagian, dengan sedikit kamelia dan gentian
+Ada foto-foto Sakuya bersama <@>
+---------------------------------------------------------
+Yang lainnya adalah foto yang relatif baru <@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Barrett
+---------------------------------------------------------
+Foto
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+aku mulai,tapi sepertinya layar rusak dan sulit untuk dilihat <@>
+---------------------------------------------------------
+Apa yang kamu lihat? <@>
+---------------------------------------------------------
+Setiap file terkunci
+Anda tidak dapat melihatnya <@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------

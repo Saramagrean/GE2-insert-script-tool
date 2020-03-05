@@ -1,0 +1,91 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0032
+===============================================================
+[00000264:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Emil
+---------------------------------------------------------
+Terima kasih sudah menemaniku dalam misi ... apa aku bisa 
+minta bantuanmu lagi?<@>
+---------------------------------------------------------
+Gampar aku!<@>
+---------------------------------------------------------
+Ngapain njir?
+---------------------------------------------------------
+Oke, gua hajar lu, sini lu
+---------------------------------------------------------
+saat misi sebelumnya, aku disuruh menonaktifkan trap <@>
+---------------------------------------------------------
+tapi saat itu aku berpikir "kok gak adil ya" mungkin itu 
+kata-kata aku yang dulu katakan
+---------------------------------------------------------
+Aku berpikir untuk menyerah akan kesombonganku, dan berhenti 
+pilih-pilih untuk menolong orang-orang, tapi...!<@>
+---------------------------------------------------------
+Kita bisa bilang misi kita sukses, soalnya gaada yang 
+terluka<@>
+---------------------------------------------------------
+Walaupun, aku gabisa menjaga ucapanku sendiri, aku gabisa 
+maafin diriku sendiri!<@>
+---------------------------------------------------------
+Jadi tolong! jika kau tidak menamparku, aku gabisa maafin 
+diriku sendiri!<@>
+---------------------------------------------------------
+Sebelum itu...
+---------------------------------------------------------
+Lama amat sih, pukul sini!<@>
+---------------------------------------------------------
+Apa? lu takut!? cupu lu! sini hajar gua! atau elu gua hajar 
+duluan? hah? ayo!!<@>
+---------------------------------------------------------
+Hajar
+---------------------------------------------------------
+Pukul
+---------------------------------------------------------
+Gebukin
+---------------------------------------------------------
+Yah, itu lumayan kerad...
+---------------------------------------------------------
+Yah, kerad juga kamu ya...
+---------------------------------------------------------
+Dengan ini aku merasa seperti ada perubahan pada hatiku dan 
+aku merasa ada yang memberiku kekuatan misterius entah dari 
+mana...<@>
+---------------------------------------------------------
+Ayo, jangan sok ksatria lagi kali ini<@>
+---------------------------------------------------------
+Benar, ayo
+---------------------------------------------------------
+Tidak, gapapa kok, gapapa
+---------------------------------------------------------
+Kau pasti penasaran dengan alasanku kan?<@>
+---------------------------------------------------------
+Kau pasti penasaran dengan alasanku kan? Jadi gi... 
+Owie!<@>
+---------------------------------------------------------
+...Maafkan aku, aku akan jelaskan<@>
+---------------------------------------------------------
+Sebenarnya ini terlihat seperti itu tapi, ini suatu hal yang 
+penting bagiku
+---------------------------------------------------------
+Sebenarnya, jika kau lihat dari jarak dekat kau akan 
+berpikir ini hal sepele, tetapi tetap saja...<@>
+---------------------------------------------------------
+Huh? kau mau memukulku? oh, okay, aku mengerti<@>
+---------------------------------------------------------
+Ah! lain kali aku tak akan kalah padamu!<@>
+---------------------------------------------------------
+Tak perlu sungkan, kau jelas punya jiwa ksatria dalam 
+dirimu
+---------------------------------------------------------
+Huh, jika ini latihan gelud tangan kosong harusnya kamu 
+kasih tau sebelum mulai...<@>
+---------------------------------------------------------

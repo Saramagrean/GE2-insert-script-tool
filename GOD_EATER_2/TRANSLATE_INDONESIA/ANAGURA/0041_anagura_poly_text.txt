@@ -1,0 +1,283 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0110
+===============================================================
+[00000576:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+NAMA=70_anagura_poly_text.txt
+Ciel
+---------------------------------------------------------
+Entah kenapa,tampaknya hari ini sangatlah cerah
+Terima kasih untuk itu..
+---------------------------------------------------------
+Ya,ya！
+Terima kasih juga
+---------------------------------------------------------
+Eh?ah,benar juga……
+Maap……
+---------------------------------------------------------
+Senang bertemu denganmu
+---------------------------------------------------------
+Aku belum melakukan apapun
+---------------------------------------------------------
+Fran
+---------------------------------------------------------
+Dalam perjalanan dari friar,aku diserang aragami
+Suplemen private facilities
+---------------------------------------------------------
+Kapten julius,nana dan gill sedang berlayar
+Saat kita tiba,kita akan mengamankan keselamatan warga sipil dan
+memulai pengarahan evakuasi
+---------------------------------------------------------
+Tiga yang tersisa adalah kapten,ciel dan romeo
+Kita akan membersihkan alpacas mini dalam jejaknya
+---------------------------------------------------------
+Dimisi,lakukanlah dengan cepat dan tetap selamat
+Apa kau siap ?
+---------------------------------------------------------
+Tugas berikutnya adalah untuk menuntun evakuasi warga sipil
+dan mengamankannya
+Apa kau siap ?
+---------------------------------------------------------
+Gill
+---------------------------------------------------------
+Ciel..dia tiba-tiba meminta maaf
+Telah dikatakan bahwa buruknya jika aku menekan opiniku…
+---------------------------------------------------------
+Jadi,kau mencoba untuk banyak belajar……
+Aku juga memerlukannya
+---------------------------------------------------------
+Julius
+---------------------------------------------------------
+Ciel juga tampaknya telah mengambil alih keadaannya……
+Tampaknya juga kefrustasian dari temanku sudah diselesaikan
+lebih dari apapun
+---------------------------------------------------------
+Wakil kapten..kerja bagus
+Terima kasih
+---------------------------------------------------------
+Rachel
+---------------------------------------------------------
+Maaf..aku ingin tau apakah aku akan menghapusnya seselah itu
+---------------------------------------------------------
+Sebuah perbaikan masalah dari godmen soldier
+Sebelum direktur grem kembali,kau harus meletakannya bersama
+---------------------------------------------------------
+Hanya informasi yang berharga untuk operasi yang harus dijaga……
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Karena aku tak bisa menggunakan senjata
+Aku tak bisa menggunakannya...hey……
+---------------------------------------------------------
+……Baiklah,telah kuputuskan！
+Ayo kita lakukan pelatihan special di ciel sekarang！
+---------------------------------------------------------
+jangan…
+Pertama-tama,disekitar seniornya romeo……
+---------------------------------------------------------
+raquel
+---------------------------------------------------------
+Diantar fasilitas yang ditandai di berbagai tempat
+Terdapat banyak hal dimana fasilitas pertahanan yang cukup
+---------------------------------------------------------
+Ini misi yang penting untuk memperlebar bantuan tangan kesemua orang
+Tolonglah orang yang ketakutan dengan kekuatanmu
+---------------------------------------------------------
+Petugas Friar
+---------------------------------------------------------
+Setiap saat,hal yang tak penting dibawa sebagai rencana
+Ini hal yang biasa untuk mendapat situasi yang tak terduga
+---------------------------------------------------------
+Tak peduli apapun yang terjadi
+Persiapkanlah dengan baik
+---------------------------------------------------------
+Petugas Friar
+---------------------------------------------------------
+Menurut ketentuan operasi dari shinkanse,sebuah suara
+dipanggil untuk operasi
+Tampaknya itu terlalu berlebihan
+---------------------------------------------------------
+Di operasi ini,resiko penghuni sangatlah tinggi
+Tampaknya ada rumor yang sementara dibekukan untuk mengurangi harganya……
+---------------------------------------------------------
+Jadi,segalanya akan menjadi satu diperut besat direktur grem tapi
+---------------------------------------------------------
+Romeo
+---------------------------------------------------------
+Tugas berikutnya dimana aku,ciel dan wakil kapten akan dipisahkan 3 battalion
+Aku dengar dari ciel bahwa ia akan segera bergerak
+---------------------------------------------------------
+Ciel..atmosfir yang menabjubkan itu tampaknya melembut
+Itu agak melegakan
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Semuanya tertulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Itu terlihat seperti majalah model atau katalog
+Aku tidak tau karena tertulis dalam bahasa rusia<@>
+---------------------------------------------------------
+Terlihat seperti file berteks
+Aku tidak bisa melihatnya karena tersembunyi<@>
+---------------------------------------------------------
+Модный　журнал
+---------------------------------------------------------
+Дневник
+---------------------------------------------------------
+Berhentilah mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+mau apa kamu？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+melihat file2 lain
+---------------------------------------------------------
+Hanya data dari bagasle yang kuambil<@>
+---------------------------------------------------------
+Ini tampaknya sangat direkomendasika kota
+Tampaknya seperti johnny berbicara dengan hommiesnya<@>
+---------------------------------------------------------
+Apa yang kau katakan…<@>
+---------------------------------------------------------
+Foto keluarga ini terlihat membingungkan<@>
+---------------------------------------------------------
+Baggarery＃２５６
+---------------------------------------------------------
+Baggarery＃１９９６
+---------------------------------------------------------
+Keluarga
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Jangan lakukan apa-apa
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Terdapat banyak taktik dalam file terkait<@>
+---------------------------------------------------------
+"Signal Bullet" mengacu pada item yang digunakan untuk memberikan instruksi kepada kawan dalam misi<@>
+---------------------------------------------------------
+Kisaran pengaruh "Bullet signal" ada dua jenis "Wide area signals" dan "Narrow Range signal"<@>
+---------------------------------------------------------
+"Wide area signal" untuk semua anggota yang berpartisipasi dalam misi
+"Narrow area signal" hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+Terdapat 4 jenis "peluru signal" yang dapat digunakan<@>
+---------------------------------------------------------
+Signal ber-area lebar : Set aggregate  Signal ber-area sempit : set
+Signal berjarak lebar : Set                      Signal berjarak pendek : Mencari serangan musuh<@>
+---------------------------------------------------------
+Untuk informasi lebih detail silahkan liat database<@>
+---------------------------------------------------------
+"Control Unit" diaktifkan dengan "Burst Skill"<@>
+---------------------------------------------------------
+"Burst skill" menunjukan efel saat dalam burst
+Adalah sebuah skill special<@>
+---------------------------------------------------------
+Juga tergantung pada "control unit" dan skill yang terpasang didalamnya maka Title akan berubah<@>
+---------------------------------------------------------
+Aku tidak bisa membukanya karena tidak
+memiliki izin<@>
+---------------------------------------------------------
+Petunjuk taktis senior : peluru signal
+---------------------------------------------------------
+Petunjuk taktis lebih lanjut : Kontrol unit
+---------------------------------------------------------
+ＮＯ　ＮＡＭＥ
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Filenya tersusun rapi 
+Mudah untuk melihatnya<@>
+---------------------------------------------------------
+Dengan "kartu avatar" tukar dengan "avatar"
+teman yang akan bisa berpartisipasi 
+dalam misi kapan saja
+<@>
+---------------------------------------------------------
+Terdapat 2 cata dalam bertukar "kartu avatar"
+Cara pertama secara manual bertukar
+saat "Multiplayer"<@>
+---------------------------------------------------------
+Cara yang lain adalah dengan "Perukaran kartu langsung"
+Batas 3 kartu yang dapat ditukar secara bersamaan<@>
+---------------------------------------------------------
+"Kartu avatar" dapat diupdate dengan teman yang sama
+Dengan "Multiplayer" atau "Redemption card exchange"<@>
+---------------------------------------------------------
+Sebagai imbalan karena menyelesaikan tugas<dengan anggota lain
+"Material avatar" bisa diambil<@>
+---------------------------------------------------------
+Memo bullet<@>
+---------------------------------------------------------
+Rebounding bullet adalah bullet dengan efek untuk memulihkan kekuatan teman.
+Namun, tidak memiliki efek bagi orang yang menembak<@>
+---------------------------------------------------------
+Untuk Bullet dengan sifat yang sangat istimewa
+penggunaan God arc terbatas<@>
+---------------------------------------------------------
+Hanya ada satu potongan,dengan Tsubaki dan Lindow waktu kecil
+Ada juga foto bersama sakuya<@>
+---------------------------------------------------------
+Foto yang lain relatif baru<@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Bullet
+---------------------------------------------------------
+Foto
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Aku telah memulainya
+Tapi tampilannya rusak dan sulit dilihat<@>
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Semua file terkunci
+Aku tidak bisa melihatnya<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------

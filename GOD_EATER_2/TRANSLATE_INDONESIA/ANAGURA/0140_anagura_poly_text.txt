@@ -1,0 +1,350 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0140
+===============================================================
+[00000696:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+"Kami sedang mengganti pakaian jadi kami tidak bisa masuk kamar"
+……Ada tertulis
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas saat ini di ruangan ini
+Aku tidak bisa masuk
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas saat ini, di ruangan ini
+Aku tidak bisa masuk
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas saat ini, di ruangan ini
+Aku tidak bisa masuk
+---------------------------------------------------------
+Alisa
+---------------------------------------------------------
+Awan merah besar dengan magnitude yang belum pernah terjadi sebelumnya
+Tampaknya itu terbentuk di sekitar pangkalan satelit ... ...
+---------------------------------------------------------
+Kami akan sepenuhnya mendukungmu juga
+Mari lakukan yang terbaik untuk mengevakuasi orang sebanyak mungkin
+---------------------------------------------------------
+Itu kata, Romeo
+Mengatakan "Ada gunanya untuk Yuno" ...
+---------------------------------------------------------
+Di depan pintu ruangan tertulis "ganti baju"
+aku menunggu dengan sikap yang tajam
+---------------------------------------------------------
+Bahkan jika kamu tidak gugup ada apa-apa ......
+---------------------------------------------------------
+Asuna
+---------------------------------------------------------
+Hah ... ... Kepala lain ... ...
+---------------------------------------------------------
+Kalbi
+---------------------------------------------------------
+Kalbi
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+Segala sesuatu tentang kesuksesan ini adalah berkat kerjasama Profesor Rachel ......
+Seperti yang diharapkan itu seperti seorang guru
+---------------------------------------------------------
+Gill
+---------------------------------------------------------
+Tampaknya dimasukkan ke dalam operasi dari contoh tentara God machine tiba - tiba,
+Ini firasat buruk tapi hei ... ...
+---------------------------------------------------------
+Hibari
+---------------------------------------------------------
+Kapten Julius memberitahu kita tentang tugas selanjutnya
+Pertama-tama, silakan periksa
+---------------------------------------------------------
+Aku tidak dapat menemukan  Romeo ... ...
+Tidak tahu kemana pergi?
+---------------------------------------------------------
+Blood telah mengeluarkan misi pertahanan untuk pangkalan satelit
+Ini adalah tugas bersama formal pertama dengan Shinkansen, apakah Kau siap?
+---------------------------------------------------------
+Aku berdoa untuk seni bela diri
+---------------------------------------------------------
+Julius
+---------------------------------------------------------
+Tugas kali ini akan membutuhkan tindakan cepat dan tepat
+Segera setelah Kamu siap, silakan melamar tugas ke operator
+---------------------------------------------------------
+Tampaknya tes God machine berhasil,
+Itu menyakitkan.
+---------------------------------------------------------
+Tugas berikutnya adalah Divine Soldier dan Blood
+Selain itu, unit cabang Far East juga diluncurkan, strategi operasi gabungan yang besar
+---------------------------------------------------------
+Dengan sistem yang dikembangkan oleh Dr. Rachel, satelit sekitarnya
+Diharapkan bahwa sejumlah besar "hujan merah" akan turun secara lokal
+---------------------------------------------------------
+prajurit God machine mengawal warga yang mengungsi
+Sementara itu, kami akan mencoba mempertahankan pangkalan satelit
+---------------------------------------------------------
+Canon
+---------------------------------------------------------
+Dengan Bullet yang eksplosif, Aku menuju ke misi,
+Aku benar-benar marah.
+---------------------------------------------------------
+"Bagaimana kalau kamu terluka dan terluka!"
+...... Agak mengerikan, Haru-san ternyata sangat ramah
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Mogmog ...... Mogmog ...... Gokkin!
+Aku memakannya.
+---------------------------------------------------------
+Aku merasa sangat lapar untuk beberapa alasan, terlihat bagus di meja
+Karena kue dimasukkan, Aku ingin makan dengan sembrono
+---------------------------------------------------------
+Oh ... tunggu sebentar
+Perutku ......
+---------------------------------------------------------
+Perawat
+---------------------------------------------------------
+Di kamar rumah sakit ini, orang dengan limfoma hitam sembuh
+---------------------------------------------------------
+Karena Anda mungkin terinfeksi dengan blackberre jika Anda menghubungi orang yang terkena dampak
+Harap perhatikan dengan sungguh-sungguh
+---------------------------------------------------------
+Romeo
+---------------------------------------------------------
+Hei, apakah misi itu segera?
+Mari kita selesaikan lebih awal dan mari kita kembali bersama!
+---------------------------------------------------------
+Yu, Yuno!
+Ah ... ... satu, aku memiliki kebaikan ......
+---------------------------------------------------------
+Aku adalah anggota Blood, aku telah terhindar dari semua sementara waktu
+Aku tidak bisa melakukan apa pun yang akan Aku bayar kembali ... ...
+---------------------------------------------------------
+Jadi, itu ... ... Begitu strategi ini selesai ......
+Aku ingin Kau menyanyikan satu lagu hanya untuk Blood
+---------------------------------------------------------
+Yuno bernyanyi, ketika mendengarkan aku maksudkan bahwa kelelahan akan berhembus,
+Pokoknya, aku akan sembuh ......
+---------------------------------------------------------
+Jadi...
+---------------------------------------------------------
+Yuno
+---------------------------------------------------------
+Ya ... Tidak apa-apa.
+---------------------------------------------------------
+Ho! Sungguh! Apa?
+---------------------------------------------------------
+Bukankah itu alami?
+Sebagai gantinya, janjikan hanya satu
+---------------------------------------------------------
+Selalu, semua orang tinggal dan pulang ke rumah
+……Apakah itu tidak apa apa?
+---------------------------------------------------------
+diterima!
+Terima kasih, A ... ... Aku menantikannya!
+---------------------------------------------------------
+Mutsumi
+---------------------------------------------------------
+Oh, aku ingin tahu di mana aku mendapatkannya ......
+Seharusnya aku meninggalkannya di sini.
+---------------------------------------------------------
+Tanggal kedaluwarsa telah berakhir, jadi aku berpikir untuk membuangnya ... ...
+Apakah seseorang menyadarinya dan membuangnya?
+---------------------------------------------------------
+Satsuki
+---------------------------------------------------------
+Sebagai seorang jurnalis, ini adalah operasi gabungan dari tentara God machine dan penggunaan God machine
+Aku tidak bisa melewatkannya
+---------------------------------------------------------
+Judulnya adalah "kemungkinan baru untuk memutar masa depan umat manusia"
+Apakah ada tempat?
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Semua tertulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti majalah mode atau katalog
+Aku tidak tahu karena semuanya tertulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti file teks
+Aku tidak bisa melihatnya karena terkunci<@>
+---------------------------------------------------------
+Модный　журнал
+---------------------------------------------------------
+Дневник
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat?<@>
+---------------------------------------------------------
+Buka terminalく
+---------------------------------------------------------
+Tidak melakukan apapun
+---------------------------------------------------------
+
+---------------------------------------------------------
+apa yan kau lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Tonton arsipnya
+---------------------------------------------------------
+ga lakuin apaapa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Ada banyak taktik terkait file<@>
+---------------------------------------------------------
+"Signal Bullet" mengacu pada item yang digunakan untuk memberikan instruksi kepada kawan dalam misi<@>
+---------------------------------------------------------
+Kisaran pengaruh "Bullet signal" ada dua jenis "Wide area signals" dan "Narrow Range signal"<@>
+---------------------------------------------------------
+"Wide area signal" untuk semua anggota yang berpartisipasi dalam misi
+"Narrow area signal" hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+Ada 4 jenis "sinyal peluru" yang bisa digunakan<@>
+---------------------------------------------------------
+"Wide-area Signal: all hands set", "Narrow-Band Signal: Menunggu penyebaran,"
+"narrow-band signal: Mencari serangan musuh," "narrow-band signal: Set"<@>
+---------------------------------------------------------
+Untuk informasi rinci tentang masing-masing sinyal, lihat "Database"<@>
+---------------------------------------------------------
+"Control Unit" diaktifkan dengan "Burst Skill"<@>
+---------------------------------------------------------
+"Burst Skill" menunjukkan efeknya hanya selama ledakan
+Ini adalah keterampilan khusus<@>
+---------------------------------------------------------
+Juga tergantung pada "control unit" dan skill yang terpasang didalamnya maka Title akan berubah<@>
+---------------------------------------------------------
+Saya tidak bisa membukanya karena aku tidak punya izin<@>
+---------------------------------------------------------
+Panduan taktis senior: sinyal peluru
+---------------------------------------------------------
+Panduan taktis lanjutan: Control Unit
+---------------------------------------------------------
+ＮＯ　ＮＡＭＥ
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+File-file tersebut diatur
+Sangat mudah untuk dilihat<@>
+---------------------------------------------------------
+Dengan "Avatar Card" bertukar dengan "Avatar"
+Itu adalah teman yang dapat berpartisipasi dalam misi kapan saja<@>
+---------------------------------------------------------
+Ada dua cara untuk bertukar "Avatar Card"
+Salah satu caranya adalah bertukar secara manual di "Multiplayer"<@>
+---------------------------------------------------------
+cara lainnya adalah "exchange of passing cards"
+Hingga 3 kartu dapat ditukar sekaligus<@>
+---------------------------------------------------------
+"Avatar card" dapat diperbarui dengan bertukar dengan lawan yang sama
+Dengan melakukan "Multiplayer" atau "Redemption card exchange"<@>
+---------------------------------------------------------
+Sebagai imbalan karena menyelesaikan tugas<dengan anggota lain
+"Material avatar" bisa diambil<@>
+---------------------------------------------------------
+Bullet memo<@>
+---------------------------------------------------------
+"Rebounding bullet" adalah peluru yang memiliki efek mengembalikan kekuatan fisik Kamu
+Namun, itu tidak berhasil untuk orang yang menembak sendiri<@>
+---------------------------------------------------------
+Untuk Bullet dengan sifat yang sangat istimewa
+penggunaan God arc terbatas<@>
+---------------------------------------------------------
+Hanya satu bagian, ada Tsubaki dan Lindow dan gambar Sakuya bersama<@>
+---------------------------------------------------------
+Yang lainnya adalah foto yang relatif baru<@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Bullet
+---------------------------------------------------------
+Photo
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Saya mulai, tapi
+Layar rusak dan sulit dilihat<@>
+---------------------------------------------------------
+Apa yang kau lihat?<@>
+---------------------------------------------------------
+Setiap file terkunci
+Aku tidak bisa melihatnya<@>
+---------------------------------------------------------
+Buka terminalく
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Kigrumi
+---------------------------------------------------------
+……
+---------------------------------------------------------
+Damian
+---------------------------------------------------------
+Apa yang kalian lakukan seperti biasa
+---------------------------------------------------------
+Itu benar ...... Misi ini akan menjadi lomba ketahanan
+Lawan dengan tenang agar Kamu tidak pernah kehabisan barang dengan cepat
+---------------------------------------------------------
+Aragami dikonfirmasi adalah Fallen  Quadriga, Vajra
+Semua memiliki atribut es dan serangan menghancurkan dengan pistol efektif
+---------------------------------------------------------
+Quadriga, bagaimanapun, terganggu oleh bombardir jarak jauh
+Seperti yang Kau lihat, tidak ada yang lebih baik untuk mengalahkan lebih dulu
+---------------------------------------------------------
+Kepada orang-orang adalah untuk mendengarkan sesuatu, itu tidak memalukan
+Pastikan untuk hidup dan pulang ke rumah.
+---------------------------------------------------------
+Aku gugup
+---------------------------------------------------------
+Saya berjuang dengan strategi misi berikutnya
+---------------------------------------------------------
+Pertempuran besar-besaran pertama pasukan God machine ... ...
+Sejarah Penggunaan God machine dapat berubah di sini
+---------------------------------------------------------
+Penjual
+---------------------------------------------------------
+Apakah Kamu ingin membeli sesuatu?
+---------------------------------------------------------
+Yuno
+---------------------------------------------------------
+Panduan evakuasi adalah ke pangkalan satelit
+Ini misi bersama ... ... Terima kasih untuk semuanya
+---------------------------------------------------------

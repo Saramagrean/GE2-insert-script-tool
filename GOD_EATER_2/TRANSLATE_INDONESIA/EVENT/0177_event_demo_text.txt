@@ -1,0 +1,105 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0034
+===============================================================
+[00000272:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Ciel
+---------------------------------------------------------
+Sekali lagi, aku berharap bekerja dengan
+baik denganmu mulai sekarang
+---------------------------------------------------------
+Pertama-tama, Aku ingin mengkonfirmasi sesuatu<@>
+---------------------------------------------------------
+Berapa kali kau pergi dalam misi sebagai
+seorang anggota Blood?<@>
+---------------------------------------------------------
+Beberapa kali
+---------------------------------------------------------
+Sering dong ane pro
+---------------------------------------------------------
+Ntah...
+---------------------------------------------------------
+Jadi dengan kata lain, pengalamanmu sedikit<@>
+---------------------------------------------------------
+Dimengerti, Kalau begitu kita bisa latihan taktik 
+kerjasama tim, dimulai dari misi selanjutnya<@>
+---------------------------------------------------------
+Adakah pertanyaan lain, 
+Vice-Captain??<@>
+---------------------------------------------------------
+Sepertinya kau dan Julius lulus dari tempat yang sama?
+---------------------------------------------------------
+Pelajaran apa yang kau dapat?
+---------------------------------------------------------
+Gak ada yang spesial kok
+---------------------------------------------------------
+Dr. Rachel bilang padaku tentang performamu yang
+membangkitkan "Kekuatan Blood" mu yang cukup awal,
+dan meraih hasil baik dalam pertarungan<@>
+---------------------------------------------------------
+Aku tak ada pengalaman praktek, jadi aku memutuskan untuk
+berkontribusi dalam pengetahuan taktik untuk
+Blood<@>
+---------------------------------------------------------
+Jadi, saat seperti ini..... biar kulihat.... ah maafkan 
+aku, aku mulai lagi sekarang<@>
+---------------------------------------------------------
+Akan bagus jika kita bisa menyeimbangkan kemampuan
+dan meningkatkannya bersama.....menurutku<@>
+---------------------------------------------------------
+Ah, maafkan aku kalau begitu, aku sudah mengatakan hal aneh,
+aku tak berpengalaman dalam kontak sosial. aku nolife<@>
+---------------------------------------------------------
+Ah, itu benar, Apakah kau mau melihat dokumen ini?<@>
+---------------------------------------------------------
+Ini menu latihan yang berasal dari data
+pertarungan semuanya<@>
+---------------------------------------------------------
+Untuk 24 jam dalam sehari, 8 jam untuk tidur, makan
+dan col..eh hal lain 2 jam, 4 jam untuk misi ...<@>
+---------------------------------------------------------
+Dengan sisa 10 jam, 4 jam untuk latihan dan 6 jam untuk
+latihan teori dan pembelajaran berkembang biak<@>
+---------------------------------------------------------
+Ini adalah rencana pelatihan untuk semua anggota<@>
+---------------------------------------------------------
+Mungkin ketepatan adalah kunci, tapi susah untuk menepatkan
+kapasitas pelatihan bertarung, kupikir gitu sih...<@>
+---------------------------------------------------------
+Okelah, aku berharap bisa bekerja denganmu
+mulai sekarang, Vice-Captain<@>
+---------------------------------------------------------
+Itu akan sangat membantu jika kau bisa memberitahuku nomor
+konkritnya<@>
+---------------------------------------------------------
+Aku hanya pergi beberapa kali...
+---------------------------------------------------------
+Jujur, ga sesering itu...
+---------------------------------------------------------
+Ya, kita terbiasa kumpul di "Kompas Magnolia"<@>
+---------------------------------------------------------
+Dr. Rachel mengajariku tak hanya dengan ilmu pengetahuan
+tapi juga ilmu hitam, tapi boong<@>
+---------------------------------------------------------
+Yang ingin kuucapkan, Terimakasih pada Doktor
+karena telah mengadopsiku hingga sekarang aku bisa
+mengejar pendudukan ini<@>
+---------------------------------------------------------
+Itu adalah alasan aku tak percaya kehadiranku adalah
+keampasan, mungkin Captain juga gitu <@>
+---------------------------------------------------------
+Oh gitu... Beda dari bela diri kalsik dan cara memakai
+segala jenis senjata secara umum dan tak umum,
+mengumpulkan kecerdasan dan teknik membunuh<@>
+---------------------------------------------------------
+Dibandingkan orang-orang yang telah bertarung di 
+medan perang, aku tak ada apa-apanya<@>
+---------------------------------------------------------

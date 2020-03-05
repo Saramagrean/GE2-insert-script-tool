@@ -1,0 +1,59 @@
+NAMA:event_scr_text
+ENCODING:UTF-8
+CRLF:\n
+ID:
+TYPE:
+JUMLAH_STRING:0017
+===============================================================
+[00000204:00000512:00002015:00066133:00000250:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+ ... ... Apakah kau mengenal satu sama lain?
+---------------------------------------------------------
+tidak...baru sekarang
+---------------------------------------------------------
+ Anda ... ... kepala cabang baris depan Schickzal ... 
+...?
+---------------------------------------------------------
+Oh ... itu, aku putranya Johannes von Schickzal... ... Soma 
+Schickzal
+---------------------------------------------------------
+... ... Mohon maaf atas keterlambatanku dalam sambutan
+---------------------------------------------------------
+Aku Rachel Claudius yang merawat ayah Anda, aku pasti ingin 
+mengucapkan terima kasih kepada Anda dan melihat Anda sekali 
+..
+---------------------------------------------------------
+Oh, aku ingin bertanya langsung kepada kepala jika itu 
+ucapan terima kasih
+---------------------------------------------------------
+Bagaimanapun, aku bisa bertemu langsung di dunia lain ... 
+...
+---------------------------------------------------------
+Huh, maaf ... aku hanya bercanda
+---------------------------------------------------------
+Sangat sulit untuk mengatakan sebuah lelucon ... ... Mungkin 
+karena
+---------------------------------------------------------
+Apakah lawanmu melarikan diri ke bulan?
+---------------------------------------------------------
+Ini lelucon
+---------------------------------------------------------
+kau tidak merasa seperti orang lain ... Sama sepertiku, 
+baunya pecah dan bau
+---------------------------------------------------------
+kau tidak merasa seperti orang lain ... Sama sepertiku, 
+baunya pecah dan bau
+---------------------------------------------------------
+Senangnya, aku merasa terhormat ... ... aku akan segera 
+memaafkan diri sendiri, mari kita mulai
+---------------------------------------------------------
+Entah bagaimana, kau bau seperti bau niggaku ... ... Itu God 
+armlet Yg Bagus, baiklah kalau begitu aku pergi dulu
+---------------------------------------------------------
+Paman Sakaki , aku akan masuk Ada berbagai hal yang aku 
+ingin sampaikan
+---------------------------------------------------------

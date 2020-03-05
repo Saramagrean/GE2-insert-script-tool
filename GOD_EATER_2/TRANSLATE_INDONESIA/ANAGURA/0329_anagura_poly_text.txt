@@ -1,0 +1,38 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0012
+===============================================================
+[00000184:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Gill
+---------------------------------------------------------
+Akhir-akhir ini ...... Bukankah kau merasakan sesuatu dalam misi bersamaku?contoh, saya kira ...... 
+aku tidak bisa seperti biasanya
+---------------------------------------------------------
+Saya kira tidak apa-apa jika .......
+---------------------------------------------------------
+Susah kuduga begitu……
+---------------------------------------------------------
+Seperti biasa
+---------------------------------------------------------
+Pasti sulit untuk dilakukan ......?
+---------------------------------------------------------
+Tidak, aku tidak berpikir kondisi God arc nya bagus aku sedikit khawatir banyak ......
+---------------------------------------------------------
+sekarang aku pergi untuk berbicara dengan Rikka...... Apakah kamu ingin ikut?
+---------------------------------------------------------
+Aah, terselamatkan, Baiklah ayo pergi
+---------------------------------------------------------
+Itu benar ...... aku ingin mendengar pendapatmu .... Apakah kamu akan mengubah tanggalnya?
+---------------------------------------------------------
+Dengan senang hati!
+---------------------------------------------------------
+Sekarang sedikit ......
+---------------------------------------------------------

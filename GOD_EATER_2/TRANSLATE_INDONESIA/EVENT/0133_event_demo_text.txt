@@ -1,0 +1,47 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0013
+===============================================================
+[00000188:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Haruomi
+---------------------------------------------------------
+Biar kuperkenalkan padamu -- ia adalah Carie.<@>
+---------------------------------------------------------
+Carie
+---------------------------------------------------------
+Senang bertemu denganmu! Namaku Carie Yu, dari cabang 
+Singapura!
+---------------------------------------------------------
+Kau memanggil temanmu untuk ini...?
+---------------------------------------------------------
+Teman macam apa lagi ini?
+---------------------------------------------------------
+Sebelumnya kita bertemu secara acak -- Dia kesini untuk 
+liburan.
+---------------------------------------------------------
+Saat aku dengar tentang event ini, Aku ingin bergabung, jadi 
+aku ijin ke cabang singapur untuk memperpanjang masa 
+liburanku dan aku akan mengirim God Arc ku kemari.<@>
+---------------------------------------------------------
+Dahulu kala dulu ada pertunjukan yang disebut "Bug Rally" 
+di cabang Far East. Aku menyukai itu, dan ingin datang 
+kemari setidaknya sekali!<@>
+---------------------------------------------------------
+Ayo kita bekerja sama!<@>
+---------------------------------------------------------
+jadi sekarang kalian berdua telah saling mengenal, waktunya 
+pergi!<@>
+---------------------------------------------------------
+Oh, apa kau tidak siap untuk bertempur?<@>
+---------------------------------------------------------
+Dalam kasus ini, Aku akan membuatnya tetap di kamarnya. 
+kabari aku saat kau siap.<@>
+---------------------------------------------------------

@@ -1,0 +1,93 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0031
+===============================================================
+[00000260:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Emil
+---------------------------------------------------------
+Bahkan hari ini, kau bertarung dengan sangat hebat seperti 
+biasanya.<@>
+---------------------------------------------------------
+...Btw, aku ingin konsultasi padamu<@>
+---------------------------------------------------------
+Kita telah memakai banyak senjata tak hanya God Arc, tapi 
+juga berbagai macam alat lain<@>
+---------------------------------------------------------
+Diantaranya "Traps" dan "Stun Grenades"...aku selalu 
+kepikiran hal ini kapanpun aku melihat benda-benda 
+itu.<@>
+---------------------------------------------------------
+Walaupun Aragami yang kejam adalah lawan kita, aku ragu 
+apakah tak apa memakai senjata pecundang seperti itu<@>
+---------------------------------------------------------
+Sebagai seorang ksatria, apa aku tak diwajibkan untuk 
+bertarung dengan kemampuan sendiri, main fair play 
+gitu?!<@>
+---------------------------------------------------------
+...Karena kepikiran hal itu, aku jadi susah tidur dan jam 
+tidurku terganggu, tadi malem aja jadwalku telat 5 
+menit...<@>
+---------------------------------------------------------
+Itulah mengapa... Aku ingin tanya sesuatu padamu<@>
+---------------------------------------------------------
+Emang gapapa pake alat-alat itu?
+---------------------------------------------------------
+Gelud kok pake alat dih
+---------------------------------------------------------
+Pake aja, elu kan nub 
+---------------------------------------------------------
+Dih, lu juga pake tolol<@>
+---------------------------------------------------------
+Hilih, ngaca cuk elu yang sering matek, bukan gua!<@>
+---------------------------------------------------------
+Untuk mengalahkan Aragami, untuk melindungi orang-orang, aku 
+tak boleh terlalu memilih untuk jadi kejam...<@>
+---------------------------------------------------------
+Bener tuh! aku bukan lagi Emil! aku Dark Emil mulai 
+sekarang! AING VAJRA!!!<@>
+---------------------------------------------------------
+Dark Emil
+---------------------------------------------------------
+Demi umat manusia, aku akan berubah...<@>
+---------------------------------------------------------
+Mungkin ini yang dimaksud jadi dewasa... agak pahit-manis 
+terus ada gurihnya gitu...<@>
+---------------------------------------------------------
+...
+---------------------------------------------------------
+Emil balik sini lu!
+---------------------------------------------------------
+Lalu, aku harus berubah dan tak melihat kebelakang 
+lagi...<@>
+---------------------------------------------------------
+...Bisa kau ajari aku pake traps? aku gabisa sama 
+sekali...<@>
+---------------------------------------------------------
+Seperti yang kuduga, anggapanmu tentang traps sama 
+sepertiku, tak perlu malu<@>
+---------------------------------------------------------
+Yo... ini bahas trap ya? Astolfo pro ea lainnya ampas@>
+---------------------------------------------------------
+Kawanku, ayo kita ngidol traps bersama! itulah semangat masa 
+muda kita!<@>
+---------------------------------------------------------
+Wha... lu ngomong apa?! <@>
+---------------------------------------------------------
+Hmm... lu gasuka traps ya? padahal traps kan lucu gitu, 
+imut kayak aku<@>
+---------------------------------------------------------
+Ucapkan selamat tinggal pada Emil... sampai hari dimana 
+tidak ada traps di dunia ini...<@>
+---------------------------------------------------------
+Tidak, aku tak bisa kabulkan hal itu<@>
+---------------------------------------------------------
+Ini kalian bahas apaan sih njir gajelas... <@>
+---------------------------------------------------------

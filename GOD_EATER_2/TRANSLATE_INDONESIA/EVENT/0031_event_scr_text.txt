@@ -1,0 +1,84 @@
+NAMA:event_scr_text
+ENCODING:UTF-8
+CRLF:\n
+ID:
+TYPE:
+JUMLAH_STRING:0032
+===============================================================
+[00000264:00000512:00002015:00066133:00000250:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+ Ini mengerikan...
+---------------------------------------------------------
+Tidak... Kau bisa memulai dari awal lagi jika kau hidup...
+---------------------------------------------------------
+Bahkan sampai sekarang, selalu begitu
+---------------------------------------------------------
+Seiring berjalanya waktu, akan turun hujan...
+---------------------------------------------------------
+Itu... awan itu, merah...
+---------------------------------------------------------
+Hujan merah...! Semuanya, kembali ke penampungan, 
+cepat!
+---------------------------------------------------------
+Apakah dia yang terakhir Julius?
+---------------------------------------------------------
+Oh, ya dia yang terakhir
+---------------------------------------------------------
+Blood β, apa kau dengar? Laporkan situasinya 
+sekarang!
+---------------------------------------------------------
+Disini Blood β, masih tersisa musuh 1 lagi
+---------------------------------------------------------
+Mundur ke tempat penampungan utama! Hujan merah akan segera turun!
+---------------------------------------------------------
+Oke, mundur ke penampungan!
+---------------------------------------------------------
+Hujan-nya tidak mau berhenti
+---------------------------------------------------------
+Pertunjukan wayang, akan segera datang...
+---------------------------------------------------------
+Blood berikan panduan sambil memandu yg lain, ambil tindakan peringatan
+---------------------------------------------------------
+Akhirnya, apakah sudah terhubung?
+---------------------------------------------------------
+Tuan Kouta!
+---------------------------------------------------------
+pengawalan Kota dan warga sekitar akan berakhir di sini! 
+sisanya serahkan pada God Machine Soldier dan mundur!
+---------------------------------------------------------
+Tidurlah wahai
+---------------------------------------------------------
+God machine soldiers berhenti bergerak...
+---------------------------------------------------------
+Ini juga... Apa yang terjadi disini!
+---------------------------------------------------------
+Kontak darurat dari Friar, semua God Machine Berhenti! Saat 
+ini, penyebabnya belum diketahui...
+---------------------------------------------------------
+Orang juga merupakan bagian dari... orang jika sirkulasi 
+alami beberapa teracak, dan...
+---------------------------------------------------------
+Kapten, segeralah evakuasi para warga...
+---------------------------------------------------------
+Aku mengerti! Bawalah wargamu dan evakuasi ke tempat 
+perlindungan terdekat!
+---------------------------------------------------------
+Apakah semua orang sudah mengungsi? segera check daftarnya, cepat!
+---------------------------------------------------------
+Ini... Orang-orang dari Desa wilayah Utara... Si 
+kakek belum di evakasi...
+---------------------------------------------------------
+Siapa saja... bisakah kau mendengarnya... jawablah...
+---------------------------------------------------------
+Aku bisa mendengarmu! Apa yang terjadi!
+---------------------------------------------------------
+Oh, tolong bantu aku... dekat Gerbang Utara...ada...Aragami Bulu Putih...
+---------------------------------------------------------
+Oh, setelah semuanya... kau adalah "pengorbanan untuk raja" saat ini...
+---------------------------------------------------------
+Romeo...
+---------------------------------------------------------

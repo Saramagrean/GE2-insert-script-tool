@@ -1,0 +1,29 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0007
+===============================================================
+[00000164:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Kouta
+---------------------------------------------------------
+Tunggu dulu! Aku punya sesuatu yang ingin kutanyakan
+padamu<@>
+---------------------------------------------------------
+Maksudku Blood... Kelihatannya kau akan sembuh<@>
+---------------------------------------------------------
+Apa ada tipuan atau sasuatu untuknya? Yaa sebenarnya aku
+ingin belajar banyak darimu juga...<@>
+---------------------------------------------------------
+Hibari
+---------------------------------------------------------
+Kota, tim transport sudah siap<@>
+---------------------------------------------------------
+Siap bos! ...Baiklah, ayo bicara lagi nanti<@>
+---------------------------------------------------------

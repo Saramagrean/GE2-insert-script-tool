@@ -1,0 +1,31 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0007
+===============================================================
+[00000164:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Alisa
+---------------------------------------------------------
+hal seperti minum teh sebelum berangkat diluar pertanyaan
+jika itu dibuat olehku sendiri...<@>
+---------------------------------------------------------
+selalu,aku menjaga diriku sendiri didepan dengan segala 
+cara, "ayo pergi sekarang, pergi kejalan yg benar"<@>
+---------------------------------------------------------
+aku punya rencana untuk ini
+---------------------------------------------------------
+ayo kita santai sadja :v
+---------------------------------------------------------
+wkwk, aku tau aku tau! Aku tidak bermksd menjadikanmu 
+sebagai dokter pribadiku<@>
+---------------------------------------------------------
+ok ,ini sudah hampir waktunya, aku berterima kasih 
+padamu,sekarang aku bisa pergi dngan semua kekuatanku...!<@>
+---------------------------------------------------------

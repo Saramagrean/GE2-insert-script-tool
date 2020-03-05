@@ -1,0 +1,42 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0014
+===============================================================
+[00000192:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Nana
+---------------------------------------------------------
+kapten ! akhirnya aku mngerti !
+---------------------------------------------------------
+sudah beres ! perangkap versi 2 buatan Nana
+---------------------------------------------------------
+fufu, akhirnya perangkap versi 2 buatan nana udh selesai !
+---------------------------------------------------------
+woooh！
+---------------------------------------------------------
+paan tuh?
+---------------------------------------------------------
+"Wide-area Signal: all hands set", "Narrow-Band Signal: Menunggu penyebaran,"
+"narrow-band signal: Mencari serangan musuh," "narrow-band signal: Set"<@>
+---------------------------------------------------------
+itulah sbabnya, mau ikut misi ?
+---------------------------------------------------------
+baiklah ! ayo pergi！
+---------------------------------------------------------
+ah, udh siap ? kalo udah aku nunggunya disini
+---------------------------------------------------------
+iya
+---------------------------------------------------------
+sbntar lagi......
+---------------------------------------------------------
+eh, ga jadi pergi？
+---------------------------------------------------------
+sprtinya aku sibuk, namun akhirnya aku mngerti jadi mari kita bicara lagi kalo punya waktu
+---------------------------------------------------------

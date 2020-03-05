@@ -1,0 +1,32 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0007
+===============================================================
+[00000164:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Haruomi
+---------------------------------------------------------
+...jika kau ingin tau neng kanon dimana sekarang , dia
+masih disekitae sini si elit dari unit ke empat<@>
+---------------------------------------------------------
+Ah, Far East Branch sperti tempat kita kembali , tidak ada
+tambahan...<@>
+---------------------------------------------------------
+aku tidak bisa pergi , karena disini adalah rumahku ...
+sekali lagi aku teringat dengan satu fakta<@>
+---------------------------------------------------------
+...sebuah petualangan?
+---------------------------------------------------------
+jangan katakan padaku...
+---------------------------------------------------------
+Aah, ayonkita oergi menjalani misi untuk menemukan kebenara
+bersama lain kali pertempuran kita baru saja
+dimulai...!<@>
+---------------------------------------------------------

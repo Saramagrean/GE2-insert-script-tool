@@ -1,0 +1,44 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0015
+===============================================================
+[00000196:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Kanon
+---------------------------------------------------------
+Instruktur sensei, apa yang terjadi? ...... Mungkin, apa aku sudah melakukan sesuatu?
+---------------------------------------------------------
+Dimengerti, Instruktur sensei
+---------------------------------------------------------
+Apakah itu ceritanya ...?？ 
+---------------------------------------------------------
+Wawancara!
+---------------------------------------------------------
+Aku sudah bicara
+---------------------------------------------------------
+Oh, tapi aku, aku punya jadwal untuk tugasku mulai sekarang .... Haruskah aku membatalkan?
+---------------------------------------------------------
+Mau bersama? Aku sih tidak keberatan...... oh begitu, benar juga yak
+---------------------------------------------------------
+Dalam wawancara berikutnya, jika kamu bisa memberiku panduan baru! aku mengerti, mohon kerja 
+samanya!
+---------------------------------------------------------
+Mengerti, Instruktur sensei! 
+---------------------------------------------------------
+Mari kita pergi bersama setelah wawancara (ehem)
+---------------------------------------------------------
+Ayo lakukan setelah ini selesai (mau apa anjir)
+---------------------------------------------------------
+Are..... ada masalah apa ?
+---------------------------------------------------------
+Instruktur sensei! Saya akan menunggu bimbingan Anda berikutnya
+---------------------------------------------------------
+Yah, sudah kuduga, apakah lebih baik nantinya?
+---------------------------------------------------------

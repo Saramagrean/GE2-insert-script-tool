@@ -1,0 +1,68 @@
+NAMA:event_scr_text
+ENCODING:UTF-8
+CRLF:\n
+ID:
+TYPE:
+JUMLAH_STRING:0020
+===============================================================
+[00000216:00000512:00002015:00066133:00000250:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+.... Julius, Mengapa aku tidak diberitahu
+untuk menemani 2 orang baru
+---------------------------------------------------------
+Maaf, Tapi kalian berdua menilai bahwa kamu
+telah memiliki kemampuan itu
+---------------------------------------------------------
+Aku mendengar apa yang kamu katakan,
+Lain kali aku tidak akan memikirkan itu lagi... Setidaknya untukku
+---------------------------------------------------------
+.... Oh, Aku berjanji padamu
+---------------------------------------------------------
+Jadi, Jangan kehilangan satu orang pun....
+Seni bela dirimu juga
+---------------------------------------------------------
+.... Apakah kamu akan datang?
+---------------------------------------------------------
+Kita telah sampai di Departemen
+Pengembangan teknologi Fenrir,
+Tahap kedua Blood untuk para kandidat Murid!
+---------------------------------------------------------
+Selamat datang di Blood kapten Julius Visconti
+---------------------------------------------------------
+Baiklah.... Mulai pelatihannya sekarang
+---------------------------------------------------------
+..... Apa?
+---------------------------------------------------------
+Lihat.... Itu adalah musuh yang akan menghancurkan
+keberadaan manusia....
+Aragami.
+---------------------------------------------------------
+Tidak usah takut,
+Apakah kau dapat membunuh aragami itu?
+---------------------------------------------------------
+Er, Oh..... Hey, Apa?
+....Ini adalah pertempuran!
+---------------------------------------------------------
+Kondisi di tempat pelatihan hampir sama
+di medan perang sesungguhnya
+---------------------------------------------------------
+Bukan masalah bagi kalian jika dapat memperlihatkan
+kemampuan kalian, benarkan?
+---------------------------------------------------------
+Sejak dulu manusia selalu menghadapi musuh yang kuat....
+Dan aku telah diberhentikan dari itu
+---------------------------------------------------------
+Lalu mengapa umat manusia yang tanpa senjata menang?
+---------------------------------------------------------
+Strategi dan Taktik untuk bertarung,
+Lalu saling membantu satu sama lain
+---------------------------------------------------------
+keinginan adalah senjata terbesar yang diwariskan,
+Jangan lupakan itu
+---------------------------------------------------------
+Sudah waktunya, ayo pergi!
+---------------------------------------------------------

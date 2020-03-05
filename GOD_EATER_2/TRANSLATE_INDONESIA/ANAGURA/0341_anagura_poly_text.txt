@@ -1,0 +1,33 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0009
+===============================================================
+[00000172:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Haruomi
+---------------------------------------------------------
+Seperti biasa aku adalah pekerja keras, Tampaknya orang-orang yang melihat sekeliling mengubah mata 
+mereka
+---------------------------------------------------------
+Sebagai senior, satu lagi saran untukmu, dengan mendengarkan kata-kata terima kasih dari senior juga 
+merupakan pekerjaan
+---------------------------------------------------------
+Karena itu, bagaimana? Mulai sekarang
+---------------------------------------------------------
+Aku akan memperlakukanmu sama rata! Baiklah kita akan pergi！
+---------------------------------------------------------
+Ups, kata terimakasih ku tidak dibutuhkan? aku pikir menyebarkan pandangan juga penting.
+---------------------------------------------------------
+Yah, bahkan ketika aku merasa ingin pacaran 
+---------------------------------------------------------
+apakah senpai bisa menyembuhkannya?
+---------------------------------------------------------
+Sekarang sedikit ......
+---------------------------------------------------------

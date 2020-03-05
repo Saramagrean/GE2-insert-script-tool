@@ -1,0 +1,285 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0110
+===============================================================
+[00000576:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+Dengan otoritas saat ini、saya tidak bisa masuk 
+keruangan ini
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas saat ini、saya tidak bisa masuk
+Keruangan ini
+---------------------------------------------------------
+Capybara
+---------------------------------------------------------
+Kyurururu
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+Kalau terjadi apa - apa backup diserahkan pada Romeo
+Penghancuran Raja Aragami akan dilakukan oleh kami
+
+---------------------------------------------------------
+lawanya kita adalah Raja Aragami... harap berhati - hati
+---------------------------------------------------------
+Mengenai kemampuan nana、kelak、kita akan menggunakanya
+sebagai salah satu strategi agresif
+
+---------------------------------------------------------
+Jadi、saya Sudah memikirkan beberapa strategy
+Lihatlah monitor untuk penjelasanya...
+---------------------------------------------------------
+Fran
+---------------------------------------------------------
+Lama tidak bertemu...Selamat datang
+Ada yang ingin dibicarakan oleh Ciel
+---------------------------------------------------------
+Segera、Menuju titik penyelamatan
+Tolong selamatkan dan bunuh para Rama aragami！
+---------------------------------------------------------
+Berhati - hatilah...！
+---------------------------------------------------------
+Begitu persiapan selesai、sesegera mungkin.
+Silahkan ajukan kembali misi
+---------------------------------------------------------
+Gill
+---------------------------------------------------------
+Terakhir kali melawan Raja Aragami...sejak Saat itu
+...aku pasti akan menghancurkanya
+---------------------------------------------------------
+Disini, apa dari dulu memang tenang begini...？ Tidak,saya
+pikir saya baru saja terbiasa dengan cabang wilayah timur...
+---------------------------------------------------------
+Julius
+---------------------------------------------------------
+Raja Aragami berbeda dengan aragami biasa
+Setiap Individu、memiliki kemampuan khusus
+---------------------------------------------------------
+Kemampuan khusus musuh、memberikan kerusakan berat
+Jangan lengah！
+---------------------------------------------------------
+Kemampuan nana、dimasukan kedalam strategy tim
+Saya harus melalukan pelatihan sekali lagi
+---------------------------------------------------------
+Untuk selebihnya、Ciel akan menjelaskanya
+Mari berkumpul denganya
+---------------------------------------------------------
+Rea
+---------------------------------------------------------
+Verifikasi data untuk operasi penuh Jinki-Hei、dan kaitanya
+dengan penelitian penyakit hitam Dalam waktu dekat kami,
+akan dipindahkan ke cabang timur
+---------------------------------------------------------
+Pada saat itu、tolong antar kita keliling
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Cepat、saya harus pergi membantu！
+Kalau bersantai santai, teman anda akan terluka！
+---------------------------------------------------------
+Kalau tentang pemeriksaan medis、saya tidak ada masalah
+Saya khawatir, dan juga sedikit lega
+---------------------------------------------------------
+Mulai sekarang dicabang timur
+Sepertinya kita bisa mendapatkan pemeriksaan medis
+Semua orang tanpa terganggu
+---------------------------------------------------------
+Rachel
+---------------------------------------------------------
+Selamat datang kembali
+Saya selalu mendengar tentang kesuksesan kalian
+---------------------------------------------------------
+Saya merasa sedih, tidak bisa berbicara banyak dengan
+kalian... Mulai sekarang, saya menantikan kalian tumbuh
+---------------------------------------------------------
+Petugas Friar
+---------------------------------------------------------
+Seperti biasa kalian sibuk
+Saya menantikan untuk bertemu dengan kalian lagi.
+---------------------------------------------------------
+Sejak kalian berada di cabang timur、saya mendengar tentang
+kesuksesan kalian Saya bangga, sebagai anggota Friar
+---------------------------------------------------------
+Saya pikir itu berat、kalau ada apa - apa kembalilah Kapan pun
+Kami akan selalu menyambut kedatangan kalian.
+---------------------------------------------------------
+Petugas Friar
+---------------------------------------------------------
+Beristirahatlah...tapi sepertinya itu tidak bisa
+Saya harap yang terbaik
+---------------------------------------------------------
+Dengan cara ini、sepertinya sudah sejak lama
+kita berkumpul bersama
+---------------------------------------------------------
+Kalau tidak ada kerjaan、bagaimana dengan istirahat？
+---------------------------------------------------------
+Romeo
+---------------------------------------------------------
+Haaa...padaha sayal sudah semangat
+Kenapa、disuruh menjaga bagian belakang...
+---------------------------------------------------------
+Berhati hatilah seperti serangan Anagura kemarin
+Saya tahu tapi...saya juga harus semangat！
+---------------------------------------------------------
+Kekuatan Nana memeberi potensi besar dimasa depan
+Ciel sepertinya sedang gembira menceritakan sesuatu
+
+---------------------------------------------------------
+Lihatlah！bahkan tanpa kekuatan Blood
+Saya akan membuktikan kalau saya memiliki kemampuan！
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file yang lain
+---------------------------------------------------------
+全てロシア語で書かれている<@>
+---------------------------------------------------------
+ファッション誌かカタログのように見える
+全てロシア語で書かれているので分からない<@>
+---------------------------------------------------------
+テキストファイルのようだが
+ロックが掛かっていて見れない<@>
+---------------------------------------------------------
+Модный　журнал
+---------------------------------------------------------
+Дневник
+---------------------------------------------------------
+Berhentilah mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Saya tidak melakukan apa - apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Saya tidak melakukan apa - apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file yang lain
+---------------------------------------------------------
+Ada banyak file tentang taktik<@>
+---------------------------------------------------------
+"Peluru sinyal"bersama teman、saat misi
+Ucapkan sebelum menggunakan item<@>
+---------------------------------------------------------
+Kisaran pengaruh "Bullet signal" ada dua jenis "Wide area signals" dan "Narrow Range signal"<@>
+---------------------------------------------------------
+"Wide area signal" untuk semua anggota yang berpartisipasi dalam misi
+"Narrow area signal" hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+"Peluru sinyal"bisa di gunakan ada empat macam<@>
+---------------------------------------------------------
+"sinyal area luas：semua anggota""sinyal area sempit：disebarkan"
+"sinyal area sempit：menyerang musuh""sinyal area sempit：set"<@>
+---------------------------------------------------------
+Masing masing rincian tentang Peluru sinyal、dapat dilihat di"Data base"<@>
+---------------------------------------------------------
+"Control Unit" diaktifkan dengan "Burst Skill"<@>
+---------------------------------------------------------
+"Kemampuan Burst"menunjukan efek nya hanya saat keadaan Burst
+Itu adalah kemampuan khusus<@>
+---------------------------------------------------------
+Selain itu、"Control Unit"dan keterampilan yang terpasang didalam nya
+Kemampuanya berubah sesuai judulnya<@>
+---------------------------------------------------------
+Saya tidak bisa membukanya, karena saya tidak mempunyai izin<@>
+---------------------------------------------------------
+Panduan taktik：Peluru sinyal
+---------------------------------------------------------
+Panduan taktik：Control Unit
+---------------------------------------------------------
+ＮＯ　ＮＡＭＥ
+---------------------------------------------------------
+Berhentilah mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file yang lain
+---------------------------------------------------------
+File file tersebut diatur rapih
+Sangat mudah dilihat<@>
+---------------------------------------------------------
+Dengan"Avatar"dan"AvatarCard"
+Temam dapat berpartisipasi dalam misi kapan saja <@>
+---------------------------------------------------------
+Ada dua cara bertukar"AvatarCard"
+Salah satunya dengan bermain bersama dalam mode"Multiplayer"<@>
+---------------------------------------------------------
+Cara lain nya adalah"lewat tukar Card"
+Dapat bertukar Card Hinges 3 Card<@>
+---------------------------------------------------------
+"AvatarCard"dapat diperbarui 
+Lewat"Multiplayer"atau"Lewat tukar Card"<@>
+---------------------------------------------------------
+Sebagai imbalan atas tugas yang dihasilkan oleh avatar teman
+"Bahan untuk Avatar"dapat diperoleh<@>
+---------------------------------------------------------
+Peluru Memo<@>
+---------------------------------------------------------
+"Peluru pemulihan"peluru dengan effect memulihkan tenaga anda
+Namun tidak dapat digunakan untuk diri sendiri<@>
+---------------------------------------------------------
+Untuk Bullet dengan sifat yang sangat istimewa
+penggunaan God arc terbatas<@>
+---------------------------------------------------------
+Hanya ada satu, Foto Tsubaki saat muda dan Lindow dengan
+Sakuya bersama<@>
+---------------------------------------------------------
+Yang lain nya hanya Foto foto baru<@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Peluru
+---------------------------------------------------------
+Sebuah photo
+---------------------------------------------------------
+Berhentilah mencari
+---------------------------------------------------------
+
+---------------------------------------------------------
+Bisa digunakan 
+Tapi layarnya rusak jadi susah untuk dilihat<@>
+---------------------------------------------------------
+Apa yang kamu lihat？<@>
+---------------------------------------------------------
+Setiap file dikunci
+Saya tidak bisa melihatnya<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file yang lain
+---------------------------------------------------------

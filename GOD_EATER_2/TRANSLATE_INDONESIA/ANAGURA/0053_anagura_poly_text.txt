@@ -1,0 +1,219 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0088
+===============================================================
+[00000488:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+Aku tidak bisa masuk ke ruangan iniDengan otoritasku saat ini, 
+
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+Mengenai masalah Bullet, aku ingin menyelidikinya  lebih detail ......
+aku berharap ini akan mengarah pada peningkatan efisiensi dalam pertempura
+---------------------------------------------------------
+Fran
+---------------------------------------------------------
+Ada misi baru untuk Blood
+Apakah kamu siap?
+---------------------------------------------------------
+Ngomong-ngomong, Dr. Raquel
+memberitahuku bahwa dia akanmelakukan pemeriksaan medis
+---------------------------------------------------------
+Jadi, sama seperti dari gerbang sortie
+Silakan pergi, tolong bawa sendiri
+---------------------------------------------------------
+Gill
+---------------------------------------------------------
+Wakil kapten, sedikit  bercerita ..." Tidak, aku harus melakukannya setelah tugasku
+Nanti ...... Beri aku waktu"
+---------------------------------------------------------
+Julius
+---------------------------------------------------------
+Dia tampaknya belajar Bullet dengan dua orang
+Jika hasilnya  menarik , tolong katakan padaku
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Bagaimana  wakil kapten..., keadaan darurat terjadi!
+
+---------------------------------------------------------
+Roti Oden semakin rendah!
+Jika kau tidak memberikannya akan menjadi masalah hidup dan mati
+---------------------------------------------------------
+Rachel
+---------------------------------------------------------
+Aku dengar ada tugas baru ... ..., setelah sortie
+sebelum pergi biarkan aku melakukan pemeriksaan medis sedikit
+---------------------------------------------------------
+Kantor Fenrir
+---------------------------------------------------------
+Menurut apa yang saya dengar, bekerja sama dengan cabang Timur jauh,
+Sepertinya kita akan memajukan sesuatu seperti fauna hitam, hujan merah
+---------------------------------------------------------
+Namun ... ... Lingkungan dari cabang Timur Jauh memiliki berbagai macam jenis Aragami
+.... Saya agak takut
+---------------------------------------------------------
+Kantor Fenrir
+---------------------------------------------------------
+Dari fasilitas dan media terkait, dll. Dari e-mail yang mencapai direktur GREM
+aku melakukan pemilahan ... ... yah, seperti memilah  ke kotak sampah
+---------------------------------------------------------
+Romeo
+---------------------------------------------------------
+ Aku pikir aku harus segera memulai melatih pelatihan khusus .
+Ketika aku pergi ke tempat pelatihan
+---------------------------------------------------------
+Pria Shell, aku sudah menguji Bullet di tempat latihan sepanjang hari
+Sesuatu yang serius melakukannya ... ... Sudah diduga
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu Lihat?<@>
+---------------------------------------------------------
+Buka terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+semuanya di tulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti majalah mode atau katalog
+Aku tidak tahu karena semuanya ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti file teks
+Saya tidak bisa melihat itu terkunci<@>
+---------------------------------------------------------
+Модный　журнал
+---------------------------------------------------------
+Дневник
+---------------------------------------------------------
+Berhenti Melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu Lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Tidak ada
+---------------------------------------------------------
+
+---------------------------------------------------------
+apa yang ingin kau lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Tonton Arsip
+---------------------------------------------------------
+Tidak ada
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang ingun kamu lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat File lain
+---------------------------------------------------------
+Ada banyak file terkait taktik <@>
+---------------------------------------------------------
+"Signal bullet" adalah intruksi yang ada di barang -barang mu  yang berguna pada saat menjalankan misi<@>
+---------------------------------------------------------
+Kisaran pengaruh dari "bullet signal" adalah dua jenis "wide area signals" dan "narrow range signal"<@>
+---------------------------------------------------------
+"Wide-area signals" adalah kisaran pengaruh untuk semua anggota yang berpartisipasi dalam misi,sedangkan
+"Narrow-area signal" adalah kisaran pengaruh yang hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+Ada 4 jenis "Bullet signal" yang bisa digunakan<@>
+---------------------------------------------------------
+"Wide-area signal: kumpulan agregat "" "narrow-area signal: menunggu penyebaran"
+"Narrow range signal: cari serangan musuh" "narrow area signal: set"<@>
+---------------------------------------------------------
+Untuk informasi rinci tentang masing-masing sinyal, lihat "Database"<@>
+---------------------------------------------------------
+"Control unit" Dilengkapi dengan "burst skill"<@>
+---------------------------------------------------------
+"Burst skill" menunjukkan efeknya hanya selama ledakan
+Ini adalah skill khusus<@>
+---------------------------------------------------------
+Jadi, "unit kontrol"  akan berubah sesuai dengan keterampilan yang terpasang di dalamnya<@>
+---------------------------------------------------------
+Aku tidak bisa membukanya karena saya tidak punya izin<@>
+---------------------------------------------------------
+Panduan taktis senior: signal bullet
+---------------------------------------------------------
+Panduan taktis lanjutan: Control unit
+---------------------------------------------------------
+ＮＯ　ＮＡＭＥ
+---------------------------------------------------------
+Berhenti Melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Qpa yang ingin kau lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+File-file tersebut diatur
+Sangat mudah untuk dilihat<@>
+---------------------------------------------------------
+Dengan "Avatar Card" bertukar dengan "avatar"
+ lain dengan teman yang dapat berpartisipasi dalam misi kapan saja<@>
+---------------------------------------------------------
+Ada dua cara untuk bertukar "Avatar Card"
+Salah satu caranya adalah secara manual bertukar di "Multiplayer"<@>
+---------------------------------------------------------
+Lainnya adalah dengan "exchange of passing cards" yang dapat menukar avatar card Hingga
+3 kartu dapat ditukar sekaligus<@>
+---------------------------------------------------------
+"Avatar card" dapat diperbarui dengan bertukar dengan lawan yang sama
+Dengan melakukan "Multiplayer" atau "Exchange redemption"<@>
+---------------------------------------------------------
+Sebagai imbalan atas tugas yang dilakukan dengan pihak lain
+"Avatar material" dapat diperoleh<@>
+---------------------------------------------------------
+Memo Bullet<@>
+---------------------------------------------------------
+"Rebounding bullet" adalah peluru yang memiliki efek mengembalikan kekuatan fisik Anda
+Namun, itu tidak berhasil untuk orang yang menembak sendiri<@>
+---------------------------------------------------------
+Untuk Bullet dengan sifat yang sangat istimewa
+ hanya sebagian God Arc yang dapat menggunakanya<@>
+---------------------------------------------------------
+Hanya satu tempat, dengan sedikit kamelia dan gentian
+Ada gambar Sakuya bersama<@>
+---------------------------------------------------------
+Yang lainnya adalah foto yang relatif baru<@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Bullet
+---------------------------------------------------------
+Foto
+---------------------------------------------------------
+Berhenti Melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Saya mulai, tapi
+Layar mulai  rusak dan sulit dilihat<@>
+---------------------------------------------------------
+Apa yang ingin kau lihat？<@>
+---------------------------------------------------------
+Setiap file terkunci aku tidak dapat melihatnya<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------

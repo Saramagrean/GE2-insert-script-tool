@@ -1,0 +1,115 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0041
+===============================================================
+[00000300:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Lindow
+---------------------------------------------------------
+Ah, Apakah itu kau sakuya? Ya ini aku..... Terimakasih<@>
+---------------------------------------------------------
+Bagaimana keadaan Ren?<@>
+---------------------------------------------------------
+Oh, Tidak perlu membangunkannya<@>
+---------------------------------------------------------
+mungkin, lusa aku akan mengunjungimu<@>
+---------------------------------------------------------
+Aah.....Maaf aku selalu meninggalkanmu, 
+aku akan menghubungimu lagi.....<@>
+---------------------------------------------------------
+Mm.... Terimakasih, sampai jumpa lagi... <@>
+---------------------------------------------------------
+Oh, itu kau kutebak kau melihatku disaat yang memalukan,
+hm?<@>
+---------------------------------------------------------
+Sepertinya kau berbicara dengan baik sekali
+---------------------------------------------------------
+Apa itu anakmu?
+---------------------------------------------------------
+Belakangan ini, anakku sering mengatakan hal-hal lucu<@>
+---------------------------------------------------------
+Seperti saat itu, Aku ditanyai tentang, "Jika 
+Aragami sudah tidak ada, Apa ayah akan kehilangan pekerjaan?"<@>
+---------------------------------------------------------
+Itu membuatku sedikit tercengang<@>
+---------------------------------------------------------
+Aah, Salahku, aku memang orang tua yang
+kekanak kanakan<@>
+---------------------------------------------------------
+Yeah, benar..... Ada yang ingin aku tanyakan padamu<@>
+---------------------------------------------------------
+Aku mengundangmu untuk bergabung dengan Cradle setelah mengalahkan Kyuubi<@>
+---------------------------------------------------------
+Sekarang aku bertanya kepadamu sekali lagi Apakah kau ingin
+bersama ... dengan kami "Cradle"?<@>
+---------------------------------------------------------
+Aku tidak yakin apa yang harus kulakukan
+---------------------------------------------------------
+Aku tidak yakin apakah aku cukup kuat
+---------------------------------------------------------
+Aku....Saat aku menjadi orang tua, Aku disadarkan dengan banyak hal 
+padaku dan mengejutkanku<@>
+---------------------------------------------------------
+Suatu hal yang paling mengejutkan ialah Aku adalah "orang tua yang
+dibesarkan oleh anaknya sendiri"<@>
+---------------------------------------------------------
+Betapa belum dewasanya aku, betapa lemahnya aku, dan sebagainya... 
+Yah, dalam hal apapun aku akan menghadapi pemikiran fanatikku sendiri<@>
+---------------------------------------------------------
+Lalu, Tiba tiba saya sadar<@>
+---------------------------------------------------------
+ia mengatakan bahwa ia selalu, Bermaksud untuk melatihnya tapi aku diajarkan
+hal lain dengan serius, itulah bagaimana aku tumbuh<@>
+---------------------------------------------------------
+Dan orang orang itu, Sebelum kita menyadarinya... 
+mereka tidak dapat tergantikan 「Kawan perang」<@>
+---------------------------------------------------------
+....kau paham apa yang kukatakan, kan?<@>
+---------------------------------------------------------
+Sekarang... Aku sedikit mengerti
+---------------------------------------------------------
+Mungkin, Aku masih tidak mengerti...
+---------------------------------------------------------
+Saat kita belajar, Saat kita diajari....dan sedikit
+demi sedikit , Kita membantu satu sama lain untuk berkembang....Tentu
+itu sudah cukup.
+---------------------------------------------------------
+Nah 'kawan-kawan perang' yang belajar banyak darimu sekarang
+berdiri di depanmu, hanya itu...<@>
+---------------------------------------------------------
+Kau ingat aku, kan? <@>
+---------------------------------------------------------
+Ah, benar benar<@>
+---------------------------------------------------------
+Haha, Sekarang kau mengatakan itu..... Itu sangat
+memalukan<@>
+---------------------------------------------------------
+Oh, Karena aku sedang tidur, Aku tidak dengar suara apapun Aku 
+takut... <@>
+---------------------------------------------------------
+Ah, Tepat sekali.... Kamu dengan Blood, telah mambangunkan
+banyak hal...<@>
+---------------------------------------------------------
+Kau benar... <@>
+---------------------------------------------------------
+Aah, ooh... Aku mengerti... <@>
+---------------------------------------------------------
+Tepat sekali....Aku tidak tahu apa ada tempat untukku
+menemukan jawaban tapi.....<@>
+---------------------------------------------------------
+Itu jawaban yang sangat kuat ya....Terima kasih<@>
+---------------------------------------------------------
+Ah.....Itulah mengapa, tidak perlu memaksakan diri 
+seperti yang kau lakukan sekarang, dengan melalu banyak pertempuran.....
+<@>
+---------------------------------------------------------
+jika itu masalahnya maka itu bagus tapi tidak ada
+artinya jika memaksakan diri sendiri<@>
+---------------------------------------------------------

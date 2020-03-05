@@ -1,0 +1,21 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0003
+===============================================================
+[00000148:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Ciel
+---------------------------------------------------------
+terima kasih atas kerja keras mu masalah yg kita 
+tangani akan di selesaikan besok
+---------------------------------------------------------
+tolong beri aku sebuah kata setiap kali itu nyaman dari mu 
+aku akan menunggunya
+---------------------------------------------------------

@@ -1,0 +1,320 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0128
+===============================================================
+[00000648:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+Tidak bisa masuk karena tidak memiliki wewenang 
+---------------------------------------------------------
+
+---------------------------------------------------------
+Tidak bisa masuk karena tidak memiliki wewenang 
+---------------------------------------------------------
+
+---------------------------------------------------------
+Tidak bisa masuk karena tidak memiliki wewenang 
+---------------------------------------------------------
+
+---------------------------------------------------------
+Tidak bisa masuk karena tidak memiliki wewenang 
+---------------------------------------------------------
+Kalbi
+---------------------------------------------------------
+Clie？
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+Anak ini...makin membesar
+Yah,kali ini bukan salah paham ……
+---------------------------------------------------------
+Aku dengar itu ukuran sebuah miniatur……
+Apa yang harus kulakukan,untuk melapornya ke seseorang……
+---------------------------------------------------------
+Emile
+---------------------------------------------------------
+Ekspresi wajah Yuno tampaknya sangat buruk……！
+Nih...Giliranmu kawan！
+---------------------------------------------------------
+Sampai sekarang kami sudah dihibur oleh dia
+Aku ingin menjadi penyuportnya
+---------------------------------------------------------
+……Akan bagus jika kau menggunaka tehnya sedikit！
+---------------------------------------------------------
+Erina
+---------------------------------------------------------
+Yah,aku harus lebih berhati-hati menggunakan senjata itu……
+Hati-hati,kau akan kehilangan timing menembaknya……<@>
+---------------------------------------------------------
+Oh,untuk beberapa saat,apa-apaan mata itu！
+Masing-masing orang punya kelemahannya sendiri！
+---------------------------------------------------------
+Yah...Bagaimanapun,aku tidak tau siapa yang bisa menggunakannya ！
+Ini seriusら！
+---------------------------------------------------------
+Wow……
+---------------------------------------------------------
+Mengerti
+---------------------------------------------------------
+Gill
+---------------------------------------------------------
+Sekarang...akhirnya aku bisa menggunakan gelang hitam
+Saat pertama,setiap kali bangun pagi aku merasa ketidak cocokan
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Er,gill,bukankah sudah larut？
+Akankah aku digunakan sampai besok？
+---------------------------------------------------------
+Sebelumnya gelangku berwarna merah……
+---------------------------------------------------------
+Haruomi
+---------------------------------------------------------
+Tunggu,aku sedang dalam latihan
+Semua pertarungan sudah diatur sejak dimulai……
+---------------------------------------------------------
+Baik,beginilah jadinya
+Ayo kita lakukan penyerangan
+---------------------------------------------------------
+Yuno tampak murung,dengan kata-kata manisnya
+Kepertarungan dengan ketertarikan kedewasaan……
+---------------------------------------------------------
+Hibari
+---------------------------------------------------------
+Misi baru pada Blood telah tiba
+Silahkan menuju ke penindasan aragami,dimana telah tiba
+sebelum fasilitas dam
+---------------------------------------------------------
+Canon
+---------------------------------------------------------
+Aku bersikap manis pada Yuno,tapi..
+Setelahnya,sepertinya tidak berjalan dengan baik……
+---------------------------------------------------------
+Mungkin,tidak cocok dengan mulutnya?……
+"catastrophe Nanjie",aku yakin tapi……
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Karena itu masalah yang besar,lebih baik aku menggambar digelangku
+Aku kira,tapi jika itu kaupikirkan hati-hati……
+---------------------------------------------------------
+Karena aku pengguna tangan kanan,gelangku juga ditangan kanan
+Aku tidak bisa menulis dengan baik..……
+---------------------------------------------------------
+Gill
+---------------------------------------------------------
+Hey...apa yang kau lakukan..
+Persiapkan dengan hati-hati sampai pena putihて……
+---------------------------------------------------------
+Nurse
+---------------------------------------------------------
+Yeah...Negara dari pasien ditransport ke Friar
+Semuanya untuk kita……
+---------------------------------------------------------
+Yuno
+---------------------------------------------------------
+Begitukah?terima kasih banyak……
+---------------------------------------------------------
+Rikka
+---------------------------------------------------------
+Aku mendapat ruangan kecil
+Sekarang kita telah meningkatkan "link support device"
+---------------------------------------------------------
+Aku ingin meminiaturkan itu
+aku ingin memastikan tidak membebankan team transportasi……
+---------------------------------------------------------
+Mutsumi
+---------------------------------------------------------
+Jika kau bertanya pada mbak Nana tentang skill menggambar
+Sebaiknya kau menggambar sesukamu
+---------------------------------------------------------
+Tepat,aku merasa seperti seniman
+Aku sedikit iri
+---------------------------------------------------------
+Satsuki
+---------------------------------------------------------
+Fran-Francois-francesca de bourgogneュ……
+Yang kumaksud,itu nama yang khusus
+---------------------------------------------------------
+Yah namaku tuan Fran
+Kau tak bisa mencampurnya……
+
+---------------------------------------------------------
+Oh,kapten telah membebaskan aragami dengan percaya diri
+Tidak apa jika kau harus kembali
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Semuanya tertulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Itu terlihat seperti majalah model atau katalog
+Aku tidak tau karena tertulis dalam bahasa rusia<@>
+---------------------------------------------------------
+Terlihat seperti file berteks
+Aku tidak bisa melihatnya karena tersembunyi<@>
+---------------------------------------------------------
+Модный　журнал
+---------------------------------------------------------
+Дневник
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Jangan lakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Liat berkasnya
+---------------------------------------------------------
+Jangan lakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Terdapat banyak taktik dalam file terkait<@>
+---------------------------------------------------------
+"Signal Bullet" mengacu pada item yang digunakan untuk memberikan instruksi kepada kawan dalam misi<@>
+---------------------------------------------------------
+Kisaran pengaruh "Bullet signal" ada dua jenis "Wide area signals" dan "Narrow Range signal"<@>
+---------------------------------------------------------
+"Wide area signal" untuk semua anggota yang berpartisipasi dalam misi
+"Narrow area signal" hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+Terdapat 4 jenis "peluru signal" yang dapat digunakan<@>
+---------------------------------------------------------
+Signal ber-area lebar : Set aggregate  Signal ber-area sempit : set
+Signal berjarak lebar : Set                      Signal berjarak pendek : Mencari serangan musuh<@>
+---------------------------------------------------------
+Untuk informasi lebih detail silahkan liat database<@>
+---------------------------------------------------------
+"Control Unit" diaktifkan dengan "Burst Skill"<@>
+---------------------------------------------------------
+"Burst skill" menunjukan efel saat dalam burst
+Adalah sebuah skill special<@>
+---------------------------------------------------------
+Juga tergantung pada "control unit" dan skill yang terpasang didalamnya maka Title akan berubah<@>
+---------------------------------------------------------
+Aku tidak bisa membukanya karena tidak
+memiliki izin<@>
+---------------------------------------------------------
+Petunjuk taktis senior : peluru signal
+---------------------------------------------------------
+Petunjuk taktis lebih lanjut : Kontrol unit
+---------------------------------------------------------
+ＮＯ　ＮＡＭＥ
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Filenya tersusun rapi 
+Mudah untuk melihatnya<@>
+---------------------------------------------------------
+Dengan "kartu avatar" tukar dengan "avatar"
+teman yang akan bisa berpartisipasi 
+dalam misi kapan saja
+<@>
+---------------------------------------------------------
+Terdapat 2 cata dalam bertukar "kartu avatar"
+Cara pertama secara manual bertukar
+saat "Multiplayer"<@>
+---------------------------------------------------------
+Cara yang lain adalah dengan "Perukaran kartu langsung"
+Batas 3 kartu yang dapat ditukar secara bersamaan<@>
+---------------------------------------------------------
+"Kartu avatar" dapat diupdate dengan teman yang sama
+Dengan "Multiplayer" atau "Redemption card exchange"<@>
+---------------------------------------------------------
+Sebagai imbalan karena menyelesaikan tugas<dengan anggota lain
+"Material avatar" bisa diambil<@>
+---------------------------------------------------------
+Memo bullet<@>
+---------------------------------------------------------
+Rebounding bullet adalah bullet dengan efek untuk memulihkan kekuatan teman.
+Namun, tidak memiliki efek bagi orang yang menembak<@>
+---------------------------------------------------------
+Untuk Bullet dengan sifat yang sangat istimewa
+penggunaan God arc terbatas<@>
+---------------------------------------------------------
+Hanya ada satu potongan,dengan Tsubaki dan Lindow waktu kecil
+Ada juga foto bersama sakuya<@>
+---------------------------------------------------------
+Foto yang lain relatif baru<@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Bullet
+---------------------------------------------------------
+Foto
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat？<@>
+---------------------------------------------------------
+Semua file terkunci
+Aku tidak bisa melihatnya<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Damian
+---------------------------------------------------------
+Kami sedang dalam proses meningkatkan "perangkat pendukung tautan"
+Maaf, Di tempat seperti itu 
+---------------------------------------------------------
+Sangat menyenangkan entah bagaimana telah menjadi level praktis
+Saya berharap saya bisa menyimpan baterai sedikit lebih ... 
+---------------------------------------------------------
+Yorozuya
+---------------------------------------------------------
+Apakah kau ingin membeli sesuatu？
+---------------------------------------------------------
+Yuno
+---------------------------------------------------------
+Aku sudah bertanya pada dokter,Dr.Rachel
+Tapi aku menolaknya<@>
+---------------------------------------------------------
+Direktur Grem menanggapinya dengan positif
+Dr.Rachel takkan memaafkanku……<@>
+---------------------------------------------------------
+Tidak ada masalah sebelumnya……<@>
+---------------------------------------------------------

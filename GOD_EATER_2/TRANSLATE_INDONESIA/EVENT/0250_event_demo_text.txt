@@ -1,0 +1,64 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0020
+===============================================================
+[00000216:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Lindow
+---------------------------------------------------------
+Whew..... Sensei, apa benar seperti ini?<@>
+---------------------------------------------------------
+Sekarang kau tahu segalanya!
+---------------------------------------------------------
+Belum oy!
+---------------------------------------------------------
+Pertama kali aku lihat Blood Arts darimu aku lumayan yakin<@>
+---------------------------------------------------------
+Ini pasti kunci untuk membuka dunia baru.... yahh<@>
+---------------------------------------------------------
+Dari sebuah ancaman tak  diketahui menjadi ancaman
+yang membahayakan nyawa dan akhirnya jadi kekuatan
+untuk melindungi kawan, dan kembali dengan selamat<@>
+---------------------------------------------------------
+Dari Blood Arts kau telah mengajariku... tentang kekuatan dari semangat<@>
+---------------------------------------------------------
+Jangan kabur... dari kehidupan...<@>
+---------------------------------------------------------
+.....Oh? Aku bingung....apa kita pernah bercakap seperti ini
+ sebelumnya?<@>
+---------------------------------------------------------
+Aku ga pernah tuh
+---------------------------------------------------------
+Mungkin pernah
+---------------------------------------------------------
+Well, that's why Blood Arts is so amazing is what I 
+mean
+Yahh, itulah mengapa Blood Arts sangat keren dalam pandanganku <@>
+---------------------------------------------------------
+Maaf bila aku jadi murid yang tak kompeten namun tetap
+ mengajariku<@>
+---------------------------------------------------------
+Belum Sensei! <@>
+---------------------------------------------------------
+Aku harus berterima kasih, karena telah menjadi 
+guru yang baik<@>
+---------------------------------------------------------
+Ooh, as expected of teacher, quite strict ain't you!
+Oh, seperti dugaan, lumayan kerad kamu ya<@>
+---------------------------------------------------------
+Yahh, terima kasih telah memberiku jawaban jujur... 
+Aku merasa alu sangat dekat untuk menguasainya
+<@>
+---------------------------------------------------------
+Begitukah? yah mungkin aku sendiri sih yang merasa deja-vu terus.....<@>
+---------------------------------------------------------
+Iya kah? lagipula ini percakapan yang bagus bukan?
+dan aku bisa mengucapkannya lagi tiap saat<@>
+---------------------------------------------------------

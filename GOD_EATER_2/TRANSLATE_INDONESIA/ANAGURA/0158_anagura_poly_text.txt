@@ -1,0 +1,325 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0135
+===============================================================
+[00000676:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+Dengan otoritas saat ini kamu tidak diperbolehkan memasuki ruangan ini
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas saat ini kamu tidak diperolehkan memasuki ruangan ini
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas saat ini,kamu tidak diperbolehkan memasuki ruangan ini
+---------------------------------------------------------
+Alisa
+---------------------------------------------------------
+God Arc Soldier..Sepertinya pengerjaannya hampir selesai dengan baik.
+---------------------------------------------------------
+Kerja bagus,silahkan istirahat sejenak.
+---------------------------------------------------------
+
+---------------------------------------------------------
+(sepertinya sedang makan)
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+Aneh rasanya merasa berkabung atas orang yang sudah meninggal.
+Sedihnya,pada saat yang sama aku bisa merasakan kelembutan.
+---------------------------------------------------------
+...Kapten,saatnya kita kembali bekerja
+---------------------------------------------------------
+Kapten..Saya sangat mengapresiasi pekerjaanmu<@>
+---------------------------------------------------------
+Tetapi ini hanya saran untuk Romeo di FRIAR,apakah kau ingin memberitahu semua anggota BLOOD?<@>
+---------------------------------------------------------
+Entah bagaimana caranya aku bisa mendapat izin untuk masuk FRIAR<@>
+---------------------------------------------------------
+Beritahu saya ketika kamu sudah siap
+---------------------------------------------------------
+Kapten,apakah kau sudah siap?<@>
+---------------------------------------------------------
+Baiklah,ayo pergi..<@>
+---------------------------------------------------------
+Baiklah,ayo pergi..<@>
+---------------------------------------------------------
+Aku sudah siap
+---------------------------------------------------------
+Tunggu sebentar lagi
+---------------------------------------------------------
+Emil
+---------------------------------------------------------
+Teman Teman,aku yakin aku dapat kembali!maka dari itu,mari kita rayakan bersama sama
+---------------------------------------------------------
+Erina
+---------------------------------------------------------
+Bahkan jika kamu tidak mempunyai Godmen squad,kamu dapat mengalahkan Aragami.
+Maka dari itu,aku juga harus menjadi lebih kuat!
+---------------------------------------------------------
+Kau mendapatkan musuhnya Romeo,bukan begitu?
+Selamat,meskipun.... itu agak aneh
+---------------------------------------------------------
+Aku tidak akan kalah!!<@>
+---------------------------------------------------------
+Gill
+---------------------------------------------------------
+Kery datang,sekarang saatnya
+
+---------------------------------------------------------
+Ciel memanggilmu.
+Tampaknya izinmu untuk memasuki FRIAR sudah keluar.
+---------------------------------------------------------
+Aku harus pergi.. untuk Romeo
+---------------------------------------------------------
+...Kapten,apakah kau memperhatikan?
+Keamanan di FRIAR semakin hari semakin ketat
+---------------------------------------------------------
+Tidak peduli berapa banyak yang kau rahasiakan...
+Itu adalah...
+---------------------------------------------------------
+Haruomi
+---------------------------------------------------------
+Sudah selesai dilakukan dengan sangat baik.
+Yah,aku pikir aku akan kembali dengan selamat
+---------------------------------------------------------
+aku rasa,aku bekerja terlalu keras...
+Apakah kamu ingin pergi bersamaku untuk pijat?
+---------------------------------------------------------
+Hibari
+---------------------------------------------------------
+Sensitive classes...Aku sangat mengapresiasi pekerjaanmu
+---------------------------------------------------------
+Kamu ingin masuk FRIAR bukan?
+Ciel-San sedang meminta izin untukmu agar bisa masuk kesana
+---------------------------------------------------------
+... Selamat datang,BLOOD mempunyai misi yang baru
+---------------------------------------------------------
+Kanon
+---------------------------------------------------------
+God arc soldier benar-benar menakjubkan!
+---------------------------------------------------------
+Veteran God arc seperti monolit..
+Dalam sekejap mata,aku akan mengalahkan Aragami dalam waktu singkat!
+---------------------------------------------------------
+Kouta
+---------------------------------------------------------
+Well done!
+
+---------------------------------------------------------
+Well,ada banyak hal
+Hei,lihat,heh...um ...
+---------------------------------------------------------
+Oh,baiklah,terima kasih atas kerja kerasmu!
+Silahkan,Kamu boleh beristirahat...<@>
+---------------------------------------------------------
+Meski begitu,God arc soldier juga cukup disimpan seperti biasa.
+---------------------------------------------------------
+Ketika saya tertangkap,aku bekerja pada God arc troops.
+Mungkin aku harus menerimanya.-
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Aku berhasil menang...
+Kapten,mari rayakan pekerjaan bagus kita!
+---------------------------------------------------------
+Mari kita beritahu Romeo Senpai!
+Ciel-San sepertinya telah menerima izin.
+---------------------------------------------------------
+Well,tidakkah kamu tahu?Dia sepertinya sudah menghubungi pihak FRIAR?
+---------------------------------------------------------
+Yup!kamu seharusnya mempunyai sesuatu setelah semuanya yang terjadi.
+Apa yg harus saya lakukan?
+---------------------------------------------------------
+Izin?
+---------------------------------------------------------
+Aku harus bersiap
+---------------------------------------------------------
+Bagaimanapun,Julius adalah temanku
+... Hei,aku bahagia
+---------------------------------------------------------
+Mutsumi
+---------------------------------------------------------
+Aku menyiapkan pesta itu dengan begitu mewah.
+Dan ini berakhir dengan begitu cepat!
+---------------------------------------------------------
+Dr.Sakaki
+---------------------------------------------------------
+Selamat datang kembali.
+Mengenai situasi FRIAR,saya akan meminta laporannya nanti
+---------------------------------------------------------
+Strateginya berjalan dengan baik,mari kita rayakan pekerjaan kita yang baik ini.
+Maukah kamu pergi kepada Romeo?
+---------------------------------------------------------
+Aku telah menyelesaikan liburanku...
+Go..Go..
+---------------------------------------------------------
+Satsuki
+---------------------------------------------------------
+God arc soldier dan BLOOD...
+Well,bukankah itu kerja sama yg cukup?-
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Semua ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti majalah mode atau katalog.
+Aku tidak tahu karena semuanya ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti file teks.
+Aku tidak bisa melihatnya karena terkunci<@>
+---------------------------------------------------------
+Модный　журнал
+---------------------------------------------------------
+Дневник
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+tidak melakukan apapun
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat arsipnya
+---------------------------------------------------------
+tidak melakukan apapun
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Ada banyak taktik terkait file<@>
+---------------------------------------------------------
+"Signal Bullet" mengacu pada item yang digunakan untuk memberikan instruksi kepada kawan dalam misi<@>
+---------------------------------------------------------
+Kisaran pengaruh "Bullet signal" ada dua jenis "Wide area signals" dan "Narrow Range signal"<@>
+---------------------------------------------------------
+"Wide area signal" untuk semua anggota yang berpartisipasi dalam misi
+"Narrow area signal" hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+Ada 4 jenis"signal bullet"yang bisa digunakan<@>
+---------------------------------------------------------
+"Wide-area Signal: all hands set", "Narrow-Band Signal: Menunggu penyebaran,"
+"narrow-band signal: Mencari serangan musuh," "narrow-band signal: Set"<@>
+---------------------------------------------------------
+Untuk rinciannya tentang masing-masing signal bullet,lihat pada"Database"<@>
+---------------------------------------------------------
+"Control Unit" diaktifkan dengan "Burst Skill"<@>
+---------------------------------------------------------
+"Burst skill"menunjukkan efeknya hanya selama ledakan
+Ini merupakan keterampilan khusus<@>
+---------------------------------------------------------
+Dan,"Control unit"yang terpasang Skill di dalamnya,titlenya berubah
+menyesuaikan yang digunakan<@>
+---------------------------------------------------------
+Aku tidak bisa membukanya karena Aku tidak punya izin<@>
+---------------------------------------------------------
+Senior tactical guidance:signal bullet
+---------------------------------------------------------
+Advanced tactical guidance:Control unit
+---------------------------------------------------------
+ＮＯ　ＮＡＭＥ
+---------------------------------------------------------
+berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+File-file tersebut sudah diatur
+Sangat mudah untuk dilihat<@>
+---------------------------------------------------------
+Dengan "Avatar card"bertukar dengan "avatar"
+Ini tentang teman-teman yang dapat berpartisipasi dalam misi setiap saat<@>
+---------------------------------------------------------
+Ada dua cara untuk bertukar "Avatar Card"
+Salah satunya adalah dengan cara saling bertukar di "Multiplayer mode"<@>
+---------------------------------------------------------
+Cara lainnya adalah"exchange of passing cards"
+Hingga 3 kartu dapat ditukar sekaligus<@>
+---------------------------------------------------------
+"Avatar card" dapat diperbarui dengan cara bertukar dengan orang yang sama
+lewat "Multiplayer mode" atau "Redemption card exchange"<@>
+---------------------------------------------------------
+Sebagai imbalan atas tugas yang dilakukan dengan pihak lain
+"Avatar colletion material"dapat diperoleh<@>
+---------------------------------------------------------
+Bullet memo<@>
+---------------------------------------------------------
+"Rebounding bullet"adalah peluru yang memiliki efek mengembalikan kekuatan fisik anggota party
+Namun,itu tidak berhasil untuk orang yang menembakkan peluru tersebut<@>
+---------------------------------------------------------
+Untuk Bullet dengan sifat yang sangat istimewa
+God arc dapat digunakan secara terbatas<@>
+---------------------------------------------------------
+Hanya satu bagian,ada tsubaki dan lindow kecil dan sakuya bersamanya<@>
+---------------------------------------------------------
+Yang lainnya adalah foto yang relatif baru<@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Bullet
+---------------------------------------------------------
+Foto
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Saya memulai,
+tetapi Layarnya rusak dan sulit untuk dilihat<@>
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Semua file terkunci
+saya tidak bisa melihatnya<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Merchant
+---------------------------------------------------------
+Apakah kamu mau membeli sesuatu?
+---------------------------------------------------------
+Yuno
+---------------------------------------------------------
+Surat belum datang...
+Auna,bagaimana kabarmu ...?<@>
+---------------------------------------------------------
+Selamat datang kembali
+Semua orang baik-baik saja sungguh...
+---------------------------------------------------------

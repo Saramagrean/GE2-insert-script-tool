@@ -1,0 +1,56 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0016
+===============================================================
+[00000200:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Ciel
+---------------------------------------------------------
+hingga sekarang, aku sudah memverifikasi hasil pengeditan 
+blood bullet ku dengan sniper sebagai dasarnya<@>
+---------------------------------------------------------
+tapi Mungkin aku bisa lebih mengerti tentang blood bullet 
+ini, aku hanya butuh verifikasi dari gun model lain.<@>
+---------------------------------------------------------
+dari sini, aku hanya perlu membuat peluru untuk gun tipe 
+lain untuk memverifikasi tentang blood bullet...<@>
+---------------------------------------------------------
+aku sudah mulai mengerti sedikit, tapi aku tidak mengerti 
+cara menggunakannya di tipe lain...<@>
+---------------------------------------------------------
+jika ini benar, bisa kamu ambil beberapa dari blood bullet 
+ini?<@>
+---------------------------------------------------------
+tentu saja aku menginginkannya!
+---------------------------------------------------------
+enggak usah lah...
+---------------------------------------------------------
+aku akan mengambilnya seperti yang kau minta,maksudku terima 
+kasih..
+---------------------------------------------------------
+baik, didalam kasus ini... ini ada satu untuk assault, 
+blast, sniper... dan shotgun. semua ini sekarang milik mu 
+mu.<@>
+---------------------------------------------------------
+baiklah kalau begitu, ayo mulai secara perlahan menuju 
+keexperiment verivikasi , dengan「Power of Blood」ayo kita 
+bersenag bersama...<@>
+---------------------------------------------------------
+aku ingin melihat sebuah peluru biasa bermutasi ke blood 
+bullet.. apa kamu siap?<@>
+---------------------------------------------------------
+aku siap kapanpun itu!
+---------------------------------------------------------
+tunggu sebentar mau ke wc.
+---------------------------------------------------------
+ok! terimakasih banyak<@>
+---------------------------------------------------------
+aku akan menunggu hingga kamu siap buat pergi, ok?
+---------------------------------------------------------

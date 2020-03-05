@@ -1,0 +1,38 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0010
+===============================================================
+[00000176:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Kota
+---------------------------------------------------------
+Lagu baru... Begitu luar biasa, sangat bagus...!
+---------------------------------------------------------
+Romeo
+---------------------------------------------------------
+Jadi kau memahaminya juga, Kota... Pesona Cypres...
+berada dalam kecepatan penuh...!
+---------------------------------------------------------
+Aku... Ketika aku dewasa, aku akan memiloti
+DEMAS...
+---------------------------------------------------------
+Sungguh... Itu akan sangat keren...
+---------------------------------------------------------
+Tepat sekali, terlalu keren! Kau lihat pesona retro di masa
+depan Cypres? Ini membuatku merinding!
+---------------------------------------------------------
+Aku tahu perasaan itu! Aku sangat mengetahuinya!
+---------------------------------------------------------
+Jadi kau tahu bagaimana perasaanku! Romeo, mari bicarakan
+ini sepanjang malam!
+---------------------------------------------------------
+Mengerti! Mari kita bicarakan ini hingga tidak ada yang
+tersisa!
+---------------------------------------------------------

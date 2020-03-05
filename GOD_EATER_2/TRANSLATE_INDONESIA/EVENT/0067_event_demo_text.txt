@@ -1,0 +1,40 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0010
+===============================================================
+[00000176:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Alisa
+---------------------------------------------------------
+....aku yakin kali ini<@>
+---------------------------------------------------------
+memang, kemampuan mu untuk memproduksi effect kecocokan yang 
+bisa membangunkan kemampuan blood art seseorang 
+sepertiku....!<@>
+---------------------------------------------------------
+bisa kau gunakan sekarang!?
+---------------------------------------------------------
+sungguh?
+---------------------------------------------------------
+Yeah.... aku bisa merasakan sedikit kekuatan keluar dari 
+diriku faktanya ,Oracle sel didalam jinki ku menjadi sedikit 
+lebih aktif....<@>
+---------------------------------------------------------
+dengan ini,Mungin aku bisa bertarung dengan spesies invasif 
+saat ini....!<@>
+---------------------------------------------------------
+cobalah untuk tidak berlebihan
+---------------------------------------------------------
+jangan pergi sendiri oke!
+---------------------------------------------------------
+Yeah, sepertinya aku tidak menyusahkan para blood lagi jadi 
+ayo bertarung bersama sama di masa yang akan 
+datang....!<@>
+---------------------------------------------------------

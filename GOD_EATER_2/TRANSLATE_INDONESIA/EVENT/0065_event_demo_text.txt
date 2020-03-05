@@ -1,0 +1,101 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0035
+===============================================================
+[00000276:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Munakata Kunio
+---------------------------------------------------------
+Oh, itu kau Jika perempuan itu biasanya tidak disini, Kukira 
+kamu yg akan melakukannya<@>
+---------------------------------------------------------
+Berikan ini pada komandan perempuan Russia Itu tidaklah 
+penting, hanya rencana untuk pabrik baru<@>
+---------------------------------------------------------
+Orang itu dpt mengurus segalanya seperti dia terkadang 
+lupa mereka dpt mempercayakannya kepada yg lain<@>
+---------------------------------------------------------
+Kami akan mengurus pembangunan pabrik baru tersebut jadi 
+katakan kepada dia jangan paksa dirinya terlalu keras<@>
+---------------------------------------------------------
+Alisa
+---------------------------------------------------------
+Itu tidaklah serius, rupanya Aku hanya kelelahan... Ms. 
+Yae, perawat, memberitahuku untuk berhenti memaksa diriku 
+bekerja terlalu keras<@>
+---------------------------------------------------------
+Sebaiknya kau istirahat untuk sementara.
+---------------------------------------------------------
+Kau telah membuatku marah
+---------------------------------------------------------
+Tapi, Aku tidak mampu untuk istirahat <@>
+---------------------------------------------------------
+Proyek ini hanya akan berhasil jika ada yg percaya 
+terhadap hubungan antara orang yg melibatkan diri, tapi...<@>
+---------------------------------------------------------
+...para penduduk dari satelit merupakan orang yg 
+terlantar. Mereka tidak percaya terhadap Fenrir, sebagian 
+dari mereka bahkan pikir bahwa kita adalah musuh. <@>
+---------------------------------------------------------
+Untuk menang hingga mereka percaya, tidak ada jalan lain 
+untukku bekerja untuk itu... Sebagai pemimpin proyek, Aku 
+harus berada di garis depan<@>
+---------------------------------------------------------
+tidak apa2, mereka mengerti
+---------------------------------------------------------
+tidak sabar tidak akan membantu
+---------------------------------------------------------
+Tapi, baik... Aku harap itu berada dalam darahku...<@>
+---------------------------------------------------------
+Apa ini...?<@>
+---------------------------------------------------------
+Oh...! Rencana untuk pabrik itu!?<@>
+---------------------------------------------------------
+Tapi kenapa? Bahkan meskipun mereka menggunakan untuk 
+menentang ide itu dengan kuat, mengatakan makanan itu lebih 
+penting dari pabrik2...<@>
+---------------------------------------------------------
+Oh... Tuan Munakata mengatakan itu...<@>
+---------------------------------------------------------
+...Memang, Aku harus memaksa diriku dengan keras<@>
+---------------------------------------------------------
+Aku telah mengira untuk melihat keluar orang-orang 
+disekitarku, jadi Aku tidak memperhatikan itu<@>
+---------------------------------------------------------
+Meskipun Aku sadar Aku tidak dpt menangani semuanya dengan 
+diriku sendiri...<@>
+---------------------------------------------------------
+Kau dpt pergi kedepan dan memperhitungkanku dari sekarang
+---------------------------------------------------------
+Aku telah berikan kau bantuan, bahkan jika itu bukan 
+tentang pertarungan
+---------------------------------------------------------
+Terima kasih...<@>
+---------------------------------------------------------
+Tetapi Aku tidak bisa membuatmu lakukan segalanya...<@>
+---------------------------------------------------------
+Aku benar-benar telah membantumu keluar ketika kau 
+membutuhkanku juga! Itu dpt diterima, kan!?<@>
+---------------------------------------------------------
+Ah, sangat lama itu dengan kemampuanku, tentu saja!<@>
+---------------------------------------------------------
+Aku sungguh senang...!<@>
+---------------------------------------------------------
+Mulai dari sekarang, Kedepannya aku akan bekerja 
+denganmu!<@>
+---------------------------------------------------------
+Terima kasih<@>
+---------------------------------------------------------
+...Aku minta maaf<@>
+---------------------------------------------------------
+Untuk itu jika... <@>
+---------------------------------------------------------
+Aku tahu itu, tapi...<@>
+---------------------------------------------------------

@@ -1,0 +1,63 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0020
+===============================================================
+[00000216:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Haruomi
+---------------------------------------------------------
+Tidak dihiasi, tidak berlebihan, kembali ke dasar-dasar
+... itu yang kita dapat?
+---------------------------------------------------------
+Model scout kali ini membuatku bekerja keras, aku bahkan
+menggunakan koneksiku, namun...<@>
+---------------------------------------------------------
+Tapi kemudian, ada dia dalam penderitaanku, burung biru yang
+muncul sebelum saya...!<@>
+---------------------------------------------------------
+Kanon, Ayo!
+---------------------------------------------------------
+Aku hanya menangkal apa yang tidak bisa kutangkap terakhir
+kali<@>
+---------------------------------------------------------
+Canon
+---------------------------------------------------------
+Um... Ini terasa agak ketat...<@>
+---------------------------------------------------------
+Baik-baik saja, Kainnya telah Trimmed, sehingga Kamu dan
+kawan-kawan 'memiliki tekad hidup yang kuat<@>
+---------------------------------------------------------
+Ha...<@>
+---------------------------------------------------------
+Apa...?<@>
+---------------------------------------------------------
+Mengapa Blood Captain?<@>
+---------------------------------------------------------
+Ah, tidak, aku harus mengatakan itu untuk pencarian yang
+suci...
+---------------------------------------------------------
+Baik, Maksudku kita akan kembali ke Tanah yang
+Dijanjikan...
+---------------------------------------------------------
+Sekarang, waktunya untuk menguji efek fisiologis dari kawan
+dalam kostum ini!<@>
+---------------------------------------------------------
+Ah... Mengerti! Aku akan lebih memperhatikan hal
+ini!<@>
+---------------------------------------------------------
+Pencarian suci...?<@>
+---------------------------------------------------------
+Tanah yang dijanjikan...?<@>
+---------------------------------------------------------
+Oh, apakah kau siap untuk bertarung?<@>
+---------------------------------------------------------
+Kalau begitu, Aku akan kembali ke ruangannya. Beritahu aku
+Ketika kau sudah siap.<@>
+---------------------------------------------------------

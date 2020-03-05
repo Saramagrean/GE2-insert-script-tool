@@ -1,0 +1,347 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0144
+===============================================================
+[00000712:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+Dengan otoritas saat ini,Aku tidak bisa masuk ke ruangan ini
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas saat ini,Aku tidak bisa masuk ke ruangan ini
+---------------------------------------------------------
+
+---------------------------------------------------------
+Dengan otoritas saat ini,Aku tidak bisa masuk ke ruangan ini
+---------------------------------------------------------
+Alisa
+---------------------------------------------------------
+Setelah kau beristirahat untuk kerja bersama cradle,beberapa tugas tidak berkurang sama sekali
+---------------------------------------------------------
+Tetapi di meja Dr.Sakaki,selalu ada lusinan kertas
+Itu sebabnya...tidak baik menaikkan akar pada tingkat ini
+---------------------------------------------------------
+Kalbi
+---------------------------------------------------------
+Kyurururu～
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+Fuu...
+---------------------------------------------------------
+Oh, tidak,setelah aku mengalahkan Marduk,aku sedikit merindukan hal tersebut...
+Aku mengerti bahwa itu tidak baik...
+---------------------------------------------------------
+Analogra telah sepenuhnya kembali ke udara.
+Hampir seperti Romeo akan kembali...
+---------------------------------------------------------
+Emil
+---------------------------------------------------------
+Ayo, Erina!Jangan menyerah!
+Letakkan roh kesatria BLOOD dengan kuat ke dalamnya!
+---------------------------------------------------------
+Dan!
+aku ingin kamu mengajariku juga!
+---------------------------------------------------------
+Erina
+---------------------------------------------------------
+Oh,sudah jangan berisik!
+Tolong pergilah!
+---------------------------------------------------------
+Erina
+---------------------------------------------------------
+Saya sedang belajar cara menggunakan Spear dari Gilbert.<@>
+---------------------------------------------------------
+......Aku tidak mengerti sama sekali.
+Apa itu,bagaimana kekuatan itu dapat berubah?
+---------------------------------------------------------
+Gill
+---------------------------------------------------------
+Dikatakan bahwa itu terlalu kuat
+Kemudian,menurut nafas Aragami.....
+---------------------------------------------------------
+Di sini,bernapas ...?
+A,Aragami ... ...?
+---------------------------------------------------------
+Gilbert...
+Saya ingin kamu memberikan penjelasan dengan sedikit lebih mudah<@>
+---------------------------------------------------------
+Gill
+---------------------------------------------------------
+Saat ini aku telah ditanyakan oleh Erina bagaimana cara menggunakan spear...
+---------------------------------------------------------
+Aku...Jangan berpikir terlalu keras.
+Perhatikan petunjuk dengan seksama...
+cukup melihat timing dan melangkah masuk
+---------------------------------------------------------
+Erina
+---------------------------------------------------------
+Jadi,itu"terlihat bagus"atau"melihat timing"
+Jangan katakan padaku,tolong katakan padaku dengan mudah!
+---------------------------------------------------------
+......Aku tidak pandai mengajar.
+ini pertama kalinya,dan..mengapa dia marah?
+---------------------------------------------------------
+Haruomi
+---------------------------------------------------------
+Hari ini Anagura dalam keadaan normal... well,baiklah
+Nah,apakah kamu akan bekerja?
+---------------------------------------------------------
+Hibari
+---------------------------------------------------------
+Baru-baru ini,Yuno terlihat depresi
+Hal itu membuatmu khawatir,bukan?<@>
+---------------------------------------------------------
+BLOOD memiliki tugas baru
+Tolong perlihatkan,terdapat lebih dari satu Aragami yang muncul di area kota tua
+---------------------------------------------------------
+Kanon
+---------------------------------------------------------
+Shinkansen dan Kigurumi-san ......
+Bertarung dalam diam,itu sedikit terlihat seperti..
+---------------------------------------------------------
+Kigurumi
+---------------------------------------------------------
+……
+---------------------------------------------------------
+Tetapi untuk anak-anak,dibanding kigurumi God arc soldier tampaknya lebih populer,terlihat keren
+---------------------------------------------------------
+……！？
+---------------------------------------------------------
+Kouta
+---------------------------------------------------------
+Baru-baru ini,penampilan Yuno terlihat agak aneh
+---------------------------------------------------------
+Ini seperti sesuatu yang berada dihati,aku merasa seperti sedang mengalami masalah ......
+---------------------------------------------------------
+Apakah tidak ada balasan dari Asuna yang dikirimkan ke Mail?
+Tentu saja mereka berteman baik
+---------------------------------------------------------
+Tetapi,ini sudah saatnya transfer ke FRIAR.
+Aku akan menghubungi lagi segera, tentunya
+---------------------------------------------------------
+...... Itu tidak bisa ditolong walaupun aku mengatakannya di sini
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Yuno selalu bernyanyi ke seluruh dunia dan.....
+Pergi ke pesta pernikahan atau apalah.... Semuanya dikerjakan secara teratur,bukan?<@>
+---------------------------------------------------------
+Meski begitu terlihat selalu cerah,saya lelah dan saya tidak menunjukkannya sama sekali
+Itu bentuk profesionalisme<@>
+---------------------------------------------------------
+Mutsumi
+---------------------------------------------------------
+Terima kasih atas kerja kerasmu hari ini!mau minum sesuatu?
+---------------------------------------------------------
+Dr.Sakaki
+---------------------------------------------------------
+Kalian menjatuhkan saya,Marduk..... Sepertinya sudah ditetapkan sebagai benih
+---------------------------------------------------------
+.....Well,lagi hanya untuk mengembangkan ukuran baru.
+Bahkan jika dia menangis,itu tidak dapat membantu
+---------------------------------------------------------
+Satsuki
+---------------------------------------------------------
+Alisa,bagaimana kondisi cardle?
+---------------------------------------------------------
+Alisa
+---------------------------------------------------------
+Ya,itu dibentuk sedikit demi sedikit
+Meskipun sekarang masih sedikit..tetapi sekarang..
+---------------------------------------------------------
+Aku sangat gembira dengan kesuksesanmu.
+Suatu hari Aku akan melakukan wawancara jangkauan dekat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Semua ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti majalah mode atau katalog
+Aku tidak tahu karena semuanya ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti file teks
+Aku tidak bisa melihatnya karena terkunci<@>
+---------------------------------------------------------
+Модный　журнал
+---------------------------------------------------------
+Дневник
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+tidak melakukan apapun
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat arsipnya
+---------------------------------------------------------
+Tidak melakukan apapun
+---------------------------------------------------------
+
+---------------------------------------------------------
+tidak melakukan apapun<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Ada banyak taktik terkait file<@>
+---------------------------------------------------------
+"Signal Bullet" mengacu pada item yang digunakan untuk memberikan instruksi kepada kawan dalam misi<@>
+---------------------------------------------------------
+Kisaran pengaruh "Bullet signal" ada dua jenis "Wide area signals" dan "Narrow Range signal"<@>
+---------------------------------------------------------
+"Wide area signal" untuk semua anggota yang berpartisipasi dalam misi
+"Narrow area signal" hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+Ada 4 jenis"signal bullet"yang bisa digunakan<@>
+---------------------------------------------------------
+"Wide-area Signal: all hands set", "Narrow-Band Signal: Menunggu penyebaran,"
+"narrow-band signal: Mencari serangan musuh," "narrow-band signal: Set"<@>
+---------------------------------------------------------
+Untuk rinciannya tentang masing-masing signal bullet,lihat pada"Database"<@>
+---------------------------------------------------------
+"Control Unit" diaktifkan dengan "Burst Skill"<@>
+---------------------------------------------------------
+"Burst skill"menunjukkan efeknya hanya selama burst mode
+Ini merupakan keterampilan khusus<@>
+---------------------------------------------------------
+Dan,"Control unit"yang terpasang Skill di dalamnya,titlenya berubah
+menyesuaikan yang digunakan<@>
+---------------------------------------------------------
+Aku tidak bisa membukanya karena Aku tidak punya izin<@>
+---------------------------------------------------------
+Senior tactical guidance:signal bullet
+---------------------------------------------------------
+Advanced tactical guidance:Control unit
+---------------------------------------------------------
+ＮＯ　ＮＡＭＥ
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+File-file tersebut sudah diatur
+Sangat mudah untuk dilihat<@>
+---------------------------------------------------------
+Dengan "Avatar card"bertukar dengan "avatar"
+Ini tentang teman-teman yang dapat berpartisipasi dalam misi setiap saat<@>
+---------------------------------------------------------
+Ada dua cara untuk bertukar "Avatar Card"
+Salah satunya adalah dengan cara saling bertukar di "Multiplayer mode"<@>
+---------------------------------------------------------
+Cara lainnya adalah"exchange of passing cards"
+Hingga 3 kartu dapat ditukar sekaligus<@>
+---------------------------------------------------------
+"Avatar card" dapat diperbarui dengan cara bertukar dengan orang yang sama
+lewat "Multiplayer mode" atau "Redemption card exchange"<@>
+---------------------------------------------------------
+Sebagai imbalan atas tugas yang dilakukan dengan pihak lain
+"Avatar colletion material"dapat diperoleh<@>
+---------------------------------------------------------
+Bullet memo<@>
+---------------------------------------------------------
+"Rebounding bullet"adalah peluru yang memiliki efek mengembalikan kekuatan fisik anggota party
+Namun,itu tidak berhasil untuk orang yang menembakkan peluru tersebut<@>
+---------------------------------------------------------
+Untuk Bullet dengan sifat yang sangat istimewa
+God arc dapat digunakan secara terbatas<@>
+---------------------------------------------------------
+Hanya satu bagian,ada tsubaki dan lindow kecil dan sakuya bersamanya<@>
+---------------------------------------------------------
+Yang lainnya adalah foto yang relatif baru<@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Bullet
+---------------------------------------------------------
+Foto
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Saya memulai,
+tetapi Layarnya rusak dan sulit untuk dilihat<@>
+---------------------------------------------------------
+Apa yang kamu lihat?<@>
+---------------------------------------------------------
+Semua file terkunci
+saya tidak bisa melihatnya<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Kigurumi
+---------------------------------------------------------
+……？
+---------------------------------------------------------
+Yorozu ya
+---------------------------------------------------------
+Apakah kamu akan membeli sesuatu?
+---------------------------------------------------------
+Yuno
+---------------------------------------------------------
+Jika kamu tidak menerima email,kamu bisa menemuiku disini
+Tolong izinkan aku menghubungi kamu,Aku ingin bertanya perihal FRIAR<@>
+---------------------------------------------------------
+Setelah semua ......Lucu.....<@>
+---------------------------------------------------------
+Oh, maaf, aku punya sedikit pemikiran ... ...<@>
+---------------------------------------------------------
+Oh, tidak,aku ingin tahu,apa itu artinya bermasalah...<@>
+---------------------------------------------------------
+Apa yang salah?
+---------------------------------------------------------
+Apakah ada yang salah?
+---------------------------------------------------------
+Sejak saat itu beberapa kali untuk Asuna chan
+Aku mengirim surat,tetapi ...Aku tidak melihat balasan sama sekali<@>
+---------------------------------------------------------
+Aku pikir akan sulit untuk melakukan perawatan blackpague,tetapi......
+Aku tidak pernah bebas seperti ini,jadi Aku merasa khawatir tentang sesuatu ......<@>
+---------------------------------------------------------
+Kamu bisa melihatnya langsung.
+---------------------------------------------------------
+Mogok dan datang menabrak.
+---------------------------------------------------------
+eh?
+Oh itu benar<@>
+---------------------------------------------------------
+Mulai sekarang,kamu bisa pergi melihatnya.....Kenapa kamu tidak memperhatikan hal seperti itu.....<@>
+---------------------------------------------------------
+Terima kasih!
+Maukah kamu membiarkanku melihat kondisi mu?...Aku akan memberikanmu konsultasi<@>
+---------------------------------------------------------

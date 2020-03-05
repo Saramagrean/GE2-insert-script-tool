@@ -1,0 +1,71 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0022
+===============================================================
+[00000224:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Alisa
+---------------------------------------------------------
+Ya gitu deh, aku ingin memperkenalkan diriku lagi<@>
+---------------------------------------------------------
+Aku Letnan II Alisa Illinichina Amiella dari Unit Pendukung
+Independent "Cradle" Dari Fenrir Far East Branch<@>
+---------------------------------------------------------
+Tim kami "Cradle" adalah organisasi yang melakukan
+perjalanan ke seluruh cabang untuk menciptakan
+kedamaian<@>
+---------------------------------------------------------
+Di hadapan semua yang berdiri dan menyaksikan kami mengambil
+langkah maju dan mengambil solusi berbagai masalah... itu
+yang kami lakukan<@>
+---------------------------------------------------------
+Ah, maafkan aku... silakan duduk...<@>
+---------------------------------------------------------
+Secara teknis, Aku anggota Unit I Far East Branch<@>
+---------------------------------------------------------
+Sejak Crandle diciptakan, kita sudah bertarung sebagai God
+Eaters dan juga membangun dan mendukung basis
+satelit...<@>
+---------------------------------------------------------
+Itulah tujuan operasi kami...<@>
+---------------------------------------------------------
+Hari ini, aku ada hal serius yang perlu dirundingkan
+bersamamu...<@>
+---------------------------------------------------------
+Jika ini tentang Spesies Invasif, aku akan membantumu
+kapanpun kau perlu
+---------------------------------------------------------
+Kau bisa percayakan hal itu pada Blood
+---------------------------------------------------------
+Terima kasih...!<@>
+---------------------------------------------------------
+Jadi sekarang, dengan adanya spesies invasif jadi masalah
+erbesar pada basis satelit, hanya sedikit yang bisa kita
+lakukan <@>
+---------------------------------------------------------
+Aku yakin ucapanku ini gak sopan, tapi aku yakin untuk hal
+ini, kita perlu meminjam banyak kekuatan Blood.<@>
+---------------------------------------------------------
+Aku menghargai usulmu<@>
+---------------------------------------------------------
+Okedah, gimana kalo sekarang kita melakukan misi
+bersama?<@>
+---------------------------------------------------------
+Kita bisa lebih mengenal gaya bertarung masing-masing kan
+enak bisa buat pengalaman juga!<@>
+---------------------------------------------------------
+...Kan?<@>
+---------------------------------------------------------
+Y aja
+---------------------------------------------------------
+Serah lu dah
+---------------------------------------------------------
+Yess...! Ga sabar anjir...!<@>
+---------------------------------------------------------

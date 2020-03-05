@@ -1,0 +1,61 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0021
+===============================================================
+[00000220:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Nana
+---------------------------------------------------------
+Aku membuat pil strawberry dari pil sebelumnya, Bahkan lebih kuat!<@>
+---------------------------------------------------------
+Aku menyadari itu akan menjadi yang terbaik untuk membuat ini lezat serta sehat, jadi aku menambahkan banyak nutrisi lain, seperti vitamin dan yang lainnya!<@>
+---------------------------------------------------------
+Jadi aku berkonsultasi dengan Dr. sakaki, dan dia menyarankan aku untuk menambahkan daily charm ... dan akhirnya aku berakhir dengan ini!<@>
+---------------------------------------------------------
+Licca tidak mengehentikanmu?
+---------------------------------------------------------
+Itu mengejutkan secara normal...?
+---------------------------------------------------------
+Jadi ini adalah... "The No Worries", dan bagaimana cara mengatakannya 
+Ini adalah lottery-ish healing pill! <@>
+---------------------------------------------------------
+Terlihat seperti regular healing pill di luar, tetapi 
+ketika kau memasukannya ke mulutmu...<@>
+---------------------------------------------------------
+Yang satu ini... Rasa Kelala! Dan seperti itu, Kau tidak akan tahu rasanya sampai mencobanya.<@>
+---------------------------------------------------------
+Dan di atasnya, memiliki efek yang berbeda juga ! Seperti 
+ada pemenang dan juga pecundang!<@>
+---------------------------------------------------------
+Ngomong-ngomong, yang rasanya kelapa sedikit merestore kedua 
+health dan OP sekaligus. Jadi ini cukup beruntung kurasa. 
+---------------------------------------------------------
+Tapi yang satu ini belum selesai. Rasa yang paling penting -- rasa yang hilang -- Aku belum membuatnya. <@>
+---------------------------------------------------------
+Aku ingin pergi mendapatkan resep... Apakah baik-baik saja jika aku meminta bantuanmu?<@>
+---------------------------------------------------------
+Aku tertarik.
+---------------------------------------------------------
+Mungkin nanti.
+---------------------------------------------------------
+Eh? Licca tidak tahu? Karena Prof. Sakaki memberitahuku untuk merahasiakannya dari Licca...<@>
+---------------------------------------------------------
+Hahaha -- Aku bertaruh, itu mirip denganmu!<@>
+---------------------------------------------------------
+Terima kasih!
+---------------------------------------------------------
+Kali ini kami butuh Gboro-Gboro materials. Kita harus mendapatkanya dengan celat agar dapat menyelesaikannya!<@>
+---------------------------------------------------------
+Benar, sampai nanti beres, semuanya harus mencoba! 
+Kedengaran menyenangkan!<@>
+---------------------------------------------------------
+Benarkah? Kalau begitu, Beritahu aku jika kau memiliki waktu senggang. 
+Janji?<@>
+---------------------------------------------------------

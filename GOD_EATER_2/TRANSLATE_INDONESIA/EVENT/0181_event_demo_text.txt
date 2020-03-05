@@ -1,0 +1,58 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0017
+===============================================================
+[00000204:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Ciel
+---------------------------------------------------------
+...
+---------------------------------------------------------
+Ada apa?
+---------------------------------------------------------
+Apa kau merasa tidak enak?
+---------------------------------------------------------
+Apa harus kukatakan tidak enak... Tidak,
+sungguh...<@>
+---------------------------------------------------------
+Beberapa peluru telah berubah, tidak seperti yang kita
+pelajari Meski begitu... Mereka tidak terlalu buruk...
+<@>
+---------------------------------------------------------
+Maksudku, selama menembakkan peluru, beberapa sifat mereka
+berubah ubah Seharusnya aku memodifikasi
+sistemnya...<@>
+---------------------------------------------------------
+Ya...
+---------------------------------------------------------
+Kemampuan menembakmu luar biasa
+---------------------------------------------------------
+Bagaimana jika berkonsultasi dengan tim pemeliharaan
+---------------------------------------------------------
+Memang... AKU mempertimbangkan pemeriksaan
+menyeluruh...<@>
+---------------------------------------------------------
+Ah, tentang hari ini... terima kasih banyak aku berharap
+padamu terlebih di masa depan<@>
+---------------------------------------------------------
+Ah, ti-tidak, itu mungkin hanya imajinasiku... Tapi God
+Arc-ku...<@>
+---------------------------------------------------------
+Ah, ti-tidak, aku baik baik saja! Itu hanya God
+Arc-ku...<@>
+---------------------------------------------------------
+Ah... Aku minta maaf jika terdengar sombong... Aku
+tidak bermaksud seperti itu... Itu hanya kebiasaanku,
+mengingat betapa lamanya aku menggunakan tembakan...<@>
+---------------------------------------------------------
+Okay, tenang saja
+---------------------------------------------------------
+Ayo kita tanyakan ke tim pemeliharaan
+---------------------------------------------------------

@@ -1,0 +1,26 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0006
+===============================================================
+[00000160:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Licca
+---------------------------------------------------------
+Terima Kasih! Ini akan membantu meningkatkan prototype<@>
+---------------------------------------------------------
+Saat upgradenya selesai, aku ingin kau membantuku
+ dengan eksperimen... gapapa kan?<@>
+---------------------------------------------------------
+Ayo kita buat ini berhasil!
+---------------------------------------------------------
+Kupikir kita sebaiknya menyelesaikannya dulu
+---------------------------------------------------------
+Itu akan membantu meringankan waktu untuk membuatnya terlihat bagus..!<@>
+---------------------------------------------------------

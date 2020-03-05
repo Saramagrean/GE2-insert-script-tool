@@ -1,0 +1,43 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0013
+===============================================================
+[00000188:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Alisa
+---------------------------------------------------------
+Fiuh... Sudah selesai! Kerja bagus semuanya! <@>
+---------------------------------------------------------
+Aku harus cepat pulang...! <@>
+---------------------------------------------------------
+...Kerja?
+---------------------------------------------------------
+Aku akan mengalahkanmu lagi!
+---------------------------------------------------------
+Oh, ini bukan tentang kerja...hanya saja...<@>
+---------------------------------------------------------
+Kamarku... <@>
+---------------------------------------------------------
+Apakah rusak?
+---------------------------------------------------------
+Kau akan pindah?
+---------------------------------------------------------
+Tidak, tidak seperti itu!
+---------------------------------------------------------
+Beberapa saat yang lalu, ketika Mutsumi pergi ke kamarku 
+untuk berkumpul...<@>
+---------------------------------------------------------
+Dia bilang kepadaku dengan senyum bahwa "kau tinggal di 
+kamar dua kali seperti milikku, jadi kau harus membuat dua 
+kali berantakan", jadi...<@>
+---------------------------------------------------------
+Aku akan merapikannya! Kali ini pastinya!! Aku tidak bisa 
+dalam hal ini, meskipun...Oh yah...<@>
+---------------------------------------------------------

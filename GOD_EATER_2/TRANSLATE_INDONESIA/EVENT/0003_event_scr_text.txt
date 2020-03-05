@@ -1,0 +1,90 @@
+NAMA:event_scr_text
+ENCODING:UTF-8
+CRLF:\n
+ID:
+TYPE:
+JUMLAH_STRING:0033
+===============================================================
+[00000268:00000512:00002015:00066133:00000250:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Nah, Anakku adalah penggemar beratmu
+---------------------------------------------------------
+Terima Kasih, Aku takut laguku mungkin akan buruk
+---------------------------------------------------------
+Tidak, Aku merasa senang sekali
+---------------------------------------------------------
+Kami menghargai kerja sama anda dalam
+kegiatan Relasi Publik di Fenrir
+---------------------------------------------------------
+Tidak, Distribusi barang dari daerah sini akhirnya dapat
+dilakukan denga dukungan dari orang orang Fenrir
+---------------------------------------------------------
+Jika ada sesuatu yang dapat kulakukan, 
+---------------------------------------------------------
+Jika tidak apa apa, apakah ada keluhan di markas? ....
+---------------------------------------------------------
+Oh, Maaf.... Jika aku berkata demikian,
+Aku tidak ingin meninggalkan Far East....
+---------------------------------------------------------
+Aku harap kamu dapat mengunjungi kami lagisetelah perbaikan
+situasi di pangkalan satelit sedikit meningkat
+---------------------------------------------------------
+Benar.... jika seperti itu, aku hanya harus menerimanya,
+kalau begitu ayo pergi ke markas
+---------------------------------------------------------
+itu telah disimpan! Terima kasih banyak
+---------------------------------------------------------
+Ngomong-ngomong, Ceritanya juga
+---------------------------------------------------------
+Umumnya, Kau terlalu jauh melangkah kedepan
+---------------------------------------------------------
+Perhatikan gerakan musuh dengan benar
+---------------------------------------------------------
+Yah, Romeo terlalu banyak bekerja, bukan?
+---------------------------------------------------------
+Sedikit lagi, nana, sudah dekat!
+---------------------------------------------------------
+Ah....
+---------------------------------------------------------
+Oh, maaf ... ... Wow! Apa?
+---------------------------------------------------------
+Sepertinya, kamu adalah.... Yuno, aku sangat minta maaf
+---------------------------------------------------------
+Tidak, Seperti
+---------------------------------------------------------
+jangan pingsan di lobi, ya?
+itu akan sangat memalukan bagi pelanggan penting
+---------------------------------------------------------
+Huh.... Maaf aku merepotkanmu
+---------------------------------------------------------
+maaf jika aku tidak sopan,
+Kurasa mereka memiliki kemampuan untuk bertarung....
+---------------------------------------------------------
+Oh, Apa yang kamu lakukan, senpai?
+---------------------------------------------------------
+Ha ha, kamu ... ... kamu,
+apakah kamu ... ... Yuno!
+---------------------------------------------------------
+Yuno? Apa itu kau?
+---------------------------------------------------------
+Serius? Reimu Yuno! Yunoashihara! Selebriti!
+Penyanyi Legenda!
+---------------------------------------------------------
+Oh, Aku harap aku membawa kamera!
+Woy kalian!
+---------------------------------------------------------
+Hmm, Kurasa hari ini aku masih berbau seperti
+Yuno aku tidak akan mandi hari ini....
+---------------------------------------------------------
+Er ... ... Senpai, ayo berkeliling kamar mandi
+---------------------------------------------------------
+Tidak, tidak! Aku tidak akan kembali hari ini
+---------------------------------------------------------
+Sungguh, tolong lakukan yang terbaik, Ayo pergi
+---------------------------------------------------------
+Hey, tunggu!
+---------------------------------------------------------

@@ -1,0 +1,60 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0022
+===============================================================
+[00000224:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Kouta
+---------------------------------------------------------
+Oh, itu, aku punya sesuatu yang ingin aku tanyakan padamu ....Aku tidak tahu apa yang dilakukan Bullet, 
+ada yang aneh
+---------------------------------------------------------
+padahal aku pernah kerjasama denganmu sebelumnya, seharusnya aku sudah bergerak dengan benarApa kamu tahu 
+sesuatu tentang ini ......
+---------------------------------------------------------
+kamu tidak bisa melakukan itu!Itu Bullet yang biasa aku gunakan, pasti ada kesalahan.
+---------------------------------------------------------
+......Apa? tidak mungkin, apakah itu Blood Bullet?
+---------------------------------------------------------
+Kalian hanya bisa menggunakan blood
+---------------------------------------------------------
+mungkin hanya perasaanmu?
+---------------------------------------------------------
+...... Tidak mungkin, dengan Blood Bullet?
+---------------------------------------------------------
+Siapa pun dapat menggunakannya selama dapat menguasainya
+---------------------------------------------------------
+Itu kesalahpahaman besar
+---------------------------------------------------------
+Apa? ya, mungkin Blood Bullet ku sudah......?
+---------------------------------------------------------
+Serius...gawat, aku terlalu semangat! Hei sekarang apa yang harus aku lakukan
+---------------------------------------------------------
+tunggu...benar, aku ingat! untuk membangkitkan Blood Bullet, yang kamu butuhkan adalah kerjasama kan?
+---------------------------------------------------------
+Aku mohon! ini permintaan seumur hidupku!apakah kamu bisa membiarkan aku membangkitkan Blood Bullet?
+---------------------------------------------------------
+Jika kamu tidak bisa melakukannya, coba lagi!Aku akan melakukannya lagi dan lagi sampai berhasil!
+---------------------------------------------------------
+maaf aku mengganggumu ....seharusnya ini menjadi tantangan bagiku kali ini, entah bagaimana!
+---------------------------------------------------------
+Yosha!Kalau begitu ayo pergi ke misi!
+---------------------------------------------------------
+Tidak ada bukti yang pasti
+---------------------------------------------------------
+Aku tidak bisa menemukan alasan untuk menolak
+---------------------------------------------------------
+Ada apa?
+---------------------------------------------------------
+Hei, aku punya sesuatu yang ingin aku tanyakan padamu ....Bisakah kamu datang kepadaku setelah 
+bertugas?
+---------------------------------------------------------
+Ups, maaf......  akan ku beri kemudahan untukmu, tolong beritahu aku lagi ketika kamu siap
+---------------------------------------------------------

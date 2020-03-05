@@ -1,0 +1,282 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0119
+===============================================================
+[00000612:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+Dengan otoritas saat ini, di ruangan ini Anda tidak bisa masuk
+---------------------------------------------------------
+Ciel
+---------------------------------------------------------
+Arch ... Kenapa kau belum mengabariku.....?..........Oh.....Maafkan aku.....
+---------------------------------------------------------
+...tidak aku hanya berbicara sendiri... 
+---------------------------------------------------------
+Ngomong-ngomong Tampaknya mengambil konvokasi dari direktur Grem Ada kontak dari kapten Julius,
+---------------------------------------------------------
+Tampaknya ada cerita tentang prajurit God Eater
+---------------------------------------------------------
+Franz
+---------------------------------------------------------
+Direktur Grem memanggil Blood Silakan menuju ke Kantor Direktur sesegera mungkin 
+---------------------------------------------------------
+Misi ini akan menjadi pengawal para God soldier dalam tes operasi tak berawak 
+Apakah kamu siap?
+---------------------------------------------------------
+Misi ini akan menjadi pengawal para God Soldier dalam tes operasi tak berawak 
+Silakan mendaftar segera setelah persiapan selesai
+---------------------------------------------------------
+Gil
+---------------------------------------------------------
+Tugas selanjutnya bukanlah jimat dari boneka itu ... 
+---------------------------------------------------------
+Mari kita selesaikan tugas dengan cepat 
+---------------------------------------------------------
+Aku mendengar cerita dari seorang pejabat ...... 
+Tampaknya persiapan untuk pengorbanan kuil Shinto sedang dimajukan
+---------------------------------------------------------
+Sebanyak menaruh banyak uang untuk itu ... ... 
+Tidak ... ... tidak ada, tidak keberatan 
+---------------------------------------------------------
+Grem
+---------------------------------------------------------
+Para prajurit God machine memiliki biaya yang cukup besar 
+bahkan dengan satu lengan, saya akan mengklaim biaya perbaikan besar
+---------------------------------------------------------
+Julius
+---------------------------------------------------------
+Tentara Divine machine Dari saat pengujian operasi berawak, 
+cerita itu masuk ke telinga aku banyak ... ...
+---------------------------------------------------------
+
+Ini adalah cerita lucu bahwa manusia mengatur senjatanya Nah, jangan membusuk, meminta selamat lah..
+---------------------------------------------------------
+Oh, sudah disimpan
+---------------------------------------------------------
+
+Itu benar ...... Para Kongou adalah Aragami dengan pendengaran yang luar biasa Jika Kamu merasa indikasi
+pertempuran itu akan segera datang
+---------------------------------------------------------
+Dalam kasus seperti itu, Kamu harus membersihkan Kongou terlebih dahulu 
+Dia seharusnya tidak memperhatikan suara pertempuran yang jauh 
+---------------------------------------------------------
+Jika Anda berhasil menggiring Kongo ke ujung barat area operasional, A. 
+Ambil sapuan cepat dengan God Arc dan peluru api dan menghancurkan monsternya
+---------------------------------------------------------
+Tinggalkan garis depan
+---------------------------------------------------------
+Strategi apa yang harus aku tantang? 
+---------------------------------------------------------
+Oh, benar juga Juga dari Direktur Grem, panggilan dilakukan
+---------------------------------------------------------
+
+Mungkin terdengar dari Dr. Rachel Ini akan menjadi kisah "tes operasi tanpa awak"
+dari prajurit God Eater ...
+---------------------------------------------------------
+Segera setelah Anda siap, pergi ke Kantor Direktur
+---------------------------------------------------------
+Leah
+---------------------------------------------------------
+Aku mengerti keadaan Direktur Jenderal Grem ... ...
+Lagi pula, itu terlalu ceroboh
+---------------------------------------------------------
+Aku belum pernah mengelola operasi tanpa awak ... 
+---------------------------------------------------------
+Nana
+---------------------------------------------------------
+Direktur Grem ... ... Orang itu, Aku tidak pandai
+---------------------------------------------------------
+Capek! Apakah sesuatu yang disebut oleh Direktur Grem, kan? Apa cerita itu ... 
+---------------------------------------------------------
+Grem
+---------------------------------------------------------
+Aku ingin tahu apakah itu benar-benar baik-baik saja? Aku adalah God Priest 
+Aku ingin tahu berapa harganya, kurasa.
+---------------------------------------------------------
+Sialan
+---------------------------------------------------------
+Ya, dalam simulasi 
+Memang, operasi normal telah dikonfirmasi 
+---------------------------------------------------------
+Hanya ... ... Karena ini adalah percobaan pertama dalam pertarungan sebenarnya ... ...
+Itu ... ... Dalam kejadian yang tidak mungkin ...
+---------------------------------------------------------
+Itu tugas Kau untuk mengelolanya! sukseskanlah, kuharap! 
+---------------------------------------------------------
+Rachel
+---------------------------------------------------------
+Jika penelitian God eater maju dan itu mungkin untuk memasukkannya ke dalam pertempuran yang sebenarnya
+Kamu harus dapat mengurangi beban padamu
+---------------------------------------------------------
+
+Aku pikir Kamu juga memiliki sesuatu berbagai kata untuk dikatakan ......
+Mohon tolong bekerja sama
+---------------------------------------------------------
+Karyawan Friar
+---------------------------------------------------------
+Bertempur di "Red Rain" dilarang Meskipun ada pakaian pelindung,
+itu bukan sesuatu yang dapat bertahan pertempuran 
+---------------------------------------------------------
+Jika hanya ada satu metode, tampaknya itu bukan tentang masuk ke tentara God machine Karena,
+sepertinya pengkodean khusus diberikan untuk mengusir Red Rain
+---------------------------------------------------------
+Yah, Direktur Umum Grem seperti itu tidak akan memaafkanmu ... tapi 
+---------------------------------------------------------
+Karyawan Friar
+---------------------------------------------------------
+Kau memiliki kemiripan dengan kapten Blood dulu yaitu Kapten Arch-ku ingin tahu bagaimana
+keadaanya sekarang...?,
+---------------------------------------------------------
+Kata Ciel ia sangat dekat dengannya.... hingga saat ini....
+apakah mereka sepasang kekasih?
+---------------------------------------------------------
+Romeo
+---------------------------------------------------------
+prajurit God machine, itu adalah senjata bergerak yang dikembangkan untuk mengalahkan Aragami
+Tapi kenapa kamu harus menyimpan itu ... ...?
+---------------------------------------------------------
+prajurit God Eater lebih baik dari God machine ...... Saya tidak setuju dengan sesuatu ...
+---------------------------------------------------------
+Entah bagaimana brosur, ini luar biasa Karena aku merasa tenang, aku lari ke sini 
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Semua ditulis dalam bahasa Rusia <@>
+---------------------------------------------------------
+Ini terlihat seperti majalah mode atau katalog Aku tidak mengerti karena semuanya
+ditulis dalam bahasa Rusia<@>
+---------------------------------------------------------
+Ini terlihat seperti file teks Dikunci dan tidak dapat dilihat<@>
+---------------------------------------------------------
+Модный　журнал
+---------------------------------------------------------
+Дневник
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat? <@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Aku tidak melakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat arsip
+---------------------------------------------------------
+Aku tidak melakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat?<@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Ada banyak taktik terkait file<@>
+---------------------------------------------------------
+"Signal Bullet" mengacu pada item yang digunakan untuk memberikan instruksi kepada kawan dalam misi<@>
+---------------------------------------------------------
+Kisaran pengaruh "Bullet signal" ada dua jenis "Wide area signals" dan "Narrow Range signal"<@>
+---------------------------------------------------------
+"Wide area signal" untuk semua anggota yang berpartisipasi dalam misi
+"Narrow area signal" hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+Ada 4 jenis "Signal Bullet" yang bisa digunakan<@>
+---------------------------------------------------------
+"Wide-area Signal: all hands set", "Narrow-Band Signal: Menunggu penyebaran,"
+"narrow-band signal: Mencari serangan musuh," "narrow-band signal: Set"<@>
+---------------------------------------------------------
+Untuk informasi rinci dari setiap sinyal, lihat "Database" <@>
+---------------------------------------------------------
+"Control Unit" diaktifkan dengan "Burst Skill"<@>
+---------------------------------------------------------
+"Burst skill" menunjukkan efeknya hanya selama ledakan Ini adalah keahlian khusus <@>
+---------------------------------------------------------
+Juga, "unit kontrol" dan keterampilan yang terpasang di dalamnya Judul berubah sesuai dengan<@>
+---------------------------------------------------------
+Aku tidak bisa membukanya karena aku tidak punya izin <@>
+---------------------------------------------------------
+Panduan taktis lanjutan: Signal Bullet
+---------------------------------------------------------
+Panduan taktis lanjutan: Control Unit
+---------------------------------------------------------
+ＮＯ　ＮＡＭＥ
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kau lihat? <@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+File-file tersebut diatur Sangat mudah untuk dilihat <@>
+---------------------------------------------------------
+Dengan "avatar card" bertukar dengan "avatar" Ini tentang teman yang dapat
+berpartisipasi dalam misi kapan saja <@>
+---------------------------------------------------------
+Ada dua cara untuk bertukar "Avatar Card" Salah satunya adalah secara manual bertukar di "Multiplayer"<@>
+---------------------------------------------------------
+Lainnya adalah "exchange of passing card" Hingga 3 kartu dapat ditukar sekaligus <@>
+---------------------------------------------------------
+"Avatar card" dapat diperbarui dengan bertukar dengan lawan yang sama dengan melakukan
+"Multipemain" atau "Redemption of Card"<@>
+---------------------------------------------------------
+Sebagai imbalan atas tugas yang dilakukan dengan pihak lain "Bahan koleksi Avatar" akan diperoleh<@>
+---------------------------------------------------------
+Memo Bullet<@>
+---------------------------------------------------------
+"Rebounding bullet" adalah peluru yang memiliki efek mengembalikan kekuatan fisik Kamu 
+Namun, itu tidak berfungsi untuk orang yang menembak <@>
+---------------------------------------------------------
+Untuk Bullet dengan sifat yang sangat istimewa God machine dapat digunakan terbatas <@>
+---------------------------------------------------------
+Hanya satu bagian, dengan sedikit Tsubaki dan Lindow Ada foto-foto Sakuya bersama <@>
+---------------------------------------------------------
+Yang lainnya adalah foto yang relatif baru<@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Bullet
+---------------------------------------------------------
+Foto
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+aku mulai, tapi Layar rusak dan sulit dilihat<@>
+---------------------------------------------------------
+Apa yang kau lihat? <@>
+---------------------------------------------------------
+Setiap file terkunci Kau tidak dapat melihatnya <@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------

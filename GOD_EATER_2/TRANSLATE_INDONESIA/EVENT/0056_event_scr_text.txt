@@ -1,0 +1,75 @@
+NAMA:event_scr_text
+ENCODING:UTF-8
+CRLF:\n
+ID:
+TYPE:
+JUMLAH_STRING:0022
+===============================================================
+[00000224:00000512:00002015:00066133:00000250:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Halo, Tuan Lelah
+---------------------------------------------------------
+Nah, Duduklah
+---------------------------------------------------------
+Hmm? Apa ini mengganggumu?
+---------------------------------------------------------
+Ha ha, dia terlihat seperti pria yang baik... 
+---------------------------------------------------------
+Tiga tahun yang lalu... Karena kecelakaan kecil,
+Gelangku dimakan Aragami lalu aku merasa frustasi
+---------------------------------------------------------
+Jadi, Aragami sekarang telah mulai berkembang.
+Ini sudah berakhir
+---------------------------------------------------------
+Tapi, pada saat itu, kapten pasukan pertama...
+Oh pada saat itu kita belum bertemu,
+seperti sinkronasi Kota juniorku... 
+---------------------------------------------------------
+Orang itu mengangkat hidupnya dan
+menghentikan alaramisasi saya
+---------------------------------------------------------
+Nah, selain itu, ada banyak hal sih,
+tapi yang mana yang harus kubicarakan... 
+---------------------------------------------------------
+Hei, Kapten, aku tidak perlu menjawabnya sekarang... 
+---------------------------------------------------------
+Yah, ini aku...
+Aku menyukaimu dan orang orang di "Blood" sangat baik 
+---------------------------------------------------------
+Jika kamu baik baik saja... 
+---------------------------------------------------------
+Apakah kamu akan pergi ke "Cradle" dan
+bertarung dengan kami? 
+---------------------------------------------------------
+Lindows-San, seperti biasa,
+Member hasil rekrut canggung sekali
+---------------------------------------------------------
+Oh... Sangat memalukan disini 
+---------------------------------------------------------
+Kalian, Aku mendengarmu,jadi tolong berhenti bersiap
+untuk penarikan sesegera mungkin 
+---------------------------------------------------------
+Ah, Sudah kubilang sebelumnya, Tapi balas ke "Blood"
+yang sedang bermasalah sekarang.
+Tolong bicara dengan pelan lalu putuskan 
+---------------------------------------------------------
+Jika memungkinkan. Bersama... bukan hanya di Far East
+tapi sekaligus bepergian di dunia yang belum pernah
+aku lihat... Dan bertemu dengan banyak orang... 
+---------------------------------------------------------
+Kemudian, kami akan membuat "Cradle" dimana orang orang
+dapat tidur dengan nyenyak...
+---------------------------------------------------------
+Seperti "Rencana Cradle" dengan junior yang aku bicarakan
+beberapa saat yang lalu
+---------------------------------------------------------
+Ini adalah "mimpi" yang dibuat setiap orang,
+berpusat pada Alisa dan Soma disana
+---------------------------------------------------------
+Nah kamu juga ingin melihat "mimpi" bersama,
+Jika mungkin... itu seperti perasaan
+---------------------------------------------------------

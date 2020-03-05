@@ -1,0 +1,327 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0129
+===============================================================
+[00000652:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+
+---------------------------------------------------------
+Dengan otoritas saat ini, di ruangan ini
+kamu tidak bisa masuk
+---------------------------------------------------------
+Fran
+---------------------------------------------------------
+Dr Raquel sedang menunggu di laboratorium
+Hal-hal lain yang ingin aku tanyakan adalah:
+---------------------------------------------------------
+Dr Kujow mencari wakil kapten kedua lagi
+...... Sepertinya tidak dalam suasana hati yang baik,
+---------------------------------------------------------
+Misi baru dikeluarkan untuk Friar dari markas besar
+Bisakah kamu menangani di sini?
+---------------------------------------------------------
+Leah
+---------------------------------------------------------
+...... Oh, itu akan kembali
+Kerja bagus .. ....
+---------------------------------------------------------
+...... Lagi pula, niat kantor pusat tidak bisa diubah
+Memprioritaskan operasi God Machine Soldiers tanpa awak akan secara resmi diputuskan
+---------------------------------------------------------
+Tapi ... aku masih belum menyerah
+Setelah hasilnya dipublikasikan, keputusan akan berakhir ... ...
+---------------------------------------------------------
+Bahkan untuk Rachel yang akan mendukungku ... 
+---------------------------------------------------------
+Dr.Kujo
+---------------------------------------------------------
+Dr Rachel memberi aku surat ......
+---------------------------------------------------------
+Oh, kamu ?! Apa?
+Siapa anggota blood yang akan ikut untuk mencari material ?
+---------------------------------------------------------
+Senang bertemu denganmu, cintaku ... ... ah!
+kau naik tanpa izin ke God Machine ku! Apa?
+---------------------------------------------------------
+... ... tidak, tidak, baiklah
+Mari kita buang Tuan Rachel dan biarkan mengalir ke air
+---------------------------------------------------------
+Yah ... ... dan aku dan Rachel mulai sekarang
+Terima kasih!
+---------------------------------------------------------
+Mulai sekarang ...?
+---------------------------------------------------------
+Apa maksudmu
+---------------------------------------------------------
+Hah! Tidak ... ... Ini berarti penelitian yang bermakna mulai sekarang!
+God Machine Soldiers, ha ha ha ... ...
+---------------------------------------------------------
+Jika kamu memiliki pertemuan dengan Dr. Rachel ..
+... ... Tolong beri aku salam
+---------------------------------------------------------
+Rachel
+---------------------------------------------------------
+Terima kasih ......
+Apakah kamu menyerahkan surat itu ke Dr. Kujo?
+---------------------------------------------------------
+Baiklah, terima kasih
+---------------------------------------------------------
+Fuh ... ... Terima kasih
+Ketika sesuatu terjadi lagi, tolong pinjamkan kekuatanmu
+---------------------------------------------------------
+Nanti lagi
+---------------------------------------------------------
+serahkan padaku
+---------------------------------------------------------
+Selamat datang di rumah.
+Fuh ... ... Cukup mengesankan
+---------------------------------------------------------
+Tapi maaf ....
+Perlu beberapa waktu untuk mempersiapkannya di sini ...
+---------------------------------------------------------
+Ngomong-ngomong, ketika aku memberitahu Dr. Kujo untuk memberitahumu
+Sudah kubilang aku ingin memberitahumu sebuah cerita
+---------------------------------------------------------
+Bagaimana kalau aku akan menyambut kamu sampai ini siap?
+---------------------------------------------------------
+Kerja bagus hari ini, yah ...... Dengan tugas sebelumnya
+aku ingin tahu apakah kamu diminta untuk mengumpulkan sel Aragami ...
+---------------------------------------------------------
+Jika kamu dapat mengumpulkan "Goddes Wing Piece"
+Bisakah kamu membawanya?
+---------------------------------------------------------
+Terima kasih
+---------------------------------------------------------
+"Goddess wing piece" ... ... Tolong bawa
+---------------------------------------------------------
+Jika kau tidak memilikinya di tanganmu dan di terminal, silahkahkan keluar..trimksih
+---------------------------------------------------------
+Terima kasih.
+Kalau begitu, bisakah aku mendapatkan "Goddess wing pieces"?
+---------------------------------------------------------
+Terima kasih ......
+Terima kasih kepada kamu, pengembangan God Machine Soldier akan dilanjutkan ...
+---------------------------------------------------------
+...... Hal lain yang ingin aku tanyakan
+Bisakah kau berbicara dengan aku lagi ketika kamu sudah siap?
+---------------------------------------------------------
+Apakah begitu ... aku sangat menyesal
+---------------------------------------------------------
+Lulus
+---------------------------------------------------------
+Jangan serahkan
+---------------------------------------------------------
+Karena kesalahanku kau jadi repot dan akhirnya aku selamat..
+Maafkan aku,
+---------------------------------------------------------
+Selanjutnya ... dari Aragami yang disebut Yakusha Raja
+Silakan kumpulkan 'Hundred Claws'
+---------------------------------------------------------
+Dari Yaksha Raja ... ....
+Silakan ambil "Hundred-Elegant Claws"
+---------------------------------------------------------
+Sungguh ... ... pekerjaannya lebih awal
+Kalau begitu "Hundred-Elegant Claws" ... bisakah aku mendapatkannya?
+---------------------------------------------------------
+Terima kasih
+Dr Kujo juga akan sangat senang ...
+---------------------------------------------------------
+Apakah begitu ... Aku sangat menyesal
+---------------------------------------------------------
+Dia sepertinya sangat menyukainya
+"Orang itu adalah penyelamatku ...," kataku,
+---------------------------------------------------------
+Ngomong-ngomong, Dr. Kujow berkata kepadamu
+aku mencari kamu untuk membiarkan aku mengucapkan terima kasih sejauh ini
+---------------------------------------------------------
+Jika kamu melihat ......
+Tolong berikan surat ini kepada Dr. Kujow?
+---------------------------------------------------------
+Ini dari Rachel, ... ....
+Tolong sampaikan salam dari aku ...
+---------------------------------------------------------
+Karyawan Friar
+---------------------------------------------------------
+Ketika kamu ingin mengalahkan Aragami tertentu ... ... Ketika kamu memilih misi
+Anda dapat mencari nama Aragami dengan penjelasan misi
+---------------------------------------------------------
+Banyak menggunakan God Machine, ketika ada bahan yang tidak tersedia di dalam ... ...
+Sungguh frustasi saat mencari Aragami yang diinginkan, bukan ?
+---------------------------------------------------------
+Karyawan Friar
+---------------------------------------------------------
+Saya pikir mempertahankan taman ini adalah salah satu pekerjaan yang luar biasa
+Tanaman sejauh ini sulit dilihat di tempat lain
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat? <@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Semua ditulis dalam bahasa Rusia <@>
+---------------------------------------------------------
+Ini terlihat seperti majalah mode atau katalog
+Saya tidak mengerti karena semuanya ditulis dalam bahasa Rusia <@>
+---------------------------------------------------------
+Ini terlihat seperti file teks
+Dikunci dan tidak dapat dilihat <@>
+---------------------------------------------------------
+Модный　журнал
+---------------------------------------------------------
+Дневник
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat? <@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+aku tidak melakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat? <@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat arsip
+---------------------------------------------------------
+aku tidak melakukan apa-apa
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat? <@> 
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Ada banyak taktik terkait file <@>
+---------------------------------------------------------
+"Signal Bullet" mengacu pada item yang digunakan untuk memberikan instruksi kepada kawan dalam misi<@>
+---------------------------------------------------------
+Kisaran pengaruh "Bullet signal" ada dua jenis "Wide area signals" dan "Narrow Range signal"<@>
+---------------------------------------------------------
+"Wide area signal" untuk semua anggota yang berpartisipasi dalam misi
+"Narrow area signal" hanya mengacu pada anggota dalam status tindak lanjut<@>
+---------------------------------------------------------
+Ada 4 jenis "sinyal peluru" yang bisa digunakan <@>
+---------------------------------------------------------
+"Wide-area Signal: all hands set", "Narrow-Band Signal: Menunggu penyebaran,"
+"narrow-band signal: Mencari serangan musuh," "narrow-band signal: Set"<@>
+---------------------------------------------------------
+Untuk konten rinci dari setiap sinyal, lihat "Database" <@>
+---------------------------------------------------------
+"Control Unit" diaktifkan dengan "Burst Skill"<@>
+---------------------------------------------------------
+"Keterampilan meledak" menunjukkan efeknya hanya selama ledakan
+Ini adalah keahlian khusus <@>
+---------------------------------------------------------
+Juga tergantung pada "control unit" dan skill yang terpasang didalamnya maka Title akan berubah<@>
+---------------------------------------------------------
+aku tidak bisa membukanya karena aku tidak punya izin <@>
+---------------------------------------------------------
+Panduan taktis lanjutan: sinyal peluru
+---------------------------------------------------------
+Panduan taktis lanjutan: Unit kontrol
+---------------------------------------------------------
+ＮＯ　ＮＡＭＥ
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+Apa yang kamu lihat? <@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+File-file tersebut diatur
+Sangat mudah untuk melihat <@>
+---------------------------------------------------------
+Dengan "kartu avatar" bertukar dengan "avatar"
+Ini tentang teman yang dapat berpartisipasi dalam misi kapan saja <@>
+---------------------------------------------------------
+Ada dua cara untuk bertukar "Avatar Card"
+Salah satunya adalah secara manual bertukar di "Multiplayer" <@>
+---------------------------------------------------------
+Lainnya adalah "pertukaran kartu yang lewat"
+Hingga 3 kartu dapat ditukar sekaligus <@>
+---------------------------------------------------------
+"Avatar card" dapat diperbarui dengan bertukar dengan lawan yang sama
+<@>
+---------------------------------------------------------
+Sebagai imbalan karena menyelesaikan tugas<dengan anggota lain
+"Material avatar" bisa diambil<@>
+---------------------------------------------------------
+Memo Bullet <@>
+---------------------------------------------------------
+"Rebounding bullet" adalah peluru yang memiliki efek mengembalikan kekuatan fisik kamu
+Namun, itu tidak berfungsi untuk orang yang menembak <@>
+---------------------------------------------------------
+Untuk Bullet dengan sifat yang sangat istimewa
+God Machine dapat digunakan terbatas <@>
+---------------------------------------------------------
+Hanya satu bagian, dengan sedikit sakuya dan lindow
+Ada foto-foto Sakuya bersama <@>
+---------------------------------------------------------
+Yang lainnya adalah foto yang relatif baru <@>
+---------------------------------------------------------
+Avatar
+---------------------------------------------------------
+Bullet
+---------------------------------------------------------
+Foto
+---------------------------------------------------------
+Berhenti melihat
+---------------------------------------------------------
+
+---------------------------------------------------------
+aku mulai, tapi
+Layar rusak dan sulit dilihat <@>
+---------------------------------------------------------
+Apa yang kamu lihat? <@>
+---------------------------------------------------------
+Setiap file terkunci
+kamu tidak dapat melihatnya <@>
+---------------------------------------------------------
+Buka Terminal
+---------------------------------------------------------
+Lihat file lain
+---------------------------------------------------------
+Damien
+---------------------------------------------------------
+Ya, wakil kapten juga dalam masalah juga
+---------------------------------------------------------
+Ha ha ha!
+Jangan berlebihan satu sama lain,
+---------------------------------------------------------
+Itu tidak biasa ...
+Kalau begitu aku akan memiliki beberapa petunjuk
+---------------------------------------------------------
+Pertama-tama, orang-orang di sekitarnya enggan jatuh ke dalam congo
+kau mengerti bahwa itu adalah rahasia untuk menempatkan orang-orang ini terlebih dahulu?
+---------------------------------------------------------
+Atribut es sangat efektif untuk Quadriga
+Menembak peluru Aragami berwarna es dengan satu barel es akan membuatnya lebih mudah
+---------------------------------------------------------
+Kepada orang-orang adalah untuk mendengarkan sesuatu, itu tidak memalukan
+Pastikan untuk hidup dan pulang
+---------------------------------------------------------
+Damian adalah ini
+---------------------------------------------------------
+Saya menderita misi misi berikutnya
+---------------------------------------------------------

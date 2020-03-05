@@ -1,0 +1,50 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0016
+===============================================================
+[00000200:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Licca
+---------------------------------------------------------
+Dibandingkan dengan data yang dikumpulkan sebelumnya,aku mencoba memyesuaikan lebih lanjut.
+Aku merasa akurasi telah meningkat jauh dibandingkan dengan yang sebelumnya
+---------------------------------------------------------
+Tergantung pada hasil verifikasi operasi selanjutnya.
+Akhirnya kita bisa mengusulkannya ke markas Fenrir untuk penggunaan praktis ...!
+---------------------------------------------------------
+Yah,itu benar!.Masih ada masalah yang harus dipecahkan, 
+tetapi tampaknya kita bisa mengambil langkah besar
+---------------------------------------------------------
+Apa yang kamu bicarakan!Meskipun kau sedang bekerja sama,sejauh ini kau tidak pernah menghargainya
+---------------------------------------------------------
+Akhirnya,waktunya terima imbalan!
+---------------------------------------------------------
+Aku akan berusaha untuk dapat menjawab harapanmu
+---------------------------------------------------------
+Oke, kemudian, dengan versi penyesuaian yang baru disiapkan.Bisakah kita kembali mengumpulkan data lagi?
+---------------------------------------------------------
+Mungkin itu akan memakan waktu lagi.Aku pikir ini akan menjadi yang terakhir ... ...
+---------------------------------------------------------
+Fuh, kamu benar-benar tangguh!
+Kalau begitu
+---------------------------------------------------------
+Ya,Tidak apa-apa.  bila kau punya banyak waktu, Aku harap saat itu kita bisa bekerja sama!
+---------------------------------------------------------
+Kapanpun bisa!
+---------------------------------------------------------
+Sekarang sedikit……
+---------------------------------------------------------
+Yah, Aku kira situasinya tidak cukup baik
+---------------------------------------------------------
+Dapatkah aku meminta seseorang untuk menelepon ketika misi berakhir?
+Akupunya sesuatu yang ingin ku tanyakan kepadamu
+---------------------------------------------------------
+Ya,terima kasih!
+---------------------------------------------------------

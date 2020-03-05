@@ -1,0 +1,51 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0015
+===============================================================
+[00000196:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Nana
+---------------------------------------------------------
+Tawaran terbaru dari Nana, tema hari ini "Camilan enak yang
+ cocok dengan sandwich" <@>
+---------------------------------------------------------
+Nama yang bagus.
+---------------------------------------------------------
+Itu terlalu sewenang-wenang.
+---------------------------------------------------------
+Tak ada yang spesial di namanya, namun rasanya
+ sungguh nikmat! kenapa kau bilang begitu, ini warisan ibuku tau!<@>
+---------------------------------------------------------
+Warisan?
+---------------------------------------------------------
+Jadi itu bukan Roti rebus?
+---------------------------------------------------------
+Yeah! ibuku sungguh hebat! dia punya banyak warisan
+bahkan resep pun ada!<@>
+---------------------------------------------------------
+Tapi, aku tak bisa ingat semuanya... aku ingat sedikit
+-demi sedikit sejak  "Power of Blood"
+ ku bangkit<@>
+---------------------------------------------------------
+Tentu saja,  bukan hanya resep, tapi juga kenangan masa kecilku .....<@>
+---------------------------------------------------------
+Mungkin, jika Captain tak bersamaku mungkin aku sudah
+ melupakan semuanya...<@>
+---------------------------------------------------------
+Hehe, Makasih <@>
+---------------------------------------------------------
+Itulah mengapa, aku akan membuat "Soto Banjar" dan
+ "Tempe Bacem bakar" jadi makan semuanya dengan hati
+ yang gembira! <@>
+---------------------------------------------------------
+Betul kan? jadi blak-blakan seperti ini yang terbaik!<@>
+---------------------------------------------------------
+Ga, ga gitu!
+---------------------------------------------------------

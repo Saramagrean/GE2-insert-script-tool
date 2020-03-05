@@ -1,0 +1,356 @@
+NAMA:lsd_str_text
+ENCODING:UTF-8
+CRLF:\n
+ID:
+TYPE:
+JUMLAH_STRING:0125
+===============================================================
+[00000636:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Dummy Device without any support effects.
+A terminator that blocks connection to the Link Support Device.
+---------------------------------------------------------
+Cost 25 Activates after 10 secs
+---------------------------------------------------------
+Cost 25 Activates after 10 secs 
+---------------------------------------------------------
+Cost 25 Activates after 10 secs 
+---------------------------------------------------------
+Cost 25 Activates after 10 secs 
+---------------------------------------------------------
+Cost 25 Activates after 10 secs 
+---------------------------------------------------------
+Cost 25 Activates after 10 secs 
+---------------------------------------------------------
+Cost 25 Activates after 10 secs 
+---------------------------------------------------------
+Cost 25 Activates after 10 secs 
+---------------------------------------------------------
+Cost 25 Activates after 10 secs 
+---------------------------------------------------------
+Cost 25 Activates after 10 secs 
+---------------------------------------------------------
+Cost 50 Activates after 10 secs
+---------------------------------------------------------
+Cost 25 Activates after 10 secs 
+---------------------------------------------------------
+Cost 25 Activates after 10 secs 
+---------------------------------------------------------
+Cost 25 Activates after 10 secs 
+---------------------------------------------------------
+Cost 25 Activates after 10 secs 
+---------------------------------------------------------
+Cost 25 Activates after 10 secs 
+---------------------------------------------------------
+Cost 25 Activates after 10 secs 
+---------------------------------------------------------
+Cost 50 Activates after 10 secs
+---------------------------------------------------------
+Cost 25 Activates after 10 secs 
+---------------------------------------------------------
+Immediately 30 secs after the mission starts,
+all Aragami in the field will be put into Hold state.
+---------------------------------------------------------
+Increase Fire/Ice/Thunder/Divine element Attacks by 10% for 1 min.
+A new device designed by Licca focusing on both combat and support.
+---------------------------------------------------------
+From the start of the mission, for 2 mins,
+all members' Fire element attacks are increased by 20%.
+---------------------------------------------------------
+From 2 mins after the mission starts, for 3 mins,
+all members' Fire element attacks are increased by 20%.
+---------------------------------------------------------
+From 5 mins after the mission starts, for 5 mins,
+all members' Fire element attacks are increased by 20%.
+---------------------------------------------------------
+From 10 mins after the mission starts, for 10 mins,
+all members' Fire element attacks are increased by 20%.
+---------------------------------------------------------
+From the start of the mission, for 2 mins,
+all members' Ice element attacks are increased by 20%.
+---------------------------------------------------------
+From 2 mins after the mission starts, for 3 mins,
+all members' Ice element attacks are increased by 20%.
+---------------------------------------------------------
+From 5 mins after the mission starts, for 5 mins,
+all members' Ice element attacks are increased by 20%.
+---------------------------------------------------------
+From 10 mins after the mission starts, for 10 mins,
+all members' Ice element attacks are increased by 20%.
+---------------------------------------------------------
+From the start of the mission, for 2 mins,
+all members' Thunder element attacks are increased by 20%.
+---------------------------------------------------------
+From 2 mins after the mission starts, for 3 mins,
+all members' Thunder element attacks are increased by 20%.
+---------------------------------------------------------
+From 5 mins after the mission starts, for 5 mins,
+all members' Thunder element attacks are increased by 20%.
+---------------------------------------------------------
+From 10 mins after the mission starts, for 10 mins,
+all members' Thunder element attacks are increased by 20%.
+---------------------------------------------------------
+From the start of the mission, for 2 mins,
+all members' Divine element attacks are increased by 20%.
+---------------------------------------------------------
+From 2 mins after the mission starts, for 3 mins,
+all members' Divine element attacks are increased by 20%.
+---------------------------------------------------------
+From 5 mins after the mission starts, for 5 mins,
+all members' Divine element attacks are increased by 20%.
+---------------------------------------------------------
+From 10 mins after the mission starts, for 10 mins,
+all members' Divine element attacks are increased by 20%.
+---------------------------------------------------------
+From the start of the mission, for 2 mins,
+reduce Aragami's hearing by 30%.
+---------------------------------------------------------
+From 2 mins after the mission starts, for 3 mins,
+reduce Aragami's hearing by 30%.
+---------------------------------------------------------
+From 5 mins after the mission starts, for 5 mins,
+reduce Aragami's hearing by 30%.
+---------------------------------------------------------
+From 10 mins after the mission starts, for 10 mins,
+reduce Aragami's hearing by 30%.
+---------------------------------------------------------
+From the start of the mission, for 2 mins,
+reduce Aragami's vision by 30%.
+---------------------------------------------------------
+From 2 mins after the mission starts, for 3 mins,
+reduce Aragami's vision by 30%.
+---------------------------------------------------------
+From 5 mins after the mission starts, for 5 mins,
+reduce Aragami's vision by 30%.
+---------------------------------------------------------
+From 10 mins after the mission starts, for 10 mins,
+reduce Aragami's vision by 30%.
+---------------------------------------------------------
+From the start of the mission, for 2 mins,
+delay all Aragami from entering the field by 1 min.
+---------------------------------------------------------
+From 2 mins after the mission starts, for 3 mins,
+delay all Aragami from entering the field by 1 min.
+---------------------------------------------------------
+From 5 mins after the mission starts, for 5 mins,
+delay all Aragami from entering the field by 1 min.
+---------------------------------------------------------
+From 10 mins after the mission starts, for 10 mins,
+delay all Aragami from entering the field by 1 min.
+---------------------------------------------------------
+From the start of the mission, for 2 mins,
+keep all entered Aragami from leaving their areas for 1 min.
+---------------------------------------------------------
+From 2 mins after the mission starts, for 3 mins,
+keep all entered Aragami from leaving their areas for 1 min.
+---------------------------------------------------------
+From 5 mins after the mission starts, for 5 mins,
+keep all entered Aragami from leaving their area for 1 min.
+---------------------------------------------------------
+From 10 mins after the mission starts, for 10 mins,
+keep all entered Aragami from leaving their area for 1 min. 
+---------------------------------------------------------
+From the start of the mission, for 2 mins,
+reduce the likelihood of enraging Aragami by 30%.
+---------------------------------------------------------
+From 2 mins after the mission starts, for 3 mins,
+reduce the likelihood of enraging Aragami by 30%.
+---------------------------------------------------------
+From 5 mins after the mission starts, for 5 mins,
+reduce the likelihood of enraging Aragami by 30%.
+---------------------------------------------------------
+From 10 mins after the mission starts, for 10 mins,
+reduce the likelihood of enraging Aragami by 30%.
+---------------------------------------------------------
+From the start of the mission, for 2 mins,
+reduce Crush damage received by all members by 30%.
+---------------------------------------------------------
+From 2 mins after the mission starts, for 3 mins,
+reduce Crush damage received by all members by 30%.
+---------------------------------------------------------
+From 5 mins after the mission starts, for 5 mins,
+reduce Crush damage received by all members by 30%.
+---------------------------------------------------------
+From 10 mins after the mission starts, for 10 mins,
+reduce Crush damage received by all members by 30%.
+---------------------------------------------------------
+From the start of the mission, for 2 mins,
+increase all members' movement speed by 20%
+---------------------------------------------------------
+From 2 mins after the mission starts, for 3 mins,
+increase all members' movement speed by 20%.
+---------------------------------------------------------
+From 5 mins after the mission starts, for 5 mins,
+Increase all members' movement speed by 20%.
+---------------------------------------------------------
+From 10 mins after the mission starts, for 10 mins,
+increase all members' movement speed by 20%.
+---------------------------------------------------------
+From the start of the mission, for 2 mins,
+deduce all members' ST consumption by 30%.
+---------------------------------------------------------
+From 2 mins after the mission starts, for 3 mins,
+deduce all members' ST consumption by 30%.
+---------------------------------------------------------
+From 5 mins after the mission starts, for 5 mins,
+deduce all members' ST consumption by 30%.
+---------------------------------------------------------
+From 10 mins after the mission starts, for 10 mins,
+deduce all members' ST consumption by 30%.
+---------------------------------------------------------
+From the start of the mission, for 2 mins,
+attacking the pack leader will not alert the others
+---------------------------------------------------------
+From 2 mins after the mission starts, for 3 mins,
+attacking the pack leader will not alert the others.
+---------------------------------------------------------
+From 5 mins after the mission starts, for 5 mins,
+attacking the pack leader will not alert the others.
+---------------------------------------------------------
+From 10 mins after the mission starts, for 10 mins,
+attacking the pack leader will not alert the others.
+---------------------------------------------------------
+From the start of the mission, for 2 mins,
+Aragami will not enrage from being unbounded.
+---------------------------------------------------------
+From 2 mins after the mission starts, for 3 mins,
+Aragami will not enrage from being unbounded.
+---------------------------------------------------------
+From 5 mins after the mission starts, for 5 mins,
+Aragami will not enrage from being unbounded.
+---------------------------------------------------------
+From 10 mins after the mission starts, for 10 mins,
+Aragami will not enrage from being unbounded.
+---------------------------------------------------------
+From the start of the mission, for 2 mins,
+increase the amount of Aragami Bullets received from Devouring.
+---------------------------------------------------------
+From 2 mins after the mission starts, for 3 mins,
+increase the amount of Aragami Bullets received from Devouring.
+---------------------------------------------------------
+From 5 mins after the mission starts, for 5 mins,
+increase the amount of Aragami Bullets received from Devouring.
+---------------------------------------------------------
+From 10 mins after the mission starts, for 10 mins,
+increase the amount of Aragami Bullets received from Devouring.
+---------------------------------------------------------
+From the start of the mission, for 10 mins,
+increase the likelihood of downing Aragami by 20%.
+---------------------------------------------------------
+From 2 mins after the mission starts, for 3 mins,
+increase the likelihood of downing Aragami by 20%.
+---------------------------------------------------------
+From 5 mins after the mission starts, for 5 mins,
+increase the likelihood of downing Aragami by 20%.
+---------------------------------------------------------
+From 10 mins after the mission starts, for 10 mins,
+increase the likelihood of downing Aragami by 20%.
+---------------------------------------------------------
+From the start of the mission, for 2 mins,
+increase the likelihood of unbinding Aragami by 20%.
+---------------------------------------------------------
+From 2 mins after the mission starts, for 3 mins,
+increase the likelihood of unbinding Aragami by 20%.
+---------------------------------------------------------
+From 5 mins after the mission starts, for 5 mins,
+increase the likelihood of unbinding Aragami by 20%.
+---------------------------------------------------------
+From 10 mins after the mission starts, for 10 mins,
+increase the likelihood of unbinding Aragami by 20%.
+---------------------------------------------------------
+Immediately after the mission starts, for 2 mins,
+all members can revive themselves once.
+---------------------------------------------------------
+From 2 mins after the mission starts, for 3 mins,
+all members can revive themselves once.
+---------------------------------------------------------
+From 5 mins after the mission starts, for 5 mins,
+all members can revive themselves once.
+---------------------------------------------------------
+From 10 mins after the mission starts, for 10 mins,
+all members can revive themselves once.
+---------------------------------------------------------
+From 2 mins after the mission starts, for 3 mins,
+Certain members' very first strike will definitely unbind parts.
+---------------------------------------------------------
+From 5 mins after the mission starts, for 5 mins,
+Certain members' very first strike will definitely unbind parts.
+---------------------------------------------------------
+From 10 mins after the mission starts, for 10 mins,
+Certain members' very first strike will definitely unbind parts.
+---------------------------------------------------------
+From the start of the mission, for 2 mins,
+all members can negate from being damaged once.
+---------------------------------------------------------
+From 2 mins after the mission starts, for 3 mins,
+all members can negate from being damaged once.
+---------------------------------------------------------
+From 5 mins after the mission starts, for 5 mins,
+all members can negate from being damaged once.
+---------------------------------------------------------
+From 10 mins after the mission starts, for 10 mins,
+all members can negate from being damaged once.
+---------------------------------------------------------
+Immediately after 2 mins from the start of the mission,
+all Aragami in the field will be put into Hold state.
+---------------------------------------------------------
+Immediately after 5 mins from the start of the mission,
+all Aragami in the field will be put into Hold state.
+---------------------------------------------------------
+Immediately after 10 mins from the start of the mission,
+all Aragami in the field will be put into Hold state.
+---------------------------------------------------------
+Immediately after 2 mins from the start of the mission,
+all members will activate Link Burst Lv3 effect.
+---------------------------------------------------------
+Immediately after 5 mins from the start of the mission,
+all members will activate Link Burst Lv3 effect.
+---------------------------------------------------------
+Immediately after 10 mins from the start of the mission,
+all members will activate Link Burst Lv3 effect.
+---------------------------------------------------------
+From 5 mins after the mission starts, for 5 mins,
+increase the likelihood of downing Aragami by 30%.
+---------------------------------------------------------
+From 2 mins after the mission starts, for 3 mins,
+increase the likelihood of unbinding Aragami by 30%.
+---------------------------------------------------------
+Twice, immediately after the mission starts and immediately 2 mins after,
+all members will activate Link Burst Lv3 effect.
+---------------------------------------------------------
+ミッション開始直後から３分間
+被ダメージ10%カット、火氷雷神属性の攻撃力10%アップ
+---------------------------------------------------------
+ミッション開始直後から５分間
+アラガミを10%ダウンさせやすくなり、被ダメージを10%カット
+---------------------------------------------------------
+エンハンスミッション用常時火属性攻撃力ＵＰ
+---------------------------------------------------------
+エンハンスミッション用常時氷属性攻撃力ＵＰ
+---------------------------------------------------------
+エンハンスミッション用常時雷属性攻撃力ＵＰ
+---------------------------------------------------------
+エンハンスミッション用常時神属性攻撃力ＵＰ
+---------------------------------------------------------
+エンハンスミッション用全員生存状態だと開始2分後から攻撃力UP
+---------------------------------------------------------
+エンハンスミッション用バースト中常時防御力UP攻撃力UP
+---------------------------------------------------------
+エンハンスミッション用常時火氷属性攻撃力ＵＰ
+---------------------------------------------------------
+エンハンスミッション用常時氷雷攻撃力ＵＰ
+---------------------------------------------------------
+エンハンスミッション用移動速度大幅ＵＰ
+---------------------------------------------------------
+エンハンスミッション用アラガミが非戦闘時にＰＣ攻撃力ＵＰ
+---------------------------------------------------------
+エンハンスミッション用全員が生存している時防御力、攻撃力ＵＰ
+---------------------------------------------------------
+エンハンスミッション用防御アップ、攻撃アップ、フルバーストが順にかかる
+---------------------------------------------------------
+エンハンスミッション用常時火神攻撃力ＵＰ
+---------------------------------------------------------

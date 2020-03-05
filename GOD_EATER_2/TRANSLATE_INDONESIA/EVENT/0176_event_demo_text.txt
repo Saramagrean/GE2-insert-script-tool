@@ -1,0 +1,70 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0024
+===============================================================
+[00000232:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Emil
+---------------------------------------------------------
+kalian semua, Blood?<@>
+---------------------------------------------------------
+Haha, Biasa aja gausah tegang gitu..... selow!<@>
+---------------------------------------------------------
+Sekarang aku disini, tak perlu merasa khawatir atau takut pada apapun!<@>
+---------------------------------------------------------
+Oops, permisi...<@>
+---------------------------------------------------------
+Aku Emil... tergabung dalam "unit I" dari Far East Branch!
+Emil von Strasbourg!<@>
+---------------------------------------------------------
+Gil
+---------------------------------------------------------
+...O gitu ya?, lu jelek dah gitu aja<@>
+---------------------------------------------------------
+"Friar" mu adalah kendaraan yang bagus...  kau memang punya selera tinggi...<@>
+---------------------------------------------------------
+Walaupun! Menjadi pengganggu dari pelayaran  kapal indah ini...
+Kumpulan Aragami menunggu seperti ombak besar.....<@>
+---------------------------------------------------------
+Aku yakin... Kau pasti tegang atas bawah..... 
+Ketika aku terbayang itu... aku... Aku gak kuat!<@>
+---------------------------------------------------------
+Untuk alasan itu, Aku akan berpetualang bersama denganmu!
+Dan tentu saja, Ijinkan aku menaiki kapal indah ini!<@>
+---------------------------------------------------------
+Iya dah iya
+---------------------------------------------------------
+Ga lu jelek
+---------------------------------------------------------
+Ayo bertarung bersama! demi masa depan umat 
+manusia yang terang!!<@>
+---------------------------------------------------------
+Ayo kita lalui semua yang ada!<@>
+---------------------------------------------------------
+...jancok<@>
+---------------------------------------------------------
+Gausah malu, Aku berkewajiban menjaga yang lemah dengan tangan dinginku ini! Inilah janji "Kode Kavaleri"
+yang sesungguhnya!<@>
+---------------------------------------------------------
+Ga perlu
+---------------------------------------------------------
+Apa kau merasa tak malu dengan aibmu! Tak usah malu terhadap apapun karena dalam pertarungan ini
+melawan musuh yang sangat tangguh, yang paling kau butuhkan adalah keadilan!<@>
+---------------------------------------------------------
+Balik ke tempatmu sana
+---------------------------------------------------------
+Aku tahu perasaan itu... Perasaan untuk melindungi kapal dengan tanganmu sendiri....
+Seorang ksatria harus... berjuang sampai titik darah penghabisan!<@>
+---------------------------------------------------------
+Nah gitu dong!
+Aku akan berpetualang denganmu apapun yang terjadi!!<@>
+---------------------------------------------------------
+Ok...
+---------------------------------------------------------

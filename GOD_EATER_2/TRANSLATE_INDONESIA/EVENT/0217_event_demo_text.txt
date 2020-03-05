@@ -1,0 +1,58 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0020
+===============================================================
+[00000216:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Yuno
+---------------------------------------------------------
+Sepertinya kamu hampir tidak bisa tidur...<@>
+---------------------------------------------------------
+Terima kasih. Apakah semuanya baik-baik saja?<@>
+---------------------------------------------------------
+Kurasa...<@>
+---------------------------------------------------------
+Bagaimana perasaanmu?
+---------------------------------------------------------
+Apakah ada yang kau inginkan ?
+---------------------------------------------------------
+Aku ingin berterimakasih kepada semuanya tetapi aku tidak diperbolehkan untuk 
+mengucapkannya...<@>
+---------------------------------------------------------
+Aku akan menyampaikannya.
+---------------------------------------------------------
+Mari kita cari kebenarannya
+---------------------------------------------------------
+Asuna
+---------------------------------------------------------
+Mmm...<@>
+---------------------------------------------------------
+Asuna...<@>
+---------------------------------------------------------
+Tentang hal itu.....
+---------------------------------------------------------
+Kelak... Akan lebih baik jika kau memiliki waktu untuk hal itu, tetapi aku 
+akan senang jika kau datang...<@>
+---------------------------------------------------------
+Haha...Aku baik-baik saja, terima kasih <@>
+---------------------------------------------------------
+Dr. Sakaki sedang meneliti obatnya Aku tidak khawatir 
+sama sekali...<@>
+---------------------------------------------------------
+Terima kasih, Aku baik-baik saja Semuanya sangat sibuk dan masih saja 
+mau membantu diriku...<@>
+---------------------------------------------------------
+Yeah, terima kasih<@>
+---------------------------------------------------------
+Seperti, Aku tidak melakukan apa-apa tapi hanya bergantung 
+padamu...<@>
+---------------------------------------------------------
+Haha, Aku menghargainya... tetapi itu tidak bagus<@>
+---------------------------------------------------------

@@ -1,0 +1,107 @@
+NAMA:event_demo_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0037
+===============================================================
+[00000284:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Ciel
+---------------------------------------------------------
+umm, ya itu benar... uh, disana... <@>
+---------------------------------------------------------
+seperti yang kamu lihat, tim perawatan melakukan analisis 
+berat dan menemukan hasil yang menarik .<@>
+---------------------------------------------------------
+izinkan aku untuk menjelaskannya...<@>
+---------------------------------------------------------
+blood bullet itu hasil mutasi .ketika kita menggunakan 
+gunform dan kekuatan mu mulai bereaksi didalam wadah dan itu 
+akan membuat sesuatu yang baru.<@>
+---------------------------------------------------------
+mereka hanya terbatas pada suatu tipe senjata tertentu dan 
+tidak bisa diedit tetapi mereka mempunyai hal yang unik.<@> 
+
+---------------------------------------------------------
+struktur dasarnya sama dengan yang kita pakai sehari 
+hari...<@>
+---------------------------------------------------------
+namun,mereka bermutasi didalam modul dan membuat 
+karakteristik yang baru ...<@>
+---------------------------------------------------------
+mutasi apa?
+---------------------------------------------------------
+apa?
+---------------------------------------------------------
+peluru seperti apa yang tercipta di modil. hingga saat ini, 
+modul hanya mempunyai satu fungsi.<@>
+---------------------------------------------------------
+tapi karena mutasinya spontan didalam modul, Blood Bullets 
+seperti mengambil sebuah atribut baru. <@>
+---------------------------------------------------------
+dan mungkin bisa menciptakan sebuah kemungkinan baru yang 
+tidak bisa kita buat. peluru penyembuh segala status buruk 
+salah satunya. <@>
+---------------------------------------------------------
+untuk saat ini peluru itu merujuk ke perubahan sebuah 
+"variant modules.\ dan mereka menakjubkan<@>
+---------------------------------------------------------
+...apa kamu mengerti sejauh ini?<@>
+---------------------------------------------------------
+tolong ulang sekali lagi neng!
+---------------------------------------------------------
+aku akan melakukan sebuah penelitian
+---------------------------------------------------------
+aku mengerti!
+---------------------------------------------------------
+tentu saja kamu bisa melihat keterangannya di laporan 
+ini...<@>
+---------------------------------------------------------
+...<@>
+---------------------------------------------------------
+ada yang salah neng?
+---------------------------------------------------------
+apa mukaku tercoret?
+---------------------------------------------------------
+ah m-maaf aku hanya sedikit ngelindur (~^_^).<@>
+---------------------------------------------------------
+Umm...<@>
+---------------------------------------------------------
+jadi seperti ini belajar bersama dengan teman,ini seperti 
+apa yang kuinginkan <@>
+---------------------------------------------------------
+rasanya berbeda dengan dokter Rachel, dokter leah dan semua 
+pelatih militerku ...<@>
+---------------------------------------------------------
+aku hanya duduk sendiri dan bekerja.guruku kerjaannya hanya 
+berdiri dan mengawasi ku saja kan kampret :'v.<@>
+---------------------------------------------------------
+ini sangad menyenangkan.aku sangad percaya kalau kita sedang 
+belajar bersama saling mengiringi...<@>
+---------------------------------------------------------
+oh aku minta maaf,aku pasti mengatakan hal yang aneh :'v 
+!<@>
+---------------------------------------------------------
+Ohya aku hampir lupa!<@>
+---------------------------------------------------------
+lihat ini! ini adalah hipotesis tentang variant 
+modules.<@>
+---------------------------------------------------------
+namaku ada disini...
+---------------------------------------------------------
+meningkatkan kekuatan blood ku?
+---------------------------------------------------------
+ah,kamu adalah inspirasiku,perasaan ini hampir sama dengan 
+saat kamu membangunkan kekuatan blood ku.<@>
+---------------------------------------------------------
+untuk saat ini,itulah hasil laporanku.<@>
+---------------------------------------------------------
+oh ,m-maaf...<@>
+---------------------------------------------------------
+benar! biar aku menjelaskan dari awal lagu, ok?<@>
+---------------------------------------------------------

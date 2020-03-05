@@ -1,0 +1,45 @@
+NAMA:anagura_poly_text
+ENCODING:UTF-8
+CRLF:<br>
+ID:
+TYPE:
+JUMLAH_STRING:0014
+===============================================================
+[00000192:00000512:00002015:00066133:00000127:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+Haruomi
+---------------------------------------------------------
+Oh, maaf aku membuatmu menunggu apa kamu ingat janji kali ini?
+---------------------------------------------------------
+Lain kali aku akan melakukan verifikasi komparatif terhadap mobilitas dan tingkat keterpaparan, 
+meskipun ada cerita tentang tingkat paparan yang tinggi menyebabkan mobilitas dalam beberapa kasus 
+......
+---------------------------------------------------------
+Aku tidak berpikir itu perlu, sambil mempertahankan daya pertahanan yang tinggi, jagalah mobilitas 
+yang tinggi ...... Hal seperti itu harus dimungkinkan
+---------------------------------------------------------
+Aku sudah menyiapkan model untuk itu Nah, apakah hatimu sudah siap？
+---------------------------------------------------------
+OK, ayo pergi!
+---------------------------------------------------------
+Itu tidak bisa membantu ...... Jika hatimu sudah siap, katakan padaku aku akan menunggu.
+---------------------------------------------------------
+Mengerti！
+---------------------------------------------------------
+Sekarang sedikit……
+---------------------------------------------------------
+Tidak baik membiarkan Camille dijaga terlalu lama Kalau saja kamu siap, bisakah kamu selalu datang 
+ke sini?
+---------------------------------------------------------
+Camille sedang menunggu ... Mari kita pergi 
+---------------------------------------------------------
+Jika kamu punya waktu, maukah kamu memberi tahuku? aku punya sedikit cerita denganmu
+---------------------------------------------------------
+Ayo pergi (hey tayo hey tayo)
+---------------------------------------------------------
+Ups, silakan jika kamu sudah siap atau belum siap, silakan hubungi kami
+---------------------------------------------------------

@@ -1,0 +1,4675 @@
+NAMA:article_description
+ENCODING:UTF-8
+CRLF:\n
+ID:
+TYPE:yobi
+JUMLAH_STRING:1554
+===============================================================
+[00018776:00000056:00002010:00066133:00000032:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+[0010]
+Rank:0 one of the weapons that can be used during sword mode
+---------------------------------------------------------
+[0011]
+Rank:0 one of the weapons that can be used during sword mode
+---------------------------------------------------------
+[0012]
+Rank:0 one of the weapons that can be used during sword mode
+---------------------------------------------------------
+[0013]
+Rank:0 one of the weapons that can be used during sword mode
+---------------------------------------------------------
+[0014]
+Rank:0 one of the weapons that can be used during sword mode
+---------------------------------------------------------
+[0015]
+Rank:0 one of the weapons that can be used during sword mode
+---------------------------------------------------------
+[0016]
+Rank:0 one of the weapons that can be used during sword mode
+---------------------------------------------------------
+[0017]
+Rank:0 one of the weapons that can be used during sword mode
+---------------------------------------------------------
+[0018]
+Rank:0 one of the weapons that can be used during sword mode
+---------------------------------------------------------
+[0019]
+Rank:0 one of the weapons that can be used during sword mode
+---------------------------------------------------------
+[0020]
+Rank:0 this is a shield
+---------------------------------------------------------
+[0021]
+Rank:0 this is a shield
+---------------------------------------------------------
+[0024]
+Rank:0 this weapon has an abnormal attack damage and this weapon includes a cheat weapon from debugging
+---------------------------------------------------------
+[0025]
+Rank:0 this is one of the firearms that can be used when gunform
+---------------------------------------------------------
+[0026]
+Rank:0 this is one of the firearms that can be used when gunform
+---------------------------------------------------------
+[0027]
+Rank:0 this is one of the firearms that can be used when gunform
+---------------------------------------------------------
+[0028]
+Rank:0 one of the weapons that can be used during sword mode
+---------------------------------------------------------
+[0029]
+Rank:0 this is one weapon that can be used in sword mode
+---------------------------------------------------------
+[0030]
+Rank:11 this weapon has been designed to have a cutting power of up to 500 in a single attack
+---------------------------------------------------------
+[0031]
+Rank:11 this weapon has disigned to have attack power up to 5000
+---------------------------------------------------------
+[0032]
+Rank:11 this is one weapon that can be used in sword mode
+---------------------------------------------------------
+[0033]
+Rank:11 this is one weapon that can be used in sword mode
+---------------------------------------------------------
+[0034]
+Rank:11 this is one weapon that can be used in sword mode
+---------------------------------------------------------
+[0035]
+Rank:0 this is one weapon that can be used in sword mode
+---------------------------------------------------------
+[0036]
+Rank:0 this is one weapon that can be used in sword mode
+---------------------------------------------------------
+[0037]
+Rank:11 This weapon is designed to have unusual damage
+---------------------------------------------------------
+[0080]
+Rank:2 this is a weapon that has heavy metal on its head
+---------------------------------------------------------
+[0081]
+Rank:2 this is a weapon that has heavy metal on its head
+---------------------------------------------------------
+[0082]
+Rank:3 this is a weapon that has heavy metal on its head
+---------------------------------------------------------
+[0083]
+Rank:4 The head was replaced with a heavier iron mass
+---------------------------------------------------------
+[0084]
+Rank:4 The head was replaced with a heavier iron mass
+---------------------------------------------------------
+[0085]
+Rank:6 The head was replaced with a heavier iron mass
+---------------------------------------------------------
+[0086]
+Rank:5 A ball with increased impact by air compression
+---------------------------------------------------------
+[0087]
+Rank:7 A ball with increased impact by air compression
+---------------------------------------------------------
+[0088]
+Rank:8 A ball with increased impact by air compression
+---------------------------------------------------------
+[0089]
+Rank:9 A ball with increased impact by air compression
+---------------------------------------------------------
+[0090]
+Rank:7 god of crushing the huge Aragami bone
+---------------------------------------------------------
+[0092]
+Rank:10 god of crushing the huge Aragami bone
+---------------------------------------------------------
+[0093]
+Rank:1 A double edged big sword like a giant steel plate
+---------------------------------------------------------
+[0094]
+Rank:1 A double edged big sword like a giant steel plate
+---------------------------------------------------------
+[0095]
+Rank:3 A double edged big sword like a giant steel plate
+---------------------------------------------------------
+[0096]
+Rank:4 Large sword that easily sliced a thick beast of a beast
+---------------------------------------------------------
+[0097]
+Rank:5 Large sword that easily slit and tear a thick meat of a big beast
+---------------------------------------------------------
+[0098]
+Rank:6 Large sword that easily slit and tear a thick meat of a big beast
+---------------------------------------------------------
+[0100]
+Rank:6 A big sword that easily slashes even demons
+---------------------------------------------------------
+[0101]
+Rank:7 A big sword that easily slashes even demons
+---------------------------------------------------------
+[0102]
+Rank:8 A big sword that easily slashes even demons
+---------------------------------------------------------
+[0103]
+Rank:10 A big sword that easily slashes even demons
+---------------------------------------------------------
+[0104]
+Rank:5 A big sword said to be able to cut God in two
+---------------------------------------------------------
+[0105]
+Rank:7 A big sword said to be able to cut God in two
+---------------------------------------------------------
+[0106]
+Rank:9 A big sword said to be able to cut God in two
+---------------------------------------------------------
+[0107]
+Rank:10 A big sword said to be able to cut God in two
+---------------------------------------------------------
+[0108]
+Rank:3 A tiger sword that enables a quick movement like a tiger
+---------------------------------------------------------
+[0109]
+Rank:4 A tiger sword that enables a quick movement like a tiger
+---------------------------------------------------------
+[0110]
+Rank:6 A tiger sword that enables a quick movement like a tiger
+---------------------------------------------------------
+[0111]
+Rank:8 A tiger sword that has survived various battlefields
+---------------------------------------------------------
+[0112]
+Rank:8 A tiger sword that has survived various battlefields
+---------------------------------------------------------
+[0113]
+Rank:9 A tiger sword that has survived various battlefields
+---------------------------------------------------------
+[0114]
+Rank:6 Tiger sword to survive the solitary battlefield
+---------------------------------------------------------
+[0115]
+Rank:8 Tiger sword to survive the solitary battlefield
+---------------------------------------------------------
+[0117]
+Rank:10 Tiger sword to survive the solitary battlefield
+---------------------------------------------------------
+[0118]
+Rank:6 A tiger sword that can reign as a king of nature
+---------------------------------------------------------
+[0119]
+Rank:9 A tiger sword that can reign as a king of nature
+---------------------------------------------------------
+[0120]
+Rank:10 A tiger sword that can reign as a king of nature
+---------------------------------------------------------
+[0121]
+Rank:2 A large saw that tears off Alagami's muscle fibers
+---------------------------------------------------------
+[0122]
+Rank:2 A large saw that tears off Alagami's muscle fibers
+---------------------------------------------------------
+[0123]
+Rank:4 A large saw that makes cutting blades easier to dig into
+---------------------------------------------------------
+[0124]
+Rank:5 A large saw that makes cutting blades easier to dig into
+---------------------------------------------------------
+[0125]
+Rank:6 A large saw that makes cutting blades easier to dig into
+---------------------------------------------------------
+[0126]
+Rank:6 A large saw that did not consider protection in designing
+---------------------------------------------------------
+[0127]
+Rank:8 A large saw that did not consider protection in designing
+---------------------------------------------------------
+[0128]
+Rank:9 A large saw that did not consider protection in designing
+---------------------------------------------------------
+[0129]
+Rank:7 A big saw dedicated to berserkers who ignored defense
+---------------------------------------------------------
+[0130]
+Rank:9 A big saw dedicated to berserkers who ignored defense
+---------------------------------------------------------
+[0131]
+Rank:10 A big saw dedicated to berserkers who ignored defense
+---------------------------------------------------------
+[0132]
+Rank:5 A sword fighting to light a fellow's fighting spirit
+---------------------------------------------------------
+[0133]
+Rank:6 A sword fighting to light a fellow's fighting spirit
+---------------------------------------------------------
+[0134]
+Rank:7 A sword fight that burns fellow fighting spirits
+---------------------------------------------------------
+[0135]
+Rank:8 A sword fight that burns fellow fighting spirits
+---------------------------------------------------------
+[0136]
+Rank:7 Shiki sword that gives fellows a holy power
+---------------------------------------------------------
+[0137]
+Rank:8 Shiki sword that gives fellows a holy power
+---------------------------------------------------------
+[0138]
+Rank:9 Shiki sword that gives fellows a holy power
+---------------------------------------------------------
+[0139]
+Rank:10 Shiki sword that gives fellows a holy power
+---------------------------------------------------------
+[0140]
+Rank:1 Easy tail sword treated like a general person's face [Fire-release]
+---------------------------------------------------------
+[0141]
+Rank:2 Easy tail sword treated like a common face [Fire-release]
+---------------------------------------------------------
+[0142]
+Rank:3 Easy tail sword treated like a common face [Fire-release]
+---------------------------------------------------------
+[0143]
+Rank:4 Tail Sword that demonstrates its true value in a dilemma [Fire-release]
+---------------------------------------------------------
+[0144]
+Rank:5 Tail Sword that demonstrates its true value in a dilemma [Fire-release]
+---------------------------------------------------------
+[0146]
+Rank:4 Tail Sword that increase the capability of the machine to capture the captain [Thunder-release]
+---------------------------------------------------------
+[0147]
+Rank:6 Tail Sword that increase the capability of the machine to capture the captain [Thunder-release]
+---------------------------------------------------------
+[0148]
+Rank:7 Tail Sword that increase the capability of the machine to capture the captain [Thunder-release]
+---------------------------------------------------------
+[0149]
+Rank:7 Tail sword that passed through various scenes [Ice-release]
+---------------------------------------------------------
+[0150]
+Rank:8 Tail sword that passed through various scenes [Ice-release]
+---------------------------------------------------------
+[0151]
+Rank:9 Tail sword that passed through various scenes [Ice-release]
+---------------------------------------------------------
+[0152]
+Rank:3 A sword whose tip is frozen [Ice-bomb]
+---------------------------------------------------------
+[0153]
+Rank:6 A sword whose tip is frozen [Ice-bomb]
+---------------------------------------------------------
+[0155]
+Rank:5 Pedang yang disetrum dengan listrik di ujung [Light-Bomb]
+---------------------------------------------------------
+[0156]
+Rank:6 Pedang yang disetrum dengan listrik di ujung [Light-Bomb]
+---------------------------------------------------------
+[0157]
+Rank:8 Pedang yang disetrum dengan listrik di ujung [Light-Bomb]
+---------------------------------------------------------
+[0158]
+Rank:10 Pedang yang disetrum dengan listrik di ujung [Light-Bomb]
+---------------------------------------------------------
+[0159]
+Rank:4 A sword that a flame hits from a tip [Fire-bomb]
+---------------------------------------------------------
+[0160]
+Rank:6 A sword that a flame hits from a tip [Fire-bomb]
+---------------------------------------------------------
+[0161]
+Rank:7 A sword that a flame hits from a tip [Fire-bomb]
+---------------------------------------------------------
+[0162]
+Rank:10 A sword that a flame hits from a tip [Fire-bomb]
+---------------------------------------------------------
+[0163]
+Rank:7 Sword and calm with human mind [Ice-explosion]
+---------------------------------------------------------
+[0164]
+Rank:9 Sword and calm with human mind [Ice-explosion]
+---------------------------------------------------------
+[0165]
+Rank:10 Sword and calm with human mind [Ice-explosion]
+---------------------------------------------------------
+[0166]
+Rank:2 Chain saw that cuts off and discharges [Thunder-explosion]
+---------------------------------------------------------
+[0167]
+Rank:2 Chain saw that cuts off and discharges [Thunder-explosion]
+---------------------------------------------------------
+[0168]
+Rank:4 Chain saw with high invasiveness of Oracle cells [God-Baku]
+---------------------------------------------------------
+[0169]
+Rank:5 Chain saw with high invasiveness of Oracle cells [God-Baku]
+---------------------------------------------------------
+[0170]
+Rank:7 Chain saw with high invasiveness of Oracle cells [God-Baku]
+---------------------------------------------------------
+[0171]
+Rank:4 Chain saw that the cold air gathers on the user's body [Ice-Bomb]
+---------------------------------------------------------
+[0172]
+Rank:5 Chain saw that the cold air gathers on the user's body [Ice-Bomb]
+---------------------------------------------------------
+[0173]
+Rank:7 Chain saw that the cold air gathers on the user's body [Ice-bullet]
+---------------------------------------------------------
+[0174]
+Rank:8 Chain saw that the cold air gathers on the user's body [Ice-bullet]
+---------------------------------------------------------
+[0175]
+Rank:8 Chain saw to scrape off a lot of Oracle cells [Thunder-explosion]
+---------------------------------------------------------
+[0176]
+Rank:9 Chain saw to scrape off a lot of Oracle cells [Thunder-explosion]
+---------------------------------------------------------
+[0177]
+Rank:10 Chain saw to scrape off a lot of Oracle cells [Thunder-explosion]
+---------------------------------------------------------
+[0178]
+Rank:1 Impulse edge is an explosion of fire attribute [Fire-explosion]
+---------------------------------------------------------
+[0179]
+Rank:1 Impulse edge is an explosion of fire attribute [Fire-explosion]
+---------------------------------------------------------
+[0180]
+Rank:2 Long sword frozen the place you slaughtered [Ice-Bomb]
+---------------------------------------------------------
+[0181]
+Rank:3 Long sword frozen the place you slaughtered [Ice-Bomb]
+---------------------------------------------------------
+[0183]
+Rank:6 Long sword frozen the place you slaughtered [Ice-Bomb]
+---------------------------------------------------------
+[0184]
+Rank:4 A long sword that activates cells of the god machine [Thunder-bomb]
+---------------------------------------------------------
+[0185]
+Rank:5 A long sword that activates cells of the god machine [Thunder-bomb]
+---------------------------------------------------------
+[0186]
+Rank:7 A long sword that activates cells of the god machine [Thunder-bullet]
+---------------------------------------------------------
+[0187]
+Rank:9 A long sword that activates cells of the god machine [Thunder-bullet]
+---------------------------------------------------------
+[0188]
+Rank:7 A long sword that instantly destroys cell binding [Fire-explosion]
+---------------------------------------------------------
+[0189]
+Rank:8 A long sword that instantly destroys cell binding [Fire-explosion]
+---------------------------------------------------------
+[0190]
+Rank:10 A long sword that instantly destroys cell binding [Fire-explosion]
+---------------------------------------------------------
+[0191]
+Rank:2 Magic sword that seals the movement of God [God-bomb]
+---------------------------------------------------------
+[0192]
+Rank:4 Magic sword that seals the movement of God [God-bomb]
+---------------------------------------------------------
+[0193]
+Rank:5 Magic sword that seals the movement of God [God-bomb]
+---------------------------------------------------------
+[0194]
+Rank:7 Magic sword to drop God into hell [God-Baku]
+---------------------------------------------------------
+[0195]
+Rank:8 Magic sword to drop God into hell [God-Baku]
+---------------------------------------------------------
+[0196]
+Rank:9 Magic sword to drop God into hell [God-Baku]
+---------------------------------------------------------
+[0197]
+Rank:6 Magical sword that sinks God to the bottom of a pit [God-bullet]
+---------------------------------------------------------
+[0198]
+Rank:7 Magical sword that sinks God to the bottom of a pit [God-bullet]
+---------------------------------------------------------
+[0199]
+Rank:8 Magical sword that brings death to God [God-bullet]
+---------------------------------------------------------
+[0200]
+Rank:10 Magical sword that brings death to God [God-bullet]
+---------------------------------------------------------
+[0201]
+Rank:3 Sword for protecting the pretty girl
+---------------------------------------------------------
+[0202]
+Rank:4 Sword for protecting the pretty girl
+---------------------------------------------------------
+[0203]
+Rank:5 Beautiful maiden's protector's sword
+---------------------------------------------------------
+[0204]
+Rank:6 Beautiful maiden's protector's sword
+---------------------------------------------------------
+[0205]
+Rank:7 A treasure sword for the beautiful women's self-defense
+---------------------------------------------------------
+[0206]
+Rank:9 A treasure sword for the beautiful women's self-defense
+---------------------------------------------------------
+[0207]
+Rank:8 Swordsman for elegant ladies' self-defense
+---------------------------------------------------------
+[0208]
+Rank:10 Swordsman for elegant ladies' self-defense
+---------------------------------------------------------
+[0209]
+Rank:1 A dagger pursuing lightness and ease of movement
+---------------------------------------------------------
+[0210]
+Rank:1 A dagger pursuing lightness and ease of movement
+---------------------------------------------------------
+[0211]
+Rank:3 A dagger emits enough heat to melt iron
+---------------------------------------------------------
+[0212]
+Rank:4 A dagger emits enough heat to melt iron
+---------------------------------------------------------
+[0213]
+Rank:10 A dagger emits enough heat to melt iron
+---------------------------------------------------------
+[0214]
+Rank:4 Dagger emanating powerful electric shock
+---------------------------------------------------------
+[0215]
+Rank:6 Dagger emanating powerful electric shock
+---------------------------------------------------------
+[0216]
+Rank:8 Dagger emanating powerful electric shock
+---------------------------------------------------------
+[0217]
+Rank:6 Dagger to stop the movement of Oracle cells
+---------------------------------------------------------
+[0218]
+Rank:7 Dagger to stop the movement of Oracle cells
+---------------------------------------------------------
+[0219]
+Rank:9 Dagger to stop the movement of Oracle cells
+---------------------------------------------------------
+[0220]
+Rank:1 Hyperspun that gives off cold air
+---------------------------------------------------------
+[0221]
+Rank:3 Hyperspun that gives off cold air
+---------------------------------------------------------
+[0222]
+Rank:4 Hyperspun that gives off cold air
+---------------------------------------------------------
+[0223]
+Rank:5 Hyperspun that gives off cold air
+---------------------------------------------------------
+[0224]
+Rank:2 A tricusru melting and penetrating the membrane of Oracle cells
+---------------------------------------------------------
+[0225]
+Rank:4 A tricusru melting and penetrating the membrane of Oracle cells
+---------------------------------------------------------
+[0226]
+Rank:6 A tricusru melting and penetrating the membrane of Oracle cells
+---------------------------------------------------------
+[0227]
+Rank:7 A tricusru melting and penetrating the membrane of Oracle cells
+---------------------------------------------------------
+[0228]
+Rank:7 Telogy that freezes Aragami and destroys it
+---------------------------------------------------------
+[0229]
+Rank:8 Telogy that freezes Aragami and destroys it
+---------------------------------------------------------
+[0230]
+Rank:9 Telogy that freezes Aragami and destroys it
+---------------------------------------------------------
+[0231]
+Rank:8 A tricus which turns a touched object into a plasma
+---------------------------------------------------------
+[0232]
+Rank:9 A tricus which turns a touched object into a plasma
+---------------------------------------------------------
+[0233]
+Rank:10 A tricus which turns a touched object into a plasma
+---------------------------------------------------------
+[0234]
+Rank:2 A tricus which turns a touched object into a plasma
+---------------------------------------------------------
+[0235]
+Rank:3 Beast sword that dulls Aragami's movement
+---------------------------------------------------------
+[0236]
+Rank:4 Beast sword that dulls Aragami's movement
+---------------------------------------------------------
+[0237]
+Rank:4 A beast sword that does not allow Aragami to fight back
+---------------------------------------------------------
+[0238]
+Rank:5 A beast sword that does not allow Aragami to fight back
+---------------------------------------------------------
+[0239]
+Rank:6 A beast sword that does not allow Aragami to fight back
+---------------------------------------------------------
+[0240]
+Rank:6 Beast sword that seals movement of Aragami
+---------------------------------------------------------
+[0241]
+Rank:8 Beast sword that seals movement of Aragami
+---------------------------------------------------------
+[0242]
+Rank:10 Beast sword that seals movement of Aragami
+---------------------------------------------------------
+[0243]
+Rank:7 Beast sword that stops Aragami's heart
+---------------------------------------------------------
+[0244]
+Rank:8 Beast sword that stops Aragami's heart
+---------------------------------------------------------
+[0245]
+Rank:9 Beast sword that stops Aragami's heart
+---------------------------------------------------------
+[0246]
+Rank:2 Sharp ax that weakens enemies with poisons painted on the tip
+---------------------------------------------------------
+[0247]
+Rank:3 Sharp ax that weakens enemies with poisons painted on the tip
+---------------------------------------------------------
+[0249]
+Rank:5 Sharp ax that weakens enemies with poisons painted on the tip
+---------------------------------------------------------
+[0250]
+Rank:4 Sharp axes where the blade keeps on poisonous liquid
+---------------------------------------------------------
+[0251]
+Rank:5 Sharp axes where the blade keeps on poisonous liquid
+---------------------------------------------------------
+[0252]
+Rank:6 The pointed ax that the enemy strikes will gradually die
+---------------------------------------------------------
+[0253]
+Rank:10 The pointed ax that the enemy strikes will gradually die
+---------------------------------------------------------
+[0254]
+Rank:7 Sharp poison to burn yourself Sharp ax
+---------------------------------------------------------
+[0255]
+Rank:8 Sharp poison to burn yourself Sharp ax
+---------------------------------------------------------
+[0256]
+Rank:10 Sharp poison to burn yourself Sharp ax
+---------------------------------------------------------
+[0257]
+Rank:4 God artillery that increases the invasive power of bullets
+---------------------------------------------------------
+[0258]
+Rank:5 God artillery that increases the invasive power of bullets
+---------------------------------------------------------
+[0259]
+Rank:6 God gun that you can get God's protection
+---------------------------------------------------------
+[0260]
+Rank:6 God gun that you can get God's protection
+---------------------------------------------------------
+[0261]
+Rank:7 Gun gun that bullets eat enemies like living things
+---------------------------------------------------------
+[0262]
+Rank:8 Gun gun that bullets eat enemies like living things
+---------------------------------------------------------
+[0263]
+Rank:9 God artillery that penetrates God
+---------------------------------------------------------
+[0264]
+Rank:10 God artillery that penetrates God
+---------------------------------------------------------
+[0265]
+Rank:1 Guns with high penetrating power
+---------------------------------------------------------
+[0266]
+Rank:2 Guns with high penetrating power
+---------------------------------------------------------
+[0267]
+Rank:3 A bullet with a strong cold air gun
+---------------------------------------------------------
+[0268]
+Rank:4 A bullet with a strong cold air gun
+---------------------------------------------------------
+[0269]
+Rank:7 Iron gun that freezing air can get on
+---------------------------------------------------------
+[0270]
+Rank:9 Iron gun that freezing air can get on
+---------------------------------------------------------
+[0271]
+Rank:6 A shooting game where the bullet's trajectory causes a snowstorm
+---------------------------------------------------------
+[0272]
+Rank:8 A shooting game where the bullet's trajectory causes a snowstorm
+---------------------------------------------------------
+[0273]
+Rank:10 A shooting game where the bullet's trajectory causes a snowstorm
+---------------------------------------------------------
+[0274]
+Rank:1 A gun that accelerates bullets with electricity
+---------------------------------------------------------
+[0275]
+Rank:2 A gun that accelerates bullets with electricity
+---------------------------------------------------------
+[0276]
+Rank:4 Improved energy conversion efficiency
+---------------------------------------------------------
+[0277]
+Rank:5 Improved energy conversion efficiency
+---------------------------------------------------------
+[0278]
+Rank:8 A gun that collects electricity from the atmosphere
+---------------------------------------------------------
+[0280]
+Rank:10 A gun that collects electricity from the atmosphere
+---------------------------------------------------------
+[0281]
+Rank:7 A gun that can shoot out the God's thunder
+---------------------------------------------------------
+[0282]
+Rank:9 A gun that can shoot out the God's thunder
+---------------------------------------------------------
+[0283]
+Rank:1 Sengoku gun that bullets are highly heated
+---------------------------------------------------------
+[0284]
+Rank:4 Sengoku gun that bullets are highly heated
+---------------------------------------------------------
+[0285]
+Rank:5 A wise gun that causes hot air in the bullet's orbit
+---------------------------------------------------------
+[0286]
+Rank:6 A wise gun that causes hot air in the bullet's orbit
+---------------------------------------------------------
+[0287]
+Rank:7 A warm gun in which a wall of high temperature air wears a user
+---------------------------------------------------------
+[0288]
+Rank:10 A warm gun in which a wall of high temperature air wears a user
+---------------------------------------------------------
+[0289]
+Rank:8 Burning smart gun that melts any metal
+---------------------------------------------------------
+[0290]
+Rank:9 Burning smart gun that melts any metal
+---------------------------------------------------------
+[0291]
+Rank:1 Tortillas of barrels easy to escape impact
+---------------------------------------------------------
+[0292]
+Rank:3 Tortillas of barrels easy to escape impact
+---------------------------------------------------------
+[0294]
+Rank:3 Torture that burning sinners on fire
+---------------------------------------------------------
+[0295]
+Rank:4 Torture that burning sinners on fire
+---------------------------------------------------------
+[0297]
+Rank:5 Torture calling for dropping a hammer on a sinner
+---------------------------------------------------------
+[0298]
+Rank:7　罪人に雷槌を落とすという拷砲 
+---------------------------------------------------------
+[0300]
+Rank:7　罪人を氷漬けにするという拷砲 
+---------------------------------------------------------
+[0301]
+Rank:9　罪人を氷漬けにするという拷砲 
+---------------------------------------------------------
+[0302]
+Rank:1　龍の悲しみが籠るという仏砲 
+---------------------------------------------------------
+[0303]
+Rank:2　龍の悲しみが籠るという仏砲 
+---------------------------------------------------------
+[0304]
+Rank:4　豹の憂いが散るという仏砲 
+---------------------------------------------------------
+[0305]
+Rank:5　豹の憂いが散るという仏砲 
+---------------------------------------------------------
+[0306]
+Rank:6　鷹の嘆きが漂うという仏砲 
+---------------------------------------------------------
+[0307]
+Rank:8　鷹の嘆きが漂うという仏砲 
+---------------------------------------------------------
+[0308]
+Rank:8　虎の怒りがほとばしるという仏砲 
+---------------------------------------------------------
+[0309]
+Rank:9　虎の怒りがほとばしるという仏砲 
+---------------------------------------------------------
+[0310]
+Rank:2　破砕能力に特化した大口径の破砲 
+---------------------------------------------------------
+[0311]
+Rank:3　破砕能力に特化した大口径の破砲 
+---------------------------------------------------------
+[0312]
+Rank:4　アラガミをバラバラにすると言われる破砲 
+---------------------------------------------------------
+[0313]
+Rank:5　アラガミをバラバラにすると言われる破砲 
+---------------------------------------------------------
+[0314]
+Rank:6　アラガミが粉塵と化すと言われる破砲 
+---------------------------------------------------------
+[0315]
+Rank:10　アラガミが粉塵と化すと言われる破砲 
+---------------------------------------------------------
+[0316]
+Rank:7　アラガミが灰と化すと言われる破砲 
+---------------------------------------------------------
+[0317]
+Rank:9　アラガミの骨を噛み砕くという食砲 
+---------------------------------------------------------
+[0318]
+Rank:9　アラガミが灰と化すと言われる破砲 
+---------------------------------------------------------
+[0319]
+Rank:1　発射時に大きな衝撃を伴う爆砲 
+---------------------------------------------------------
+[0320]
+Rank:1　発射時に大きな衝撃を伴う爆砲 
+---------------------------------------------------------
+[0321]
+Rank:4　扱うために強靭な肉体を必要とする爆砲 
+---------------------------------------------------------
+[0322]
+Rank:5　扱うために強靭な肉体を必要とする爆砲 
+---------------------------------------------------------
+[0323]
+Rank:7　使用者の制動力が鍛えられるという爆砲 
+---------------------------------------------------------
+[0324]
+Rank:9　使用者の制動力が鍛えられるという爆砲 
+---------------------------------------------------------
+[0325]
+Rank:8　歴戦の勇士のみが扱えるという爆砲 
+---------------------------------------------------------
+[0326]
+Rank:3　発射時に大きな衝撃を伴う爆砲 
+---------------------------------------------------------
+[0327]
+Rank:10　歴戦の勇士のみが扱えるという爆砲 
+---------------------------------------------------------
+[0328]
+Rank:3　弾丸の侵喰能力を高めた邪砲 
+---------------------------------------------------------
+[0329]
+Rank:4　弾丸の侵喰能力を高めた邪砲 
+---------------------------------------------------------
+[0330]
+Rank:5　小型アラガミを簡単に殲滅するという邪砲 
+---------------------------------------------------------
+[0331]
+Rank:6　小型アラガミを簡単に殲滅するという邪砲 
+---------------------------------------------------------
+[0332]
+Rank:7　使用者の身を蝕むという呪いの邪砲 
+---------------------------------------------------------
+[0333]
+Rank:9　使用者の身を蝕むという呪いの邪砲 
+---------------------------------------------------------
+[0334]
+Rank:8　アラガミを天に還すという邪砲 
+---------------------------------------------------------
+[0335]
+Rank:10　アラガミを天に還すという邪砲 
+---------------------------------------------------------
+[0336]
+Rank:2　アラガミの喉に食らいつくという食砲 
+---------------------------------------------------------
+[0337]
+Rank:3　アラガミの喉に食らいつくという食砲 
+---------------------------------------------------------
+[0338]
+Rank:4　アラガミの肉を食いちぎるという食砲 
+---------------------------------------------------------
+[0339]
+Rank:5　アラガミの肉を食いちぎるという食砲 
+---------------------------------------------------------
+[0340]
+Rank:6　アラガミの骨を噛み砕くという食砲 
+---------------------------------------------------------
+[0341]
+Rank:7　アラガミの骨を噛み砕くという食砲 
+---------------------------------------------------------
+[0342]
+Rank:8　神を丸呑みにできるという食砲 
+---------------------------------------------------------
+[0343]
+Rank:9　神を丸呑みにできるという食砲 
+---------------------------------------------------------
+[0344]
+Rank:2　何故か気になるおかしな魔砲 
+---------------------------------------------------------
+[0345]
+Rank:3　何故か気になるおかしな魔砲 
+---------------------------------------------------------
+[0346]
+Rank:4　ボクの心躍らせる不思議な魔砲 
+---------------------------------------------------------
+[0347]
+Rank:5　ボクの心躍らせる不思議な魔砲 
+---------------------------------------------------------
+[0348]
+Rank:8　ボクの心躍らせる不思議な魔砲 
+---------------------------------------------------------
+[0349]
+Rank:6　キミのハートに火をつける素敵な魔砲 
+---------------------------------------------------------
+[0350]
+Rank:7　キミのハートに火をつける素敵な魔砲 
+---------------------------------------------------------
+[0351]
+Rank:9　奇跡を起こす恋の魔砲 
+---------------------------------------------------------
+[0352]
+Rank:10　奇跡を起こす恋の魔砲 
+---------------------------------------------------------
+[0353]
+Rank:1　弾丸を連続で高速発射できる迅砲 
+---------------------------------------------------------
+[0354]
+Rank:2　弾丸を連続で高速発射できる迅砲 
+---------------------------------------------------------
+[0355]
+Rank:3　使用者の運動能力を高める迅砲 
+---------------------------------------------------------
+[0356]
+Rank:4　使用者の運動能力を高める迅砲 
+---------------------------------------------------------
+[0357]
+Rank:5　携行が楽な剣愛用者にも重宝される迅砲 
+---------------------------------------------------------
+[0358]
+Rank:6　携行が楽な剣愛用者にも重宝される迅砲 
+---------------------------------------------------------
+[0359]
+Rank:7　神速の動きを可能にするという迅砲 
+---------------------------------------------------------
+[0360]
+Rank:10　神速の動きを可能にするという迅砲 
+---------------------------------------------------------
+[0361]
+Rank:1　様々なアラガミに対抗しうるという弓砲 
+---------------------------------------------------------
+[0362]
+Rank:3　様々なアラガミに対抗しうるという弓砲 
+---------------------------------------------------------
+[0363]
+Rank:5　アイテムの使用効果が高まるという弓砲 
+---------------------------------------------------------
+[0364]
+Rank:6　アイテムの使用効果が高まるという弓砲 
+---------------------------------------------------------
+[0365]
+Rank:7　段差を利用しながら戦うのに適した弓砲 
+---------------------------------------------------------
+[0366]
+Rank:9　段差を利用しながら戦うのに適した弓砲 
+---------------------------------------------------------
+[0367]
+Rank:8　敵を知らずとも狩れるという覇者の弓砲 
+---------------------------------------------------------
+[0368]
+Rank:10　敵を知らずとも狩れるという覇者の弓砲 
+---------------------------------------------------------
+[0369]
+Rank:4　小型ながら破砕能力の高い廻砲 
+---------------------------------------------------------
+[0370]
+Rank:5　小型ながら破砕能力の高い廻砲 
+---------------------------------------------------------
+[0371]
+Rank:5　神機の装甲を強化する頑丈な廻砲 
+---------------------------------------------------------
+[0372]
+Rank:6　神機の装甲を強化する頑丈な廻砲 
+---------------------------------------------------------
+[0373]
+Rank:7　オラクル攻撃を防ぐ強固な廻砲 
+---------------------------------------------------------
+[0374]
+Rank:8　オラクル攻撃を防ぐ強固な廻砲 
+---------------------------------------------------------
+[0375]
+Rank:7　戦艦をも沈没させるという重めの廻砲 
+---------------------------------------------------------
+[0376]
+Rank:9　戦艦をも沈没させるという重めの廻砲 
+---------------------------------------------------------
+[0377]
+Rank:3　非常に燃費の安い戦砲 
+---------------------------------------------------------
+[0378]
+Rank:4　非常に燃費の安い戦砲 
+---------------------------------------------------------
+[0379]
+Rank:5　壊れるまで撃ち続ける使命を持つ戦砲 
+---------------------------------------------------------
+[0380]
+Rank:6　壊れるまで撃ち続ける使命を持つ戦砲 
+---------------------------------------------------------
+[0381]
+Rank:8　壊れるまで撃ち続ける使命を持つ戦砲 
+---------------------------------------------------------
+[0382]
+Rank:6　銃撃戦に特化した危うい戦砲 
+---------------------------------------------------------
+[0383]
+Rank:8　銃撃戦に特化した危うい戦砲 
+---------------------------------------------------------
+[0384]
+Rank:7　銃撃を止めることが不可能とされる戦砲 
+---------------------------------------------------------
+[0385]
+Rank:9　銃撃を止めることが不可能とされる戦砲 
+---------------------------------------------------------
+[0386]
+Rank:2　身のこなしが良くなる避甲 
+---------------------------------------------------------
+[0387]
+Rank:2　身のこなしが良くなる避甲 
+---------------------------------------------------------
+[0388]
+Rank:3　身のこなしが良くなる避甲 
+---------------------------------------------------------
+[0389]
+Rank:4　岩場でも難なく移動できるという避甲 
+---------------------------------------------------------
+[0390]
+Rank:5　岩場でも難なく移動できるという避甲 
+---------------------------------------------------------
+[0391]
+Rank:6　岩場でも難なく移動できるという避甲 
+---------------------------------------------------------
+[0392]
+Rank:7　あらゆる攻撃を避けられるという避甲 
+---------------------------------------------------------
+[0393]
+Rank:9　あらゆる攻撃を避けられるという避甲 
+---------------------------------------------------------
+[0394]
+Rank:1　丸くガード範囲が広い殴甲 
+---------------------------------------------------------
+[0395]
+Rank:2　丸くガード範囲が広い殴甲 
+---------------------------------------------------------
+[0396]
+Rank:3　丸くガード範囲が広い殴甲 
+---------------------------------------------------------
+[0397]
+Rank:4　オラクル侵喰に強く防御バランスのよい殴甲 
+---------------------------------------------------------
+[0398]
+Rank:6　オラクル侵喰に強く防御バランスのよい殴甲 
+---------------------------------------------------------
+[0399]
+Rank:7　オラクル侵喰に強く防御バランスのよい殴甲 
+---------------------------------------------------------
+[0400]
+Rank:8　高い反射神経を要する達人用の殴甲 
+---------------------------------------------------------
+[0401]
+Rank:9　高い反射神経を要する達人用の殴甲 
+---------------------------------------------------------
+[0402]
+Rank:1　サイズの割に厚く貫通弾に対して強い弾甲 
+---------------------------------------------------------
+[0403]
+Rank:2　サイズの割に厚く貫通弾に対して強い弾甲 
+---------------------------------------------------------
+[0404]
+Rank:3　サイズの割に厚く貫通弾に対して強い弾甲 
+---------------------------------------------------------
+[0405]
+Rank:5　高速照準を可能にする軽量の弾甲 
+---------------------------------------------------------
+[0406]
+Rank:6　高速照準を可能にする軽量の弾甲 
+---------------------------------------------------------
+[0407]
+Rank:7　高速照準を可能にする軽量の弾甲 
+---------------------------------------------------------
+[0408]
+Rank:8　不意打ちに強い乱戦に生きる者の弾甲 
+---------------------------------------------------------
+[0409]
+Rank:9　不意打ちに強い乱戦に生きる者の弾甲 
+---------------------------------------------------------
+[0410]
+Rank:4　神の許しを得たという天甲 
+---------------------------------------------------------
+[0411]
+Rank:5　神の許しを得たという天甲 
+---------------------------------------------------------
+[0412]
+Rank:6　神の洗礼を受けたという天甲 
+---------------------------------------------------------
+[0413]
+Rank:7　神の洗礼を受けたという天甲 
+---------------------------------------------------------
+[0414]
+Rank:7　神の加護を授かったという天甲 
+---------------------------------------------------------
+[0415]
+Rank:8　神の加護を授かったという天甲 
+---------------------------------------------------------
+[0416]
+Rank:9　神の力を喰らうという天甲 
+---------------------------------------------------------
+[0417]
+Rank:10　神の力を喰らうという天甲 
+---------------------------------------------------------
+[0418]
+Rank:2　神機使いの腕力を高める猿甲 
+---------------------------------------------------------
+[0419]
+Rank:3　神機使いの腕力を高める猿甲 
+---------------------------------------------------------
+[0420]
+Rank:4　瞬間的な攻撃力を極限まで高める猿甲 
+---------------------------------------------------------
+[0421]
+Rank:5　瞬間的な攻撃力を極限まで高める猿甲 
+---------------------------------------------------------
+[0422]
+Rank:6　持つものの凶暴性を高めるという猿甲 
+---------------------------------------------------------
+[0423]
+Rank:7　持つものの凶暴性を高めるという猿甲 
+---------------------------------------------------------
+[0424]
+Rank:8　全てを破壊する衝動に駆られる猿甲 
+---------------------------------------------------------
+[0425]
+Rank:9　全てを破壊する衝動に駆られる猿甲 
+---------------------------------------------------------
+[0426]
+Rank:2　目立って敵の気を引くことができる指甲 
+---------------------------------------------------------
+[0427]
+Rank:2　目立って敵の気を引くことができる指甲 
+---------------------------------------------------------
+[0428]
+Rank:3　目立って敵の気を引くことができる指甲 
+---------------------------------------------------------
+[0429]
+Rank:4　仲間を危険に晒さないリーダーの指甲 
+---------------------------------------------------------
+[0430]
+Rank:6　仲間を危険に晒さないリーダーの指甲 
+---------------------------------------------------------
+[0431]
+Rank:7　仲間を危険に晒さないリーダーの指甲 
+---------------------------------------------------------
+[0432]
+Rank:8　仲間の士気を高めるカリスマの指甲 
+---------------------------------------------------------
+[0433]
+Rank:9　仲間の士気を高めるカリスマの指甲 
+---------------------------------------------------------
+[0434]
+Rank:1　どんな場面でも使いやすい汎甲 
+---------------------------------------------------------
+[0435]
+Rank:2　どんな場面でも使いやすい汎甲 
+---------------------------------------------------------
+[0436]
+Rank:3　どんな場面でも使いやすい汎甲 
+---------------------------------------------------------
+[0437]
+Rank:4　オラクルエネルギーを奪いやすくなる汎甲 
+---------------------------------------------------------
+[0438]
+Rank:6　オラクルエネルギーを奪いやすくなる汎甲 
+---------------------------------------------------------
+[0439]
+Rank:7　オラクルエネルギーを奪いやすくなる汎甲 
+---------------------------------------------------------
+[0440]
+Rank:8　神機を自由自在に操れるようになる汎甲 
+---------------------------------------------------------
+[0441]
+Rank:9　神機を自由自在に操れるようになる汎甲 
+---------------------------------------------------------
+[0442]
+Rank:1　仲間のサポートを第一に設計された奉甲 
+---------------------------------------------------------
+[0443]
+Rank:2　仲間のサポートを第一に設計された奉甲 
+---------------------------------------------------------
+[0444]
+Rank:3　仲間のサポートを第一に設計された奉甲 
+---------------------------------------------------------
+[0445]
+Rank:4　仲間を救護する能力に優れた奉甲 
+---------------------------------------------------------
+[0446]
+Rank:6　仲間を救護する能力に優れた奉甲 
+---------------------------------------------------------
+[0447]
+Rank:7　仲間を救護する能力に優れた奉甲 
+---------------------------------------------------------
+[0448]
+Rank:8　仲間にその身を捧げる者のための奉甲 
+---------------------------------------------------------
+[0449]
+Rank:9　仲間にその身を捧げる者のための奉甲 
+---------------------------------------------------------
+[0450]
+Rank:2　表面に不思議な光沢を持つ錬甲 
+---------------------------------------------------------
+[0451]
+Rank:3　表面に不思議な光沢を持つ錬甲 
+---------------------------------------------------------
+[0452]
+Rank:4　使用者の生態エネルギーを高める錬甲 
+---------------------------------------------------------
+[0453]
+Rank:5　使用者の生態エネルギーを高める錬甲 
+---------------------------------------------------------
+[0454]
+Rank:7　人ならざる者の身体能力を得るという錬甲 
+---------------------------------------------------------
+[0455]
+Rank:8　人ならざる者の身体能力を得るという錬甲 
+---------------------------------------------------------
+[0456]
+Rank:9　持つものを不老不死にするという錬甲 
+---------------------------------------------------------
+[0457]
+Rank:10　持つものを不老不死にするという錬甲 
+---------------------------------------------------------
+[0458]
+Rank:4　不運を招く偽りの悲甲 
+---------------------------------------------------------
+[0459]
+Rank:4　不運を招く偽りの悲甲 
+---------------------------------------------------------
+[0460]
+Rank:5　不吉をもたらす予言の悲甲 
+---------------------------------------------------------
+[0461]
+Rank:6　不吉をもたらす予言の悲甲 
+---------------------------------------------------------
+[0462]
+Rank:7　凶禍を呼ぶ復讐の悲甲 
+---------------------------------------------------------
+[0463]
+Rank:8　凶禍を呼ぶ復讐の悲甲 
+---------------------------------------------------------
+[0464]
+Rank:9　破滅に向かう裏切りの悲甲 
+---------------------------------------------------------
+[0465]
+Rank:10　破滅に向かう裏切りの悲甲 
+---------------------------------------------------------
+[0466]
+Rank:1　電撃を通しにくい厚い絶甲 
+---------------------------------------------------------
+[0467]
+Rank:2　電撃を通しにくい厚い絶甲 
+---------------------------------------------------------
+[0468]
+Rank:3　電撃を通しにくい厚い絶甲 
+---------------------------------------------------------
+[0469]
+Rank:4　神機の放電能力を高める絶甲 
+---------------------------------------------------------
+[0470]
+Rank:5　神機の放電能力を高める絶甲 
+---------------------------------------------------------
+[0471]
+Rank:7　神機の放電能力を高める絶甲 
+---------------------------------------------------------
+[0472]
+Rank:8　周囲の物体から電力を集める絶甲 
+---------------------------------------------------------
+[0473]
+Rank:9　周囲の物体から電力を集める絶甲 
+---------------------------------------------------------
+[0474]
+Rank:2　冷気を吸収する機動隊用の壁甲 
+---------------------------------------------------------
+[0475]
+Rank:2　冷気を吸収する機動隊用の壁甲 
+---------------------------------------------------------
+[0476]
+Rank:3　冷気を吸収する機動隊用の壁甲 
+---------------------------------------------------------
+[0477]
+Rank:4　神機の凍結能力を高める壁甲 
+---------------------------------------------------------
+[0478]
+Rank:6　神機の凍結能力を高める壁甲 
+---------------------------------------------------------
+[0479]
+Rank:7　神機の凍結能力を高める壁甲 
+---------------------------------------------------------
+[0480]
+Rank:8　周囲の物体から熱を高速吸引する壁甲 
+---------------------------------------------------------
+[0481]
+Rank:9　周囲の物体から熱を高速吸引する壁甲 
+---------------------------------------------------------
+[0482]
+Rank:1　熱に強い鉄板のような塔甲 
+---------------------------------------------------------
+[0483]
+Rank:1　熱に強い鉄板のような塔甲 
+---------------------------------------------------------
+[0484]
+Rank:3　熱に強い鉄板のような塔甲 
+---------------------------------------------------------
+[0485]
+Rank:4　神機の放熱能力を高める塔甲 
+---------------------------------------------------------
+[0486]
+Rank:5　神機の放熱能力を高める塔甲 
+---------------------------------------------------------
+[0487]
+Rank:6　神機の放熱能力を高める塔甲 
+---------------------------------------------------------
+[0488]
+Rank:8　周囲の物体を瞬間的に加熱する塔甲 
+---------------------------------------------------------
+[0489]
+Rank:9　周囲の物体を瞬間的に加熱する塔甲 
+---------------------------------------------------------
+[0490]
+Rank:2　常人には持ち上げられない力の巨甲 
+---------------------------------------------------------
+[0491]
+Rank:4　常人には持ち上げられない力の巨甲 
+---------------------------------------------------------
+[0492]
+Rank:4　足が止まってしまうほど重い大地の巨甲 
+---------------------------------------------------------
+[0493]
+Rank:5　足が止まってしまうほど重い大地の巨甲 
+---------------------------------------------------------
+[0494]
+Rank:6　洪水を受け止めるほど重い血の巨甲 
+---------------------------------------------------------
+[0495]
+Rank:7　洪水を受け止めるほど重い血の巨甲 
+---------------------------------------------------------
+[0496]
+Rank:9　神への復讐を誓った王の巨甲 
+---------------------------------------------------------
+[0497]
+Rank:10　神への復讐を誓った王の巨甲 
+---------------------------------------------------------
+[0498]
+Rank:3　バースト時間が延長される蠍甲 
+---------------------------------------------------------
+[0499]
+Rank:4　バースト時間が延長される蠍甲 
+---------------------------------------------------------
+[0500]
+Rank:5　オラクル侵喰に大して非常に強い蠍甲 
+---------------------------------------------------------
+[0501]
+Rank:6　オラクル侵喰に大して非常に強い蠍甲 
+---------------------------------------------------------
+[0502]
+Rank:7　大抵の攻撃を耐え抜くという蠍甲 
+---------------------------------------------------------
+[0503]
+Rank:8　大抵の攻撃を耐え抜くという蠍甲 
+---------------------------------------------------------
+[0504]
+Rank:9　持つものは簡単に死ねないという蠍甲 
+---------------------------------------------------------
+[0505]
+Rank:10　持つものは簡単に死ねないという蠍甲 
+---------------------------------------------------------
+[0536]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0537]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0538]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0539]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0540]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0541]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0542]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0543]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0544]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0545]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0546]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0547]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0548]
+Rank:1　武器パーツの１つ　銃形態時に使用される　銃身 
+---------------------------------------------------------
+[0549]
+Rank:1　武器パーツの１つ　銃形態時に使用される　銃身 
+---------------------------------------------------------
+[0550]
+Rank:1　武器パーツの１つ　銃形態時に使用される　銃身 
+---------------------------------------------------------
+[0551]
+Rank:1　武器パーツの１つ　銃形態時に使用される　銃身 
+---------------------------------------------------------
+[0552]
+Rank:1　武器パーツの１つ　銃形態時に使用される　銃身 
+---------------------------------------------------------
+[0553]
+Rank:1　武器パーツの１つ　剣形態時に使用される　刀身 
+---------------------------------------------------------
+[0554]
+Rank:1　武器パーツの１つ　剣形態時に使用される　刀身 
+---------------------------------------------------------
+[0555]
+Rank:1　武器パーツの１つ　剣形態時に使用される　刀身 
+---------------------------------------------------------
+[0556]
+Rank:1　武器パーツの１つ　剣形態時に使用される　刀身 
+---------------------------------------------------------
+[0557]
+Rank:1　武器パーツの１つ　剣形態時に使用される　刀身 
+---------------------------------------------------------
+[0558]
+Rank:1　武器パーツの１つ　装甲 
+---------------------------------------------------------
+[0559]
+Rank:1　武器パーツの１つ　装甲 
+---------------------------------------------------------
+[0560]
+Rank:1　武器パーツの１つ　装甲 
+---------------------------------------------------------
+[0561]
+Rank:1　武器パーツの１つ　装甲 
+---------------------------------------------------------
+[0562]
+Rank:1　武器パーツの１つ　装甲 
+---------------------------------------------------------
+[0563]
+上半身服 
+---------------------------------------------------------
+[0564]
+上半身服 
+---------------------------------------------------------
+[0565]
+上半身服 
+---------------------------------------------------------
+[0566]
+上半身服 
+---------------------------------------------------------
+[0567]
+上半身服 
+---------------------------------------------------------
+[0568]
+上半身服 
+---------------------------------------------------------
+[0569]
+上半身服 
+---------------------------------------------------------
+[0570]
+下半身服 
+---------------------------------------------------------
+[0571]
+下半身服 
+---------------------------------------------------------
+[0572]
+下半身服 
+---------------------------------------------------------
+[0573]
+下半身服 
+---------------------------------------------------------
+[0574]
+下半身服 
+---------------------------------------------------------
+[0575]
+下半身服 
+---------------------------------------------------------
+[0576]
+下半身服 
+---------------------------------------------------------
+[0577]
+上半身服 
+---------------------------------------------------------
+[0578]
+下半身服 
+---------------------------------------------------------
+[0579]
+下半身服 
+---------------------------------------------------------
+[0580]
+下半身服 
+---------------------------------------------------------
+[0581]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0582]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0583]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0584]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0585]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0586]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0587]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0588]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0589]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0590]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0591]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0592]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0593]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0594]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0595]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0596]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0597]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0598]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0599]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0600]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0601]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0602]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0603]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0604]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0605]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0606]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0607]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0608]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0609]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0610]
+配属時に支給されるフェンリル制式の制服 
+---------------------------------------------------------
+[0751]
+Rank:2　火属性の攻撃力を強化するパーツ 
+---------------------------------------------------------
+[0752]
+Rank:2　氷属性の攻撃力を強化するパーツ 
+---------------------------------------------------------
+[0753]
+Rank:2　雷属性の攻撃力を強化するパーツ 
+---------------------------------------------------------
+[0754]
+Rank:1　切断属性に対する防御力を強化するパーツ 
+---------------------------------------------------------
+[0755]
+Rank:1　破砕属性に対する防御力を強化するパーツ 
+---------------------------------------------------------
+[0756]
+Rank:1　貫通属性に対する防御力を強化するパーツ 
+---------------------------------------------------------
+[0757]
+Rank:2　切断属性の攻撃力を強化するパーツ 
+---------------------------------------------------------
+[0758]
+Rank:2　破砕属性の攻撃力を強化するパーツ 
+---------------------------------------------------------
+[0759]
+Rank:2　貫通属性の攻撃力を強化するパーツ 
+---------------------------------------------------------
+[0760]
+Rank:2　火属性に対する防御力を強化するパーツ 
+---------------------------------------------------------
+[0761]
+Rank:2　氷属性に対する防御力を強化するパーツ 
+---------------------------------------------------------
+[0762]
+Rank:2　雷属性に対する防御力を強化するパーツ 
+---------------------------------------------------------
+[0763]
+Rank:2　エイム時のカメラ移動速度が速くなるパーツ 
+---------------------------------------------------------
+[0764]
+Rank:2　エイム時のカメラ移動速度が遅くなるパーツ 
+---------------------------------------------------------
+[0765]
+Rank:2　ガード可能範囲が拡大するパーツ 
+---------------------------------------------------------
+[0766]
+Rank:2　敵を捕捉できる時間が長くなるパーツ 
+---------------------------------------------------------
+[0767]
+Rank:2　武器の発する音を抑えるパーツ 
+---------------------------------------------------------
+[0768]
+Rank:3　リークになりにくくなるパーツ 
+---------------------------------------------------------
+[0769]
+Rank:3　スタンになりにくくなるパーツ 
+---------------------------------------------------------
+[0770]
+Rank:3　ジャミングになりにくくなるパーツ 
+---------------------------------------------------------
+[0771]
+Rank:3　ヴェノムになりにくくなるパーツ 
+---------------------------------------------------------
+[0772]
+Rank:3　アイテムの使用速度が上がるパーツ 
+---------------------------------------------------------
+[0773]
+Rank:3　空中でジャンプできるようになるパーツ 
+---------------------------------------------------------
+[0774]
+Rank:3　近接攻撃の攻撃を強化するパーツ 
+---------------------------------------------------------
+[0775]
+Rank:3　攻撃時に敵の注意を引きにくくするパーツ 
+---------------------------------------------------------
+[0777]
+Rank:3　味方をリンクエイドする能力が上がるパーツ 
+---------------------------------------------------------
+[0778]
+Rank:3　着地時の硬直が無くなるパーツ 
+---------------------------------------------------------
+[0781]
+Rank:3　味方の能力を高めるパーツ 
+---------------------------------------------------------
+[0782]
+Rank:3　回収で換金素材が手に入りやすくなるパーツ 
+---------------------------------------------------------
+[0783]
+Rank:6　コアの摘出回数が増えるパーツ 
+---------------------------------------------------------
+[0784]
+Rank:3　チャージクラッシュの攻撃力を高めるパーツ 
+---------------------------------------------------------
+[0785]
+Rank:4　火属性の攻撃力を強化するパーツ 
+---------------------------------------------------------
+[0786]
+Rank:4　氷属性の攻撃力を強化するパーツ 
+---------------------------------------------------------
+[0787]
+Rank:4　雷属性の攻撃力を強化するパーツ 
+---------------------------------------------------------
+[0788]
+Rank:4　神属性の攻撃力を強化するパーツ 
+---------------------------------------------------------
+[0789]
+Rank:4　火属性に対する防御力を強化するパーツ 
+---------------------------------------------------------
+[0790]
+Rank:4　氷属性に対する防御力を強化するパーツ 
+---------------------------------------------------------
+[0791]
+Rank:4　雷属性に対する防御力を強化するパーツ 
+---------------------------------------------------------
+[0792]
+Rank:4　神属性に対する防御力を強化するパーツ 
+---------------------------------------------------------
+[0793]
+Rank:2　体力の上限を増加させるパーツ 
+---------------------------------------------------------
+[0794]
+Rank:3　ＯＰの上限を増加させるパーツ 
+---------------------------------------------------------
+[0795]
+Rank:3　スタミナの上限を増加させるパーツ 
+---------------------------------------------------------
+[0796]
+Rank:4　捕食時のＯＰ吸収量を増加させるパーツ 
+---------------------------------------------------------
+[0797]
+Rank:4　ガード可能範囲が拡大するパーツ 
+---------------------------------------------------------
+[0798]
+Rank:5　切断属性の攻撃力を強化するパーツ 
+---------------------------------------------------------
+[0799]
+Rank:5　破砕属性の攻撃力を強化するパーツ 
+---------------------------------------------------------
+[0800]
+Rank:5　貫通属性の攻撃力を強化するパーツ 
+---------------------------------------------------------
+[0801]
+Rank:5　切断属性に対する防御力を強化するパーツ 
+---------------------------------------------------------
+[0802]
+Rank:5　破砕属性に対する防御力を強化するパーツ 
+---------------------------------------------------------
+[0803]
+Rank:5　貫通属性に対する防御力を強化するパーツ 
+---------------------------------------------------------
+[0804]
+Rank:5　弾丸系オラクルの威力が上がるパーツ 
+---------------------------------------------------------
+[0805]
+Rank:5　レーザー系オラクルの威力が上がるパーツ 
+---------------------------------------------------------
+[0806]
+Rank:5　放射系オラクルの威力が上がるパーツ 
+---------------------------------------------------------
+[0807]
+Rank:5　爆発系オラクルの威力が上がるパーツ 
+---------------------------------------------------------
+[0808]
+Rank:5　ショートブレードの攻撃力を強化するパーツ 
+---------------------------------------------------------
+[0809]
+Rank:5　ロングブレードの攻撃力を強化するパーツ 
+---------------------------------------------------------
+[0810]
+Rank:5　チャージクラッシュの溜めを短縮するパーツ 
+---------------------------------------------------------
+[0811]
+Rank:6　アイテムの使用速度が上がるパーツ 
+---------------------------------------------------------
+[0812]
+Rank:6　味方をリンクエイドする能力が上がるパーツ 
+---------------------------------------------------------
+[0815]
+Rank:6　敵を常に補足できるようになるパーツ 
+---------------------------------------------------------
+[0816]
+Rank:6　味方の能力を高めるパーツ 
+---------------------------------------------------------
+[0817]
+Rank:6　回収で換金素材が手に入りやすくなるパーツ 
+---------------------------------------------------------
+[0819]
+Rank:6　遠距離攻撃の攻撃を強化するパーツ 
+---------------------------------------------------------
+[0820]
+Rank:6　近接攻撃の攻撃を強化するパーツ 
+---------------------------------------------------------
+[0821]
+Rank:7　火・雷属性の攻撃力を強化するパーツ 
+---------------------------------------------------------
+[0822]
+Rank:7　氷・神属性の攻撃力を強化するパーツ 
+---------------------------------------------------------
+[0823]
+Rank:7　雷・氷属性の攻撃力を強化するパーツ 
+---------------------------------------------------------
+[0824]
+Rank:7　神・火属性の攻撃力を強化するパーツ 
+---------------------------------------------------------
+[0825]
+Rank:7　火・雷属性に対する防御力を強化するパーツ 
+---------------------------------------------------------
+[0826]
+Rank:7　氷・神属性に対する防御力を強化するパーツ 
+---------------------------------------------------------
+[0827]
+Rank:7　雷・氷属性に対する防御力を強化するパーツ 
+---------------------------------------------------------
+[0828]
+Rank:7　神・火属性に対する防御力を強化するパーツ 
+---------------------------------------------------------
+[0829]
+Rank:4　体力の上限を増加させるパーツ 
+---------------------------------------------------------
+[0830]
+Rank:4　ＯＰの上限を増加させるパーツ 
+---------------------------------------------------------
+[0831]
+Rank:4　スタミナの上限を増加させるパーツ 
+---------------------------------------------------------
+[0832]
+Rank:7　ガード可能範囲を拡大するパーツ 
+---------------------------------------------------------
+[0833]
+Rank:7　バースト時間を延長するパーツ 
+---------------------------------------------------------
+[0834]
+Rank:8　リークにならなくなるパーツ 
+---------------------------------------------------------
+[0835]
+Rank:8　スタンにならなくなるパーツ 
+---------------------------------------------------------
+[0836]
+Rank:8　ジャミングにならなくなるパーツ 
+---------------------------------------------------------
+[0837]
+Rank:8　ヴェノムにならなくなるパーツ 
+---------------------------------------------------------
+[0838]
+Rank:8　切断属性の攻撃力を強化するパーツ 
+---------------------------------------------------------
+[0839]
+Rank:8　破砕属性の攻撃力を強化するパーツ 
+---------------------------------------------------------
+[0840]
+Rank:8　貫通属性の攻撃力を強化するパーツ 
+---------------------------------------------------------
+[0841]
+Rank:8　切断属性に対する防御力を強化するパーツ 
+---------------------------------------------------------
+[0842]
+Rank:8　破砕属性に対する防御力を強化するパーツ 
+---------------------------------------------------------
+[0843]
+Rank:8　貫通属性に対する防御力を強化するパーツ 
+---------------------------------------------------------
+[0844]
+Rank:7　体力の上限を増加させるパーツ 
+---------------------------------------------------------
+[0845]
+Rank:8　ＯＰの上限を増加させるパーツ 
+---------------------------------------------------------
+[0846]
+Rank:8　スタミナの上限を増加させるパーツ 
+---------------------------------------------------------
+[0851]
+Rank:9　遠距離攻撃に特化したパーツ 
+---------------------------------------------------------
+[0852]
+Rank:9　戦闘指揮にまわるのに適したパーツ 
+---------------------------------------------------------
+[0853]
+Rank:9　窮地に立つと能力を発揮するパーツ 
+---------------------------------------------------------
+[0854]
+Rank:9　雑魚を蹴散らしやすくなるパーツ 
+---------------------------------------------------------
+[0855]
+Rank:9　徐々に敵を弱らせるのに適したパーツ 
+---------------------------------------------------------
+[0856]
+Rank:8　ショートブレードの攻撃力を強化するパーツ 
+---------------------------------------------------------
+[0857]
+Rank:8　ロングブレードの攻撃力を強化するパーツ 
+---------------------------------------------------------
+[0858]
+Rank:8　チャージクラッシュの溜めを短縮するパーツ 
+---------------------------------------------------------
+[0859]
+Rank:10　空中でジャンプできるようにするパーツ 
+---------------------------------------------------------
+[0860]
+Rank:10　防御力を捨てて攻撃力を強化するパーツ 
+---------------------------------------------------------
+[0861]
+Rank:10　複数の状態異常になりにくくなるパーツ 
+---------------------------------------------------------
+[0863]
+Rank:10　遠距離攻撃の攻撃力を強化するパーツ 
+---------------------------------------------------------
+[0864]
+Rank:10　近接攻撃の攻撃力を強化するパーツ 
+---------------------------------------------------------
+[0866]
+夜の町で際立つ紫のパーカー 
+---------------------------------------------------------
+[0867]
+淡いカーキの上品なパーカー 
+---------------------------------------------------------
+[0868]
+赤と黒の派手なパーカー 
+---------------------------------------------------------
+[0869]
+注目を集める人気者のパーカー 
+---------------------------------------------------------
+[0870]
+花で染色された綺麗なパーカー 
+---------------------------------------------------------
+[0871]
+落ち着いたコーヒー色のパーカー 
+---------------------------------------------------------
+[0872]
+大波を思わせるブルーのパーカー 
+---------------------------------------------------------
+[0873]
+夜の町で際立つ紫のハーフパンツ 
+---------------------------------------------------------
+[0874]
+淡いカーキの上品なハーフパンツ 
+---------------------------------------------------------
+[0875]
+赤と黒の派手なハーフパンツ 
+---------------------------------------------------------
+[0876]
+周囲の注目を集める人気者のハーフパンツ 
+---------------------------------------------------------
+[0877]
+花で染色された綺麗なハーフパンツ 
+---------------------------------------------------------
+[0878]
+落ち着いたコーヒー色のハーフパンツ 
+---------------------------------------------------------
+[0879]
+大波を思わせるブルーのハーフパンツ 
+---------------------------------------------------------
+[0894]
+ダークでシックなオトナのスーツ 
+---------------------------------------------------------
+[0895]
+パーティーで目立つクールなスーツ 
+---------------------------------------------------------
+[0896]
+異性を虜にする魅惑のスーツ 
+---------------------------------------------------------
+[0897]
+ギャンブラーに人気が高い勝負スーツ 
+---------------------------------------------------------
+[0898]
+海の底を映す美しいスーツ 
+---------------------------------------------------------
+[0899]
+熱いステージで輝くセクシーなスーツ 
+---------------------------------------------------------
+[0900]
+落ち着いた大人のスーツ 
+---------------------------------------------------------
+[0901]
+ダークでシックなオトナのスラックス 
+---------------------------------------------------------
+[0902]
+パーティーで目立つクールなスラックス 
+---------------------------------------------------------
+[0903]
+異性を虜にする魅惑のスラックス 
+---------------------------------------------------------
+[0904]
+ギャンブラーに人気が高い勝負スラックス 
+---------------------------------------------------------
+[0905]
+海の底を映す美しいスラックス 
+---------------------------------------------------------
+[0906]
+熱いステージで輝くセクシーなスラックス 
+---------------------------------------------------------
+[0907]
+落ち着いた大人のスラックス 
+---------------------------------------------------------
+[0922]
+自然に溶け込む狩人のジャケット 
+---------------------------------------------------------
+[0923]
+フリーティな色のさわやかなジャケット 
+---------------------------------------------------------
+[0924]
+市民の安全を守る警備隊のジャケット 
+---------------------------------------------------------
+[0925]
+隠密行動に適したダークなジャケット 
+---------------------------------------------------------
+[0926]
+暗闇でビビッドに光るジャケット 
+---------------------------------------------------------
+[0927]
+ハートを熱くする格闘家のジャケット 
+---------------------------------------------------------
+[0928]
+あらゆる任務をこなす遊撃隊員のジャケット 
+---------------------------------------------------------
+[0929]
+自然に溶け込む狩人のブルーマス 
+---------------------------------------------------------
+[0930]
+フリーティな色のさわやかなブルーマス 
+---------------------------------------------------------
+[0931]
+市民の安全を守る警備隊のブルーマス 
+---------------------------------------------------------
+[0932]
+隠密行動に適したダークなブルーマス 
+---------------------------------------------------------
+[0933]
+暗闇でビビッドに光るブルーマス 
+---------------------------------------------------------
+[0934]
+ハートを熱くする格闘家のブルーマス 
+---------------------------------------------------------
+[0935]
+あらゆる任務をこなす遊撃隊員のブルーマス 
+---------------------------------------------------------
+[0950]
+太陽の日を照り返すペンダント 
+---------------------------------------------------------
+[0951]
+ワルを気取る黒と赤のペンダント 
+---------------------------------------------------------
+[0952]
+大波が似合う青のペンダント 
+---------------------------------------------------------
+[0953]
+上品でオシャレな緑のペンダント 
+---------------------------------------------------------
+[0954]
+シックな雰囲気が漂うペンダント 
+---------------------------------------------------------
+[0955]
+ちょっとナンパな赤のペンダント 
+---------------------------------------------------------
+[0956]
+砂浜で煌くオレンジのペンダント 
+---------------------------------------------------------
+[0957]
+太陽の日を照り返すサーフトランクス 
+---------------------------------------------------------
+[0958]
+ワルを気取る黒と赤のサーフトランクス 
+---------------------------------------------------------
+[0959]
+大波が似合う青のサーフトランクス 
+---------------------------------------------------------
+[0960]
+上品でオシャレな緑のサーフトランクス 
+---------------------------------------------------------
+[0961]
+シックな雰囲気が漂うサーフトランクス 
+---------------------------------------------------------
+[0962]
+ちょっとナンパな赤のサーフトランクス 
+---------------------------------------------------------
+[0963]
+砂浜で煌くオレンジのサーフトランクス 
+---------------------------------------------------------
+[0964]
+悪魔のような漆黒のコート 
+---------------------------------------------------------
+[0965]
+天使のような純白のコート 
+---------------------------------------------------------
+[0966]
+貴族のための高潔なコート 
+---------------------------------------------------------
+[0967]
+紳士のための上品なコート 
+---------------------------------------------------------
+[0968]
+陰謀を覆い隠す魔性のコート 
+---------------------------------------------------------
+[0969]
+高級感を漂わせる金のコート 
+---------------------------------------------------------
+[0970]
+鮮血で染まった赤のコート 
+---------------------------------------------------------
+[0971]
+悪魔のような漆黒のニッカー 
+---------------------------------------------------------
+[0972]
+天使のような純白のニッカー 
+---------------------------------------------------------
+[0973]
+貴族のための高潔なニッカー 
+---------------------------------------------------------
+[0974]
+紳士のための上品なニッカー 
+---------------------------------------------------------
+[0975]
+陰謀を覆い隠す魔性のニッカー 
+---------------------------------------------------------
+[0976]
+高級感を漂わせる金のニッカー 
+---------------------------------------------------------
+[0977]
+鮮血で染まった赤のニッカー 
+---------------------------------------------------------
+[0998]
+美しい流水の光沢を持つベスト 
+---------------------------------------------------------
+[0999]
+町を徘徊する獣のベスト 
+---------------------------------------------------------
+[1000]
+異性を魅了する誘惑のベスト 
+---------------------------------------------------------
+[1001]
+上品でかつラフな貴族のベスト 
+---------------------------------------------------------
+[1002]
+大地の落ち着きがあるベスト 
+---------------------------------------------------------
+[1003]
+美しい果実の色のベスト 
+---------------------------------------------------------
+[1004]
+自然に溶け込んだ緑のベスト 
+---------------------------------------------------------
+[1005]
+美しい流水の光沢を持つウェザードパンツ 
+---------------------------------------------------------
+[1006]
+町を徘徊する獣のウェザードパンツ 
+---------------------------------------------------------
+[1007]
+異性を魅了する誘惑のウェザードパンツ 
+---------------------------------------------------------
+[1008]
+上品でかつラフな貴族のウェザードパンツ 
+---------------------------------------------------------
+[1009]
+大地の落ち着きがあるウェザードパンツ 
+---------------------------------------------------------
+[1010]
+美しい果実の色のウェザードパンツ 
+---------------------------------------------------------
+[1011]
+自然に溶け込んだ緑のウェザードパンツ 
+---------------------------------------------------------
+[1026]
+町で注目を集める明るいコート 
+---------------------------------------------------------
+[1027]
+甘い香りのする緑のコート 
+---------------------------------------------------------
+[1028]
+エキゾチックな雰囲気を漂わせるコート 
+---------------------------------------------------------
+[1029]
+組織の長たる者の厚いコート 
+---------------------------------------------------------
+[1030]
+季節外れのサンタクロースのコート 
+---------------------------------------------------------
+[1031]
+上品で高級感のある大人のコート 
+---------------------------------------------------------
+[1032]
+ポップな青のカワイイコート 
+---------------------------------------------------------
+[1033]
+町で注目を集める明るいサイハイ 
+---------------------------------------------------------
+[1034]
+甘い香りのする緑のサイハイ 
+---------------------------------------------------------
+[1035]
+エキゾチックな雰囲気を漂わせるサイハイ 
+---------------------------------------------------------
+[1036]
+組織の長たる者の厚いサイハイ 
+---------------------------------------------------------
+[1037]
+季節外れのサンタクロースのサイハイ 
+---------------------------------------------------------
+[1038]
+上品で高級感のある大人のサイハイ 
+---------------------------------------------------------
+[1039]
+ポップな青のカワイイサイハイ 
+---------------------------------------------------------
+[1040]
+自然の中で動きやすいレイアード 
+---------------------------------------------------------
+[1041]
+赤と黒のスポーティーなレイアード 
+---------------------------------------------------------
+[1042]
+海軍服を元にデザインされたレイアード 
+---------------------------------------------------------
+[1043]
+常に戦いに備えた兵士のレイアード 
+---------------------------------------------------------
+[1044]
+清く正しい警官隊のためのレイアード 
+---------------------------------------------------------
+[1045]
+周囲を警戒させる強者のレイアード 
+---------------------------------------------------------
+[1046]
+戦術理論に長けた軍人のレイアード 
+---------------------------------------------------------
+[1047]
+自然の中で動きやすいスリットパンツ 
+---------------------------------------------------------
+[1048]
+赤と黒のスポーティーなスリットパンツ 
+---------------------------------------------------------
+[1049]
+海軍服を元にデザインされたスリットパンツ 
+---------------------------------------------------------
+[1050]
+常に戦いに備えた兵士のスリットパンツ 
+---------------------------------------------------------
+[1051]
+清く正しい警官隊のためのスリットパンツ 
+---------------------------------------------------------
+[1052]
+周囲を警戒させる強者のスリットパンツ 
+---------------------------------------------------------
+[1053]
+戦術理論に長けた軍人のスリットパンツ 
+---------------------------------------------------------
+[1054]
+妖精の肋骨が鋭く変形した禍々しい棘 
+---------------------------------------------------------
+[1055]
+分厚く折れ曲がりにくい妖精の外骨格 
+---------------------------------------------------------
+[1056]
+弾力性が高い妖精の肝臓 
+---------------------------------------------------------
+[1058]
+妖精の背骨が鋭く変形した禍々しい長棘 
+---------------------------------------------------------
+[1061]
+金属を高密度で励起させ、安定させる流体 
+---------------------------------------------------------
+[1064]
+冷気を発生させる妖精の外骨格 
+---------------------------------------------------------
+[1065]
+熱を発生させる妖精の外骨格 
+---------------------------------------------------------
+[1067]
+帯電しやすい妖精の外骨格 
+---------------------------------------------------------
+[1069]
+アラガミ組織の加工に用いる天使の硬い牙 
+---------------------------------------------------------
+[1070]
+ブヨブヨとした伸縮性の高い天使の甲殻 
+---------------------------------------------------------
+[1074]
+ブヨブヨとした伸縮性の高い堕天使の甲殻 
+---------------------------------------------------------
+[1082]
+錐のように先端が尖った龍種の牙 
+---------------------------------------------------------
+[1083]
+龍種のしなやかな外皮組織にあたる紋鎧 
+---------------------------------------------------------
+[1084]
+軽くて丈夫な龍種のヒレ 
+---------------------------------------------------------
+[1085]
+オラクル細胞の侵喰に強い龍種の鱗 
+---------------------------------------------------------
+[1086]
+熱を帯びても形状が変わりにくい龍種の角 
+---------------------------------------------------------
+[1088]
+高熱と衝撃に強い龍種の砲門 
+---------------------------------------------------------
+[1091]
+龍種のしなやかな外皮組織にあたる大紋鎧 
+---------------------------------------------------------
+[1092]
+オラクル細胞の侵喰に強い龍種の大鱗 
+---------------------------------------------------------
+[1093]
+龍種の血が酸化して固形化した石 
+---------------------------------------------------------
+[1094]
+高熱と衝撃に強い龍種の大口径砲門 
+---------------------------------------------------------
+[1101]
+熱を帯びても形状が変わりにくい龍種の切角 
+---------------------------------------------------------
+[1104]
+高侵喰性のオラクル砲弾を撃てる龍種の砲門 
+---------------------------------------------------------
+[1105]
+様々な鉱物を溶解させる龍種の背脂 
+---------------------------------------------------------
+[1108]
+周囲の物体の熱振動をも止める堕龍種の牙 
+---------------------------------------------------------
+[1109]
+凍てつく砲弾を撃てる堕龍種の砲門 
+---------------------------------------------------------
+[1114]
+高熱を帯びやすい堕龍種の角 
+---------------------------------------------------------
+[1116]
+熱を帯びた堕龍種のしなやかな紋鎧 
+---------------------------------------------------------
+[1117]
+熱を蓄積しやすい堕龍種の鱗 
+---------------------------------------------------------
+[1118]
+堕龍種の血が酸化して固形化した石 
+---------------------------------------------------------
+[1119]
+軽くて丈夫な堕龍種のヒレ 
+---------------------------------------------------------
+[1121]
+高熱を発し続ける堕龍種の角 
+---------------------------------------------------------
+[1122]
+高熱を発し続ける堕龍種の牙 
+---------------------------------------------------------
+[1123]
+熱を吸収する堕龍種のしなやかな紋鎧 
+---------------------------------------------------------
+[1125]
+複数の堕龍血石から形成された高密度結晶体 
+---------------------------------------------------------
+[1129]
+鋼鉄をも融解させる堕龍種の牙 
+---------------------------------------------------------
+[1130]
+燃え盛る砲弾を撃てる堕龍種の砲門 
+---------------------------------------------------------
+[1137]
+冷気を吸収する禁龍種のしなやかな外皮組織 
+---------------------------------------------------------
+[1139]
+禁龍種の血が酸化して固形化した石 
+---------------------------------------------------------
+[1140]
+冷気をまとった砲弾を撃てる禁龍種の砲門 
+---------------------------------------------------------
+[1141]
+軽くて丈夫な禁龍種のヒレ 
+---------------------------------------------------------
+[1143]
+冷気を発し続ける禁龍種の角 
+---------------------------------------------------------
+[1144]
+冷気を発し続ける禁龍種の牙 
+---------------------------------------------------------
+[1146]
+冷気を吸収する禁龍種のしなやかな紋鎧 
+---------------------------------------------------------
+[1151]
+鋭く加工のしやすい悪鬼の牙 
+---------------------------------------------------------
+[1152]
+丸みを帯びている悪鬼の丈夫な頭部外骨格 
+---------------------------------------------------------
+[1153]
+般若面を思い起こさせる悪鬼の尾 
+---------------------------------------------------------
+[1154]
+複数の龍種血石から形成された高密度結晶体 
+---------------------------------------------------------
+[1155]
+複数の禁龍血石から形成された高密度結晶体 
+---------------------------------------------------------
+[1156]
+堕龍種の燃え盛る血液が発酵した液体 
+---------------------------------------------------------
+[1157]
+堕龍種の凍てつく血液が発酵した液体 
+---------------------------------------------------------
+[1159]
+触れると凍傷にかかってしまう凍鬼の牙 
+---------------------------------------------------------
+[1160]
+先端が尖った悪鬼の頭部外骨格 
+---------------------------------------------------------
+[1161]
+鋭利な刃をまとった悪鬼の尾 
+---------------------------------------------------------
+[1166]
+触れると熱傷にかかってしまう炎鬼の牙 
+---------------------------------------------------------
+[1167]
+凶暴な顔をした炎鬼の頭部組織 
+---------------------------------------------------------
+[1171]
+触れると感電してしまう雷鬼の牙 
+---------------------------------------------------------
+[1172]
+雷を呼び寄せるとされる雷鬼の角 
+---------------------------------------------------------
+[1173]
+凶悪な顔をした雷鬼の頭部組織 
+---------------------------------------------------------
+[1180]
+多くの獲物の喉を貫いてきた獣神の牙 
+---------------------------------------------------------
+[1181]
+多くの獲物の肉を切り裂いてきた獣神の爪 
+---------------------------------------------------------
+[1183]
+血染めの織物にも見える獣神の翼 
+---------------------------------------------------------
+[1184]
+非常に高い硬度を持つ獣神の頭部外骨格 
+---------------------------------------------------------
+[1185]
+獣神の体内に存在する半永久発電器官 
+---------------------------------------------------------
+[1186]
+針金のように硬い獣神の体毛 
+---------------------------------------------------------
+[1188]
+エネルギーを瞬間的に分散させる獣神の心部 
+---------------------------------------------------------
+[1189]
+百獣の喉を貫いてきた獣神の牙 
+---------------------------------------------------------
+[1191]
+獣神の血が酸化して固形化した石 
+---------------------------------------------------------
+[1192]
+帯電するようになった獣神の頭部外骨格 
+---------------------------------------------------------
+[1196]
+獣神の屈強な四肢を支える太い骨 
+---------------------------------------------------------
+[1197]
+帯電するようになった獣神の体毛 
+---------------------------------------------------------
+[1198]
+熱を瞬間的に移動させる獣神の心部 
+---------------------------------------------------------
+[1199]
+強力な放電を起こす獣神の半永久発電器官 
+---------------------------------------------------------
+[1200]
+血染めの織物にも見える獣神の大翼 
+---------------------------------------------------------
+[1202]
+獲物を引き裂き麻痺させる獣神の爪 
+---------------------------------------------------------
+[1203]
+超高電圧を帯びるようになった獣神の翼 
+---------------------------------------------------------
+[1205]
+アラガミを一撃で仕留めるという獣神の牙 
+---------------------------------------------------------
+[1210]
+冷気を広範囲に分散させる女王の心部 
+---------------------------------------------------------
+[1212]
+女王の外皮を保護する石の鎧 
+---------------------------------------------------------
+[1214]
+多くの獲物を血をすすってきた女王の牙 
+---------------------------------------------------------
+[1215]
+たくましくも美しい女王の四肢の骨 
+---------------------------------------------------------
+[1216]
+女王の外皮を保護するクリスタル状の鎧 
+---------------------------------------------------------
+[1217]
+女王の威厳を示す冠の欠片 
+---------------------------------------------------------
+[1218]
+流水を思わせる女王の翼 
+---------------------------------------------------------
+[1219]
+女王の血が酸化して固形化した石 
+---------------------------------------------------------
+[1221]
+冷気を発する女王の頭部外骨格 
+---------------------------------------------------------
+[1222]
+凍てつく流水を思わせる女王の翼 
+---------------------------------------------------------
+[1223]
+女王の威厳を示す冠 
+---------------------------------------------------------
+[1228]
+長く女王の座に君臨したアラガミの牙 
+---------------------------------------------------------
+[1234]
+長く女王の座に君臨したアラガミの冠 
+---------------------------------------------------------
+[1236]
+禍々しくうねった角を持つ帝王の頭部外骨格 
+---------------------------------------------------------
+[1237]
+一瞬で獲物を死に至らしめる帝王の爪 
+---------------------------------------------------------
+[1238]
+漆黒のオーラをまとう帝王の翼 
+---------------------------------------------------------
+[1239]
+アラガミから生気を吸い取る帝王の牙 
+---------------------------------------------------------
+[1242]
+帝王の血が酸化して固形化した石 
+---------------------------------------------------------
+[1243]
+黒く硬質化した帝王の体毛 
+---------------------------------------------------------
+[1244]
+漆黒のオーラをまとう帝王の大翼 
+---------------------------------------------------------
+[1246]
+全ての獣神の頂点に立つ帝王の冠 
+---------------------------------------------------------
+[1249]
+全ての獣神の頂点に立つ帝王の爪 
+---------------------------------------------------------
+[1253]
+全ての獣神の頂点に立つ帝王の翼 
+---------------------------------------------------------
+[1255]
+高安定性の有機金属で構成された鳥神の翼 
+---------------------------------------------------------
+[1256]
+非常に硬度が高く軽い鳥神の爪 
+---------------------------------------------------------
+[1257]
+加工の難しい繊維を結合可能な鳥神の翼節 
+---------------------------------------------------------
+[1262]
+高安定性の有機金属で構成された鳥神の大翼 
+---------------------------------------------------------
+[1263]
+非常に硬度が高く軽い鳥神の大爪 
+---------------------------------------------------------
+[1264]
+加工の難しい繊維を結合可能な鳥神の大翼節 
+---------------------------------------------------------
+[1266]
+吸血鬼を彷彿とさせる鳥神の頭部外骨格 
+---------------------------------------------------------
+[1267]
+非常に軽く強い弾性を持つ鳥神の翼の骨 
+---------------------------------------------------------
+[1269]
+瞬間的な伸縮性が高い鳥神の腱 
+---------------------------------------------------------
+[1271]
+一部の鳥神が持つより軽量化された翼 
+---------------------------------------------------------
+[1274]
+一部の鳥神が持つより軽量化された翼節 
+---------------------------------------------------------
+[1275]
+鳥神の頭部外骨格の下にある外皮組織 
+---------------------------------------------------------
+[1277]
+瞬間的な伸縮性が高い鳥神の大腱 
+---------------------------------------------------------
+[1278]
+一部の鳥神が持つより軽量化された腱 
+---------------------------------------------------------
+[1279]
+帯電しやすい堕鳥神の翼 
+---------------------------------------------------------
+[1284]
+吸血鬼を彷彿とさせる堕鳥神の頭部外骨格 
+---------------------------------------------------------
+[1286]
+堕鳥神が持つエネルギー集積砲筒 
+---------------------------------------------------------
+[1287]
+強力な電撃を発する堕鳥神の翼 
+---------------------------------------------------------
+[1290]
+コイルの役割を果たす堕鳥神の筒状の骨 
+---------------------------------------------------------
+[1295]
+高熱を帯びた禁鳥神の翼 
+---------------------------------------------------------
+[1296]
+触れる者を焼き殺すと言われる禁鳥神の爪 
+---------------------------------------------------------
+[1299]
+燃焼性の液体を内部で作り出す禁鳥神の骨 
+---------------------------------------------------------
+[1300]
+高熱を帯びた禁鳥神の冠 
+---------------------------------------------------------
+[1301]
+非常に軽く強い弾性を持つ禁鳥神の翼の骨 
+---------------------------------------------------------
+[1303]
+灼熱を帯びた禁鳥神の翼 
+---------------------------------------------------------
+[1304]
+触れる者が灰と化すと言われる禁鳥神の爪 
+---------------------------------------------------------
+[1306]
+アラガミ繊維を融解結合させる禁鳥神の翼節 
+---------------------------------------------------------
+[1307]
+融解した有機金属を作り出す禁鳥神の骨 
+---------------------------------------------------------
+[1308]
+絶対的な王の力を示すと言われる禁鳥神の冠 
+---------------------------------------------------------
+[1312]
+太くて丈夫な猿神の四肢の骨 
+---------------------------------------------------------
+[1313]
+鈍い音が鳴る猿神の小骨 
+---------------------------------------------------------
+[1314]
+柔らかい骨が通っている猿神の尾 
+---------------------------------------------------------
+[1315]
+猿神の胴部組織の欠片 
+---------------------------------------------------------
+[1316]
+断熱材として用いられる猿神の外骨格 
+---------------------------------------------------------
+[1317]
+猿神の顔を覆う厚い甲殻組織の欠片 
+---------------------------------------------------------
+[1319]
+猿神の胴体を覆う大きめの外骨格 
+---------------------------------------------------------
+[1320]
+太くて丈夫な猿神の四肢の大骨 
+---------------------------------------------------------
+[1321]
+柔らかい骨が通っている猿神の大尾 
+---------------------------------------------------------
+[1322]
+猿神の血が酸化して固形化した石 
+---------------------------------------------------------
+[1323]
+大きな音が鳴る猿神の胴部組織 
+---------------------------------------------------------
+[1325]
+大きな音が鳴る猿神の骨 
+---------------------------------------------------------
+[1326]
+猿神の胴体を覆う強靭な外骨格 
+---------------------------------------------------------
+[1328]
+弾力性の高い骨が通っている猿神の尾 
+---------------------------------------------------------
+[1332]
+禁猿神の体を覆った切断しづらい衣 
+---------------------------------------------------------
+[1335]
+禁猿神の血が酸化して固形化した石 
+---------------------------------------------------------
+[1336]
+環境変化に強い禁猿神の外皮組織 
+---------------------------------------------------------
+[1339]
+禁猿神の顔を覆う厚い甲殻組織 
+---------------------------------------------------------
+[1341]
+冷気を発する堕猿神の外骨格 
+---------------------------------------------------------
+[1342]
+太くて丈夫な堕猿神の四肢の骨 
+---------------------------------------------------------
+[1344]
+堕猿神の血が酸化して固形化した石 
+---------------------------------------------------------
+[1346]
+堕猿神の顔を覆う厚い甲殻組織 
+---------------------------------------------------------
+[1348]
+周囲を凍てつかせる堕猿神の外骨格 
+---------------------------------------------------------
+[1349]
+太くて丈夫な堕猿神の四肢の大骨 
+---------------------------------------------------------
+[1351]
+複数の堕猿血石から形成された高密度結晶体 
+---------------------------------------------------------
+[1354]
+大きな音が鳴り響く堕猿神の骨 
+---------------------------------------------------------
+[1359]
+神秘的な香りを放つ氷猿の血液 
+---------------------------------------------------------
+[1361]
+強烈な雷撃を放つという禁猿神の羽衣 
+---------------------------------------------------------
+[1362]
+常に放電し続ける禁猿神の外骨格 
+---------------------------------------------------------
+[1365]
+太くて丈夫な禁猿神の四肢の大骨 
+---------------------------------------------------------
+[1366]
+環境変化の影響を受けない禁猿神の外皮組織 
+---------------------------------------------------------
+[1367]
+複数の禁猿血石から形成された高密度結晶体 
+---------------------------------------------------------
+[1374]
+神秘的な香りを放つ禁猿神の血液 
+---------------------------------------------------------
+[1375]
+強烈な雷撃を放つという禁猿神の羽衣 
+---------------------------------------------------------
+[1376]
+気体を放出することのできる女神の羽 
+---------------------------------------------------------
+[1377]
+見かけよりも屈強な女神の脚の骨 
+---------------------------------------------------------
+[1379]
+人を惑わせる輝きを持つ女神の羽衣 
+---------------------------------------------------------
+[1381]
+非常に軽い女神の筋肉繊維 
+---------------------------------------------------------
+[1382]
+気品のある女神の冠の欠片 
+---------------------------------------------------------
+[1383]
+絹のような光沢を持つ女神の外骨格 
+---------------------------------------------------------
+[1384]
+曲げることすら難しいとされる魔神の脚の骨 
+---------------------------------------------------------
+[1386]
+気品のある艶やかな女神の冠 
+---------------------------------------------------------
+[1387]
+女神の血涙が固形化したとされる石 
+---------------------------------------------------------
+[1388]
+空気を含むことのできる女神の羽衣 
+---------------------------------------------------------
+[1391]
+人を速やかに死に至らしめる女神の毒粉 
+---------------------------------------------------------
+[1393]
+軽くてしなやかな女神の筋肉繊維 
+---------------------------------------------------------
+[1394]
+猛獣を速やかに死に至らしめる女神の毒粉 
+---------------------------------------------------------
+[1398]
+人に幻惑を見せるという魔女の羽衣 
+---------------------------------------------------------
+[1399]
+面妖なオーラをまとう魔女の冠の欠片 
+---------------------------------------------------------
+[1402]
+悪魔の目のような模様が入った魔女の翼 
+---------------------------------------------------------
+[1403]
+面妖なオーラをまとう艶やかな魔女の冠 
+---------------------------------------------------------
+[1404]
+魔女の血涙が固形化したとされる石 
+---------------------------------------------------------
+[1405]
+人に幻惑を見せるという魔女の羽衣 
+---------------------------------------------------------
+[1407]
+人を永遠の快楽へ堕とすとされる魔女の眼球 
+---------------------------------------------------------
+[1416]
+死神のようなオーラをまとう魔神の冠 
+---------------------------------------------------------
+[1418]
+人の自我を奪い去るという魔神の毒粉 
+---------------------------------------------------------
+[1419]
+気体を放出することのできる魔神の羽 
+---------------------------------------------------------
+[1420]
+目が合った者に死を見せるという魔神の眼球 
+---------------------------------------------------------
+[1422]
+人を闇で包み込むとされる魔神の羽衣 
+---------------------------------------------------------
+[1423]
+見た者が恐怖し動けなくなる魔神の翼 
+---------------------------------------------------------
+[1425]
+魔神の血涙が固形化したとされる石 
+---------------------------------------------------------
+[1426]
+複数の魔神血石から形成された高密度結晶体 
+---------------------------------------------------------
+[1429]
+非常に大きく重い騎士の針の欠片 
+---------------------------------------------------------
+[1430]
+ダイヤモンドより硬い騎士の小盾 
+---------------------------------------------------------
+[1431]
+斬撃に対して非常に強い騎士の外骨格 
+---------------------------------------------------------
+[1432]
+フレキシブルで加工しやすい騎士の尾 
+---------------------------------------------------------
+[1433]
+非常に大きく重い騎士の針 
+---------------------------------------------------------
+[1434]
+ダイヤモンドより硬い騎士の盾 
+---------------------------------------------------------
+[1437]
+アラガミの関節部に溜まる潤滑油 
+---------------------------------------------------------
+[1438]
+非常に柔軟性のある騎士の内骨格 
+---------------------------------------------------------
+[1439]
+鋼鉄を溶かすという炎騎士の針の欠片 
+---------------------------------------------------------
+[1440]
+熱でさらに硬質化した炎騎士の盾 
+---------------------------------------------------------
+[1443]
+鋼鉄を溶かすという炎騎士の針 
+---------------------------------------------------------
+[1444]
+騎士の関節部に溜まっている上質な潤滑油 
+---------------------------------------------------------
+[1445]
+灼熱をまとった炎騎士の外骨格 
+---------------------------------------------------------
+[1446]
+騎士の血が酸化して固形化した石 
+---------------------------------------------------------
+[1447]
+高熱をまとった炎騎士の外骨格 
+---------------------------------------------------------
+[1448]
+炎騎士の血が酸化して固形化した石 
+---------------------------------------------------------
+[1449]
+フレキシブルで加工しやすい炎騎士の尾 
+---------------------------------------------------------
+[1455]
+触れたものを粉砕する雷騎士の針の欠片 
+---------------------------------------------------------
+[1456]
+複数の炎騎血石から形成された高密度結晶体 
+---------------------------------------------------------
+[1458]
+結合力が高められた雷騎士の盾 
+---------------------------------------------------------
+[1459]
+非常に柔軟性のある雷騎士の内骨格 
+---------------------------------------------------------
+[1460]
+触れたものを粉砕する雷騎士の針 
+---------------------------------------------------------
+[1461]
+結合力が高められた雷騎士の外骨格 
+---------------------------------------------------------
+[1462]
+雷騎士の血が酸化して固形化した石 
+---------------------------------------------------------
+[1464]
+強力な放電をし続ける雷騎士の盾 
+---------------------------------------------------------
+[1465]
+雷騎士の針に溜まるとされる刺激の強い液体 
+---------------------------------------------------------
+[1466]
+フレキシブルで加工しやすい雷騎士の尾 
+---------------------------------------------------------
+[1469]
+複数の雷騎血石から形成された高密度結晶体 
+---------------------------------------------------------
+[1470]
+結合力が高められた雷騎士の大外骨格 
+---------------------------------------------------------
+[1472]
+突いた場所に雷が落ちるという雷騎士の針 
+---------------------------------------------------------
+[1473]
+熱を通しにくい戦王の装甲 
+---------------------------------------------------------
+[1475]
+衝撃を振動に変え外に逃がす戦王の防御器官 
+---------------------------------------------------------
+[1476]
+戦王の高速駆動を可能にする潤滑油 
+---------------------------------------------------------
+[1477]
+ミサイルを瞬時に成型できる穴の開いた器官 
+---------------------------------------------------------
+[1478]
+有機的に組み変わる戦王のローラーチェーン 
+---------------------------------------------------------
+[1479]
+戦王の巨体を維持する高密度の骨組み 
+---------------------------------------------------------
+[1480]
+遠距離から生態反応を捉える感覚器官 
+---------------------------------------------------------
+[1481]
+さらに広範囲の生体反応を捉える感覚器官 
+---------------------------------------------------------
+[1483]
+戦王の指令部位と思われる骸骨風の器官 
+---------------------------------------------------------
+[1485]
+熱に対して極めて強い戦王の装甲 
+---------------------------------------------------------
+[1486]
+斬撃を通しにくい戦王の外骨格 
+---------------------------------------------------------
+[1491]
+神経系が特に発達した戦王の頭部器官 
+---------------------------------------------------------
+[1492]
+より衝撃を逃がしやすい戦王の防御器官 
+---------------------------------------------------------
+[1493]
+戦王の腹に埋め込まれた非常に固い鉱石 
+---------------------------------------------------------
+[1499]
+純度が高めの戦王の潤滑油 
+---------------------------------------------------------
+[1503]
+熱と衝撃に対して強くなった戦王の装甲 
+---------------------------------------------------------
+[1504]
+長い戦いを経て鍛えられた戦王の外骨格 
+---------------------------------------------------------
+[1506]
+衝撃に強くなった戦王のローラーチェーン 
+---------------------------------------------------------
+[1507]
+非常に純度の高い戦王の潤滑油 
+---------------------------------------------------------
+[1508]
+高密度ミサイルを成型できる戦王の器官 
+---------------------------------------------------------
+[1511]
+冷気に強い堕王の装甲 
+---------------------------------------------------------
+[1513]
+冷却ミサイルを瞬時に成型できる器官 
+---------------------------------------------------------
+[1515]
+堕王の指令部位と思われる骸骨風の器官 
+---------------------------------------------------------
+[1517]
+冷却機能を兼ね備えた堕王の潤滑油 
+---------------------------------------------------------
+[1518]
+氷結ミサイルを瞬時に成型できる器官 
+---------------------------------------------------------
+[1519]
+熱のこもらない堕王のローラーチェーン 
+---------------------------------------------------------
+[1520]
+冷気を無効化する堕王の装甲 
+---------------------------------------------------------
+[1523]
+冷気を発する堕王の装甲 
+---------------------------------------------------------
+[1527]
+装甲を高速冷却する堕王の潤滑油 
+---------------------------------------------------------
+[1529]
+無尽蔵に氷結ミサイルを成型できる器官 
+---------------------------------------------------------
+[1533]
+百戦錬磨の王を思わせる禁王の冠の欠片 
+---------------------------------------------------------
+[1535]
+オラクル細胞に侵喰されにくい禁王の装甲 
+---------------------------------------------------------
+[1538]
+アラガミの血で変異した禁王の潤滑油 
+---------------------------------------------------------
+[1539]
+アラガミの血で変異した禁王の潤滑油 
+---------------------------------------------------------
+[1540]
+様々な攻撃を弾き返す禁王の装甲 
+---------------------------------------------------------
+[1541]
+年月を経て鍛えられた禁王の鎖 
+---------------------------------------------------------
+[1542]
+禁王の巨体を維持する強靭な骨組み 
+---------------------------------------------------------
+[1543]
+神の鉄槌を創りだすという禁王の砲門 
+---------------------------------------------------------
+[1544]
+百戦錬磨の王を思わせる禁王の冠 
+---------------------------------------------------------
+[1545]
+朽ちることなく残った覇王の装甲 
+---------------------------------------------------------
+[1547]
+覇王の腹に埋め込まれた異常な固さの鉱石 
+---------------------------------------------------------
+[1552]
+全ての戦を制してきた覇王の砲門 
+---------------------------------------------------------
+[1553]
+軋む覇王の装甲を動かし続ける潤滑油 
+---------------------------------------------------------
+[1554]
+怪しい白光を放つ混沌の角 
+---------------------------------------------------------
+[1556]
+怪しい白光を放つ混沌の爪 
+---------------------------------------------------------
+[1557]
+強大なエネルギーが集まる混沌の集光器官 
+---------------------------------------------------------
+[1558]
+衝撃を受け止めやすい混沌の外皮組織 
+---------------------------------------------------------
+[1559]
+虫の幼生のようにうごめく混沌の赤い苔 
+---------------------------------------------------------
+[1560]
+光を吸収して混沌角に蓄積する器官 
+---------------------------------------------------------
+[1561]
+赤く輝く混沌の複眼 
+---------------------------------------------------------
+[1565]
+強大なエネルギーが集まる堕天の集光器官 
+---------------------------------------------------------
+[1567]
+混沌の脚を通っている鋼の如き大骨 
+---------------------------------------------------------
+[1569]
+強力な雷撃を放つ混沌の角 
+---------------------------------------------------------
+[1572]
+強力な雷撃を放つ混沌の爪 
+---------------------------------------------------------
+[1574]
+強大なエネルギーが集まる混沌の放電器官 
+---------------------------------------------------------
+[1575]
+あらゆる衝撃を受け止める混沌の外皮組織 
+---------------------------------------------------------
+[1576]
+虫の幼生のようにうごめく混沌の赤い神苔 
+---------------------------------------------------------
+[1577]
+複数の混沌闇石から形成された高密度結晶体 
+---------------------------------------------------------
+[1579]
+蛇のように動く混沌の神毛 
+---------------------------------------------------------
+[1582]
+一瞬で天に召されるとされる混沌の猛毒 
+---------------------------------------------------------
+[1583]
+複数の混沌眼石から形成された高密度結晶体 
+---------------------------------------------------------
+[1585]
+禍々しい赤光を放つ堕天の角 
+---------------------------------------------------------
+[1590]
+虫の幼生のようにうごめく混沌の白い神苔 
+---------------------------------------------------------
+[1592]
+破壊しても元の形に戻る堕天の外皮組織 
+---------------------------------------------------------
+[1593]
+光を吸収して堕天神角に蓄積する器官 
+---------------------------------------------------------
+[1594]
+堕天の脚を通っている金剛石の如き大骨 
+---------------------------------------------------------
+[1597]
+堕天の複眼が結合して形成された結晶体 
+---------------------------------------------------------
+[1598]
+複数の堕天光石から形成された高密度結晶体 
+---------------------------------------------------------
+[1599]
+人を護る神の光輪の欠片 
+---------------------------------------------------------
+[1600]
+人を導く神の刀髪 
+---------------------------------------------------------
+[1602]
+人を支える神の骨 
+---------------------------------------------------------
+[1603]
+人を護る神の光輪の欠片 
+---------------------------------------------------------
+[1604]
+人を支える神の聖なる骨 
+---------------------------------------------------------
+[1605]
+人を潤す神の体液 
+---------------------------------------------------------
+[1606]
+人を覆う神の衣 
+---------------------------------------------------------
+[1610]
+人を包む神の比礼 
+---------------------------------------------------------
+[1611]
+人を覆う神の聖なる衣 
+---------------------------------------------------------
+[1612]
+人を潤す神の血液 
+---------------------------------------------------------
+[1615]
+神を支えるカミの骨 
+---------------------------------------------------------
+[1618]
+神を覆うカミの衣 
+---------------------------------------------------------
+[1619]
+神を潤すカミの体液 
+---------------------------------------------------------
+[1622]
+神を覆うカミの愚なる衣 
+---------------------------------------------------------
+[1623]
+人を紡ぐ神の刀 
+---------------------------------------------------------
+[1624]
+人を削ぐ陰陽の比礼 
+---------------------------------------------------------
+[1625]
+人を絞める陰陽の闇輪 
+---------------------------------------------------------
+[1626]
+人を切り刻む陰陽の刀髪 
+---------------------------------------------------------
+[1627]
+人を絶やす陰陽の刀 
+---------------------------------------------------------
+[1628]
+人を潰す陰陽の骨 
+---------------------------------------------------------
+[1629]
+人を剥ぐ陰陽の衣 
+---------------------------------------------------------
+[1630]
+人を枯らす陰陽の血液 
+---------------------------------------------------------
+[1633]
+陰陽を覆う計斗の衣 
+---------------------------------------------------------
+[1634]
+陰陽を潤す計斗の体液 
+---------------------------------------------------------
+[1635]
+陰陽を潤す計斗の血液 
+---------------------------------------------------------
+[1636]
+陰陽を覆う計斗の衣 
+---------------------------------------------------------
+[1637]
+アラガミの骨が砕けてできた欠片 
+---------------------------------------------------------
+[1638]
+アラガミの四肢などと思われる大きめの骨 
+---------------------------------------------------------
+[1640]
+アラガミの外骨格に多く見られる突起物 
+---------------------------------------------------------
+[1643]
+武器としても使えるアラガミの鋭利な牙 
+---------------------------------------------------------
+[1657]
+アラガミの中でも特に高い硬度の甲殻組織 
+---------------------------------------------------------
+[1658]
+丈夫なアラガミの爪 
+---------------------------------------------------------
+[1661]
+遠隔からアラガミの神経組織を刺激する器官 
+---------------------------------------------------------
+[1663]
+砲弾を瞬間的に冷却する袋状の器官 
+---------------------------------------------------------
+[1664]
+砲弾を瞬間的に加熱する袋状の器官 
+---------------------------------------------------------
+[1665]
+砲弾を瞬間的に帯電させる袋状の器官 
+---------------------------------------------------------
+[1669]
+砲弾の侵喰力を極限まで高める袋状の器官 
+---------------------------------------------------------
+[1671]
+一定条件以下で光を吸収し続ける器官 
+---------------------------------------------------------
+[1673]
+筋肉を刺激し身軽にするという器官 
+---------------------------------------------------------
+[1674]
+筋肉を刺激し身軽にするという器官 
+---------------------------------------------------------
+[1675]
+皮膚を硬質化させるという器官 
+---------------------------------------------------------
+[1676]
+皮膚を硬質化させるという器官 
+---------------------------------------------------------
+[1684]
+瞬間的に爆発を起こすという器官 
+---------------------------------------------------------
+[1685]
+瞬間的に爆発を起こすという器官 
+---------------------------------------------------------
+[1686]
+力が溢れスタミナが増強されるという器官 
+---------------------------------------------------------
+[1687]
+力が溢れスタミナが増強されるという器官 
+---------------------------------------------------------
+[1688]
+非常に丈夫な糸 
+---------------------------------------------------------
+[1690]
+様々な不純物を含有する油 
+---------------------------------------------------------
+[1691]
+帯電して電池のような働きをする石 
+---------------------------------------------------------
+[1692]
+万病に効果があると言われる生薬 
+---------------------------------------------------------
+[1693]
+薬効を得やすい食用植物 
+---------------------------------------------------------
+[1695]
+非常に細長く伸びる丈夫な糸 
+---------------------------------------------------------
+[1696]
+旧世代の軍人達が使用していた銃器 
+---------------------------------------------------------
+[1697]
+金属を加工する道具の材料となる特殊鋼 
+---------------------------------------------------------
+[1700]
+ワタの種子から採れる天然繊維 
+---------------------------------------------------------
+[1702]
+伸縮性に優れた衝撃に強い材料 
+---------------------------------------------------------
+[1703]
+旧世代の軍人達が使用していた盾 
+---------------------------------------------------------
+[1704]
+経年による風化が見られる鋼材 
+---------------------------------------------------------
+[1705]
+折れて錆び付いてしまった刀 
+---------------------------------------------------------
+[1706]
+中身が何だったのかも分からないケース 
+---------------------------------------------------------
+[1707]
+駆動部が壊れてしまったドリル 
+---------------------------------------------------------
+[1708]
+ごく一般的な力仕事に用いられる作業着 
+---------------------------------------------------------
+[1709]
+一部の含有鉱石が腐食してしまった岩 
+---------------------------------------------------------
+[1710]
+神機使いが頻繁に使用する応急箱 
+---------------------------------------------------------
+[1711]
+加工が容易なアルミニウム合金 
+---------------------------------------------------------
+[1713]
+切削工具の材料となる非常に硬い金属 
+---------------------------------------------------------
+[1714]
+かつて日本刀の材料として使用された和鋼 
+---------------------------------------------------------
+[1716]
+軽くて丈夫な安定性の高い金属 
+---------------------------------------------------------
+[1719]
+電気・磁気の変換に用いる鉄芯 
+---------------------------------------------------------
+[1720]
+高周波数の電磁波を発し続ける石の欠片 
+---------------------------------------------------------
+[1722]
+風化してしまった一般的な衣服 
+---------------------------------------------------------
+[1723]
+成型・加工が容易な合成樹脂 
+---------------------------------------------------------
+[1725]
+樹木の化石から採取された樹皮 
+---------------------------------------------------------
+[1726]
+主に合金として利用される金属鉱物 
+---------------------------------------------------------
+[1727]
+オラクル細胞を活性化させる薬草 
+---------------------------------------------------------
+[1728]
+優れた強靭性と柔軟性を併せ持つ合成繊維 
+---------------------------------------------------------
+[1729]
+現在は個体数が少ない羊の毛の加工繊維 
+---------------------------------------------------------
+[1730]
+飲むと肌がみずみずしくなると言われる水 
+---------------------------------------------------------
+[1732]
+木目の美しい木材の樹皮 
+---------------------------------------------------------
+[1733]
+主に鉄やニッケルから成る金属隕石の欠片 
+---------------------------------------------------------
+[1734]
+ガラスのような光沢を持つ石 
+---------------------------------------------------------
+[1735]
+触れると凍傷を起こす石 
+---------------------------------------------------------
+[1736]
+触れると火傷を起こす石 
+---------------------------------------------------------
+[1737]
+眩しいほどの光沢を持つ金属の欠片 
+---------------------------------------------------------
+[1739]
+美しく肌触りのよい上質な天然繊維 
+---------------------------------------------------------
+[1740]
+河川の下流で砂利の間に沈殿する金の粒 
+---------------------------------------------------------
+[1742]
+オラクル細胞の細胞質が固まった溶媒 
+---------------------------------------------------------
+[1743]
+樹木の枝などに生える小さい寄生植物 
+---------------------------------------------------------
+[1744]
+飲むと不老不死になるという苦い薬 
+---------------------------------------------------------
+[1745]
+魔よけの効果があるとされる聖なる水 
+---------------------------------------------------------
+[1746]
+昔木彫り職人が彫ったと思われる小さな木像 
+---------------------------------------------------------
+[1747]
+木材を乾燥や害虫から守る薬剤 
+---------------------------------------------------------
+[1748]
+壊れて使用できなくなった人力駆動車 
+---------------------------------------------------------
+[1749]
+人間の体内に入ると毒性を示す金属 
+---------------------------------------------------------
+[1750]
+動物の屍骸から流れ出た毒性のエキス 
+---------------------------------------------------------
+[1751]
+化学繊維に合成樹脂を塗布した皮革 
+---------------------------------------------------------
+[1752]
+フレキシブルで軟らかい鉄 
+---------------------------------------------------------
+[1753]
+航空機などにも使用される軽くて丈夫な繊維 
+---------------------------------------------------------
+[1756]
+虫の形態をとるアラガミが吐き出す丈夫な糸 
+---------------------------------------------------------
+[1757]
+弾力性・耐熱性に富む破れにくい繊維 
+---------------------------------------------------------
+[1758]
+酸化する際に強烈な光を発する金属鉱物 
+---------------------------------------------------------
+[1760]
+飲料容器や磁気テープの材料となる繊維 
+---------------------------------------------------------
+[1762]
+燃料用・潤滑用として用いられる油 
+---------------------------------------------------------
+[1763]
+暖かく伸縮性のある編み物 
+---------------------------------------------------------
+[1765]
+燃料用・潤滑用として用いられる油 
+---------------------------------------------------------
+[1767]
+主に鉄やニッケルから成る金属隕石の欠片 
+---------------------------------------------------------
+[1768]
+ガラスのような光沢を持つ高純度結晶 
+---------------------------------------------------------
+[1769]
+触れると感電を起こす高純度結晶 
+---------------------------------------------------------
+[1770]
+触れると凍傷を起こす高純度結晶 
+---------------------------------------------------------
+[1771]
+触れると火傷を起こす高純度結晶 
+---------------------------------------------------------
+[1772]
+眩しいほどの光沢を持つ金属 
+---------------------------------------------------------
+[1773]
+木目状の模様を持つ刀剣用の鋼材 
+---------------------------------------------------------
+[1775]
+装飾品・工業用品として利用される貴金属 
+---------------------------------------------------------
+[1780]
+鉄に他の金属を少量含ませた合金鋼 
+---------------------------------------------------------
+[1781]
+飲むと不老不死になるという酸っぱい薬 
+---------------------------------------------------------
+[1783]
+昔木彫り職人が彫ったと思われる木像 
+---------------------------------------------------------
+[1784]
+非常に細長く伸びる丈夫な糸の繭 
+---------------------------------------------------------
+[1785]
+旧世代の軍人達が使用していた銃器 
+---------------------------------------------------------
+[1786]
+金属を加工する道具の材料となる特殊鋼 
+---------------------------------------------------------
+[1788]
+木材を乾燥や害虫から守る薬剤 
+---------------------------------------------------------
+[1790]
+ポリエステルを材料とした保温性の高い繊維 
+---------------------------------------------------------
+[1793]
+軽くて丈夫なアルミニウム合金のケース 
+---------------------------------------------------------
+[1794]
+不純物が多く含まれた鋼材 
+---------------------------------------------------------
+[1795]
+折れてしまった普通の刀 
+---------------------------------------------------------
+[1796]
+旧世代の軍人達が使用していた盾 
+---------------------------------------------------------
+[1797]
+刃が凸凹で切削能力が弱いドリル 
+---------------------------------------------------------
+[1798]
+ごく一般的な力仕事に用いられる作業着 
+---------------------------------------------------------
+[1799]
+一部の含有鉱石が腐食してしまった岩 
+---------------------------------------------------------
+[1800]
+神機使いが頻繁に使用する応急箱 
+---------------------------------------------------------
+[1801]
+壊れて使用できなくなった人力駆動車 
+---------------------------------------------------------
+[1802]
+加工が容易なアルミニウム合金の鋼材 
+---------------------------------------------------------
+[1803]
+非常に軽量な防弾素材 
+---------------------------------------------------------
+[1804]
+切削工具の材料となる非常に硬い金属 
+---------------------------------------------------------
+[1805]
+かつて日本刀の材料として使用された和鋼 
+---------------------------------------------------------
+[1807]
+軽くて丈夫な安定性の高い金属 
+---------------------------------------------------------
+[1809]
+延ばしやすく圧力に強い鋼材 
+---------------------------------------------------------
+[1810]
+電気・磁気の変換に用いる鉄芯 
+---------------------------------------------------------
+[1811]
+人間の体内に入ると毒性を示す金属 
+---------------------------------------------------------
+[1812]
+人間の体内に入ると毒性を示す植物 
+---------------------------------------------------------
+[1813]
+革靴などに用いられる天然皮革 
+---------------------------------------------------------
+[1814]
+フレキシブルで軟らかい鉄 
+---------------------------------------------------------
+[1815]
+高周波数の電磁波を発し続ける石 
+---------------------------------------------------------
+[1816]
+ガラスを溶かして製造した繊維素材 
+---------------------------------------------------------
+[1818]
+風化してしまった一般的な衣服 
+---------------------------------------------------------
+[1820]
+装飾品・工業用品として利用される貴金属 
+---------------------------------------------------------
+[1821]
+楽器などに用いられる美しい木材の欠片 
+---------------------------------------------------------
+[1823]
+弾力性・耐熱性に富む破れにくい繊維 
+---------------------------------------------------------
+[1824]
+アラガミから吐かれた加工しやすい銀合金 
+---------------------------------------------------------
+[1825]
+樹木の化石の欠片 
+---------------------------------------------------------
+[1826]
+腐食に強くメッキとして用いられる金属 
+---------------------------------------------------------
+[1828]
+弾力性の高い丈夫な材木 
+---------------------------------------------------------
+[1830]
+現在は個体数が少ない山羊の毛の加工繊維 
+---------------------------------------------------------
+[1831]
+アラガミの脂が乳化してできたとされる液体 
+---------------------------------------------------------
+[1832]
+燃料用・潤滑用として用いられる油 
+---------------------------------------------------------
+[1833]
+木目の美しい木材 
+---------------------------------------------------------
+[1835]
+ガラスのような光沢を持つオラクル結晶 
+---------------------------------------------------------
+[1836]
+触れると感電を起こすオラクル結晶 
+---------------------------------------------------------
+[1837]
+触れると凍傷を起こすオラクル結晶 
+---------------------------------------------------------
+[1838]
+触れると火傷を起こすオラクル結晶 
+---------------------------------------------------------
+[1840]
+木目状の模様を持つ刀剣用の鋼材 
+---------------------------------------------------------
+[1841]
+美しく肌触りのよい特に上質な絹糸 
+---------------------------------------------------------
+[1842]
+装飾品・工業用品として利用される貴金属 
+---------------------------------------------------------
+[1847]
+大きく成長したヤドリギに寄生するヤドリギ 
+---------------------------------------------------------
+[1848]
+ニッケル含有量の多いクロモリ鋼 
+---------------------------------------------------------
+[1849]
+金属を捕喰し別の金属に変換するオラクル石 
+---------------------------------------------------------
+[1850]
+新陳代謝を高速化させる不思議な薬品 
+---------------------------------------------------------
+[1851]
+昔木彫り職人が彫ったと思われる立派な木像 
+---------------------------------------------------------
+[1853]
+旧世代の軍人達が使用していた銃器 
+---------------------------------------------------------
+[1854]
+金属の切削をより高速にするための特殊鋼 
+---------------------------------------------------------
+[1856]
+腐食や酸化を防止するための薬剤 
+---------------------------------------------------------
+[1858]
+コアを失ったアラガミの筋肉繊維 
+---------------------------------------------------------
+[1860]
+伸縮性に優れた衝撃に強い材料 
+---------------------------------------------------------
+[1861]
+旧世代の軍人達が使用していた盾 
+---------------------------------------------------------
+[1862]
+不純物が多く含まれた鋼材 
+---------------------------------------------------------
+[1863]
+いかにも呪われていそうな禍々しい刀 
+---------------------------------------------------------
+[1864]
+旧世代の軍人達が使用していた盾 
+---------------------------------------------------------
+[1865]
+十分に切削工具としての能力を有するドリル 
+---------------------------------------------------------
+[1866]
+ごく一般的な力仕事に用いられる作業着 
+---------------------------------------------------------
+[1867]
+一部の含有鉱石が腐食してしまった岩 
+---------------------------------------------------------
+[1868]
+神機使いが頻繁に使用する応急箱 
+---------------------------------------------------------
+[1869]
+壊れて使用できなくなった人力駆動車 
+---------------------------------------------------------
+[1870]
+透明で熱に強い工業用プラスチック 
+---------------------------------------------------------
+[1871]
+衝撃への強さを増したセラミック素材 
+---------------------------------------------------------
+[1872]
+ガスタービンなどに用いられる熱に強い合金 
+---------------------------------------------------------
+[1873]
+かつて日本刀の材料として使用された和鋼 
+---------------------------------------------------------
+[1874]
+切削工具の材料となる非常に硬い合金 
+---------------------------------------------------------
+[1875]
+軽くて丈夫な安定性の高い合金 
+---------------------------------------------------------
+[1877]
+低温条件下でも強靭性が保たれる合金 
+---------------------------------------------------------
+[1878]
+電気・磁気の変換に用いる鉄芯 
+---------------------------------------------------------
+[1879]
+人間の体内に入ると毒性を示す金属 
+---------------------------------------------------------
+[1881]
+革手袋などに用いられる毛羽立った皮革 
+---------------------------------------------------------
+[1882]
+フレキシブルで軟らかい鉄 
+---------------------------------------------------------
+[1883]
+高圧圧縮されたマナ石によって形成した水晶 
+---------------------------------------------------------
+[1884]
+衝撃に強いガラス繊維 
+---------------------------------------------------------
+[1886]
+風化してしまった一般的な衣服 
+---------------------------------------------------------
+[1888]
+装飾品・工業用品として利用される貴金属 
+---------------------------------------------------------
+[1889]
+楽器などに用いられる美しい高級木材 
+---------------------------------------------------------
+[1890]
+コアを失ったアラガミの筋肉繊維 
+---------------------------------------------------------
+[1891]
+弾力性・耐熱性に富む破れにくい繊維 
+---------------------------------------------------------
+[1894]
+鋼の耐食性を高める軟らかい金属 
+---------------------------------------------------------
+[1900]
+アラガミから吐き出された超硬度の貴金属 
+---------------------------------------------------------
+[1906]
+訓練時に使用された模擬金属 
+---------------------------------------------------------
+[1908]
+金属を捕喰し別の金属に変換するオラクル石 
+---------------------------------------------------------
+[1909]
+訓練時に使用される模擬アイテム 
+---------------------------------------------------------
+[1910]
+訓練時に使用される模擬コンバートアイテム 
+---------------------------------------------------------
+[1912]
+旧世代の軍人達が使用していた銃器 
+---------------------------------------------------------
+[1915]
+ 定期的に手入れがされていた軽めの盾 
+---------------------------------------------------------
+[1916]
+不純物が多く含まれた鋼材 
+---------------------------------------------------------
+[1917]
+時を重ねてもなお切れ味の衰えない名刀 
+---------------------------------------------------------
+[1919]
+刃が丈夫な合金で作られているドリル 
+---------------------------------------------------------
+[1920]
+ごく一般的な力仕事に用いられる作業着 
+---------------------------------------------------------
+[1921]
+一部の含有鉱石が腐食してしまった岩 
+---------------------------------------------------------
+[1922]
+神機使いが頻繁に使用する応急箱 
+---------------------------------------------------------
+[1923]
+壊れて使用できなくなった人力駆動車 
+---------------------------------------------------------
+[1924]
+透明で熱に強い工業用プラスチック 
+---------------------------------------------------------
+[1926]
+かつて日本刀の材料として使用された和鋼 
+---------------------------------------------------------
+[1927]
+タングステンとコバルトを合わせた硬い合金 
+---------------------------------------------------------
+[1934]
+風化してしまった一般的な衣服 
+---------------------------------------------------------
+[1935]
+装飾品・工業用品として利用される貴金属 
+---------------------------------------------------------
+[1938]
+最もオラクル細胞の侵喰を受けにくい鉱石 
+---------------------------------------------------------
+[1941]
+体力を少量回復する 
+---------------------------------------------------------
+[1942]
+体力を中程度回復する 
+---------------------------------------------------------
+[1943]
+体力を大幅に回復する 
+---------------------------------------------------------
+[1944]
+体力の上限を少量増加させる 
+---------------------------------------------------------
+[1945]
+体力の上限を中程度増加させる 
+---------------------------------------------------------
+[1946]
+体力の上限を大幅に増加させる 
+---------------------------------------------------------
+[1947]
+体力とスタミナの上限を大幅に増加させる 
+---------------------------------------------------------
+[1948]
+スタミナを最大値まで回復する 
+---------------------------------------------------------
+[1949]
+スタミナの上限を増加させる 
+---------------------------------------------------------
+[1950]
+スタミナの上限を中程度増加させる 
+---------------------------------------------------------
+[1951]
+３０秒間　各種行動のスタミナ消費量を抑える 
+---------------------------------------------------------
+[1952]
+９０秒間　各種行動のスタミナ消費量を抑える 
+---------------------------------------------------------
+[1953]
+体力と引き換えにスタミナ上限を増加させる 
+---------------------------------------------------------
+[1954]
+体力と引き換えにスタミナ上限を増加させる 
+---------------------------------------------------------
+[1955]
+スタミナと引き換えに体力上限を増加させる 
+---------------------------------------------------------
+[1956]
+スタミナと引き換えに体力上限を増加させる 
+---------------------------------------------------------
+[1957]
+ＯＰを回復する 
+---------------------------------------------------------
+[1958]
+ＯＰを大幅に回復する 
+---------------------------------------------------------
+[1959]
+ＯＰの上限を増加させる 
+---------------------------------------------------------
+[1960]
+ＯＰの上限を中程度増加させる 
+---------------------------------------------------------
+[1961]
+体力・スタミナ・ＯＰを少量回復する 
+---------------------------------------------------------
+[1962]
+体力・スタミナ・ＯＰを中程度回復する 
+---------------------------------------------------------
+[1963]
+体力・スタミナ・ＯＰを大幅に回復する 
+---------------------------------------------------------
+[1964]
+ヴェノムを１/２の確率で回復する 
+---------------------------------------------------------
+[1965]
+ヴェノムを確実に回復する 
+---------------------------------------------------------
+[1966]
+リークを１/２の確率で回復する 
+---------------------------------------------------------
+[1967]
+リークを確実に回復する 
+---------------------------------------------------------
+[1970]
+ジャミングを１/２の確率で回復する 
+---------------------------------------------------------
+[1971]
+ジャミングを確実に回復する 
+---------------------------------------------------------
+[1972]
+ヴェノム・ジャミング・リークを回復する 
+---------------------------------------------------------
+[1975]
+３０秒間　攻撃力がアップする 
+---------------------------------------------------------
+[1976]
+９０秒間　攻撃力がアップする 
+---------------------------------------------------------
+[1977]
+３０秒間　防御力がアップする 
+---------------------------------------------------------
+[1978]
+９０秒間　防御力がアップする 
+---------------------------------------------------------
+[1979]
+３０秒間　攻撃力がより多くアップする 
+---------------------------------------------------------
+[1980]
+９０秒間　攻撃力がより多くアップする 
+---------------------------------------------------------
+[1981]
+３０秒間　防御力がより多くアップする 
+---------------------------------------------------------
+[1982]
+９０秒間　防御力がより多くアップする 
+---------------------------------------------------------
+[1983]
+３０秒間　敵の位置を特定できるようになる 
+---------------------------------------------------------
+[1984]
+６０秒間　敵の位置を特定できるようになる 
+---------------------------------------------------------
+[1985]
+１０秒間　敵の注意を引きやすくする 
+---------------------------------------------------------
+[1986]
+１５秒間　敵の注意を引きやすくする 
+---------------------------------------------------------
+[1987]
+１０秒間　敵の注意を引きにくくする 
+---------------------------------------------------------
+[1988]
+１５秒間　敵の注意を引きにくくする 
+---------------------------------------------------------
+[1989]
+近くの敵の感覚を一時的に麻痺させる 
+---------------------------------------------------------
+[1990]
+１５秒間　体力を消費して擬似バーストする 
+---------------------------------------------------------
+[1991]
+３０秒間　体力を消費して擬似バーストする 
+---------------------------------------------------------
+[1992]
+金属の持つ毒性を中和する錠剤 
+---------------------------------------------------------
+[1993]
+様々な金属の溶媒となるアラガミの体液 
+---------------------------------------------------------
+[1994]
+Rank:10　不意打ちに強い乱戦に生きる者の弾甲 
+---------------------------------------------------------
+[1995]
+Rank:10　高い反射神経を要する達人用の殴甲 
+---------------------------------------------------------
+[1996]
+Rank:10　あらゆる攻撃を避けられるという避甲 
+---------------------------------------------------------
+[1997]
+Rank:10　仲間の士気を高めるカリスマの指甲 
+---------------------------------------------------------
+[1998]
+Rank:10　神機を自由自在に操れるようになる汎甲 
+---------------------------------------------------------
+[1999]
+Rank:10　周囲の物体から熱を高速吸引する壁甲 
+---------------------------------------------------------
+[2000]
+Rank:10　仲間にその身を捧げる者のための奉甲 
+---------------------------------------------------------
+[2001]
+Rank:10　周囲の物体から電力を集める絶甲 
+---------------------------------------------------------
+[2002]
+Rank:10　周囲の物体を瞬間的に加熱する塔甲 
+---------------------------------------------------------
+[2004]
+換金アイテム　稀に消費アイテムの素材となる 
+---------------------------------------------------------
+[2005]
+様々なハーブが詰め込まれたケース 
+---------------------------------------------------------
+[2006]
+マグネシウムが酸化し廃棄された手榴弾 
+---------------------------------------------------------
+[2007]
+外部居住区で人気のポップブランドの衣服 
+---------------------------------------------------------
+[2008]
+尉官以上の階級が身に付ける指揮官の制服 
+---------------------------------------------------------
+[2009]
+かつて心を閉ざしていた者の暗い衣服 
+---------------------------------------------------------
+[2010]
+外部居住区で人気のポップブランドの衣服 
+---------------------------------------------------------
+[2011]
+尉官以上の階級が身に付ける指揮官の制服 
+---------------------------------------------------------
+[2012]
+かつて心を閉ざしていた者の暗い衣服 
+---------------------------------------------------------
+[2013]
+ロシアの高級ブランド店のオシャレな衣服 
+---------------------------------------------------------
+[2014]
+神に破れたフェンリル軍旗 
+---------------------------------------------------------
+[2015]
+老舗オーダーメイド店のセクシーな衣服 
+---------------------------------------------------------
+[2016]
+ロシアの高級ブランド店のオシャレな衣服 
+---------------------------------------------------------
+[2018]
+老舗オーダーメイド店のセクシーな衣服 
+---------------------------------------------------------
+[2019]
+皆との思い出が詰まった純白のドレス 
+---------------------------------------------------------
+[2020]
+皆との思い出が詰まった純白のドレス 
+---------------------------------------------------------
+[2021]
+Rank:9　デバッグ用の強化パーツ 
+---------------------------------------------------------
+[2022]
+Rank:9　デバッグ用の強化パーツ 
+---------------------------------------------------------
+[2023]
+Rank:9　デバッグ用の強化パーツ 
+---------------------------------------------------------
+[2024]
+Rank:9　デバッグ用の強化パーツ 
+---------------------------------------------------------
+[2025]
+Rank:9　デバッグ用の強化パーツ 
+---------------------------------------------------------
+[2026]
+Rank:9　デバッグ用の強化パーツ 
+---------------------------------------------------------
+[2027]
+Rank:9　デバッグ用の強化パーツ 
+---------------------------------------------------------
+[2028]
+Rank:9　デバッグ用の強化パーツ 
+---------------------------------------------------------
+[2029]
+Rank:9　デバッグ用の強化パーツ 
+---------------------------------------------------------
+[2030]
+Rank:9　デバッグ用の強化パーツ 
+---------------------------------------------------------
+[2031]
+Rank:9　デバッグ用の強化パーツ 
+---------------------------------------------------------
+[2033]
+Rank:1　武器パーツの１つ　強化パーツ 
+---------------------------------------------------------
+[2034]
+Rank:1　武器パーツの１つ　強化パーツ 
+---------------------------------------------------------
+[2035]
+Rank:1　武器パーツの１つ　強化パーツ 
+---------------------------------------------------------
+[2036]
+Rank:1　武器パーツの１つ　強化パーツ 
+---------------------------------------------------------
+[2037]
+Rank:1　武器パーツの１つ　強化パーツ 
+---------------------------------------------------------
+[2038]
+Rank:1　武器パーツの１つ　強化パーツ 
+---------------------------------------------------------
+[2039]
+Rank:1　武器パーツの１つ　剣形態時に使用される　刀身 
+---------------------------------------------------------
+[2040]
+Rank:1　武器パーツの１つ　剣形態時に使用される　刀身 
+---------------------------------------------------------
+[2041]
+Rank:1　武器パーツの１つ　剣形態時に使用される　刀身 
+---------------------------------------------------------
+[2042]
+Rank:1　武器パーツの１つ　剣形態時に使用される　刀身 
+---------------------------------------------------------
+[2043]
+Rank:1　武器パーツの１つ　剣形態時に使用される　刀身 
+---------------------------------------------------------
+[2044]
+Rank:1　武器パーツの１つ　剣形態時に使用される　刀身 
+---------------------------------------------------------
+[2045]
+Rank:1　武器パーツの１つ　剣形態時に使用される　刀身 
+---------------------------------------------------------
+[2046]
+Rank:1　武器パーツの１つ　剣形態時に使用される　刀身 
+---------------------------------------------------------
+[2047]
+Rank:1　武器パーツの１つ　剣形態時に使用される　刀身 
+---------------------------------------------------------
+[2048]
+Rank:1　武器パーツの１つ　剣形態時に使用される　刀身 
+---------------------------------------------------------
+[2049]
+Rank:1　武器パーツの１つ　剣形態時に使用される　刀身 
+---------------------------------------------------------
+[2050]
+Rank:1　武器パーツの１つ　剣形態時に使用される　刀身 
+---------------------------------------------------------
+[2051]
+Rank:1　武器パーツの１つ　剣形態時に使用される　刀身 
+---------------------------------------------------------
+[2052]
+Rank:1　武器パーツの１つ　剣形態時に使用される　刀身 
+---------------------------------------------------------
+[2053]
+Rank:1　武器パーツの１つ　剣形態時に使用される　刀身 
+---------------------------------------------------------
+[2054]
+Rank:1　武器パーツの１つ　剣形態時に使用される　刀身 
+---------------------------------------------------------
+[2055]
+Rank:1　武器パーツの１つ　剣形態時に使用される　刀身 
+---------------------------------------------------------
+[2056]
+Rank:1　武器パーツの１つ　剣形態時に使用される　刀身 
+---------------------------------------------------------
+[2057]
+Rank:1　武器パーツの１つ　剣形態時に使用される　刀身 
+---------------------------------------------------------
+[2058]
+Rank:1　武器パーツの１つ　剣形態時に使用される　刀身 
+---------------------------------------------------------
+[2059]
+Rank:1　武器パーツの１つ　剣形態時に使用される　刀身 
+---------------------------------------------------------
+[2060]
+Rank:1　武器パーツの１つ　剣形態時に使用される　刀身 
+---------------------------------------------------------
+[2061]
+Rank:1　武器パーツの１つ　剣形態時に使用される　刀身 
+---------------------------------------------------------
+[2062]
+Rank:1　武器パーツの１つ　剣形態時に使用される　刀身 
+---------------------------------------------------------
+[2063]
+Rank:1　武器パーツの１つ　剣形態時に使用される　刀身 
+---------------------------------------------------------
+[2064]
+Rank:1　武器パーツの１つ　剣形態時に使用される　刀身 
+---------------------------------------------------------
+[2065]
+Rank:1　武器パーツの１つ　剣形態時に使用される　刀身 
+---------------------------------------------------------
+[2066]
+Rank:1　武器パーツの１つ　剣形態時に使用される　刀身 
+---------------------------------------------------------
+[2067]
+Rank:1　武器パーツの１つ　剣形態時に使用される　刀身 
+---------------------------------------------------------
+[2068]
+Rank:1　武器パーツの１つ　剣形態時に使用される　刀身 
+---------------------------------------------------------
+[2069]
+Rank:1　武器パーツの１つ　銃形態時に使用される　銃身 
+---------------------------------------------------------
+[2070]
+Rank:1　武器パーツの１つ　銃形態時に使用される　銃身 
+---------------------------------------------------------
+[2071]
+Rank:1　武器パーツの１つ　銃形態時に使用される　銃身 
+---------------------------------------------------------
+[2072]
+Rank:1　武器パーツの１つ　銃形態時に使用される　銃身 
+---------------------------------------------------------
+[2073]
+Rank:1　武器パーツの１つ　銃形態時に使用される　銃身 
+---------------------------------------------------------
+[2074]
+Rank:1　武器パーツの１つ　銃形態時に使用される　銃身 
+---------------------------------------------------------
+[2075]
+Rank:1　武器パーツの１つ　銃形態時に使用される　銃身 
+---------------------------------------------------------
+[2076]
+Rank:1　武器パーツの１つ　銃形態時に使用される　銃身 
+---------------------------------------------------------
+[2077]
+Rank:1　武器パーツの１つ　銃形態時に使用される　銃身 
+---------------------------------------------------------
+[2078]
+Rank:1　武器パーツの１つ　銃形態時に使用される　銃身 
+---------------------------------------------------------
+[2079]
+Rank:1　武器パーツの１つ　銃形態時に使用される　銃身 
+---------------------------------------------------------
+[2080]
+Rank:1　武器パーツの１つ　銃形態時に使用される　銃身 
+---------------------------------------------------------
+[2081]
+Rank:1　武器パーツの１つ　銃形態時に使用される　銃身 
+---------------------------------------------------------
+[2082]
+Rank:1　武器パーツの１つ　銃形態時に使用される　銃身 
+---------------------------------------------------------
+[2083]
+Rank:1　武器パーツの１つ　銃形態時に使用される　銃身 
+---------------------------------------------------------
+[2084]
+Rank:1　武器パーツの１つ　銃形態時に使用される　銃身 
+---------------------------------------------------------
+[2085]
+Rank:1　武器パーツの１つ　銃形態時に使用される　銃身 
+---------------------------------------------------------
+[2086]
+Rank:1　武器パーツの１つ　銃形態時に使用される　銃身 
+---------------------------------------------------------
+[2087]
+Rank:1　武器パーツの１つ　銃形態時に使用される　銃身 
+---------------------------------------------------------
+[2088]
+Rank:1　武器パーツの１つ　銃形態時に使用される　銃身 
+---------------------------------------------------------
+[2089]
+Rank:1　武器パーツの１つ　銃形態時に使用される　銃身 
+---------------------------------------------------------
+[2090]
+Rank:1　武器パーツの１つ　銃形態時に使用される　銃身 
+---------------------------------------------------------
+[2091]
+Rank:1　武器パーツの１つ　銃形態時に使用される　銃身 
+---------------------------------------------------------
+[2092]
+Rank:1　武器パーツの１つ　銃形態時に使用される　銃身 
+---------------------------------------------------------
+[2093]
+Rank:1　武器パーツの１つ　銃形態時に使用される　銃身 
+---------------------------------------------------------
+[2094]
+Rank:1　武器パーツの１つ　銃形態時に使用される　銃身 
+---------------------------------------------------------
+[2095]
+Rank:1　武器パーツの１つ　銃形態時に使用される　銃身 
+---------------------------------------------------------
+[2096]
+Rank:1　武器パーツの１つ　銃形態時に使用される　銃身 
+---------------------------------------------------------
+[2097]
+Rank:1　武器パーツの１つ　銃形態時に使用される　銃身 
+---------------------------------------------------------
+[2098]
+Rank:1　武器パーツの１つ　銃形態時に使用される　銃身 
+---------------------------------------------------------
+[2099]
+Rank:2　武器パーツの１つ　装甲 
+---------------------------------------------------------
+[2100]
+Rank:2　武器パーツの１つ　装甲 
+---------------------------------------------------------
+[2101]
+Rank:2　武器パーツの１つ　装甲 
+---------------------------------------------------------
+[2102]
+Rank:2　武器パーツの１つ　装甲 
+---------------------------------------------------------
+[2103]
+Rank:2　武器パーツの１つ　装甲 
+---------------------------------------------------------
+[2104]
+Rank:2　武器パーツの１つ　装甲 
+---------------------------------------------------------
+[2105]
+Rank:2　武器パーツの１つ　装甲 
+---------------------------------------------------------
+[2106]
+Rank:2　武器パーツの１つ　装甲 
+---------------------------------------------------------
+[2107]
+Rank:2　武器パーツの１つ　装甲 
+---------------------------------------------------------
+[2108]
+Rank:2　武器パーツの１つ　装甲 
+---------------------------------------------------------
+[2109]
+触れた味方の体力を回復するオラクル活性剤 
+---------------------------------------------------------
+[2110]
+触れた味方の体力を回復するオラクル活性剤 
+---------------------------------------------------------
+[2111]
+触れた敵にホールドを付与する罠 
+---------------------------------------------------------
+[2112]
+触れた敵にヴェノムを付与する罠 
+---------------------------------------------------------
+[2113]
+噛み砕かれた神機　主を失った今も光を放つ 
+---------------------------------------------------------
+[2114]
+身体に闇の宿す神蝕皇ノ外骨格 
+---------------------------------------------------------
+[2115]
+同胞の魂を堕とす神蝕皇ノ魂 
+---------------------------------------------------------
+[2116]
+風化によって砂と化した神蝕皇ノ神機 
+---------------------------------------------------------
+[2117]
+信念を貫くことを忘れた神蝕皇ノ針 
+---------------------------------------------------------
+[2118]
+Rank:4　神機使いの血が滴るという神蝕剣　[神・爆] 
+---------------------------------------------------------
+[2119]
+Rank:4　神機使いの血が滴るという神蝕銃 
+---------------------------------------------------------
+[2120]
+Rank:4　神機使いの血が滴るという神蝕甲 
+---------------------------------------------------------
+[2121]
+電撃ＰＳコラボ制服 
+---------------------------------------------------------
+[2122]
+ファミ通コラボ制服 
+---------------------------------------------------------
+[2123]
+電撃ＰＳコラボ制服 
+---------------------------------------------------------
+[2124]
+ファミ通コラボ制服 
+---------------------------------------------------------
+[2125]
+Rank:7　データ照合不能な謎の刀身パーツ　[火・弾] 
+---------------------------------------------------------
+[2126]
+Rank:7　データ照合不能な謎の銃身パーツ 
+---------------------------------------------------------
+[2127]
+Rank:7　データ照合不能な謎の装甲パーツ 
+---------------------------------------------------------
+[2128]
+歴史ある淵澤学院高校の制服 
+---------------------------------------------------------
+[2129]
+厳かな雰囲気のある黒松高等学校の制服 
+---------------------------------------------------------
+[2130]
+自由な校風のハルシオン高校の制服 
+---------------------------------------------------------
+[2131]
+気品のある八ツ手高等学校の制服 
+---------------------------------------------------------
+[2132]
+フェンリル仕官学校付属高校の制服 
+---------------------------------------------------------
+[2133]
+選ばれしエリートのためのスペシャルな制服 
+---------------------------------------------------------
+[2134]
+文武に長けた精鋭のための制服 
+---------------------------------------------------------
+[2135]
+歴史ある淵澤学院高校の制服 
+---------------------------------------------------------
+[2136]
+厳かな雰囲気のある黒松高等学校の制服 
+---------------------------------------------------------
+[2137]
+自由な校風のハルシオン高校の制服 
+---------------------------------------------------------
+[2138]
+気品のある八ツ手高等学校の制服 
+---------------------------------------------------------
+[2139]
+フェンリル仕官学校付属高校の制服 
+---------------------------------------------------------
+[2140]
+選ばれしエリートのためのスペシャルな制服 
+---------------------------------------------------------
+[2141]
+文武に長けた精鋭のための制服 
+---------------------------------------------------------
+[2142]
+Rank:7　神に復讐を誓う哀しみの剣　[火・爆] 
+---------------------------------------------------------
+[2143]
+Rank:6　様々なコアを取り込んだ万能の剣　[雷・弾] 
+---------------------------------------------------------
+[2144]
+Rank:7　悪をもって悪を征す邪悪な剣 
+---------------------------------------------------------
+[2145]
+Rank:3　哀しみの連鎖を断ち切る意思の剣　[氷・爆] 
+---------------------------------------------------------
+[2146]
+Rank:7　幾度もの改良を重ねた初期型の銃 
+---------------------------------------------------------
+[2147]
+Rank:7　悲痛な怒号をあげる嘆きの銃 
+---------------------------------------------------------
+[2148]
+Rank:7　弾丸が美しい軌道を描く洗練された銃 
+---------------------------------------------------------
+[2149]
+Rank:3　嘆きを静かなる情熱に変える理の銃 
+---------------------------------------------------------
+[2150]
+Rank:7　守るべきをも傷つける諸刃の盾 
+---------------------------------------------------------
+[2151]
+Rank:6　いくつもの死線を乗り越えた不滅の盾 
+---------------------------------------------------------
+[2152]
+Rank:7　他者を寄せ付けない拒絶の盾 
+---------------------------------------------------------
+[2153]
+Rank:3　他者の涙をすくう慈しみの盾 
+---------------------------------------------------------
+[2154]
+特殊なアラガミ装備の封印を解除するキー 
+---------------------------------------------------------
+[2155]
+Rank:7　神機使いの死霊が憑くという神蝕剣　[神・爆] 
+---------------------------------------------------------
+[2156]
+Rank:9　神機使い達の意思を受け継ぐ神蝕剣　[神・爆] 
+---------------------------------------------------------
+[2157]
+Rank:7　神機使いの死霊が憑くという神蝕銃 
+---------------------------------------------------------
+[2158]
+Rank:9　神機使い達の意思を受け継ぐ神蝕銃 
+---------------------------------------------------------
+[2159]
+Rank:7　神機使いの死霊が憑くという神蝕甲 
+---------------------------------------------------------
+[2160]
+Rank:9　神機使い達の意思を受け継ぐ神蝕甲 
+---------------------------------------------------------
+[2161]
+Rank:2　武器パーツの１つ　装甲 
+---------------------------------------------------------
+[2162]
+Rank:2　武器パーツの１つ　装甲 
+---------------------------------------------------------
+[2163]
+触れた敵に封神を付与する罠 
+---------------------------------------------------------
+[2164]
+Rank:0　武器パーツの１つ　剣形態時に使用される　刀身 
+---------------------------------------------------------
+[2165]
+Rank:0　武器パーツの１つ　剣形態時に使用される　刀身 
+---------------------------------------------------------
+[2166]
+Rank:0　武器パーツの１つ　剣形態時に使用される　刀身 
+---------------------------------------------------------
+[2167]
+Rank:0　武器パーツの１つ　剣形態時に使用される　刀身 
+---------------------------------------------------------
+[2168]
+夜の町で際立つ紫のフレアスカート 
+---------------------------------------------------------
+[2169]
+淡いカーキの上品なフレアスカート 
+---------------------------------------------------------
+[2170]
+赤と黒の派手なフレアスカート 
+---------------------------------------------------------
+[2171]
+注目を集める人気者のフレアスカート 
+---------------------------------------------------------
+[2172]
+花で染色された綺麗なフレアスカート 
+---------------------------------------------------------
+[2173]
+落ち着いたコーヒー色のフレアスカート 
+---------------------------------------------------------
+[2174]
+大波を思わせるブルーのフレアスカート 
+---------------------------------------------------------
+[2175]
+美しい流水の光沢を持つホルターネック 
+---------------------------------------------------------
+[2176]
+町を徘徊する獣のホルターネック 
+---------------------------------------------------------
+[2177]
+異性を魅了する誘惑のホルターネック 
+---------------------------------------------------------
+[2178]
+上品でかつラフな貴族のホルターネック 
+---------------------------------------------------------
+[2179]
+大地の落ち着きがあるホルターネック 
+---------------------------------------------------------
+[2180]
+美しい果実の色のホルターネック 
+---------------------------------------------------------
+[2181]
+自然に溶け込んだ緑のホルターネック 
+---------------------------------------------------------
+[2182]
+Rank:8　神に復讐を誓う哀しみの剣　[火・爆] 
+---------------------------------------------------------
+[2183]
+Rank:8　悲痛な怒号をあげる嘆きの銃 
+---------------------------------------------------------
+[2184]
+Rank:8　守るべきをも傷つける諸刃の盾 
+---------------------------------------------------------
+[2185]
+Rank:7　哀しみの連鎖を断ち切る意思の剣　[氷・爆] 
+---------------------------------------------------------
+[2186]
+Rank:7　嘆きを静かなる情熱に変える理の銃 
+---------------------------------------------------------
+[2187]
+Rank:7　他者の涙をすくう慈しみの盾 
+---------------------------------------------------------
+[2188]
+上品な輝きをもつ純白のビキニ 
+---------------------------------------------------------
+[2189]
+ちょっとオトナな漆黒のビキニ 
+---------------------------------------------------------
+[2190]
+青い波に溶け込むポップなビキニ 
+---------------------------------------------------------
+[2191]
+爽やかな緑のキュートなビキニ 
+---------------------------------------------------------
+[2192]
+エキゾチックな雰囲気が漂うビキニ 
+---------------------------------------------------------
+[2193]
+常夏に燃えるホットなビキニ 
+---------------------------------------------------------
+[2194]
+海を眩しく照らす金色のビキニ 
+---------------------------------------------------------
+[2195]
+上品な輝きをもつ純白のビキニ 
+---------------------------------------------------------
+[2196]
+ちょっとオトナな漆黒のビキニ 
+---------------------------------------------------------
+[2197]
+青い波に溶け込むポップなビキニ 
+---------------------------------------------------------
+[2198]
+爽やかな緑のキュートなビキニ 
+---------------------------------------------------------
+[2199]
+エキゾチックな雰囲気が漂うビキニ 
+---------------------------------------------------------
+[2200]
+常夏に燃えるホットなビキニ 
+---------------------------------------------------------
+[2201]
+海を眩しく照らす金色のビキニ 
+---------------------------------------------------------
+[2202]
+悪魔のような漆黒のゴシック 
+---------------------------------------------------------
+[2203]
+天使のような純白のゴシック 
+---------------------------------------------------------
+[2204]
+貴族のための高潔なゴシック 
+---------------------------------------------------------
+[2205]
+淑女のための上品なゴシック 
+---------------------------------------------------------
+[2206]
+陰謀を覆い隠す魔性のゴシック 
+---------------------------------------------------------
+[2207]
+高級感を漂わせる金のゴシック 
+---------------------------------------------------------
+[2208]
+鮮血で染まった赤のゴシック 
+---------------------------------------------------------
+[2209]
+悪魔のような漆黒のゴシック 
+---------------------------------------------------------
+[2210]
+天使のような純白のゴシック 
+---------------------------------------------------------
+[2211]
+貴族のための高潔なゴシック 
+---------------------------------------------------------
+[2212]
+淑女のための上品なゴシック 
+---------------------------------------------------------
+[2213]
+陰謀を覆い隠す魔性のゴシック 
+---------------------------------------------------------
+[2214]
+高級感を漂わせる金のゴシック 
+---------------------------------------------------------
+[2215]
+鮮血で染まった赤のゴシック 
+---------------------------------------------------------
+[2216]
+欲望に堕ちた神蝕妃ノ光輪 
+---------------------------------------------------------
+[2217]
+同胞の魂を縛る神蝕妃ノ魂 
+---------------------------------------------------------
+[2218]
+大地に降り立つ神蝕妃ノ骨 
+---------------------------------------------------------
+[2219]
+すがる人々を退ける神蝕妃ノ衣 
+---------------------------------------------------------
+[2220]
+死魂を練り固めた神蝕妃ノ人形の欠片 
+---------------------------------------------------------
+[2221]
+主の魂を貪る神蝕翁ノ魂 
+---------------------------------------------------------
+[2222]
+主を覆う黒雲の如き神蝕翁ノ鎧 
+---------------------------------------------------------
+[2223]
+主を突き上げる神蝕翁ノ角 
+---------------------------------------------------------
+[2224]
+主を見下ろす神蝕翁ノ眼 
+---------------------------------------------------------
+[2225]
+主の頭上を翔ぶ神蝕翁ノ翼 
+---------------------------------------------------------
+[2226]
+主の首を絞める神蝕翁ノ鎖 
+---------------------------------------------------------
+[2227]
+キッラキラの黄金龍ノ鱗 
+---------------------------------------------------------
+[2228]
+大地に突き刺さる地蝕神ノ骨 
+---------------------------------------------------------
+[2229]
+人の首を堕とす神蝕妃ノ刀 
+---------------------------------------------------------
+[2230]
+ピッカピカの黄金龍ノ鱗 
+---------------------------------------------------------
+[2231]
+アッツアツの黄金龍ノ石 
+---------------------------------------------------------
+[2232]
+カッチカチの黄金龍ノ鎧 
+---------------------------------------------------------
+[2233]
+プリップリの黄金龍ノヒレ 
+---------------------------------------------------------
+[2234]
+大地を覆す地蝕神ノ翼 
+---------------------------------------------------------
+[2235]
+大地を引き裂く地蝕神ノ翼節 
+---------------------------------------------------------
+[2236]
+大地を踏み荒らす地蝕神ノ腱 
+---------------------------------------------------------
+[2237]
+大地を剥がす地蝕神ノ鎧 
+---------------------------------------------------------
+[2238]
+大地を呑む地蝕神ノ魂 
+---------------------------------------------------------
+[2239]
+大海原を切り裂く海蝕神ノ鎖 
+---------------------------------------------------------
+[2240]
+大海原を枯らす海蝕神ノ鎧 
+---------------------------------------------------------
+[2241]
+大海原を呑む海蝕神ノ魂 
+---------------------------------------------------------
+[2242]
+大海原を震わす海蝕神ノ心臓 
+---------------------------------------------------------
+[2243]
+大海原を濁す海蝕神ノ体液 
+---------------------------------------------------------
+[2244]
+天を惑わす天蝕神ノ衣 
+---------------------------------------------------------
+[2245]
+天を呑む天蝕神ノ魂 
+---------------------------------------------------------
+[2246]
+天を貫く天蝕神ノ骨 
+---------------------------------------------------------
+[2247]
+天を覆う天蝕神ノ衣 
+---------------------------------------------------------
+[2248]
+天を焼き払う天蝕神ノ眼 
+---------------------------------------------------------
+[2249]
+天を閉ざす天蝕神ノ衣 
+---------------------------------------------------------
+[2250]
+天を切り裂く天蝕神ノ刃 
+---------------------------------------------------------
+[2251]
+特殊なアラガミ装備の封印を解除するキー 
+---------------------------------------------------------
+[2252]
+守るべき者を失った神蝕皇ノ盾 
+---------------------------------------------------------
+[2253]
+朽ちた身体を支える神蝕皇ノ内骨格 
+---------------------------------------------------------
+[2254]
+特殊なアラガミ装備の封印を解除するキー 
+---------------------------------------------------------
+[2255]
+特殊なアラガミ装備の封印を解除するキー 
+---------------------------------------------------------
+[2256]
+特殊なアラガミ装備の封印を解除するキー 
+---------------------------------------------------------
+[2257]
+特殊なアラガミ装備の封印を解除するキー 
+---------------------------------------------------------
+[2258]
+特殊なアラガミ装備の封印を解除するキー 
+---------------------------------------------------------
+[2259]
+特殊なアラガミ装備の封印を解除するキー
+---------------------------------------------------------
+[2260]
+Rank:2　武器パーツの１つ　強化パーツ
+---------------------------------------------------------
+[2261]
+特殊なアラガミ装備の封印を解除するキー
+---------------------------------------------------------

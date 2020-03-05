@@ -1,0 +1,59 @@
+NAMA:event_scr_text
+ENCODING:UTF-8
+CRLF:\n
+ID:
+TYPE:
+JUMLAH_STRING:0020
+===============================================================
+[00000216:00000512:00002015:00066133:00000250:00000012]
+===============================================================
+STATUS:
+TRANSLATOR:
+LAST_CHECK:
+=====================EDIT_DARI_SINI==========================
+...Memantau objek dari Fox ke Cradle sekaligus dengan
+mengembangkan Tim Penembak
+---------------------------------------------------------
+Aku menemukan Tsurugi, Pria itu disini...!
+---------------------------------------------------------
+Luka, Konfirmasi Deklarasi objek
+---------------------------------------------------------
+Apa, Orang ini...
+Seperti seekor anjing setiap kali aku disekitar sini
+---------------------------------------------------------
+Konfirmasi reaksi aragami didekat Tsurugi, Berhenti!
+---------------------------------------------------------
+Ha ha ha, aku tertidur!
+---------------------------------------------------------
+Ho!
+---------------------------------------------------------
+Aku ceroboh! Orang orang ini, Dimana! Apa?
+---------------------------------------------------------
+Spesies Aragami, banyak kelompok yang mendekati kita,
+mundur
+---------------------------------------------------------
+Jangan bodoh, apa yang akan kau
+lakukan dengan omelan atasan!
+---------------------------------------------------------
+Setiap Aragami tidak menyadari hal ini... 
+---------------------------------------------------------
+Hei, kawan!
+---------------------------------------------------------
+Akbi? Main-main... 
+---------------------------------------------------------
+Grup darat, Dikepung, Mundur!
+---------------------------------------------------------
+Sedikit lagi… ! Jika aku melewatkan kesempatan ini,
+Kapan kita akan bertemu lagi... ?!
+---------------------------------------------------------
+Tanggapan Oracle! Grup darat, Evakuasi!
+---------------------------------------------------------
+Aku menembaknya!
+---------------------------------------------------------
+Respon!
+---------------------------------------------------------
+Dengar saja apa yang dia katakan!
+Aku mundur ke titik pertemuan!
+---------------------------------------------------------
+Apa, Oracle ini! Ini... !
+---------------------------------------------------------
